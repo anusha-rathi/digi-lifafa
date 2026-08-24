@@ -34,41 +34,37 @@ export default async function ReceiverPage({
 
   markOpened(slug);
 
+  const withLove = l.lang === "hi" ? "प्यार के साथ" : "with love";
+
   return (
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">
-      <div className="rounded-2xl lf-panel px-2 py-6">
+      <div className="rounded-2xl border border-ivory-edge bg-ivory-deep/40 px-2 py-6">
         <LifafaReveal s={toEnvelope(l)} />
       </div>
 
-      <p className="mt-6 text-center text-sm text-ink-soft">
-        From {l.senderName}
+      {/* who it's from, given the weight it deserves */}
+      <p className="mt-8 text-center font-display text-3xl leading-snug text-maroon">
+        {withLove},<br />
+        {l.senderName}
       </p>
-      {l.message.trim() && (
-        <p className="mt-3 whitespace-pre-wrap rounded-xl border border-ivory-edge bg-white/70 p-5 text-center leading-relaxed text-ink">
-          {l.message}
-        </p>
-      )}
 
-      <div className="mt-8 space-y-4 rounded-xl border border-ivory-edge bg-white/70 p-5">
-        <div>
-          <p className="text-xs uppercase tracking-[0.18em] text-ink-faint">The nek</p>
-          <p className="font-display text-3xl text-maroon">₹{rupees(l.amountPaise)}</p>
-        </div>
+      <div className="mt-8 space-y-3 rounded-xl border border-ivory-edge bg-white/70 p-5 text-center">
+        <p className="font-display text-4xl text-maroon">₹{rupees(l.amountPaise)}</p>
+
+        <p className="text-[13px] leading-relaxed text-ink-soft">
+          This money was sent directly to your UPI. Please check your bank
+          account. We don&apos;t store any money on our website.
+        </p>
 
         {/* C5 — never the word "verified". We cannot check a UTR against
             anything, so we say exactly what we know: the sender wrote it down. */}
         {l.paymentMarked === "paid" && l.utr ? (
-          <p className="text-[13px] leading-relaxed text-ink-soft">
+          <p className="border-t border-ivory-edge pt-3 text-[12px] leading-relaxed text-ink-faint">
             {l.senderName} noted the reference{" "}
-            <span className="font-mono text-ink">{l.utr}</span> when sending
-            this. We haven&apos;t checked it — we have no way to.
+            <span className="font-mono text-ink-soft">{l.utr}</span>. We
+            haven&apos;t checked it — we have no way to.
           </p>
         ) : null}
-
-        <p className="border-t border-ivory-edge pt-4 text-[13px] leading-relaxed text-ink-soft">
-          This money was sent directly to your UPI — check your bank messages.
-          It never passed through this site.
-        </p>
       </div>
 
       <div className="mt-8 text-center">

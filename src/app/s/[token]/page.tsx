@@ -29,7 +29,7 @@ export default async function SenderPage({
         from your bank to theirs, and never through us.
       </p>
 
-      <div className="my-8 rounded-2xl lf-panel px-2 py-6">
+      <div className="my-8 rounded-2xl border border-ivory-edge bg-ivory-deep/40 px-2 py-6">
         <LifafaReveal s={toEnvelope(l)} startOpen />
       </div>
 

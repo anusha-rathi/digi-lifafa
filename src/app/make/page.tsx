@@ -8,10 +8,8 @@ export const metadata: Metadata = {
 };
 
 export default function Make() {
-  // The workbench is its own world — dark, so the paper and foil read the way
-  // they do on a real envelope. The rest of the site stays light.
   return (
-    <main className="flex-1 lf-stage pt-6 pb-2">
+    <main className="flex-1 pt-6 pb-2">
       <Workbench />
     </main>
   );

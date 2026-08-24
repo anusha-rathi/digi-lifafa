@@ -2,34 +2,38 @@
 
 import { useState } from "react";
 import Envelope, { type EnvelopeState } from "@/components/Envelope";
-import { COPY, type Lang } from "@/lib/design";
 
-/* The receiver's experience: it arrives sealed, front-side up with their name
-   on it. Tapping turns it over and opens it, and the notes, coin and mithai
-   land. The sender's own page reuses this to see what they built. */
+/* It arrives sealed, front-side up with their name on it. Tapping turns it
+   over and opens it. No caption naming the view — the receiver shouldn't be
+   told they're looking at "the front"; they're looking at a lifafa. */
 export default function LifafaReveal({
   s,
   startOpen = false,
+  hint,
 }: {
   s: EnvelopeState;
   startOpen?: boolean;
+  hint?: string;
 }) {
   const [open, setOpen] = useState(startOpen);
-  const t = COPY[s.lang as Lang];
 
   return (
     <div className="flex flex-col items-center">
-      <button
-        type="button"
-        onClick={() => setOpen((v) => !v)}
-        aria-expanded={open}
-        aria-label={open ? "Close the lifafa" : "Open the lifafa"}
-        className="block w-full cursor-pointer"
-      >
-        <Envelope s={s} view={open ? "open" : "front"} />
-      </button>
-      <p className="mt-1 text-[11px] tracking-[.14em] text-[#8d7461]">
-        {open ? t.capOpen : t.capFront}
+      {!open ? (
+        <button
+          type="button"
+          onClick={() => setOpen(true)}
+          aria-label="Open the lifafa"
+          className="block w-full cursor-pointer"
+        >
+          <Envelope s={s} view="front" />
+        </button>
+      ) : (
+        <Envelope s={s} view="open" zoomable />
+      )}
+
+      <p className="mt-1 text-[12px] text-ink-faint">
+        {open ? (hint ?? "tap the note, the mithai or the message to read it") : "tap to open"}
       </p>
     </div>
   );

@@ -8,40 +8,17 @@
    stores an array index — reordering these lists must not repoint a lifafa
    at a different paper. */
 
+import { PAPERS, type PaperDesign, type PatternFn } from "@/lib/patterns";
+export type { PatternFn };
+
 export type PathSpec = { d: string; f: string; s: string; w: number; fr: string };
-export type PatternFn = (lace: string, base: string) => [string, string];
-export type Design = { id: string; hi: string; en: string; f: PatternFn; frame?: boolean };
+export type Design = PaperDesign & { id: string };
 export type Palette = { id: string; name: string; base: string; flap: string; lace: string; ink: string };
 export type Texture = { id: string; hi: string; en: string; img: string; size: string };
 export type Denom = { denom: number; bg: string; hi: string; rom: string };
 export type Sweet = { id: string; hi: string; en: string; sh: PathSpec[] };
 export type Lang = "hi" | "hn" | "en";
 
-const D = (hi: string, en: string, f: PatternFn, frame?: boolean) => ({ hi, en, f, frame });
-
-const DESIGNS = [
-  D('ब्रोकेड', 'brocade jaali', (l: string, b: string) => ['repeating-linear-gradient(45deg, ' + l + '55 0 1px, transparent 1px 26px), repeating-linear-gradient(-45deg, ' + l + '55 0 1px, transparent 1px 26px), radial-gradient(circle at 13px 13px, ' + l + '77 2.4px, transparent 3.4px)', '26px 26px, 26px 26px, 26px 26px']),
-  D('बंधनी', 'bandhani dots', (l: string, b: string) => ['radial-gradient(circle at 6px 6px, ' + l + 'cc 2.2px, transparent 3px), radial-gradient(circle at 17px 17px, #ffffff77 2.2px, transparent 3px)', '22px 22px, 22px 22px']),
-  D('ज़री लहर', 'zari chevron', (l: string, b: string) => ['linear-gradient(135deg, ' + l + '66 25%, transparent 25%), linear-gradient(225deg, ' + l + '66 25%, transparent 25%), radial-gradient(circle at 10px 16px, ' + l + '99 1.8px, transparent 2.6px)', '20px 20px, 20px 20px, 20px 20px']),
-  D('मोरपंख', 'peacock eye', (l: string, b: string) => ['radial-gradient(ellipse 5px 9px at 12px 15px, ' + l + '88 60%, transparent 62%), radial-gradient(circle at 12px 15px, ' + l + 'dd 1.6px, transparent 2.4px)', '24px 30px, 24px 30px']),
-  D('जन्माष्टमी', 'Janmashtami', (l: string, b: string) => ['repeating-linear-gradient(70deg, ' + l + '44 0 2px, transparent 2px 16px), radial-gradient(ellipse 4px 8px at 14px 14px, ' + l + '99 60%, transparent 62%), radial-gradient(circle at 14px 14px, #ffffff88 1.4px, transparent 2px)', 'auto, 28px 28px, 28px 28px']),
-  D('राखी धागा', 'rakhi thread', (l: string, b: string) => ['repeating-linear-gradient(60deg, ' + l + '99 0 3px, transparent 3px 10px), radial-gradient(circle at 14px 14px, ' + l + 'aa 3px, transparent 4px)', 'auto, 28px 28px']),
-  D('तीज बेल', 'Teej vine', (l: string, b: string) => ['radial-gradient(circle at 8px 20px, ' + l + '88 3px, transparent 4px), radial-gradient(circle at 20px 8px, ' + l + '55 5px, transparent 6px), repeating-linear-gradient(90deg, ' + l + '33 0 1px, transparent 1px 28px)', '28px 28px, 28px 28px, auto']),
-  D('दिवाली के दीये', 'diya rows', (l: string, b: string) => ['radial-gradient(ellipse 7px 4px at 14px 20px, ' + l + 'aa 60%, transparent 62%), radial-gradient(circle at 14px 12px, ' + l + '66 2px, transparent 3px)', '28px 26px, 28px 26px']),
-  D('दमास्क', 'gold damask', (l: string, b: string) => ['radial-gradient(circle at 0 0, transparent 8px, ' + l + '55 8px 9px, transparent 10px), radial-gradient(circle at 20px 20px, transparent 8px, ' + l + '55 8px 9px, transparent 10px)', '20px 20px, 20px 20px']),
-  D('ईद का चाँद', 'Eid crescent', (l: string, b: string) => ['radial-gradient(circle at 9px 12px, ' + l + 'aa 6px, transparent 7px), radial-gradient(circle at 13px 12px, ' + b + ' 6px, transparent 7px), radial-gradient(circle at 22px 22px, ' + l + '99 1.4px, transparent 2px)', '26px 26px, 26px 26px, 26px 26px']),
-  D('रंगोली', 'kolam grid', (l: string, b: string) => ['radial-gradient(circle at 7px 7px, ' + l + 'bb 1.8px, transparent 2.6px), repeating-linear-gradient(45deg, ' + l + '33 0 1px, transparent 1px 14px), repeating-linear-gradient(-45deg, ' + l + '33 0 1px, transparent 1px 14px)', '14px 14px, auto, auto']),
-  D('खादी', 'khadi weave', (l: string, b: string) => ['repeating-linear-gradient(0deg, ' + l + '22 0 1px, transparent 1px 5px), repeating-linear-gradient(90deg, ' + l + '22 0 1px, transparent 1px 5px)', 'auto, auto']),
-  D('ऑर्गेंज़ा', 'organza ombré', (l: string, b: string) => ['linear-gradient(150deg, #ffffff55, transparent 55%), repeating-linear-gradient(90deg, #ffffff33 0 1px, transparent 1px 16px)', 'auto, auto']),
-  D('मुकैश', 'mukaish sparkle', (l: string, b: string) => ['radial-gradient(circle at 4px 4px, ' + l + 'cc 1.3px, transparent 2px), radial-gradient(circle at 12px 14px, ' + l + '77 1px, transparent 1.6px)', '16px 16px, 20px 24px']),
-  D('इकत', 'ikat zigzag', (l: string, b: string) => ['repeating-linear-gradient(45deg, ' + l + '44 0 4px, transparent 4px 12px), repeating-linear-gradient(-45deg, ' + l + '44 0 4px, transparent 4px 12px)', 'auto, auto']),
-  D('सादा, किनारे वाला', 'plain, ruled edge', (l: string, b: string) => ['none', 'auto'], true),
-  D('डेको पंखा', 'deco fan', (l: string, b: string) => ['repeating-radial-gradient(circle at 0 100%, transparent 0 8px, ' + l + '55 8px 9px, transparent 9px 18px)', '36px 36px']),
-  D('नॉर्डिक बिंदी', 'nordic dots', (l: string, b: string) => ['radial-gradient(circle at 9px 9px, ' + l + '99 2px, transparent 3px)', '18px 18px'], true),
-  D('पतली धारी', 'ticking stripe', (l: string, b: string) => ['repeating-linear-gradient(90deg, ' + l + '4d 0 2px, transparent 2px 11px)', 'auto']),
-  D('चारखाना', 'gingham check', (l: string, b: string) => ['repeating-linear-gradient(90deg, ' + l + '30 0 9px, transparent 9px 18px), repeating-linear-gradient(0deg, ' + l + '30 0 9px, transparent 9px 18px)', 'auto, auto']),
-  D('टेराज़ो', 'terrazzo fleck', (l: string, b: string) => ['radial-gradient(circle at 5px 8px, ' + l + '99 2px, transparent 2.8px), radial-gradient(circle at 19px 15px, #ffffff88 1.6px, transparent 2.4px), radial-gradient(circle at 11px 24px, ' + l + '66 2.6px, transparent 3.4px)', '26px 30px, 26px 30px, 26px 30px'])
-];
 
 const PALETTES = [
   { name: 'रानी गुलाबी · rani', base: '#a4123f', flap: '#8d0f36', lace: '#e8c37a', ink: '#f6dfae' },
@@ -124,16 +101,16 @@ const SALUTATIONS = ['प्रिय', 'प्यारी', 'प्यार�
 const T = {
   hi: {
     step: 'लिफ़ाफ़ा तैयार कीजिए', title: 'शगुन का लिफ़ाफ़ा', langSwap: 'Hinglish',
-    capOpen: 'खुला हुआ — आप भर रहे हैं', capBack: 'पीछे से — बंद', capFront: 'आगे से — उन्हें यही दिखेगा',
+    capOpen: 'खुला', capBack: 'पीछे से', capFront: 'आगे से',
     vOpen: 'खोलो', vBack: 'पीछे से', vFront: 'आगे से',
     total: 'नेक', undo: 'एक नोट निकालिए',
     tabs: { design: 'डिज़ाइन', colour: 'रंग', money: 'नेक', sweet: 'मिठाई', note: 'संदेश', name: 'नाम' },
     designHint: 'इक्कीस कागज़ — त्योहारों वाले और सादे भी',
-    colourHint: 'कागज़ का रंग', textureHint: 'कागज़ की बुनावट',
+    colourHint: 'रंग', textureHint: 'बुनावट',
     moneyHint: 'नोट पर टैप कीजिए, वो लिफ़ाफ़े में चला जाएगा',
     coinAdd: '₹1 का सिक्का डालिए', coinIn: 'सिक्का डल गया',
     sweetHint: 'डिब्बी में एक मिठाई रख दीजिए', desi: 'देसी', western: 'विदेशी', noSweet: 'मिठाई नहीं चाहिए',
-    occasionHint: 'मौका क्या है', messageHint: 'अपने शब्दों में', messagePlaceholder: 'जो कहना है, लिख दीजिए…',
+    occasionHint: 'मौका', messageHint: 'अपने शब्दों में लिखिए', messagePlaceholder: 'जो कहना है, लिख दीजिए…',
     nameHint: 'किसके लिए है', salHint: 'संबोधन',
     customHint: 'अपना शीर्षक लिखिए', customPlaceholder: 'जैसे — सालगिरह मुबारक',
     sealOpen: 'लिफ़ाफ़ा बंद कीजिए', sealClose: 'दोबारा खोलिए',
@@ -143,16 +120,16 @@ const T = {
   },
   hn: {
     step: 'lifafa taiyaar karo', title: 'Shagun ka Lifafa', langSwap: 'English',
-    capOpen: 'khula — aap bhar rahe ho', capBack: 'peeche se — band', capFront: 'aage se — unko yeh dikhega',
+    capOpen: 'khula', capBack: 'peeche se', capFront: 'aage se',
     vOpen: 'kholo', vBack: 'peeche se', vFront: 'aage se',
     total: 'nek', undo: 'ek note nikaalo',
-    tabs: { design: 'design', colour: 'rang', money: 'nek', sweet: 'mithai', note: 'sandesh', name: 'naam' },
+    tabs: { design: 'design', colour: 'rang', money: 'nek', sweet: 'mithai', note: 'message', name: 'naam' },
     designHint: 'ikkis kaagaz — festival wale aur simple wale bhi',
-    colourHint: 'kaagaz ka rang', textureHint: 'kaagaz ki texture',
+    colourHint: 'rang', textureHint: 'texture',
     moneyHint: 'note pe tap karo, seedha lifafe mein jaayega',
     coinAdd: '₹1 ka sikka daalo', coinIn: 'sikka daal diya',
     sweetHint: 'dabbi mein ek mithai rakh do', desi: 'desi', western: 'western', noSweet: 'mithai nahi chahiye',
-    occasionHint: 'mauka kya hai', messageHint: 'apne shabdon mein', messagePlaceholder: 'jo kehna hai likh do…',
+    occasionHint: 'occasion', messageHint: 'apne shabdon mein likho', messagePlaceholder: 'jo kehna hai likh do…',
     nameHint: 'kiske liye hai', salHint: 'kaise bulaoge',
     customHint: 'apna heading likho', customPlaceholder: 'jaise — saalgirah mubarak',
     sealOpen: 'lifafa band karo', sealClose: 'wapas kholo',
@@ -162,16 +139,16 @@ const T = {
   },
   en: {
     step: 'build the lifafa', title: 'Shagun ka Lifafa', langSwap: 'हिंदी',
-    capOpen: 'open — you are filling it', capBack: 'back — sealed shut', capFront: 'front — what they see',
+    capOpen: 'open', capBack: 'back', capFront: 'front',
     vOpen: 'open', vBack: 'back', vFront: 'front',
     total: 'the nek', undo: 'take one note out',
-    tabs: { design: 'design', colour: 'colour', money: 'nek', sweet: 'sweet', note: 'note', name: 'name' },
+    tabs: { design: 'design', colour: 'colour', money: 'nek', sweet: 'sweet', note: 'message', name: 'name' },
     designHint: 'twenty-one papers — festival ones and quiet ones',
-    colourHint: 'paper colour', textureHint: 'paper texture',
+    colourHint: 'colour', textureHint: 'texture',
     moneyHint: 'tap a note and it slips in',
     coinAdd: 'add the ₹1 coin', coinIn: 'coin is in',
     sweetHint: 'tuck one sweet into the box', desi: 'indian', western: 'western', noSweet: 'no sweet, thanks',
-    occasionHint: 'the occasion', messageHint: 'in your own words', messagePlaceholder: 'say whatever you would say…',
+    occasionHint: 'occasion', messageHint: 'in your own words', messagePlaceholder: 'say whatever you would say…',
     nameHint: 'who is it for', salHint: 'how to address them',
     customHint: 'your own heading', customPlaceholder: 'e.g. happy anniversary',
     sealOpen: 'seal the lifafa', sealClose: 'open it back up',
@@ -351,7 +328,7 @@ const SWEETS_ART = {
 /* ---- stable ids, derived once from the English names ---- */
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
-export const DESIGN_LIST: Design[] = DESIGNS.map((x) => ({ ...x, id: slug(x.en) }));
+export const DESIGN_LIST: Design[] = PAPERS.map((x) => ({ ...x, id: slug(x.en) }));
 export const PALETTE_LIST: Palette[] = PALETTES.map((p) => ({
   ...p,
   id: slug(p.name.split("\u00b7").pop() ?? p.name),
@@ -374,11 +351,19 @@ export const occasionById = (id: string | null) =>
 
 /* Compose the paper: texture layer over pattern layer over the base colour —
    exactly the order the canvas uses. */
+/* Relative luminance of the paper, so the highlight layer can flip from white
+   to a dark tint instead of disappearing on pale papers. */
+function isPale(hex: string) {
+  const n = parseInt(hex.slice(1), 16);
+  const [r, g, b] = [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+  return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 > 0.6;
+}
+
 export function paperStyle(designId: string, paletteId: string, textureId: string) {
   const pal = paletteById(paletteId);
   const des = designById(designId);
   const tex = textureById(textureId);
-  const pat = des.f(pal.lace, pal.base);
+  const pat = des.f(pal.lace, pal.base, isPale(pal.base) ? "#4a3520" : "#ffffff");
   const patImg = pat[0] === "none" ? "" : pat[0];
   const image = tex.img && patImg ? `${tex.img}, ${patImg}` : tex.img || patImg || "none";
   const size = tex.img && patImg ? `${tex.size}, ${pat[1]}` : tex.img ? tex.size : patImg ? pat[1] : "auto";

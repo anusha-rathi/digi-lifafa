@@ -52,10 +52,7 @@ export default function Home() {
       <section className="relative overflow-hidden border-b border-ivory-edge/70">
         <DriftingLifafas />
         <div className="relative mx-auto w-full max-w-3xl px-5 py-16 text-center sm:py-24">
-          <p className="text-xs uppercase tracking-[0.28em] text-marigold">
-            शगुन का लिफ़ाफ़ा
-          </p>
-          <h1 className="mx-auto mt-4 max-w-xl font-display text-4xl leading-[1.35] text-maroon sm:text-5xl sm:leading-[1.3]">
+          <h1 className="mx-auto max-w-xl font-display text-4xl leading-[1.35] text-maroon sm:text-5xl sm:leading-[1.3]">
             Send the envelope, not just the amount
           </h1>
           <p className="mx-auto mt-5 max-w-md text-base leading-relaxed text-ink-soft">
@@ -79,7 +76,7 @@ export default function Home() {
 
       {/* the object itself */}
       <section className="mx-auto w-full max-w-3xl px-5 py-16">
-        <div className="rounded-3xl lf-panel px-2 py-8">
+        <div className="rounded-3xl border border-ivory-edge bg-ivory-deep/40 px-2 py-8">
           <LifafaReveal
             s={{
               designId: "brocade-jaali",
