@@ -79,7 +79,7 @@ export default function Home() {
 
       {/* the object itself */}
       <section className="mx-auto w-full max-w-3xl px-5 py-16">
-        <div className="rounded-3xl bg-[radial-gradient(120%_80%_at_50%_-10%,#3a1a1c_0%,transparent_60%),#140c0b] px-2 py-8">
+        <div className="rounded-3xl lf-panel px-2 py-8">
           <LifafaReveal
             s={{
               designId: "brocade-jaali",

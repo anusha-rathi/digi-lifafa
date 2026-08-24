@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const NAV = [
   { href: "/make", label: "Make a lifafa" },
@@ -7,11 +10,26 @@ const NAV = [
   { href: "/contact", label: "Contact" },
 ];
 
+/* The workbench is designed against a dark ground. The chrome follows it
+   there instead of framing it in ivory, which read as broken. */
+const useDark = () => usePathname() === "/make";
+
 export function SiteHeader() {
+  const dark = useDark();
+
   return (
-    <header className="sticky top-0 z-50 border-b border-ivory-edge/70 bg-ivory/85 backdrop-blur">
+    <header
+      className={
+        dark
+          ? "sticky top-0 z-50 border-b border-[rgba(232,195,122,.16)] bg-[#140c0b]/85 backdrop-blur"
+          : "sticky top-0 z-50 border-b border-ivory-edge/70 bg-ivory/85 backdrop-blur"
+      }
+    >
       <div className="mx-auto flex w-full max-w-5xl items-center justify-between gap-4 px-5 py-3">
-        <Link href="/" className="font-display text-xl leading-none text-maroon">
+        <Link
+          href="/"
+          className={`font-display text-xl leading-none ${dark ? "text-[#f2dcae]" : "text-maroon"}`}
+        >
           डिजि लिफ़ाफ़ा
         </Link>
         <nav className="flex items-center gap-1 text-sm">
@@ -19,7 +37,11 @@ export function SiteHeader() {
             <Link
               key={n.href}
               href={n.href}
-              className="rounded-full px-3 py-1.5 text-ink-soft transition hover:bg-ivory-deep hover:text-ink"
+              className={
+                dark
+                  ? "rounded-full px-3 py-1.5 text-[#c9ab8c] transition hover:bg-white/5 hover:text-[#f6e9d6]"
+                  : "rounded-full px-3 py-1.5 text-ink-soft transition hover:bg-ivory-deep hover:text-ink"
+              }
             >
               {n.label}
             </Link>
@@ -31,6 +53,27 @@ export function SiteHeader() {
 }
 
 export function SiteFooter() {
+  const dark = useDark();
+
+  // On the workbench, the footer shrinks to the one line that must be there.
+  if (dark) {
+    return (
+      <footer className="border-t border-[rgba(232,195,122,.14)] px-5 py-7">
+        <p className="mx-auto max-w-md text-center text-[11px] leading-relaxed text-[#7c6553]">
+          Digi Lifafa does not process, hold, or transfer money. Payment happens
+          directly between two people through their own UPI apps.{" "}
+          <Link href="/terms" className="underline underline-offset-2 hover:text-[#a98d76]">
+            Terms
+          </Link>{" "}
+          ·{" "}
+          <Link href="/privacy" className="underline underline-offset-2 hover:text-[#a98d76]">
+            Privacy
+          </Link>
+        </p>
+      </footer>
+    );
+  }
+
   return (
     <footer className="mt-20 border-t border-ivory-edge/70 bg-ivory-deep/50">
       <div className="mx-auto w-full max-w-5xl px-5 py-10">

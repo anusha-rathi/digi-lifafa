@@ -169,3 +169,28 @@ body {
   .lf-fly, .lf-coin, .lf-tuck, .lf-slip, .lf-rise { animation-duration: .35s !important; }
   .lf-glint { animation: none; opacity: .45; }
 }
+
+/* The dark ground the lifafa is designed against — cream text, gold foil and
+   saturated paper all depend on it. Written as a real class because Tailwind
+   compiles `bg-[radial-gradient(...)]` to `background-color:`, which is
+   invalid for a gradient and gets dropped by the browser. */
+/* body carries it too, so a short page has no ivory gap under the fold */
+body:has(.lf-stage) {
+  background: #140c0b;
+}
+
+.lf-stage {
+  background:
+    radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
+    radial-gradient(90% 60% at 50% 110%, #2a1112 0%, transparent 55%),
+    #140c0b;
+  color: #f2e3d3;
+}
+
+/* The same ground, as an inset panel on a light page. */
+.lf-panel {
+  background:
+    radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
+    #140c0b;
+  color: #f2e3d3;
+}
