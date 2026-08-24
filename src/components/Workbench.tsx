@@ -55,6 +55,9 @@ export default function Workbench() {
 
   const [senderName, setSenderName] = useState("");
   const [vpa, setVpa] = useState("");
+  // Some lifafas are just the lifafa — cash handed over in person, or the nek
+  // sent some other way. Then there is no UPI ID, no QR and no pay screen.
+  const [noPay, setNoPay] = useState(false);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
 
@@ -159,7 +162,7 @@ export default function Workbench() {
         receiverName: name,
         salutation,
         senderName,
-        payeeVpa: vpa,
+        payeeVpa: noPay ? null : vpa,
       }),
     });
     if (!res.ok) {
@@ -194,7 +197,10 @@ export default function Workbench() {
 
   const caption =
     view === "open" ? t.capOpen : view === "back" ? t.capBack : t.capFront;
-  const ready = name.trim() && senderName.trim() && vpa.trim() && total > 0;
+  const ready =
+    name.trim() !== "" &&
+    senderName.trim() !== "" &&
+    (noPay ? true : vpa.trim() !== "" && total > 0);
 
   const vBtn = (v: View) => btn(pending === v);
 
@@ -594,9 +600,7 @@ export default function Workbench() {
         style={{ borderColor: "var(--color-ivory-edge)" }}
       >
         <div className="flex flex-col gap-[7px]">
-          <label className="text-[12.5px] text-[var(--color-ink-soft)]">
-            {lang === "hi" ? "आपका नाम" : lang === "hn" ? "aapka naam" : "your name"}
-          </label>
+          <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.senderLabel}</label>
           <input
             value={senderName}
             onChange={(e) => setSenderName(e.target.value.slice(0, 40))}
@@ -605,29 +609,45 @@ export default function Workbench() {
             style={{ borderColor: "var(--color-ivory-edge)" }}
           />
         </div>
+
         <div className="flex flex-col gap-[7px]">
-          <label className="text-[12.5px] text-[var(--color-ink-soft)]">
-            {lang === "hi" ? "उनकी UPI ID" : lang === "hn" ? "unki UPI ID" : "their UPI ID"}
-          </label>
+          <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.vpaLabel}</label>
           <input
-            value={vpa}
+            value={noPay ? "" : vpa}
+            disabled={noPay}
             onChange={(e) => setVpa(e.target.value.trim().toLowerCase())}
             placeholder="ananya@okhdfcbank"
             inputMode="email"
             autoCapitalize="none"
             autoCorrect="off"
             spellCheck={false}
-            className="rounded-[3px] border bg-white px-[13px] py-3 font-mono text-[14px] text-[var(--color-ink)] outline-none focus:border-marigold"
+            className="rounded-[3px] border bg-white px-[13px] py-3 font-mono text-[14px] text-[var(--color-ink)] outline-none focus:border-marigold disabled:bg-black/5 disabled:text-[var(--color-ink-faint)]"
             style={{ borderColor: "var(--color-ivory-edge)" }}
           />
-          <span className="text-[11px] leading-[1.5] text-[var(--color-ink-faint)]">
-            {lang === "hi"
-              ? "उनसे पूछना पड़ेगा — ढूँढने का कोई तरीका नहीं है।"
-              : lang === "hn"
-                ? "unse poochna padega — dhoondhne ka koi tareeka nahi hai."
-                : "You have to ask them — there's no way to look it up."}
-          </span>
+          {!noPay && (
+            <span className="text-[11px] leading-[1.5] text-[var(--color-ink-faint)]">
+              {t.vpaHelp}
+            </span>
+          )}
         </div>
+
+        {/* the way out of paying at all */}
+        <label className="flex cursor-pointer items-start gap-2.5 sm:col-span-2">
+          <input
+            type="checkbox"
+            checked={noPay}
+            onChange={(e) => setNoPay(e.target.checked)}
+            className="mt-0.5 h-4 w-4 shrink-0 accent-[var(--color-maroon)]"
+          />
+          <span>
+            <span className="block text-[13px] text-[var(--color-ink)]">{t.noPay}</span>
+            {noPay && (
+              <span className="mt-0.5 block text-[11.5px] leading-[1.5] text-[var(--color-ink-faint)]">
+                {t.noPayNote}
+              </span>
+            )}
+          </span>
+        </label>
       </div>
 
       {error && (

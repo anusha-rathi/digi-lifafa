@@ -34,7 +34,7 @@ function conn() {
       amount_paise    integer not null,
       notes           text not null,
       coin            integer not null default 0,
-      payee_vpa       text not null,
+      payee_vpa       text,
       design_id       text not null,
       palette_id      text not null,
       texture_id      text not null,
@@ -63,7 +63,7 @@ export type Lifafa = {
   amountPaise: number;
   notes: number[];
   coin: boolean;
-  payeeVpa: string;
+  payeeVpa: string | null;
   designId: string;
   paletteId: string;
   textureId: string;
@@ -88,7 +88,7 @@ const hydrate = (r: Row): Lifafa => ({
   amountPaise: Number(r.amount_paise),
   notes: JSON.parse(String(r.notes)) as number[],
   coin: Number(r.coin) === 1,
-  payeeVpa: String(r.payee_vpa),
+  payeeVpa: r.payee_vpa === null ? null : String(r.payee_vpa),
   designId: String(r.design_id),
   paletteId: String(r.palette_id),
   textureId: String(r.texture_id),

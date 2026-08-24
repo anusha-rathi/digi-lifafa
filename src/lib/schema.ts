@@ -59,7 +59,9 @@ export const createSchema = z
           .refine((n) => (DENOMINATIONS as readonly number[]).includes(n), "Not a note"),
       )
       .max(200),
-    payeeVpa: vpaSchema,
+    // null when the sender chose "just the lifafa" — no UPI ID, no QR,
+    // no pay screen. The lifafa is then a greeting and nothing more.
+    payeeVpa: vpaSchema.nullable().default(null),
   })
   .transform((v) => {
     const { text, removed } = cleanMessage(v.message);
@@ -70,7 +72,8 @@ export const createSchema = z
       amountPaise: totalPaise(v.notes, v.coin),
     };
   })
-  .refine((v) => v.amountPaise >= MIN_PAISE, {
+  // A nek only has to be there when there is a payment to make.
+  .refine((v) => v.payeeVpa === null || v.amountPaise >= MIN_PAISE, {
     message: "Put at least one note in — an empty lifafa isn't shagun",
     path: ["notes"],
   })

@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import LifafaReveal from "@/components/LifafaReveal";
 import { bySlug, markOpened } from "@/lib/db";
@@ -48,33 +47,26 @@ export default async function ReceiverPage({
         {l.senderName}
       </p>
 
-      <div className="mt-8 space-y-3 rounded-xl border border-ivory-edge bg-white/70 p-5 text-center">
-        <p className="font-display text-4xl text-maroon">₹{rupees(l.amountPaise)}</p>
+      {l.payeeVpa ? (
+        <div className="mt-8 space-y-3 rounded-xl border border-ivory-edge bg-white/70 p-5 text-center">
+          <p className="font-display text-4xl text-maroon">₹{rupees(l.amountPaise)}</p>
 
-        <p className="text-[13px] leading-relaxed text-ink-soft">
-          This money was sent directly to your UPI. Please check your bank
-          account. We don&apos;t store any money on our website.
-        </p>
-
-        {/* C5 — never the word "verified". We cannot check a UTR against
-            anything, so we say exactly what we know: the sender wrote it down. */}
-        {l.paymentMarked === "paid" && l.utr ? (
-          <p className="border-t border-ivory-edge pt-3 text-[12px] leading-relaxed text-ink-faint">
-            {l.senderName} noted the reference{" "}
-            <span className="font-mono text-ink-soft">{l.utr}</span>. We
-            haven&apos;t checked it — we have no way to.
+          <p className="text-[13px] leading-relaxed text-ink-soft">
+            This money was sent directly to your UPI. Please check your bank
+            account. We don&apos;t store any money on our website.
           </p>
-        ) : null}
-      </div>
 
-      <div className="mt-8 text-center">
-        <Link
-          href="/make"
-          className="inline-block rounded-full bg-maroon px-7 py-3 font-semibold text-ivory transition hover:bg-maroon-deep"
-        >
-          Make one back
-        </Link>
-      </div>
+          {/* C5 — never the word "verified". We cannot check a UTR against
+              anything, so we say exactly what we know: the sender wrote it down. */}
+          {l.paymentMarked === "paid" && l.utr ? (
+            <p className="border-t border-ivory-edge pt-3 text-[12px] leading-relaxed text-ink-faint">
+              {l.senderName} noted the reference{" "}
+              <span className="font-mono text-ink-soft">{l.utr}</span>. We
+              haven&apos;t checked it — we have no way to.
+            </p>
+          ) : null}
+        </div>
+      ) : null}
     </main>
   );
 }
