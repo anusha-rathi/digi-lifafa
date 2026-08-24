@@ -56,7 +56,7 @@ export function SiteFooter() {
           </nav>
         </div>
 
-        {/* SPEC S11 — the disclosure, in plain words, on every page */}
+        {/* SPEC S11, the disclosure, in plain words, on every page */}
         <p className="mt-9 border-t border-ivory-edge/70 pt-6 text-xs leading-relaxed text-ink-faint">
           Digi Lifafa does not process, hold, or transfer money. Payment happens
           directly between two people through their own UPI apps. We cannot

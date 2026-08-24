@@ -21,12 +21,12 @@ export default function Privacy() {
         <h2>What we store</h2>
         <p>When you make a lifafa, we store:</p>
         <ul>
-          <li>The envelope you chose — paper, colour, mithai, coin.</li>
+          <li>The envelope you chose: paper, colour, mithai, coin.</li>
           <li>The two names you typed, and the message you wrote.</li>
           <li>The occasion, or your own heading if you wrote one.</li>
           <li>The amount, and the notes that make it up.</li>
           <li>
-            The <strong>recipient&apos;s</strong> UPI ID — needed to build the
+            The <strong>recipient&apos;s</strong> UPI ID, needed to build the
             payment link.
           </li>
           <li>
@@ -41,7 +41,7 @@ export default function Privacy() {
 
         <h2>What we never collect</h2>
         <ul>
-          <li>Your name for an account — there are no accounts.</li>
+          <li>Your name for an account. There are no accounts.</li>
           <li>Your phone number or email address.</li>
           <li>
             <strong>Your own UPI ID</strong>, bank details, card details or any
@@ -56,7 +56,7 @@ export default function Privacy() {
         <p>
           When you tap to pay, your browser hands off to your UPI app. That app
           does not report back to us. We receive no confirmation, no status and
-          no transaction record — ever. If you add a reference number, that is
+          no transaction record, ever. If you add a reference number, that is
           you typing it in, not us retrieving it, and we have no way to check
           whether it is real.
         </p>

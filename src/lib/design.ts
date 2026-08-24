@@ -1,11 +1,11 @@
 /* The Lifafa Workbench design, ported from the Claude Design canvas at
-   design/Main.dc.html. The data below is the canvas's own — 21 papers,
+   design/Main.dc.html. The data below is the canvas's own, 21 papers,
    14 palettes, 5 textures, 6 note denominations, 31 mithai drawn as SVG
    paths, 10 occasions and the full hi/Hinglish/English copy. Keep this file
    and the canvas in step: the canvas is where the design gets edited.
 
    Stable string ids are derived from the English names so the database never
-   stores an array index — reordering these lists must not repoint a lifafa
+   stores an array index, reordering these lists must not repoint a lifafa
    at a different paper. */
 
 import { PAPERS, type PaperDesign, type PatternFn } from "@/lib/patterns";
@@ -58,30 +58,30 @@ const OCCASIONS = [
   { id: 'diwali', hi: 'दिवाली', en: 'Diwali', rom: 'Diwali',
     mhi: 'दिवाली की ढेर सारी शुभकामनाएँ। घर रोशनी और मिठाइयों से भरा रहे।',
     men: 'Wishing you a Diwali full of light, sweets and good luck.',
-    mrom: 'Diwali ki dher saari shubhkamnaayein — ghar roshni se bhara rahe.' },
+    mrom: 'Diwali ki dher saari shubhkamnaayein. Ghar roshni se bhara rahe.' },
   { id: 'rakhi', hi: 'रक्षाबंधन', en: 'Raksha Bandhan', rom: 'Rakhi',
     mhi: 'रक्षाबंधन मुबारक। दूर हूँ, पर ध्यान हमेशा तुम्हारा रहता है।',
-    men: 'Happy Rakhi — far away, but always looking out for you.',
+    men: 'Happy Rakhi. Far away, but always looking out for you.',
     mrom: 'Rakhi mubarak! Door hoon, par dhyaan hamesha tumhara hai.' },
   { id: 'janmashtami', hi: 'जन्माष्टमी', en: 'Janmashtami', rom: 'Janmashtami',
     mhi: 'जन्माष्टमी की शुभकामनाएँ। साल माखन-मिश्री जैसा मीठा बीते।',
-    men: 'Happy Janmashtami — may the year be as sweet as makhan-mishri.',
-    mrom: 'Janmashtami ki shubhkamnaayein — saal makhan-mishri jaisa meetha ho.' },
+    men: 'Happy Janmashtami. May the year be as sweet as makhan-mishri.',
+    mrom: 'Janmashtami ki shubhkamnaayein. Saal makhan-mishri jaisa meetha ho.' },
   { id: 'teej', hi: 'तीज', en: 'Teej', rom: 'Teej',
     mhi: 'तीज की शुभकामनाएँ। हरियाली और हँसी बनी रहे।',
-    men: 'Teej blessings — green, glad and full of song.',
-    mrom: 'Teej ki shubhkamnaayein — hariyali aur hansi bani rahe.' },
+    men: 'Teej blessings. Green, glad and full of song.',
+    mrom: 'Teej ki shubhkamnaayein. Hariyali aur hansi bani rahe.' },
   { id: 'wedding', hi: 'शादी', en: 'Wedding', rom: 'Shaadi',
     mhi: 'नई शुरुआत की बहुत-बहुत शुभकामनाएँ। हमेशा ऐसे ही खुश रहो।',
     men: 'Congratulations on the new beginning. Be happy, always.',
     mrom: 'Nayi shuruaat ki bahut shubhkamnaayein. Hamesha khush raho.' },
   { id: 'birthday', hi: 'जन्मदिन', en: 'Birthday', rom: 'Birthday',
     mhi: 'जन्मदिन मुबारक। कुछ मीठा खा लेना, हमारी तरफ़ से।',
-    men: 'Happy birthday — eat something sweet, on us.',
+    men: 'Happy birthday. Eat something sweet, on us.',
     mrom: 'Janmadin mubarak! Kuch meetha khaa lena, hamari taraf se.' },
   { id: 'eid', hi: 'ईद', en: 'Eid', rom: 'Eid',
     mhi: 'ईद मुबारक। सेवइयाँ हमारे हिस्से की भी खा लेना।',
-    men: 'Eid Mubarak — have our share of the sewai too.',
+    men: 'Eid Mubarak. Have our share of the sewai too.',
     mrom: 'Eid Mubarak! Sewaiyan hamare hisse ki bhi khaa lena.' },
   { id: 'baby', hi: 'नन्हा मेहमान', en: 'New baby', rom: 'Naya mehmaan',
     mhi: 'नन्हे मेहमान का स्वागत। ढेर सारा प्यार और आशीर्वाद।',
@@ -105,22 +105,22 @@ const T = {
     vOpen: 'खोलो', vBack: 'पीछे से', vFront: 'आगे से',
     total: 'नेक', undo: 'एक नोट निकालिए',
     tabs: { design: 'डिज़ाइन', colour: 'रंग', money: 'नेक', sweet: 'मिठाई', note: 'संदेश', name: 'नाम' },
-    designHint: 'इक्कीस कागज़ — त्योहारों वाले और सादे भी',
+    designHint: 'इक्कीस कागज़, त्योहारों वाले और सादे भी',
     colourHint: 'रंग', textureHint: 'बुनावट',
     moneyHint: 'नोट पर टैप कीजिए, वो लिफ़ाफ़े में चला जाएगा',
     coinAdd: '₹1 का सिक्का डालिए', coinIn: 'सिक्का डल गया',
     sweetHint: 'डिब्बी में एक मिठाई रख दीजिए', desi: 'देसी', western: 'विदेशी', noSweet: 'मिठाई नहीं चाहिए',
     occasionHint: 'मौका', messageHint: 'अपने शब्दों में लिखिए', messagePlaceholder: 'जो कहना है, लिख दीजिए…',
     nameHint: 'किसके लिए है', salHint: 'संबोधन',
-    customHint: 'अपना शीर्षक लिखिए', customPlaceholder: 'जैसे — सालगिरह मुबारक',
+    customHint: 'अपना शीर्षक लिखिए', customPlaceholder: 'जैसे: सालगिरह मुबारक',
     senderLabel: 'आपका नाम', vpaLabel: 'उनकी UPI ID (QR के लिए)',
-    vpaHelp: 'उनसे पूछना पड़ेगा — ढूँढने का कोई तरीका नहीं है।',
-    noPay: 'अभी नेक नहीं भेजना — सिर्फ़ लिफ़ाफ़ा',
+    vpaHelp: 'उनसे पूछना पड़ेगा, ढूँढने का कोई तरीका नहीं है।',
+    noPay: 'अभी नेक नहीं भेजना, सिर्फ़ लिफ़ाफ़ा',
     noPayNote: 'न QR बनेगा, न कोई भुगतान लिंक। सिर्फ़ लिफ़ाफ़ा जाएगा।',
     sealOpen: 'लिफ़ाफ़ा बंद कीजिए', sealClose: 'दोबारा खोलिए',
-    footer: 'अभी नेक नहीं गया — सिर्फ़ लिफ़ाफ़ा बना है',
-    empty: 'लिफ़ाफ़ा खाली है — नीचे से नोट चुनिए', withCoin: 'नोट और ₹1 का सिक्का',
-    needCoin: 'सिक्का डालिए, तब शगुन पूरा होगा', cap: 'इससे ज़्यादा नहीं — '
+    footer: 'अभी नेक नहीं गया, सिर्फ़ लिफ़ाफ़ा बना है',
+    empty: 'लिफ़ाफ़ा खाली है, नीचे से नोट चुनिए', withCoin: 'नोट और ₹1 का सिक्का',
+    needCoin: 'सिक्का डालिए, तब शगुन पूरा होगा', cap: 'इससे ज़्यादा नहीं, '
   },
   hn: {
     step: 'lifafa taiyaar karo', title: 'Shagun ka Lifafa', langSwap: 'English',
@@ -128,22 +128,22 @@ const T = {
     vOpen: 'kholo', vBack: 'peeche se', vFront: 'aage se',
     total: 'nek', undo: 'ek note nikaalo',
     tabs: { design: 'design', colour: 'rang', money: 'nek', sweet: 'mithai', note: 'message', name: 'naam' },
-    designHint: 'ikkis kaagaz — festival wale aur simple wale bhi',
+    designHint: 'ikkis kaagaz, festival wale aur simple wale bhi',
     colourHint: 'rang', textureHint: 'texture',
     moneyHint: 'note pe tap karo, seedha lifafe mein jaayega',
     coinAdd: '₹1 ka sikka daalo', coinIn: 'sikka daal diya',
     sweetHint: 'dabbi mein ek mithai rakh do', desi: 'desi', western: 'western', noSweet: 'mithai nahi chahiye',
     occasionHint: 'occasion', messageHint: 'apne shabdon mein likho', messagePlaceholder: 'jo kehna hai likh do…',
     nameHint: 'kiske liye hai', salHint: 'kaise bulaoge',
-    customHint: 'apna heading likho', customPlaceholder: 'jaise — saalgirah mubarak',
+    customHint: 'apna heading likho', customPlaceholder: 'jaise: saalgirah mubarak',
     senderLabel: 'aapka naam', vpaLabel: 'unki UPI ID (QR ke liye)',
-    vpaHelp: 'unse poochna padega — dhoondhne ka koi tareeka nahi hai.',
-    noPay: 'abhi nek nahi bhejna — sirf lifafa',
+    vpaHelp: 'unse poochna padega, dhoondhne ka koi tareeka nahi hai.',
+    noPay: 'abhi nek nahi bhejna, sirf lifafa',
     noPayNote: 'na QR banega, na koi payment link. sirf lifafa jaayega.',
     sealOpen: 'lifafa band karo', sealClose: 'wapas kholo',
-    footer: 'abhi nek nahi gaya — sirf lifafa bana hai',
-    empty: 'lifafa khaali hai — neeche se note chuno', withCoin: 'notes aur ₹1 ka sikka',
-    needCoin: 'sikka daalo, tab shagun poora', cap: 'itna hi — '
+    footer: 'abhi nek nahi gaya, sirf lifafa bana hai',
+    empty: 'lifafa khaali hai, neeche se note chuno', withCoin: 'notes aur ₹1 ka sikka',
+    needCoin: 'sikka daalo, tab shagun poora', cap: 'itna hi, '
   },
   en: {
     step: 'build the lifafa', title: 'Shagun ka Lifafa', langSwap: 'हिंदी',
@@ -151,7 +151,7 @@ const T = {
     vOpen: 'open', vBack: 'back', vFront: 'front',
     total: 'the nek', undo: 'take one note out',
     tabs: { design: 'design', colour: 'colour', money: 'nek', sweet: 'sweet', note: 'message', name: 'name' },
-    designHint: 'twenty-one papers — festival ones and quiet ones',
+    designHint: 'twenty-one papers, festival ones and quiet ones',
     colourHint: 'colour', textureHint: 'texture',
     moneyHint: 'tap a note and it slips in',
     coinAdd: 'add the ₹1 coin', coinIn: 'coin is in',
@@ -160,13 +160,13 @@ const T = {
     nameHint: 'who is it for', salHint: 'how to address them',
     customHint: 'your own heading', customPlaceholder: 'e.g. happy anniversary',
     senderLabel: 'your name', vpaLabel: 'their UPI ID (for the QR)',
-    vpaHelp: 'You have to ask them — there is no way to look it up.',
-    noPay: 'no nek this time — just the lifafa',
+    vpaHelp: 'You have to ask them. There is no way to look it up.',
+    noPay: 'no nek this time, just the lifafa',
     noPayNote: 'No QR, no payment link. Only the lifafa goes across.',
     sealOpen: 'seal the lifafa', sealClose: 'open it back up',
-    footer: 'the nek hasn\u2019t gone yet — only the lifafa is made',
-    empty: 'empty — pick a note below', withCoin: 'notes and the ₹1 coin',
-    needCoin: 'add the coin to make it shagun', cap: 'that is the cap — '
+    footer: 'the nek has not gone yet, only the lifafa is made',
+    empty: 'empty, pick a note below', withCoin: 'notes and the ₹1 coin',
+    needCoin: 'add the coin to make it shagun', cap: 'that is the cap, '
   }
 };
 

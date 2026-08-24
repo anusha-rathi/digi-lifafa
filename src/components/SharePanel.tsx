@@ -38,7 +38,7 @@ export default function SharePanel({
         Send on WhatsApp
       </a>
       <p className="text-[11px] leading-relaxed text-ink-faint">
-        Keep this page bookmarked — it&apos;s the only way back to your own
+        Keep this page bookmarked. It&apos;s the only way back to your own
         lifafa. The link above is the one they open.
       </p>
     </div>

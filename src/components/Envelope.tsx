@@ -5,7 +5,7 @@ import { paperStyle, sweetById, type PathSpec } from "@/lib/design";
 
 /* The lifafa itself, ported from the Claude Design canvas. Three views on one
    3D card: OPEN, BACK (the श्री seal) and FRONT (their name). The clip-path
-   geometry, the flap curves and the note stacking are the canvas's — don't
+   geometry, the flap curves and the note stacking are the canvas's, don't
    "tidy" the numbers.
 
    `zoomable` turns the contents into buttons: the message slip is only 126px
@@ -25,6 +25,7 @@ export type EnvelopeState = {
   messagePeek: string;
   name: string;
   salutation: string;
+  senderName?: string;
   lang: "hi" | "hn" | "en";
 };
 
@@ -86,7 +87,7 @@ export function SweetSvg({
   );
 }
 
-type Zoom = "message" | "sweet" | "money" | null;
+
 
 export default function Envelope({
   s,
@@ -99,7 +100,7 @@ export default function Envelope({
   caption?: string;
   zoomable?: boolean;
 }) {
-  const [zoom, setZoom] = useState<Zoom>(null);
+  const [openedUp, setOpenedUp] = useState(false);
 
   const { pal, des, image, size } = paperStyle(s.designId, s.paletteId, s.textureId);
   const sweet = sweetById(s.sweetId);
@@ -122,8 +123,12 @@ export default function Envelope({
   const nameSize = nameShown.length > 22 ? 19 : nameShown.length > 14 ? 22 : 27;
   const sweetName = sweet ? (s.lang === "hi" ? sweet.hi : sweet.en) : "";
 
-  const tap = (which: Zoom) =>
-    zoomable ? { onClick: () => setZoom((z) => (z === which ? null : which)), role: "button", tabIndex: 0 } : {};
+  // Everything opens together. Reading the message shouldn't mean tapping
+  // three separate things and hunting for the one you want.
+  const tap = () =>
+    zoomable
+      ? { onClick: () => setOpenedUp(true), role: "button", tabIndex: 0 }
+      : {};
 
   return (
     <div className="relative">
@@ -187,7 +192,7 @@ export default function Envelope({
               {/* the message slip */}
               {hasMessage && (
                 <div
-                  {...tap("message")}
+                  {...tap()}
                   className={`lf-slip absolute left-[6px] bottom-[88px] h-[74px] w-[126px] overflow-hidden rounded-[2px] bg-[linear-gradient(158deg,#fbf3e2,#ecdfc6)] px-[9px] py-2 shadow-[0_4px_10px_rgba(0,0,0,.35)] ${
                     zoomable ? "cursor-zoom-in ring-offset-2 hover:ring-2 hover:ring-[#e8c37a]" : ""
                   }`}
@@ -211,7 +216,7 @@ export default function Envelope({
                   return (
                     <div
                       key={n.key}
-                      {...(i === notes.length - 1 ? tap("money") : {})}
+                      {...(i === notes.length - 1 ? tap() : {})}
                       className={`lf-fly absolute bottom-0 h-[82px] w-[158px] overflow-hidden rounded-[4px] shadow-[0_4px_10px_rgba(0,0,0,.4),inset_0_0_0_1px_rgba(255,255,255,.4)] ${
                         zoomable && i === notes.length - 1 ? "cursor-zoom-in" : ""
                       }`}
@@ -257,7 +262,7 @@ export default function Envelope({
               >
                 {sweet && (
                   <div
-                    {...tap("sweet")}
+                    {...tap()}
                     className={`lf-tuck absolute left-5 top-[18px] h-[54px] w-[68px] ${
                       zoomable ? "cursor-zoom-in" : ""
                     }`}
@@ -268,14 +273,14 @@ export default function Envelope({
                       <SweetSvg shapes={sweet.sh} width={58} height={50} />
                     </div>
                     {/* the name, so the other person knows what you sent */}
-                    <div className="absolute inset-x-0 bottom-0 truncate text-center text-[8px] font-semibold tracking-[.04em] text-[#5c4326]">
+                    <div className="absolute inset-x-0 bottom-[13px] truncate px-1 text-center text-[8px] font-semibold tracking-[.04em] text-[#5c4326]">
                       {sweetName}
                     </div>
                   </div>
                 )}
                 {s.coin && (
                   <div
-                    {...tap("money")}
+                    {...tap()}
                     className={`lf-coin absolute right-[26px] top-[26px] grid h-[46px] w-[46px] place-items-center rounded-full bg-[conic-gradient(from_210deg,#f3d489,#b8862f,#ffeab8,#9c6c22,#f3d489)] shadow-[0_3px_8px_rgba(0,0,0,.5),inset_0_0_0_2px_rgba(255,255,255,.35)] ${
                       zoomable ? "cursor-zoom-in" : ""
                     }`}
@@ -368,46 +373,73 @@ export default function Envelope({
       </div>
       </div>
 
-      {/* what you tapped, big enough to actually read */}
-      {zoomable && zoom && (
-        <div className="mt-2 rounded-xl border border-ivory-edge bg-white/80 p-5">
-          {zoom === "message" && (
-            <>
-              <p className="text-[11px] uppercase tracking-[.18em] text-marigold">
+      {/* Everything, out of the envelope and big enough to read. The page
+          behind it blurs so there is nothing competing with the letter. */}
+      {zoomable && openedUp && (
+        <div
+          className="fixed inset-0 z-[100] flex items-start justify-center overflow-y-auto bg-ink/45 p-4 backdrop-blur-md sm:items-center"
+          onClick={() => setOpenedUp(false)}
+        >
+          <div
+            className="lf-rise my-auto w-full max-w-sm rounded-2xl bg-ivory p-6 shadow-[0_30px_80px_-20px_rgba(0,0,0,.6)]"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              type="button"
+              onClick={() => setOpenedUp(false)}
+              aria-label="Put it back"
+              className="mb-4 flex items-center gap-2 text-sm text-ink-soft transition hover:text-ink"
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                <path d="M19 12H5" />
+                <path d="m12 19-7-7 7-7" />
+              </svg>
+              {s.lang === "hi" ? "वापस रख दीजिए" : s.lang === "hn" ? "wapas rakh do" : "put it back"}
+            </button>
+
+            {/* the letter */}
+            <div className="rounded-xl bg-[linear-gradient(158deg,#fbf3e2,#ecdfc6)] p-5 shadow-inner">
+              <p className="text-[11px] uppercase tracking-[.18em] text-[#a08054]">
                 {s.occasionLabel}
               </p>
-              <p className="mt-2 whitespace-pre-wrap text-[15px] leading-relaxed text-ink">
-                {s.messagePeek || "—"}
+              <p className="mt-1 font-display text-2xl text-[#6b4a2a]">{s.name}</p>
+              <p className="mt-3 whitespace-pre-wrap text-[15px] leading-relaxed text-[#5c4326]">
+                {s.messagePeek || " "}
               </p>
-            </>
-          )}
-          {zoom === "sweet" && sweet && (
-            <div className="flex items-center gap-4">
-              <SweetSvg shapes={sweet.sh} width={92} height={80} />
-              <div>
-                <p className="font-display text-2xl text-maroon">{sweet.hi}</p>
-                <p className="text-sm text-ink-soft">{sweet.en}</p>
-              </div>
+              {s.senderName ? (
+                <p className="mt-4 text-right font-display text-lg text-[#6b4a2a]">
+                  {s.lang === "hi" ? "प्यार के साथ" : "with love"}, {s.senderName}
+                </p>
+              ) : null}
             </div>
-          )}
-          {zoom === "money" && (
-            <>
-              <p className="font-display text-3xl text-maroon">
-                ₹{total.toLocaleString("en-IN")}
-              </p>
-              <p className="mt-1 text-sm text-ink-soft">
-                {s.notes.length} note{s.notes.length === 1 ? "" : "s"}
-                {s.coin ? " and the ₹1 coin" : ""}
-              </p>
-            </>
-          )}
-          <button
-            type="button"
-            onClick={() => setZoom(null)}
-            className="mt-3 text-xs text-ink-faint underline underline-offset-2 hover:text-ink-soft"
-          >
-            close
-          </button>
+
+            {/* the nek */}
+            {total > 0 ? (
+              <div className="mt-4 rounded-xl border border-ivory-edge bg-white/70 p-4 text-center">
+                <p className="font-display text-3xl text-maroon">
+                  ₹{total.toLocaleString("en-IN")}
+                </p>
+                <p className="mt-1 text-[13px] text-ink-soft">
+                  {s.notes.length > 0
+                    ? `${s.notes.length} ${s.notes.length === 1 ? "note" : "notes"}`
+                    : ""}
+                  {s.notes.length > 0 && s.coin ? " " : ""}
+                  {s.coin ? (s.lang === "hi" ? "और ₹1 का सिक्का" : "and the ₹1 coin") : ""}
+                </p>
+              </div>
+            ) : null}
+
+            {/* the mithai */}
+            {sweet ? (
+              <div className="mt-4 flex items-center gap-4 rounded-xl border border-ivory-edge bg-white/70 p-4">
+                <SweetSvg shapes={sweet.sh} width={84} height={72} />
+                <div>
+                  <p className="font-display text-xl text-maroon">{sweet.hi}</p>
+                  <p className="text-sm text-ink-soft">{sweet.en}</p>
+                </div>
+              </div>
+            ) : null}
+          </div>
         </div>
       )}
     </div>

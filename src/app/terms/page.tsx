@@ -43,7 +43,7 @@ export default function Terms() {
           UPI applications do not report back to websites. We have no way to
           know whether a payment was made, attempted or failed. Any reference
           number shown on a lifafa was typed in by the sender and has{" "}
-          <strong>not been verified by us</strong> — we have no technical means
+          <strong>not been verified by us</strong>. We have no technical means
           to verify it.
         </p>
         <p>
@@ -103,7 +103,7 @@ export default function Terms() {
         <p>
           The service is provided &ldquo;as is&rdquo;. We do not guarantee it
           will be available, uninterrupted or error-free, and we do not warrant
-          that any UPI link will open successfully on your device — behaviour
+          that any UPI link will open successfully on your device, because behaviour
           differs between phones, browsers and apps.
         </p>
 

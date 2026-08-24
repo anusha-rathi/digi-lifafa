@@ -2,38 +2,53 @@
 
 import { useState } from "react";
 import Envelope, { type EnvelopeState } from "@/components/Envelope";
+import { COPY, type Lang } from "@/lib/design";
 
-/* It arrives sealed, front-side up with their name on it. Tapping turns it
-   over and opens it. No caption naming the view — the receiver shouldn't be
-   told they're looking at "the front"; they're looking at a lifafa. */
+/* It arrives sealed, front side up with their name on it. The button below
+   opens and closes it, so the sender can check both sides before sending. */
 export default function LifafaReveal({
   s,
-  startOpen = false,
   hint,
 }: {
   s: EnvelopeState;
-  startOpen?: boolean;
   hint?: string;
 }) {
-  const [open, setOpen] = useState(startOpen);
+  const [open, setOpen] = useState(false);
+  const t = COPY[s.lang as Lang];
 
   return (
-    <div className="flex flex-col items-center">
-      {!open ? (
-        <button
-          type="button"
-          onClick={() => setOpen(true)}
-          aria-label="Open the lifafa"
-          className="block w-full cursor-pointer"
-        >
-          <Envelope s={s} view="front" />
-        </button>
-      ) : (
-        <Envelope s={s} view="open" zoomable />
-      )}
+    <div className="flex flex-col items-center gap-3">
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        aria-expanded={open}
+        aria-label={open ? "Close the lifafa" : "Open the lifafa"}
+        className="block w-full cursor-pointer"
+      >
+        <Envelope s={s} view={open ? "open" : "front"} zoomable={open} />
+      </button>
 
-      <p className="mt-1 text-[12px] text-ink-faint">
-        {open ? (hint ?? "tap the note, the mithai or the message to read it") : "tap to open"}
+      <button
+        type="button"
+        onClick={() => setOpen((v) => !v)}
+        className="rounded-full border border-ivory-edge bg-white/70 px-6 py-2.5 font-display text-lg text-maroon transition hover:border-maroon"
+      >
+        {open ? t.sealOpen : t.sealClose}
+      </button>
+
+      <p className="text-[12px] text-ink-faint">
+        {open
+          ? (hint ??
+            (s.lang === "hi"
+              ? "लिफ़ाफ़े पर टैप कीजिए, सब कुछ खुल जाएगा"
+              : s.lang === "hn"
+                ? "lifafe pe tap karo, sab kuch khul jaayega"
+                : "tap the lifafa to see everything inside"))
+          : s.lang === "hi"
+            ? "अभी बंद है"
+            : s.lang === "hn"
+              ? "abhi band hai"
+              : "sealed shut"}
       </p>
     </div>
   );

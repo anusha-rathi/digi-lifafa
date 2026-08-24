@@ -65,13 +65,13 @@ export default function PayPanel({
             onClick={() => setAsking(true)}
             className="w-full rounded-full border border-ivory-edge px-6 py-3 text-ink-soft transition hover:border-marigold hover:text-ink"
           >
-            I&apos;ve come back — what next?
+            I&apos;ve come back, what next?
           </button>
         ) : (
           <div className="space-y-4 rounded-xl border border-ivory-edge bg-white/70 p-5">
             <p className="font-display text-xl text-maroon">Have you paid?</p>
             <p className="text-[13px] leading-relaxed text-ink-soft">
-              We genuinely can&apos;t tell — your UPI app doesn&apos;t report back
+              We genuinely can&apos;t tell. Your UPI app doesn&apos;t report back
               to us, and we&apos;d rather say so than pretend.
             </p>
 
@@ -97,7 +97,7 @@ export default function PayPanel({
                 onClick={() => mark("paid", utr)}
                 className="rounded-full bg-peacock px-5 py-3 font-semibold text-white transition hover:bg-peacock-deep disabled:opacity-40"
               >
-                Yes — save this reference
+                Yes, save this reference
               </button>
               <button
                 type="button"
@@ -112,7 +112,7 @@ export default function PayPanel({
                 onClick={() => setAsking(false)}
                 className="px-5 py-2 text-sm text-ink-faint hover:text-ink-soft"
               >
-                Not yet — take me back
+                Not yet, take me back
               </button>
             </div>
             <p className="text-[11px] leading-relaxed text-ink-faint">
@@ -135,7 +135,7 @@ export default function PayPanel({
           {marked === "paid" ? (
             <>
               You noted reference <span className="font-mono text-ink">{utr}</span>.
-              We&apos;ve written it on the lifafa — we haven&apos;t checked it,
+              We&apos;ve written it on the lifafa. We haven&apos;t checked it,
               because we can&apos;t.
             </>
           ) : (

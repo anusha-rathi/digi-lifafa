@@ -29,6 +29,7 @@ export function toEnvelope(l: Lifafa): EnvelopeState {
     messagePeek: l.message,
     name: l.receiverName,
     salutation: l.salutation,
+    senderName: l.senderName,
     lang: l.lang,
   };
 }

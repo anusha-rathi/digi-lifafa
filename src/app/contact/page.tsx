@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "How to reach Digi Lifafa — questions, problems, and reporting abuse.",
+  description: "How to reach Digi Lifafa: questions, problems, and reporting abuse.",
 };
 
 const MAIL = "hello@digilifafa.in";
@@ -13,7 +13,7 @@ export default function Contact() {
     <main className="mx-auto w-full max-w-2xl flex-1 px-5 py-14">
       <h1 className="font-display text-4xl text-maroon">Contact</h1>
       <p className="mt-3 text-base leading-relaxed text-ink-soft">
-        There&apos;s no form and no ticket number — just an inbox that a person
+        There&apos;s no form and no ticket number, just an inbox that a person
         reads.
       </p>
 

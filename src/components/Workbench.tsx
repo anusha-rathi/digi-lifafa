@@ -554,7 +554,7 @@ export default function Workbench() {
             />
             {removed > 0 && (
               <p className="rounded-[3px] bg-marigold/15 px-3 py-2 text-[11.5px] leading-relaxed text-ink-soft">
-                {removed === 1 ? "एक लिंक हटाया गया" : `${removed} लिंक हटाए गए`} — a lifafa
+                {removed === 1 ? "एक लिंक हटाया गया" : `${removed} लिंक हटाए गए`}. A lifafa
                 has no business carrying one. Everything else is untouched.
               </p>
             )}

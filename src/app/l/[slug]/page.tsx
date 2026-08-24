@@ -56,13 +56,13 @@ export default async function ReceiverPage({
             account. We don&apos;t store any money on our website.
           </p>
 
-          {/* C5 — never the word "verified". We cannot check a UTR against
+          {/* C5, never the word "verified". We cannot check a UTR against
               anything, so we say exactly what we know: the sender wrote it down. */}
           {l.paymentMarked === "paid" && l.utr ? (
             <p className="border-t border-ivory-edge pt-3 text-[12px] leading-relaxed text-ink-faint">
               {l.senderName} noted the reference{" "}
               <span className="font-mono text-ink-soft">{l.utr}</span>. We
-              haven&apos;t checked it — we have no way to.
+              haven&apos;t checked it. We have no way to.
             </p>
           ) : null}
         </div>

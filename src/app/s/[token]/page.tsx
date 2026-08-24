@@ -25,16 +25,22 @@ export default async function SenderPage({
 
   return (
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">
-      <p className="text-xs uppercase tracking-[0.2em] text-ink-faint">Your lifafa</p>
+      <p className="text-xs uppercase tracking-[0.2em] text-ink-faint">
+        {l.lang === "hi"
+          ? "आपके प्रिय को ऐसा दिखेगा"
+          : l.lang === "hn"
+            ? "aapke priy ko aisa dikhega"
+            : "this is how it will look to them"}
+      </p>
       <h1 className="mt-1 font-display text-3xl text-maroon">For {l.receiverName}</h1>
       <p className="mt-2 text-sm leading-relaxed text-ink-soft">
         {vpa === null
-          ? "The paper is sealed. No nek attached — send it whenever you're ready."
-          : "The paper is sealed. The money is the part only you can do — it goes from your bank to theirs, and never through us."}
+          ? "The paper is sealed. No nek attached, so send it whenever you are ready."
+          : "The paper is sealed. The money is the part only you can do. It goes from your bank to theirs, never through us."}
       </p>
 
       <div className="my-8 rounded-2xl border border-ivory-edge bg-ivory-deep/40 px-2 py-6">
-        <LifafaReveal s={toEnvelope(l)} startOpen />
+        <LifafaReveal s={toEnvelope(l)} />
       </div>
 
       {vpa === null ? (

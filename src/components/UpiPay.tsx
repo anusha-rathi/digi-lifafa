@@ -49,7 +49,7 @@ export default function UpiPay({
 
   return (
     <div className="space-y-5">
-      {/* SPEC S8 — the VPA is large, complete, and never shortened. */}
+      {/* SPEC S8, the VPA is large, complete, and never shortened. */}
       <div className="rounded-xl border-2 border-marigold/50 bg-marigold/8 p-4">
         <p className="text-xs uppercase tracking-[0.18em] text-ink-faint">You are paying</p>
         <p className="mt-1 font-mono text-lg leading-tight break-all text-ink">{vpa}</p>
@@ -60,7 +60,7 @@ export default function UpiPay({
         </p>
       </div>
 
-      {/* Never auto-triggered — it always takes a deliberate tap. SPEC S8. */}
+      {/* Never auto-triggered, it always takes a deliberate tap. SPEC S8. */}
       <a
         href={uri}
         className="block rounded-full bg-maroon px-6 py-4 text-center text-lg font-semibold text-ivory transition hover:bg-maroon-deep"

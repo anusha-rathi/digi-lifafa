@@ -74,7 +74,7 @@ export const createSchema = z
   })
   // A nek only has to be there when there is a payment to make.
   .refine((v) => v.payeeVpa === null || v.amountPaise >= MIN_PAISE, {
-    message: "Put at least one note in — an empty lifafa isn't shagun",
+    message: "Put at least one note in, an empty lifafa isn't shagun",
     path: ["notes"],
   })
   .refine((v) => v.amountPaise <= MAX_PAISE, {

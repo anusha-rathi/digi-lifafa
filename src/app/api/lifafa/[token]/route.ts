@@ -32,7 +32,7 @@ export async function PATCH(
   const ok = await markPayment(token, parsed.data.paymentMarked, parsed.data.utr);
   if (!ok) {
     return NextResponse.json(
-      { error: "This lifafa was already marked — that can only be done once." },
+      { error: "This lifafa was already marked. That can only be done once." },
       { status: 409 },
     );
   }

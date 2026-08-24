@@ -8,7 +8,7 @@ const STEPS = [
   {
     n: "1",
     h: "Choose the paper",
-    p: "Twenty-one papers — brocade jaali, bandhani, diya rows, khadi — in fourteen colours and five textures.",
+    p: "Twenty-one papers: brocade jaali, bandhani, diya rows, khadi, in fourteen colours and five textures.",
   },
   {
     n: "2",
@@ -25,7 +25,7 @@ const STEPS = [
 const FAQ = [
   {
     q: "Does it cost anything?",
-    a: "No. There's no fee and no cut — we never touch the amount, so there's nothing to take a percentage of.",
+    a: "No. There's no fee and no cut. We never touch the amount, so there's nothing to take a percentage of.",
   },
   {
     q: "Do I need to sign up?",
@@ -33,7 +33,7 @@ const FAQ = [
   },
   {
     q: "Where does the money actually go?",
-    a: "Straight from your UPI app to their bank account. It never passes through this site — we have no wallet and no payment gateway.",
+    a: "Straight from your UPI app to their bank account. It never passes through this site. We have no wallet and no payment gateway.",
   },
   {
     q: "Can you tell whether I paid?",
@@ -41,7 +41,7 @@ const FAQ = [
   },
   {
     q: "Do I need their UPI ID?",
-    a: "Yes — there's no way around it, and no directory to look it up in. \"Sending you something, what's your UPI?\" does the job.",
+    a: "Yes, and there's no directory to look it up in. \"Sending you something, what's your UPI?\" does the job.",
   },
 ];
 
@@ -56,7 +56,7 @@ export default function Home() {
             Send the envelope, not just the amount
           </h1>
           <p className="mx-auto mt-5 max-w-md text-base leading-relaxed text-ink-soft">
-            Make a lifafa the way you would at home — pick the paper, tuck the
+            Make a lifafa the way you would at home. Pick the paper, tuck the
             notes in, add the one-rupee coin. Pay them directly over UPI, then
             send the whole thing as a link.
           </p>
@@ -126,7 +126,7 @@ export default function Home() {
         </h2>
         <p className="mx-auto mt-2 max-w-sm text-center text-sm leading-relaxed text-ink-soft">
           Each one comes with words already written, if you want them. Change
-          them, or write your own — including your own heading.
+          them, or write your own, including your own heading.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-2.5">
           {OCCASION_LIST.map((o) => (

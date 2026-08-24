@@ -16,7 +16,7 @@ export default function About() {
         <p>
           Digi Lifafa is a shagun ka lifafa you can send as a link. You make the
           envelope, put the nek in note by note, add the one-rupee coin and a
-          mithai, write what you would have said — and then you pay them
+          mithai, write what you would have said. Then you pay them
           directly over UPI and send them the envelope.
         </p>
 
@@ -28,7 +28,7 @@ export default function About() {
           received.
         </p>
         <p>
-          We wanted the wrapper back. Not a picture of money — the actual gift,
+          We wanted the wrapper back. Not a picture of money, but the actual gift
           with the actual paper around it. So the money here is real and moves
           exactly as it always did, and everything we built sits around it
           rather than in the middle of it.
@@ -79,7 +79,7 @@ export default function About() {
         <h2>Get in touch</h2>
         <p>
           Something broken, something wrong, or a lifafa that needs taking down?{" "}
-          <Link href="/contact">Contact us</Link> — we read everything.
+          <Link href="/contact">Contact us</Link>. We read everything.
         </p>
       </div>
     </main>

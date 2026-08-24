@@ -17,7 +17,7 @@
 
 /* `hi` is a highlight that adapts to the paper: white on dark papers, a dark
    tint on pale ones. Hardcoding #ffffff made the second layer of bandhani,
-   mukaish and rakhi vanish entirely on cream, dove, mint and blush — which is
+   mukaish and rakhi vanish entirely on cream, dove, mint and blush, which is
    what "the design goes away when I change the colour" was. */
 export type PatternFn = (m: string, b: string, hi: string) => [string, string];
 export type PaperDesign = { hi: string; en: string; f: PatternFn; frame?: boolean };

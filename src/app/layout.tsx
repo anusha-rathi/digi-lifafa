@@ -21,7 +21,7 @@ const mukta = Mukta({
 
 export const metadata: Metadata = {
   title: {
-    default: "Digi Lifafa — send a shagun ka lifafa as a link",
+    default: "Digi Lifafa: send a shagun ka lifafa as a link",
     template: "%s · Digi Lifafa",
   },
   description:
