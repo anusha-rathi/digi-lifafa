@@ -194,3 +194,23 @@ body:has(.lf-stage) {
     #140c0b;
   color: #f2e3d3;
 }
+
+/* The lifafa is built on fixed 330x158 geometry — the flap curves are
+   clip-path coordinates, so it cannot reflow. On narrow phones it scales
+   down instead, and the stage height scales with it so the controls below
+   don't collide. 360px Androids and the 320px SE both fit without the page
+   ever scrolling sideways. */
+.lf-fit {
+  --lf-s: 1;
+  height: calc(344px * var(--lf-s));
+}
+.lf-fit > .lf-fit-inner {
+  transform: scale(var(--lf-s));
+  transform-origin: top center;
+}
+@media (max-width: 389px) {
+  .lf-fit { --lf-s: 0.92; }
+}
+@media (max-width: 359px) {
+  .lf-fit { --lf-s: 0.82; }
+}

@@ -150,12 +150,12 @@ export default function PayPanel({
 
       <div className="space-y-3 rounded-xl border border-ivory-edge bg-white/70 p-5">
         <p className="font-display text-xl text-maroon">Now send it</p>
-        <div className="flex items-center gap-2 rounded-md border border-ivory-edge bg-ivory px-3 py-2.5">
+        <div className="flex items-center gap-2 overflow-hidden rounded-md border border-ivory-edge bg-ivory px-3 py-2.5">
           <input
             readOnly
             value={shareUrl}
             onFocus={(e) => e.currentTarget.select()}
-            className="flex-1 bg-transparent font-mono text-[12px] text-ink-soft outline-none"
+            className="min-w-0 flex-1 bg-transparent font-mono text-[12px] text-ink-soft outline-none"
           />
           <button
             type="button"

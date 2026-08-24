@@ -10,16 +10,16 @@ const NAV = [
 export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-ivory-edge/70 bg-ivory/85 backdrop-blur">
-      <div className="mx-auto flex w-full max-w-5xl items-center justify-between gap-4 px-5 py-3">
+      <div className="mx-auto flex w-full max-w-5xl flex-col gap-1.5 px-5 py-2.5 sm:flex-row sm:items-center sm:justify-between sm:gap-4 sm:py-3">
         <Link href="/" className="font-display text-xl leading-none text-maroon">
           डिजि लिफ़ाफ़ा
         </Link>
-        <nav className="flex items-center gap-1 text-sm">
+        <nav className="-mx-2 flex flex-wrap items-center gap-x-0.5 text-[13px] sm:mx-0 sm:gap-1 sm:text-sm">
           {NAV.map((n) => (
             <Link
               key={n.href}
               href={n.href}
-              className="rounded-full px-3 py-1.5 text-ink-soft transition hover:bg-ivory-deep hover:text-ink"
+              className="rounded-full px-2.5 py-1.5 text-ink-soft transition hover:bg-ivory-deep hover:text-ink sm:px-3"
             >
               {n.label}
             </Link>

@@ -220,9 +220,9 @@ export default function Workbench() {
         </button>
       </div>
 
-      <div className="mt-4 grid gap-x-12 gap-y-6 lg:grid-cols-[minmax(0,360px)_minmax(0,1fr)] lg:items-start">
+      <div className="mt-4 grid gap-x-12 gap-y-6 lg:grid-cols-[362px_minmax(0,1fr)] lg:items-start">
       {/* ══ LEFT: the object, and the money that goes in it ══ */}
-      <div className="flex flex-col gap-[15px] lg:sticky lg:top-24">
+      <div className="flex flex-col gap-[15px] lg:sticky lg:top-20">
       <Envelope s={envState} view={view} caption={caption} />
 
       {/* view switch */}
@@ -304,7 +304,7 @@ export default function Workbench() {
       {tab === "design" && (
         <div className="lf-rise flex flex-col gap-[9px]">
           <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.designHint}</div>
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 xl:grid-cols-5">
             {DESIGN_LIST.map((d) => {
               const on = d.id === designId;
               const { image, size } = paperStyle(d.id, paletteId, textureId);
@@ -365,7 +365,7 @@ export default function Workbench() {
           </div>
           <div className="flex flex-col gap-2">
             <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.textureHint}</div>
-            <div className="grid grid-cols-3 gap-2">
+            <div className="grid grid-cols-3 gap-2 sm:grid-cols-5">
               {TEXTURE_LIST.map((x) => {
                 const on = x.id === textureId;
                 const pal = PALETTE_LIST.find((p) => p.id === paletteId)!;
@@ -401,7 +401,7 @@ export default function Workbench() {
       {tab === "money" && (
         <div className="lf-rise flex flex-col gap-3">
           <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.moneyHint}</div>
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-3 gap-2 sm:grid-cols-6">
             {DENOM_LIST.map((d) => {
               const count = notes.filter((n) => n.denom === d.denom).length;
               return (
@@ -457,7 +457,7 @@ export default function Workbench() {
               {t.western}
             </button>
           </div>
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 xl:grid-cols-6">
             {SWEET_LIST[sweetTray].map((s) => {
               const on = s.id === sweetId;
               return (
@@ -590,7 +590,7 @@ export default function Workbench() {
 
       {/* ── who it's from, and where the money goes ─────────────────── */}
       <div
-        className="mt-1 flex flex-col gap-[13px] border-t pt-4"
+        className="mt-1 grid gap-[13px] border-t pt-4 sm:grid-cols-2"
         style={{ borderColor: "var(--color-ivory-edge)" }}
       >
         <div className="flex flex-col gap-[7px]">

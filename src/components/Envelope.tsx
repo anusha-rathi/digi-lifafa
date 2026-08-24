@@ -127,8 +127,9 @@ export default function Envelope({
 
   return (
     <div className="relative">
+      <div className="lf-fit">
       <div
-        className="relative flex h-[344px] items-end justify-center pb-[34px]"
+        className="lf-fit-inner relative flex h-[344px] items-end justify-center pb-[34px]"
         style={{ perspective: 1600 }}
       >
         <div className="absolute bottom-[22px] h-5 w-[262px] rounded-[50%] bg-[radial-gradient(ellipse,rgba(0,0,0,.4),transparent_70%)] blur-[3px]" />
@@ -364,6 +365,7 @@ export default function Envelope({
             {caption}
           </div>
         )}
+      </div>
       </div>
 
       {/* what you tapped, big enough to actually read */}
