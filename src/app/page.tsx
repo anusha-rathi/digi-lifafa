@@ -8,7 +8,7 @@ const STEPS = [
   {
     n: "1",
     h: "Choose the paper",
-    p: "Jaali, mor, genda or plain foil, in the colour you'd actually pick up at the shop.",
+    p: "Twenty-one papers — brocade jaali, bandhani, diya rows, khadi — in fourteen colours and five textures.",
   },
   {
     n: "2",
