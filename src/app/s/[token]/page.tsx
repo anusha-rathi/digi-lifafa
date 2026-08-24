@@ -16,7 +16,7 @@ export default async function SenderPage({
   params: Promise<{ token: string }>;
 }) {
   const { token } = await params;
-  const l = byOwnerToken(token);
+  const l = await byOwnerToken(token);
   if (!l || l.isBlocked) notFound();
 
   // No UPI ID means the sender chose "just the lifafa" — there is nothing to

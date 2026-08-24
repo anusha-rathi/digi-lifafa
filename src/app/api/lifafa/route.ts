@@ -18,7 +18,7 @@ export async function POST(req: Request) {
     );
   }
 
-  const { slug, ownerToken } = createLifafa(parsed.data);
+  const { slug, ownerToken } = await createLifafa(parsed.data);
   // urlsRemoved is reported back so the sender is TOLD what we stripped (C6),
   // rather than discovering their message was quietly edited.
   return NextResponse.json(

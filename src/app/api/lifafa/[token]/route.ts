@@ -25,11 +25,11 @@ export async function PATCH(
     );
   }
 
-  if (!byOwnerToken(token)) {
+  if (!(await byOwnerToken(token))) {
     return NextResponse.json({ error: "Not found" }, { status: 404 });
   }
 
-  const ok = markPayment(token, parsed.data.paymentMarked, parsed.data.utr);
+  const ok = await markPayment(token, parsed.data.paymentMarked, parsed.data.utr);
   if (!ok) {
     return NextResponse.json(
       { error: "This lifafa was already marked — that can only be done once." },

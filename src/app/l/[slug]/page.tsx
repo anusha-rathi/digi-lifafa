@@ -15,7 +15,7 @@ export default async function ReceiverPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const l = bySlug(slug);
+  const l = await bySlug(slug);
   if (!l) notFound();
 
   // SPEC S8 — a blocked lifafa shows a neutral notice, never an error.
@@ -31,7 +31,7 @@ export default async function ReceiverPage({
     );
   }
 
-  markOpened(slug);
+  await markOpened(slug);
 
   const withLove = l.lang === "hi" ? "प्यार के साथ" : "with love";
 

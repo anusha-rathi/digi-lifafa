@@ -1,55 +1,27 @@
-import { DatabaseSync } from "node:sqlite";
-import { mkdirSync } from "node:fs";
+import { createClient } from "@supabase/supabase-js";
 import { nanoid } from "nanoid";
 import type { CreateParsed } from "@/lib/schema";
 
-/* ponytail: local SQLite, not Supabase. Node 24 ships node:sqlite in the
-   standard library, so the whole create -> link -> open flow runs on localhost
-   with no accounts and no keys. It is NOT the production store: Vercel's
-   filesystem is ephemeral and per-instance, so Stage 3 swaps the five queries
-   below for Supabase calls behind the same four functions. Everything that
-   matters for correctness — unguessable ids, immutable financial fields,
-   write-once UTR — is enforced here and moves across unchanged. */
+/* SPEC S1/S2 — this module is SERVER ONLY. It holds the service role key,
+   which bypasses RLS. It must never be imported into a client component; if
+   it is, the build will leak the key into the browser bundle.
+   `lifafas` has RLS on with zero policies, so the anon key in the browser can
+   neither read nor write. Everything goes through here. */
 
-const DB_PATH = process.env.LIFAFA_DB ?? ".data/lifafa.db";
+const url = process.env.SUPABASE_URL ?? process.env.NEXT_PUBLIC_SUPABASE_URL;
+const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY ?? process.env.SUPABASE_SECRET_KEY;
 
-let db: DatabaseSync | null = null;
-
-function conn() {
-  if (db) return db;
-  mkdirSync(DB_PATH.replace(/\/[^/]+$/, ""), { recursive: true });
-  db = new DatabaseSync(DB_PATH);
-  db.exec(`
-    create table if not exists lifafas (
-      id              integer primary key autoincrement,
-      slug            text unique not null,
-      owner_token     text unique not null,
-      lang            text not null default 'hi',
-      sender_name     text not null,
-      receiver_name   text not null,
-      salutation      text not null,
-      message         text not null,
-      occasion        text,
-      custom_heading  text not null default '',
-      amount_paise    integer not null,
-      notes           text not null,
-      coin            integer not null default 0,
-      payee_vpa       text,
-      design_id       text not null,
-      palette_id      text not null,
-      texture_id      text not null,
-      sweet_id        text,
-      utr             text,
-      payment_marked  text not null default 'unknown',
-      created_at      text not null default (datetime('now')),
-      opened_at       text,
-      is_blocked      integer not null default 0
-    );
-    create index if not exists lifafas_slug on lifafas (slug);
-    create index if not exists lifafas_owner on lifafas (owner_token);
-  `);
-  return db;
+if (!url || !serviceKey) {
+  throw new Error(
+    "Missing SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY. Run `vercel env pull` first.",
+  );
 }
+
+const db = createClient(url, serviceKey, {
+  auth: { persistSession: false, autoRefreshToken: false },
+});
+
+const TABLE = "lifafas";
 
 export type Lifafa = {
   slug: string;
@@ -74,7 +46,7 @@ export type Lifafa = {
   isBlocked: boolean;
 };
 
-type Row = Record<string, string | number | null>;
+type Row = Record<string, unknown>;
 
 const hydrate = (r: Row): Lifafa => ({
   slug: String(r.slug),
@@ -83,89 +55,87 @@ const hydrate = (r: Row): Lifafa => ({
   receiverName: String(r.receiver_name),
   salutation: String(r.salutation),
   message: String(r.message),
-  occasion: r.occasion === null ? null : String(r.occasion),
+  occasion: r.occasion == null ? null : String(r.occasion),
   customHeading: String(r.custom_heading ?? ""),
   amountPaise: Number(r.amount_paise),
-  notes: JSON.parse(String(r.notes)) as number[],
-  coin: Number(r.coin) === 1,
-  payeeVpa: r.payee_vpa === null ? null : String(r.payee_vpa),
+  notes: (r.notes ?? []) as number[],
+  coin: Boolean(r.coin),
+  payeeVpa: r.payee_vpa == null ? null : String(r.payee_vpa),
   designId: String(r.design_id),
   paletteId: String(r.palette_id),
   textureId: String(r.texture_id),
-  sweetId: r.sweet_id === null ? null : String(r.sweet_id),
-  utr: r.utr === null ? null : String(r.utr),
+  sweetId: r.sweet_id == null ? null : String(r.sweet_id),
+  utr: r.utr == null ? null : String(r.utr),
   paymentMarked: String(r.payment_marked) as Lifafa["paymentMarked"],
-  openedAt: r.opened_at === null ? null : String(r.opened_at),
-  isBlocked: Number(r.is_blocked) === 1,
+  openedAt: r.opened_at == null ? null : String(r.opened_at),
+  isBlocked: Boolean(r.is_blocked),
 });
 
 /* SPEC S3 — nanoid, never sequential. Two SEPARATE tokens: knowing the public
    slug must tell you nothing about the owner token. */
-export function createLifafa(v: CreateParsed) {
+export async function createLifafa(v: CreateParsed) {
   const slug = nanoid(16);
   const ownerToken = nanoid(24);
-  conn()
-    .prepare(
-      `insert into lifafas
-       (slug, owner_token, lang, sender_name, receiver_name, salutation,
-        message, occasion, custom_heading, amount_paise, notes, coin,
-        payee_vpa, design_id, palette_id, texture_id, sweet_id)
-       values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)`,
-    )
-    .run(
-      slug,
-      ownerToken,
-      v.lang,
-      v.senderName,
-      v.receiverName,
-      v.salutation,
-      v.message,
-      v.occasion,
-      v.customHeading,
-      v.amountPaise,
-      JSON.stringify(v.notes),
-      v.coin ? 1 : 0,
-      v.payeeVpa,
-      v.designId,
-      v.paletteId,
-      v.textureId,
-      v.sweetId,
-    );
+
+  const { error } = await db.from(TABLE).insert({
+    slug,
+    owner_token: ownerToken,
+    lang: v.lang,
+    sender_name: v.senderName,
+    receiver_name: v.receiverName,
+    salutation: v.salutation,
+    message: v.message,
+    occasion: v.occasion,
+    custom_heading: v.customHeading,
+    amount_paise: v.amountPaise,
+    notes: v.notes,
+    coin: v.coin,
+    payee_vpa: v.payeeVpa,
+    design_id: v.designId,
+    palette_id: v.paletteId,
+    texture_id: v.textureId,
+    sweet_id: v.sweetId,
+  });
+
+  if (error) throw new Error(`create failed: ${error.message}`);
   return { slug, ownerToken };
 }
 
-export function bySlug(slug: string): Lifafa | null {
-  const r = conn().prepare("select * from lifafas where slug = ?").get(slug) as Row | undefined;
-  return r ? hydrate(r) : null;
+export async function bySlug(slug: string): Promise<Lifafa | null> {
+  const { data } = await db.from(TABLE).select("*").eq("slug", slug).maybeSingle();
+  return data ? hydrate(data as Row) : null;
 }
 
-export function byOwnerToken(token: string): Lifafa | null {
-  const r = conn()
-    .prepare("select * from lifafas where owner_token = ?")
-    .get(token) as Row | undefined;
-  return r ? hydrate(r) : null;
+export async function byOwnerToken(token: string): Promise<Lifafa | null> {
+  const { data } = await db.from(TABLE).select("*").eq("owner_token", token).maybeSingle();
+  return data ? hydrate(data as Row) : null;
 }
 
-export function markOpened(slug: string) {
+export async function markOpened(slug: string) {
   // First open only — the receiver reloading must not reset it.
-  conn()
-    .prepare("update lifafas set opened_at = datetime('now') where slug = ? and opened_at is null")
-    .run(slug);
+  await db
+    .from(TABLE)
+    .update({ opened_at: new Date().toISOString() })
+    .eq("slug", slug)
+    .is("opened_at", null);
 }
 
-/* SPEC S4 — write-once. The `payment_marked = 'unknown'` guard in the WHERE
-   clause is what makes it write-once: a second attempt matches no rows.
-   Returns false when it changed nothing, so the caller can 409. */
-export function markPayment(
+/* SPEC S4 — write-once. The `payment_marked = 'unknown'` filter is what makes
+   it write-once: a second attempt matches no rows and changes nothing.
+   Returns false when nothing changed, so the caller can 409.
+   Note this can NEVER touch payee_vpa, amount, the names or the message. */
+export async function markPayment(
   ownerToken: string,
   paymentMarked: "paid" | "skipped",
   utr: string | null,
-): boolean {
-  const res = conn()
-    .prepare(
-      `update lifafas set payment_marked = ?, utr = ?
-       where owner_token = ? and payment_marked = 'unknown'`,
-    )
-    .run(paymentMarked, utr, ownerToken);
-  return Number(res.changes) > 0;
+): Promise<boolean> {
+  const { data, error } = await db
+    .from(TABLE)
+    .update({ payment_marked: paymentMarked, utr })
+    .eq("owner_token", ownerToken)
+    .eq("payment_marked", "unknown")
+    .select("slug");
+
+  if (error) throw new Error(`mark failed: ${error.message}`);
+  return (data?.length ?? 0) > 0;
 }
