@@ -1,16 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import Lifafa from "@/components/Lifafa";
+import LifafaReveal from "@/components/LifafaReveal";
 import { bySlug, markOpened } from "@/lib/db";
-import {
-  rupees,
-  type Coin,
-  type EnvelopeColour,
-  type EnvelopeStyle,
-  type Mithai,
-  type Occasion,
-} from "@/lib/options";
+import { rupees } from "@/lib/limits";
+import { toEnvelope } from "@/lib/toEnvelope";
 
 // SPEC S9 — individual lifafas must never be indexed.
 export const metadata: Metadata = { robots: { index: false, follow: false } };
@@ -42,23 +36,18 @@ export default async function ReceiverPage({
 
   return (
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">
-      <div className="rounded-2xl bg-night px-5 py-10">
-        <Lifafa
-          data={{
-            style: l.envelopeStyle as EnvelopeStyle,
-            colour: l.envelopeColour as EnvelopeColour,
-            mithai: l.mithai as Mithai | null,
-            coin: l.coin as Coin | null,
-            occasion: l.occasion as Occasion | null,
-            customHeading: l.customHeading,
-            receiverName: l.receiverName,
-            senderName: l.senderName,
-            message: l.message,
-            amountPaise: l.amountPaise,
-          }}
-          showAmount
-        />
+      <div className="rounded-2xl bg-[radial-gradient(120%_80%_at_50%_-10%,#3a1a1c_0%,transparent_60%),#140c0b] px-2 py-6">
+        <LifafaReveal s={toEnvelope(l)} />
       </div>
+
+      <p className="mt-6 text-center text-sm text-ink-soft">
+        From {l.senderName}
+      </p>
+      {l.message.trim() && (
+        <p className="mt-3 whitespace-pre-wrap rounded-xl border border-ivory-edge bg-white/70 p-5 text-center leading-relaxed text-ink">
+          {l.message}
+        </p>
+      )}
 
       <div className="mt-8 space-y-4 rounded-xl border border-ivory-edge bg-white/70 p-5">
         <div>

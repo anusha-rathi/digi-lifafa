@@ -1,7 +1,7 @@
 import Link from "next/link";
 import DriftingLifafas from "@/components/DriftingLifafas";
-import Lifafa from "@/components/Lifafa";
-import { OCCASIONS } from "@/lib/options";
+import LifafaReveal from "@/components/LifafaReveal";
+import { OCCASION_LIST } from "@/lib/design";
 import { POSTS } from "@/lib/posts";
 
 const STEPS = [
@@ -79,19 +79,21 @@ export default function Home() {
 
       {/* the object itself */}
       <section className="mx-auto w-full max-w-3xl px-5 py-16">
-        <div className="rounded-3xl bg-night px-5 py-12">
-          <Lifafa
-            data={{
-              style: "jaali",
-              colour: "maroon",
-              mithai: "ladoo",
-              coin: "1",
-              occasion: "wedding",
-              receiverName: "Priya",
-              senderName: "Mummy",
-              message:
-                "बहुत बहुत बधाई! May this new chapter bring you every happiness.\nEat something sweet first.",
-              amountPaise: null,
+        <div className="rounded-3xl bg-[radial-gradient(120%_80%_at_50%_-10%,#3a1a1c_0%,transparent_60%),#140c0b] px-2 py-8">
+          <LifafaReveal
+            s={{
+              designId: "brocade-jaali",
+              paletteId: "rani",
+              textureId: "handmade",
+              notes: [500, 500, 100].map((denom, key) => ({ denom, key })),
+              coin: true,
+              sweetId: "motichoor",
+              occasionLabel: "शादी",
+              messagePeek:
+                "नई शुरुआत की बहुत-बहुत शुभकामनाएँ। हमेशा ऐसे ही खुश रहो।",
+              name: "अनन्या",
+              salutation: "प्रिय",
+              lang: "hi",
             }}
           />
         </div>
@@ -130,13 +132,13 @@ export default function Home() {
           them, or write your own — including your own heading.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-2.5">
-          {OCCASIONS.map((o) => (
+          {OCCASION_LIST.map((o) => (
             <Link
               key={o.id}
               href="/make"
               className="rounded-full border border-ivory-edge bg-white/60 px-4 py-2 text-sm text-ink-soft transition hover:border-marigold hover:text-ink"
             >
-              {o.hi} <span className="text-ink-faint">· {o.label}</span>
+              {o.hi} <span className="text-ink-faint">· {o.en}</span>
             </Link>
           ))}
         </div>

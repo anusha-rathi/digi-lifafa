@@ -2,7 +2,7 @@
 
 import QRCode from "qrcode";
 import { useEffect, useState } from "react";
-import { rupees } from "@/lib/options";
+import { rupees } from "@/lib/limits";
 
 /* SPEC 2.3 — UPI intent deep links only. No gateway, no callback, no status
    check: once the UPI app opens we are blind, by design. */

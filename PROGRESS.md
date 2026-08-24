@@ -24,6 +24,13 @@ Production persistence (Supabase) still not wired.
 - **Stage 4 (local)** — UPI intent link, Android per-app intents (GPay,
   PhonePe, Paytm), QR fallback, full-VPA pay screen, "have you paid?" with
   all three paths, write-once owner-gated UTR.
+- **The design canvas IS the app.** `/make` is the Lifafa Workbench: the
+  language gate, all 21 papers, 14 palettes, 5 textures, 32 mithai, the
+  6-denomination note stack, open/back/front 3D views, and the full
+  hi/Hinglish/English copy. Data lives in `src/lib/design.ts`, extracted
+  from `design/Main.dc.html`; the envelope is `src/components/Envelope.tsx`.
+  The stored lifafa renders through the same component, so what the receiver
+  opens is the thing that was built.
 - **Marketing site** — light theme throughout. Landing page with drifting
   lifafas, how-it-works, occasions, trust section, FAQ. `/about`,
   `/contact`, `/blog` + 6 posts, `/privacy`, `/terms`. Shared header/footer.
@@ -37,11 +44,7 @@ Production persistence (Supabase) still not wired.
   Swap the five functions in `src/lib/db.ts` for Supabase calls; everything
   else (nanoid ids, immutability, write-once UTR) moves across unchanged.
   Still needs the Supabase keys.
-- **The 21 papers / 14 palettes / 5 textures / ~30 mithai from the design
-  canvas are NOT ported into the app.** The app still has 4 styles, 5
-  colours, 4 mithai. The money model and occasion list ARE ported.
-- **The app is English-only.** The canvas is Hindi/Hinglish/English with a
-  language gate. No language concept exists in the app or the schema yet.
+- (ported — see Done)
 - Stage 5 (hardening) — no Turnstile, no rate limits, no CSP headers, no IP
   hashing. `noindex` IS done; `is_blocked` is in the schema and honoured by
   the receiver page, but there is no report route — reports go by email and

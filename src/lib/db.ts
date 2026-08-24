@@ -24,18 +24,21 @@ function conn() {
       id              integer primary key autoincrement,
       slug            text unique not null,
       owner_token     text unique not null,
+      lang            text not null default 'hi',
       sender_name     text not null,
       receiver_name   text not null,
+      salutation      text not null,
       message         text not null,
       occasion        text,
       custom_heading  text not null default '',
       amount_paise    integer not null,
       notes           text not null,
+      coin            integer not null default 0,
       payee_vpa       text not null,
-      envelope_style  text not null,
-      envelope_colour text not null,
-      mithai          text,
-      coin            text,
+      design_id       text not null,
+      palette_id      text not null,
+      texture_id      text not null,
+      sweet_id        text,
       utr             text,
       payment_marked  text not null default 'unknown',
       created_at      text not null default (datetime('now')),
@@ -50,18 +53,21 @@ function conn() {
 
 export type Lifafa = {
   slug: string;
+  lang: "hi" | "hn" | "en";
   senderName: string;
   receiverName: string;
+  salutation: string;
   message: string;
   occasion: string | null;
   customHeading: string;
   amountPaise: number;
   notes: number[];
+  coin: boolean;
   payeeVpa: string;
-  envelopeStyle: string;
-  envelopeColour: string;
-  mithai: string | null;
-  coin: string | null;
+  designId: string;
+  paletteId: string;
+  textureId: string;
+  sweetId: string | null;
   utr: string | null;
   paymentMarked: "unknown" | "paid" | "skipped";
   openedAt: string | null;
@@ -72,18 +78,21 @@ type Row = Record<string, string | number | null>;
 
 const hydrate = (r: Row): Lifafa => ({
   slug: String(r.slug),
+  lang: String(r.lang) as Lifafa["lang"],
   senderName: String(r.sender_name),
   receiverName: String(r.receiver_name),
+  salutation: String(r.salutation),
   message: String(r.message),
   occasion: r.occasion === null ? null : String(r.occasion),
   customHeading: String(r.custom_heading ?? ""),
   amountPaise: Number(r.amount_paise),
   notes: JSON.parse(String(r.notes)) as number[],
+  coin: Number(r.coin) === 1,
   payeeVpa: String(r.payee_vpa),
-  envelopeStyle: String(r.envelope_style),
-  envelopeColour: String(r.envelope_colour),
-  mithai: r.mithai === null ? null : String(r.mithai),
-  coin: r.coin === null ? null : String(r.coin),
+  designId: String(r.design_id),
+  paletteId: String(r.palette_id),
+  textureId: String(r.texture_id),
+  sweetId: r.sweet_id === null ? null : String(r.sweet_id),
   utr: r.utr === null ? null : String(r.utr),
   paymentMarked: String(r.payment_marked) as Lifafa["paymentMarked"],
   openedAt: r.opened_at === null ? null : String(r.opened_at),
@@ -98,26 +107,29 @@ export function createLifafa(v: CreateParsed) {
   conn()
     .prepare(
       `insert into lifafas
-       (slug, owner_token, sender_name, receiver_name, message, occasion,
-        custom_heading, amount_paise, notes, payee_vpa, envelope_style,
-        envelope_colour, mithai, coin)
-       values (?,?,?,?,?,?,?,?,?,?,?,?,?,?)`,
+       (slug, owner_token, lang, sender_name, receiver_name, salutation,
+        message, occasion, custom_heading, amount_paise, notes, coin,
+        payee_vpa, design_id, palette_id, texture_id, sweet_id)
+       values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)`,
     )
     .run(
       slug,
       ownerToken,
+      v.lang,
       v.senderName,
       v.receiverName,
+      v.salutation,
       v.message,
       v.occasion,
       v.customHeading,
       v.amountPaise,
       JSON.stringify(v.notes),
+      v.coin ? 1 : 0,
       v.payeeVpa,
-      v.envelopeStyle,
-      v.envelopeColour,
-      v.mithai,
-      v.coin,
+      v.designId,
+      v.paletteId,
+      v.textureId,
+      v.sweetId,
     );
   return { slug, ownerToken };
 }

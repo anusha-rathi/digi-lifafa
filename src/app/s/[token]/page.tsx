@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Lifafa from "@/components/Lifafa";
+import LifafaReveal from "@/components/LifafaReveal";
 import { byOwnerToken } from "@/lib/db";
-import type { Coin, EnvelopeColour, EnvelopeStyle, Mithai, Occasion } from "@/lib/options";
+import { toEnvelope } from "@/lib/toEnvelope";
 import PayPanel from "./PayPanel";
 
 // C1 — the pay screen lives ONLY behind the owner token, never at /l/[slug].
@@ -29,22 +29,8 @@ export default async function SenderPage({
         from your bank to theirs, and never through us.
       </p>
 
-      <div className="my-8 rounded-2xl bg-night px-5 py-8">
-        <Lifafa
-          data={{
-            style: l.envelopeStyle as EnvelopeStyle,
-            colour: l.envelopeColour as EnvelopeColour,
-            mithai: l.mithai as Mithai | null,
-            coin: l.coin as Coin | null,
-            occasion: l.occasion as Occasion | null,
-            customHeading: l.customHeading,
-            receiverName: l.receiverName,
-            senderName: l.senderName,
-            message: l.message,
-            amountPaise: l.amountPaise,
-          }}
-          showAmount
-        />
+      <div className="my-8 rounded-2xl bg-[radial-gradient(120%_80%_at_50%_-10%,#3a1a1c_0%,transparent_60%),#140c0b] px-2 py-6">
+        <LifafaReveal s={toEnvelope(l)} startOpen />
       </div>
 
       <PayPanel

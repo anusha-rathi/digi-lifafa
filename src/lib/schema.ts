@@ -1,24 +1,29 @@
 import { z } from "zod";
-import type { Coin } from "@/lib/options";
 import {
-  COINS,
+  DESIGN_LIST,
+  PALETTE_LIST,
+  TEXTURE_LIST,
+  ALL_SWEETS,
+  OCCASION_LIST,
+  SALUTATION_LIST,
+} from "@/lib/design";
+import {
   DENOMINATIONS,
-  ENVELOPE_COLOURS,
-  ENVELOPE_STYLES,
   HEADING_MAX,
   MAX_PAISE,
   MESSAGE_MAX,
   MIN_PAISE,
-  MITHAIS,
   NAME_MAX,
-  OCCASIONS,
-  ids,
   totalPaise,
-} from "@/lib/options";
+} from "@/lib/limits";
 import { cleanMessage } from "@/lib/sanitise";
 
 /* SPEC S5 — every write is validated HERE, on the server. Client validation
-   is UX. Enums come from the shared allowlists so the two cannot drift. */
+   is UX. The allowlists are the design catalogue's own ids, so a value that
+   isn't a real paper, palette, texture or mithai can never be stored. */
+
+const idsOf = (xs: readonly { id: string }[]) =>
+  xs.map((x) => x.id) as unknown as [string, ...string[]];
 
 // SPEC S5 — lowercased, trimmed, and shaped like a real VPA.
 export const vpaSchema = z
@@ -31,18 +36,21 @@ const nameSchema = z.string().trim().min(1, "Needed").max(NAME_MAX);
 
 export const createSchema = z
   .object({
+    lang: z.enum(["hi", "hn", "en"]).default("hi"),
+    designId: z.enum(idsOf(DESIGN_LIST)),
+    paletteId: z.enum(idsOf(PALETTE_LIST)),
+    textureId: z.enum(idsOf(TEXTURE_LIST)),
+    sweetId: z.enum(idsOf(ALL_SWEETS)).nullable().default(null),
+    occasion: z.enum(idsOf(OCCASION_LIST)).nullable().default(null),
+    customHeading: z.string().trim().max(HEADING_MAX).default(""),
+    salutation: z.enum(SALUTATION_LIST as [string, ...string[]]),
     senderName: nameSchema,
     receiverName: nameSchema,
     message: z.string().max(MESSAGE_MAX),
-    occasion: z.enum(ids(OCCASIONS)).nullable().default(null),
-    customHeading: z.string().trim().max(HEADING_MAX).default(""),
-    envelopeStyle: z.enum(ids(ENVELOPE_STYLES)),
-    envelopeColour: z.enum(ids(ENVELOPE_COLOURS)),
-    mithai: z.enum(ids(MITHAIS)).nullable().default(null),
-    coin: z.enum(ids(COINS)).nullable().default(null),
-    // The nek is a stack of notes, not a typed number. Only real denominations
-    // count, and the length is capped so a request can't carry a hundred
-    // thousand entries.
+    coin: z.boolean().default(false),
+    // The nek is a stack of notes, not a typed number. Only real
+    // denominations count, and the length is capped so one request can't
+    // carry a hundred thousand entries.
     notes: z
       .array(
         z
@@ -55,7 +63,12 @@ export const createSchema = z
   })
   .transform((v) => {
     const { text, removed } = cleanMessage(v.message);
-    return { ...v, message: text, urlsRemoved: removed, amountPaise: totalPaise(v.notes, v.coin as Coin | null) };
+    return {
+      ...v,
+      message: text,
+      urlsRemoved: removed,
+      amountPaise: totalPaise(v.notes, v.coin),
+    };
   })
   .refine((v) => v.amountPaise >= MIN_PAISE, {
     message: "Put at least one note in — an empty lifafa isn't shagun",
@@ -66,7 +79,6 @@ export const createSchema = z
     path: ["notes"],
   });
 
-export type CreateInput = z.input<typeof createSchema>;
 export type CreateParsed = z.output<typeof createSchema>;
 
 /* SPEC S4 — only these two fields are ever written after creation, each once,
