@@ -1,7 +1,8 @@
 # Progress
 
 ## Current stage
-Stage 2 — complete. Stage 3 blocked on Supabase credentials.
+Stages 2-4 built and working on localhost. Marketing site done.
+Production persistence (Supabase) still not wired.
 
 ## Done
 - **Setup** — Next.js 16 + TS + Tailwind 4 + motion (framer-motion) + zod +
@@ -14,39 +15,56 @@ Stage 2 — complete. Stage 3 blocked on Supabase credentials.
 - **Stage 0** — scaffold serves a styled page at `/`.
 - **Stage 1** — the lifafa. Fold animation, tap to open/close, coin and mithai
   reveal. `prefers-reduced-motion` cross-fades instead of skipping.
-- **Stage 2** — full builder at `/make`. Envelope style + colour picker,
-  mithai picker, coin picker, message / from / to / occasion / amount / VPA
-  fields. Live preview. All local state, no database.
+- **Stage 2** — builder at `/make`. Envelope, colour, mithai, coin, occasion,
+  names, message, and the **nek built by tapping notes in** (10/20/50/100/
+  200/500) rather than typing an amount. Live preview.
+- **Stage 3 (local)** — create/read/mark persisted in **local SQLite**
+  (`node:sqlite`, `.data/lifafa.db`). NOT production storage — see below.
+  `/l/[slug]` receiver page, `/s/[token]` sender page, share link + WhatsApp.
+- **Stage 4 (local)** — UPI intent link, Android per-app intents (GPay,
+  PhonePe, Paytm), QR fallback, full-VPA pay screen, "have you paid?" with
+  all three paths, write-once owner-gated UTR.
+- **Marketing site** — light theme throughout. Landing page with drifting
+  lifafas, how-it-works, occasions, trust section, FAQ. `/about`,
+  `/contact`, `/blog` + 6 posts, `/privacy`, `/terms`. Shared header/footer.
+- **Workbench fixes** — neg -> nek everywhere; switching occasion no longer
+  keeps the previous occasion's message; "Something else" occasion with a
+  custom heading. Same two fixes ported into `/make`.
 
 ## Not done / stubbed
-- Stage 3 (persistence) — needs Supabase keys. Nothing is persisted; a
-  refresh of `/make` loses everything.
-- Stage 4 (the money) — the pay screen and UTR capture are not built. The
-  amount and VPA fields exist in the builder but go nowhere.
-- Stage 5 (hardening) — no Turnstile, no rate limits, no CSP headers, no
-  `noindex`, no IP hashing, no `is_blocked`.
+- **Storage is local SQLite, not Supabase.** Vercel's filesystem is ephemeral
+  and per-instance, so this works on localhost and would NOT work deployed.
+  Swap the five functions in `src/lib/db.ts` for Supabase calls; everything
+  else (nanoid ids, immutability, write-once UTR) moves across unchanged.
+  Still needs the Supabase keys.
+- **The 21 papers / 14 palettes / 5 textures / ~30 mithai from the design
+  canvas are NOT ported into the app.** The app still has 4 styles, 5
+  colours, 4 mithai. The money model and occasion list ARE ported.
+- **The app is English-only.** The canvas is Hindi/Hinglish/English with a
+  language gate. No language concept exists in the app or the schema yet.
+- Stage 5 (hardening) — no Turnstile, no rate limits, no CSP headers, no IP
+  hashing. `noindex` IS done; `is_blocked` is in the schema and honoured by
+  the receiver page, but there is no report route — reports go by email and
+  the flag is flipped by hand.
 - Stage 6 (ship) — not deployed.
-- URL stripping (C6) is implemented client-side in the builder as UX only.
-  The authoritative server-side strip lands with Stage 3.
 
 ## Known bugs
-- **I could not see my own work.** The Chrome extension times out injecting
-  into `localhost:3001` — it fails on a one-line static HTML page too, so it's
-  a site-permission problem in the extension, not the app. This means Stage 1
-  and Stage 2 are **built and type-clean but visually unverified**. The fold
-  animation has never been looked at by anyone. Treat "Stage 1 done" as
-  "Stage 1 written".
-- Everything below is unverified for the same reason: 375px layout, Devanagari
-  rendering at size, reduced-motion cross-fade.
+- **I still cannot see my own work.** The Chrome extension times out
+  injecting into localhost (fails on a one-line static HTML page too, so it
+  is a site-permission problem in the extension, not the app). The API and
+  the rendered HTML are verified by curl; **nothing has been verified
+  visually** — the fold, the 375px layout, the drifting lifafas, Devanagari
+  at size, and the reduced-motion path have never been looked at.
 
 ## Manual steps I still owe
-- [ ] **Look at `localhost:3001` yourself and tell me if the fold is any good.**
-      I have not seen it. SPEC §9 Stage 1 exit is *your* judgement anyway.
+- [ ] **Look at `localhost:3000` yourself** — the landing page, the fold, and
+      the whole make -> pay -> share flow. I have not seen any of it.
 - [ ] Grant the Chrome extension permission on `localhost` so I can screenshot
       my own UI (extension settings → site permissions). Without this the
       visual loop in OPERATIONS §3 doesn't work.
-- [ ] **Open `192.168.1.8:3001/spike` on an iPhone AND an Android phone.**
-      Report what happens on each. Everything downstream depends on this. (C3)
+- [ ] **Open `192.168.1.8:3000` on an iPhone AND an Android phone**, make a
+      real lifafa and try to pay yourself ₹10. This is C3, still unrun, and
+      it is still the thing that can invalidate the pay screen's design.
 - [ ] Create Supabase project
 - [ ] Copy URL, anon key, service role key into `.env.local`
 - [ ] Generate `IP_HASH_SALT` (C8): `openssl rand -hex 32`
@@ -58,6 +76,8 @@ Stage 2 — complete. Stage 3 blocked on Supabase credentials.
       want the design pass to match actual paper rather than my guess
 
 ## Next step
-1. Owner eyeballs Stage 1/2 at localhost:3001 (I couldn't).
-2. Owner runs `/spike` on both phones — this can invalidate Stage 4's design.
-3. Then Stage 3 (persistence), which needs the Supabase keys above.
+1. Owner looks at localhost:3000 and says what's wrong with it.
+2. Owner tests the UPI handoff on a real iPhone and a real Android.
+3. Then either: port the canvas art into the app, or swap SQLite for
+   Supabase so it can be deployed. Probably the art first — it's what makes
+   it worth deploying.

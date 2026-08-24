@@ -42,3 +42,6 @@ next-env.d.ts
 
 # keep the example, ignore the real thing
 !.env.local.example
+
+# local dev database
+/.data

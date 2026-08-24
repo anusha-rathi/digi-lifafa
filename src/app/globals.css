@@ -1,32 +1,37 @@
 @import "tailwindcss";
 
-/* Digi Lifafa design tokens.
-   Drawn from real shagun envelopes: screen-printed maroon paper, marigold,
-   gold foil stamping, peacock teal, kumkum red. See DESIGN.md.
-   Deliberately NOT cream + serif + terracotta. */
+/* Digi Lifafa design tokens. See DESIGN.md.
+   The site is light warm paper; the lifafa stage stays dark so the foil
+   catches light. Deliberately NOT cream + serif + terracotta — the accent
+   pair is marigold and peacock, and the display face is Devanagari-native. */
 @theme {
-  /* paper & ink */
-  --color-paper: #f6e9d2;
-  --color-paper-deep: #e9d6b4;
-  --color-ink: #2a1810;
-  --color-ink-soft: #6b4a37;
+  /* light site */
+  --color-ivory: #fbf7f1;
+  --color-ivory-deep: #f3ebdd;
+  --color-ivory-edge: #e6d9c4;
+  --color-ink: #4a121c;
+  --color-ink-soft: #7d5a52;
+  --color-ink-faint: #a08b81;
 
-  /* the stage the envelope sits on — dark, so the foil catches light */
+  /* the dark stage the envelope sits on */
   --color-night: #17090e;
   --color-night-soft: #24121a;
+
+  /* paper inside the envelope */
+  --color-paper: #f6e9d2;
+  --color-paper-deep: #e9d6b4;
 
   /* saturated print colours */
   --color-maroon: #7b1e2b;
   --color-maroon-deep: #4e0f1a;
   --color-kumkum: #c42b1c;
-  --color-marigold: #e8a33d;
-  --color-marigold-deep: #c9761c;
+  --color-marigold: #e09112;
+  --color-marigold-soft: #f2b84b;
   --color-peacock: #0f6e5c;
-  --color-peacock-deep: #084a3e;
+  --color-peacock-soft: #2f9880;
   --color-indigo: #2b3a67;
 
-  /* gold foil — three stops so it can gradient like real stamping */
-  --color-foil: #c9a227;
+  --color-foil: #b8912f;
   --color-foil-hi: #f4dc8c;
   --color-foil-lo: #8a6b12;
 
@@ -35,30 +40,25 @@
 }
 
 html {
-  background: var(--color-night);
+  background: var(--color-ivory);
 }
 
 body {
-  background:
-    radial-gradient(
-      ellipse 80% 60% at 50% 0%,
-      var(--color-night-soft) 0%,
-      transparent 70%
-    ),
-    var(--color-night);
-  color: var(--color-paper);
+  background: var(--color-ivory);
+  color: var(--color-ink);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
 }
 
-/* visible keyboard focus everywhere — quality floor, SPEC §7 */
+/* visible keyboard focus everywhere — quality floor, SPEC section 7 */
 :focus-visible {
   outline: 2px solid var(--color-marigold);
   outline-offset: 3px;
   border-radius: 2px;
 }
 
-/* paper grain, so the envelope doesn't read as flat vector */
+/* paper grain. Kept cheap on purpose: the first version (120px tile,
+   3 octaves, mix-blend-mode on five layers) pegged the renderer. */
 .grain {
   position: relative;
 }
@@ -71,11 +71,66 @@ body {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2'/%3E%3C/filter%3E%3Crect width='64' height='64' filter='url(%23n)' opacity='0.45'/%3E%3C/svg%3E");
 }
 
+/* the lifafas drifting upar-neeche behind the hero */
+@keyframes drift {
+  0%,
+  100% {
+    transform: translateY(0) rotate(var(--tilt, 0deg));
+  }
+  50% {
+    transform: translateY(var(--rise, -22px)) rotate(calc(var(--tilt, 0deg) * -1));
+  }
+}
+
+.drift {
+  animation: drift var(--dur, 9s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+
 @media (prefers-reduced-motion: reduce) {
+  .drift {
+    animation: none;
+  }
   *,
   *::before,
   *::after {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+/* long-form pages: about, blog posts, privacy, terms */
+.prose p {
+  margin-bottom: 1.15rem;
+  line-height: 1.75;
+  color: var(--color-ink-soft);
+}
+.prose h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--color-ink);
+  margin: 2.25rem 0 0.85rem;
+}
+.prose h3 {
+  font-weight: 600;
+  color: var(--color-ink);
+  margin: 1.75rem 0 0.6rem;
+}
+.prose ul {
+  margin: 0 0 1.15rem 1.1rem;
+  list-style: disc;
+}
+.prose li {
+  margin-bottom: 0.45rem;
+  line-height: 1.7;
+  color: var(--color-ink-soft);
+}
+.prose strong {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+.prose a {
+  color: var(--color-peacock);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }

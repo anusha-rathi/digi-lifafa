@@ -5,6 +5,7 @@ import { useState } from "react";
 import { CoinArt, MithaiArt, PatternDefs, patternFill } from "@/components/art";
 import {
   colourOf,
+  occasionOf,
   rupees,
   type Coin,
   type EnvelopeColour,
@@ -22,14 +23,8 @@ export type LifafaData = {
   senderName: string;
   receiverName: string;
   occasion: Occasion | null;
+  customHeading?: string;
   amountPaise: number | null;
-};
-
-const OCCASION_LINE: Record<Occasion, string> = {
-  wedding: "शुभ विवाह",
-  diwali: "शुभ दीपावली",
-  rakhi: "शुभ रक्षाबंधन",
-  birthday: "जन्मदिन मुबारक",
 };
 
 /* Geometry in a 100 × 130 unit envelope. The flap is the top 48 units and
@@ -92,6 +87,9 @@ export default function Lifafa({
   const reduce = useReducedMotion();
 
   const c = colourOf(data.colour);
+  const occ = occasionOf(data.occasion);
+  const heading =
+    occ?.id === "custom" ? data.customHeading?.trim() || "" : occ?.hi ?? "";
 
   // Reduced motion still reveals — it cross-fades instead of folding. SPEC §7.
   const flap = reduce
@@ -126,12 +124,12 @@ export default function Lifafa({
           {...rise(0.18)}
         >
           <div className="grain rounded-[3px] bg-paper px-4 py-5 text-ink shadow-[0_18px_40px_-12px_rgba(0,0,0,0.7)]">
-            {data.occasion && (
+            {heading && (
               <p
                 className="mb-1 text-center text-[11px] tracking-[0.25em] uppercase"
                 style={{ color: c.paper }}
               >
-                {OCCASION_LINE[data.occasion]}
+                {heading}
               </p>
             )}
             <p className="font-display text-center text-lg leading-tight" style={{ color: c.deep }}>
