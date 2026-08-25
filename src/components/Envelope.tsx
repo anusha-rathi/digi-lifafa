@@ -24,7 +24,6 @@ export type EnvelopeState = {
   notes: { denom: number; key: number }[];
   coin: boolean;
   sweetId: string | null;
-  photoUrl?: string | null;
   borderId?: string | null;
   motifId?: string | null;
   occasionLabel: string;
@@ -230,17 +229,6 @@ export default function Envelope({
                   boxShadow: `inset 1px 0 0 ${pal.lace}`,
                 }}
               />
-
-              {/* a photo, tucked in behind everything like a real one */}
-              {s.photoUrl && (
-                <div
-                  style={{ animationDelay: "1.35s" }}
-                  className="lf-slip absolute right-[10px] bottom-[92px] h-[70px] w-[62px] rotate-[6deg] overflow-hidden rounded-[2px] border-[3px] border-b-[10px] border-[#fbf6ea] shadow-[0_4px_10px_rgba(0,0,0,.4)]"
-                >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={s.photoUrl} alt="" className="h-full w-full object-cover" />
-                </div>
-              )}
 
               {/* the message slip */}
               {hasMessage && (
@@ -508,13 +496,6 @@ export default function Envelope({
                 </p>
               </div>
             ) : null}
-
-            {s.photoUrl && (
-              <div className="mt-4 overflow-hidden rounded-xl border-[6px] border-b-[22px] border-[#fbf6ea] shadow-md">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={s.photoUrl} alt="A photo tucked into the lifafa" className="w-full" />
-              </div>
-            )}
 
             {/* the mithai */}
             {sweet ? (

@@ -37,31 +37,7 @@ export default function Privacy() {
             A one-way salted hash of your IP address, used only to stop abuse.
             The raw address is never stored.
           </li>
-          <li>
-            A photo, only if you choose to add one. See below.
-          </li>
         </ul>
-
-        <h2>Photos, and exactly how private they are</h2>
-        <p>
-          If you tuck a photo into a lifafa, it goes into private storage. It
-          sits in no folder anyone can browse, it has no address that works on
-          its own, and our server only ever sends it to somebody who is already
-          opening your lifafa.
-        </p>
-        <p>
-          <strong>It is exactly as private as your link.</strong> Anyone you
-          send the link to can see the photo, and so can anyone they forward it
-          to. We are not going to call it encrypted or say only you can see it,
-          because neither is true.
-        </p>
-        <p>
-          Phone photos carry the place and time they were taken. We strip that
-          on our server before saving, so whoever opens your lifafa cannot read
-          where you were. We can see the photo, because we store it, and we do
-          not look at it unless somebody reports the lifafa. Delete it from your
-          lifafa page and it is deleted from our storage.
-        </p>
 
         <h2>What we never collect</h2>
         <ul>
@@ -72,7 +48,7 @@ export default function Privacy() {
             payment credential. We never see them, because you pay inside your
             own UPI app.
           </li>
-          <li>Payment screenshots.</li>
+          <li>Payment screenshots, or photographs of any kind. You cannot upload an image here at all.</li>
           <li>Your location, contacts, or anything from your device.</li>
         </ul>
 

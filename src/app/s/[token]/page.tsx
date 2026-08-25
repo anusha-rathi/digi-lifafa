@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import LifafaReveal from "@/components/LifafaReveal";
-import PhotoPanel from "@/components/PhotoPanel";
 import SharePanel from "@/components/SharePanel";
 import { byOwnerToken } from "@/lib/db";
 import { COPY } from "@/lib/design";
@@ -56,7 +55,6 @@ export default async function SenderPage({
         />
       )}
 
-      <PhotoPanel token={token} slug={l.slug} hasPhoto={!!l.photoKey} />
     </main>
   );
 }

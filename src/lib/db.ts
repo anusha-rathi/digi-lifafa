@@ -42,7 +42,6 @@ export type Lifafa = {
   borderId: string | null;
   motifId: string | null;
   celebrationId: string | null;
-  photoKey: string | null;
   sweetId: string | null;
   utr: string | null;
   paymentMarked: "unknown" | "paid" | "skipped";
@@ -71,7 +70,6 @@ const hydrate = (r: Row): Lifafa => ({
   borderId: r.border_id == null ? null : String(r.border_id),
   motifId: r.motif_id == null ? null : String(r.motif_id),
   celebrationId: r.celebration_id == null ? null : String(r.celebration_id),
-  photoKey: r.photo_key == null ? null : String(r.photo_key),
   sweetId: r.sweet_id == null ? null : String(r.sweet_id),
   utr: r.utr == null ? null : String(r.utr),
   paymentMarked: String(r.payment_marked) as Lifafa["paymentMarked"],
@@ -151,48 +149,12 @@ export async function markPayment(
   return (data?.length ?? 0) > 0;
 }
 
-export const PHOTO_BUCKET = "lifafa-photos";
-
-/* SPEC S4 again: write-once, owner-gated. The `.is("photo_key", null)` filter
-   is what makes it write-once, the same trick markPayment uses. */
-export async function attachPhoto(ownerToken: string, key: string): Promise<boolean> {
-  const { data, error } = await db
-    .from(TABLE)
-    .update({ photo_key: key })
-    .eq("owner_token", ownerToken)
-    .is("photo_key", null)
-    .select("slug");
-  if (error) throw new Error(`attach failed: ${error.message}`);
-  return (data?.length ?? 0) > 0;
-}
-
-/** The sender's escape hatch. Removes the object as well as the reference. */
-export async function clearPhoto(ownerToken: string): Promise<string | null> {
-  const row = await byOwnerToken(ownerToken);
-  if (!row?.photoKey) return null;
-  await db.storage.from(PHOTO_BUCKET).remove([row.photoKey]);
-  await db.from(TABLE).update({ photo_key: null }).eq("owner_token", ownerToken);
-  return row.photoKey;
-}
-
-export async function putPhoto(key: string, bytes: Buffer) {
-  const { error } = await db.storage
-    .from(PHOTO_BUCKET)
-    .upload(key, bytes, { contentType: "image/jpeg", upsert: false });
-  if (error) throw new Error(`upload failed: ${error.message}`);
-}
-
-export async function getPhoto(key: string): Promise<ArrayBuffer | null> {
-  const { data, error } = await db.storage.from(PHOTO_BUCKET).download(key);
-  if (error || !data) return null;
-  return data.arrayBuffer();
-}
-
-/* A public link plus a user-supplied image needs a kill switch. A report on a
-   lifafa that carries a photo blocks it immediately: text is already capped at
-   500 characters with links stripped, so an image is the only thing here that
-   can do real harm while somebody waits for a human. Unblocking is one click
-   in the Supabase dashboard. */
+/* A report flags a lifafa for a human to look at. It deliberately does NOT
+   block on its own: the only user content here is 500 characters of text with
+   links already stripped, so nothing can do irreversible harm while somebody
+   catches up, and auto-blocking on a single report would hand anyone holding a
+   link a way to take down someone else's rakhi envelope.
+   Blocking is a manual `is_blocked = true` in the Supabase dashboard. */
 export async function reportLifafa(slug: string): Promise<boolean> {
   const row = await bySlug(slug);
   if (!row) return false;
@@ -201,7 +163,6 @@ export async function reportLifafa(slug: string): Promise<boolean> {
     .update({
       reported_at: new Date().toISOString(),
       report_count: (await countReports(slug)) + 1,
-      ...(row.photoKey ? { is_blocked: true } : {}),
     })
     .eq("slug", slug);
   if (error) throw new Error(`report failed: ${error.message}`);

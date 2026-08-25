@@ -50,9 +50,8 @@ export default function Contact() {
         <div className="rounded-xl border border-kumkum/30 bg-kumkum/5 p-6">
           <h2 className="font-display text-2xl text-maroon">Reporting a lifafa</h2>
           <p className="mt-2 text-[15px] leading-relaxed text-ink-soft">
-            There is a report link at the bottom of every lifafa, and using it
-            is the fastest route: a reported lifafa that carries a photo is
-            blocked straight away. If you would rather write, send the link to{" "}
+            There is a report link at the bottom of every lifafa, which flags
+            it for us to look at. If it is urgent, send the link to{" "}
             <a href={`mailto:${HELLO}`} className="text-peacock underline underline-offset-2">
               {HELLO}
             </a>{" "}
@@ -77,9 +76,7 @@ export default function Contact() {
         <div className="rounded-xl border border-ivory-edge bg-white/60 p-6">
           <h2 className="font-display text-2xl text-maroon">Deleting something</h2>
           <p className="mt-2 text-[15px] leading-relaxed text-ink-soft">
-            Want a lifafa you made taken down, or a photo removed? A photo you
-            can delete yourself from your own lifafa page. For anything else,
-            email us the link. See the{" "}
+            Want a lifafa you made taken down? Email us the link. See the{" "}
             <Link href="/privacy" className="text-peacock underline underline-offset-2">
               privacy policy
             </Link>{" "}
