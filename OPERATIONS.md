@@ -289,3 +289,26 @@ Before Stage 0:
 - [ ] `DESIGN.md` exported from Stitch (can wait until Stage 1)
 
 Then open Claude Code and run `/stage 0`.
+
+## Deploys stop silently if the commit author is not a GitHub account
+
+Vercel refuses to build a commit whose author email it cannot tie to a GitHub
+account with access to the project. It reports this as `GitHub couldn't verify
+an account for the commit` and `Deployment was blocked`, and it does not fail
+loudly anywhere you would normally look: pushes succeed, GitHub shows the
+commit, and the live site simply keeps serving the last commit that did build.
+Two commits sat blocked this way on 25 August 2026 while the site looked
+unchanged.
+
+The cause is git's fallback identity. With no `user.email` configured, git
+invents one from the machine hostname, and
+`anusharathi@minakshis-MacBook-Air.local` belongs to nobody.
+
+This repo is pinned to the account's GitHub noreply address, which is always
+tied to the account:
+
+    git config user.email "281120878+anusha-rathi@users.noreply.github.com"
+
+To check a deploy actually ran rather than assuming a push means a deploy:
+
+    gh api repos/anusha-rathi/digi-lifafa/commits/HEAD/status --jq .state
