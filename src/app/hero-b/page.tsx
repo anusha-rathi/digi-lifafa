@@ -1,5 +1,5 @@
 import Link from "next/link";
-import HeroDark from "@/components/HeroDark";
+import HeroPaper from "@/components/HeroPaper";
 import { OCCASION_LIST } from "@/lib/design";
 import { POSTS } from "@/lib/posts";
 
@@ -44,10 +44,10 @@ const FAQ = [
   },
 ];
 
-export default function Home() {
+export default function HeroBPreview() {
   return (
     <main className="flex-1">
-      <HeroDark />
+      <HeroPaper />
 
       {/* how it works */}
       <section className="border-y border-ivory-edge/70 bg-ivory-deep/40">

@@ -35,7 +35,9 @@
   --color-foil-hi: #f4dc8c;
   --color-foil-lo: #8a6b12;
 
-  --font-display: var(--font-yatra), Georgia, serif;
+  --font-display: var(--font-martel), Georgia, serif;
+  /* Yatra One survives as the wordmark only, where a logotype can be quirky. */
+  --font-wordmark: var(--font-yatra), Georgia, serif;
   --font-body: var(--font-mukta), system-ui, sans-serif;
 }
 
@@ -161,4 +163,89 @@ body {
   font-size: 1.2rem;
   line-height: 1.62;
   color: var(--color-ink);
+}
+/* ── Lifafa Workbench motion, ported from the design canvas ────────────── */
+@keyframes lf-fly {
+  0%   { transform: translate(0, 320px) rotate(16deg) scale(.86); opacity: 0; }
+  55%  { opacity: 1; }
+  72%  { transform: var(--r) scale(1.04); }
+  100% { transform: var(--r); opacity: 1; }
+}
+@keyframes lf-coin {
+  0%   { transform: translateY(-170px) rotateY(0deg) scale(.7); opacity: 0; }
+  40%  { opacity: 1; }
+  100% { transform: translateY(0) rotateY(720deg) scale(1); opacity: 1; }
+}
+@keyframes lf-tuck {
+  0%   { transform: translate(-60px, 90px) rotate(-24deg); opacity: 0; }
+  100% { transform: translate(0, 0) rotate(-6deg); opacity: 1; }
+}
+@keyframes lf-slip {
+  0%   { transform: translate(40px, 110px) rotate(18deg); opacity: 0; }
+  100% { transform: rotate(7deg); opacity: 1; }
+}
+@keyframes lf-glint { 0%, 100% { opacity: .2 } 50% { opacity: .6 } }
+@keyframes lf-rise { from { transform: translateY(10px); opacity: 0 } to { transform: translateY(0); opacity: 1 } }
+
+.lf-fly   { animation: lf-fly .78s cubic-bezier(.2,.85,.25,1) both; }
+.lf-coin  { animation: lf-coin 1s cubic-bezier(.2,.8,.3,1) both; }
+.lf-tuck  { animation: lf-tuck .8s cubic-bezier(.2,.85,.25,1) both; }
+.lf-slip  { animation: lf-slip .7s cubic-bezier(.2,.85,.25,1) both; }
+.lf-glint { animation: lf-glint 3.6s ease-in-out infinite; }
+.lf-rise  { animation: lf-rise .3s ease both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .lf-fly, .lf-coin, .lf-tuck, .lf-slip, .lf-rise { animation-duration: .35s !important; }
+  .lf-glint { animation: none; opacity: .45; }
+}
+
+/* The dark ground the lifafa is designed against — cream text, gold foil and
+   saturated paper all depend on it. Written as a real class because Tailwind
+   compiles `bg-[radial-gradient(...)]` to `background-color:`, which is
+   invalid for a gradient and gets dropped by the browser. */
+/* body carries it too, so a short page has no ivory gap under the fold */
+body:has(.lf-stage) {
+  background: #140c0b;
+}
+
+.lf-stage {
+  background:
+    radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
+    radial-gradient(90% 60% at 50% 110%, #2a1112 0%, transparent 55%),
+    #140c0b;
+  color: #f2e3d3;
+}
+
+/* The same ground, as an inset panel on a light page. */
+.lf-panel {
+  background:
+    radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
+    #140c0b;
+  color: #f2e3d3;
+}
+
+/* The lifafa is built on fixed 330x158 geometry — the flap curves are
+   clip-path coordinates, so it cannot reflow. On narrow phones it scales
+   down instead, and the stage height scales with it so the controls below
+   don't collide. 360px Androids and the 320px SE both fit without the page
+   ever scrolling sideways. */
+.lf-fit {
+  --lf-s: 1;
+  --lf-h: 344px;
+  height: calc(var(--lf-h) * var(--lf-s));
+}
+/* Closed, there is no back flap standing up, so the stage does not need the
+   height the open view reserves for it. */
+.lf-fit--closed {
+  --lf-h: 214px;
+}
+.lf-fit > .lf-fit-inner {
+  transform: scale(var(--lf-s));
+  transform-origin: top center;
+}
+@media (max-width: 389px) {
+  .lf-fit { --lf-s: 0.92; }
+}
+@media (max-width: 359px) {
+  .lf-fit { --lf-s: 0.82; }
 }

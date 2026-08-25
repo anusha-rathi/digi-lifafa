@@ -9,9 +9,11 @@ import { COPY, type Lang } from "@/lib/design";
 export default function LifafaReveal({
   s,
   hint,
+  onDark = false,
 }: {
   s: EnvelopeState;
   hint?: string;
+  onDark?: boolean;
 }) {
   const [open, setOpen] = useState(false);
   const t = COPY[s.lang as Lang];
@@ -31,12 +33,12 @@ export default function LifafaReveal({
       <button
         type="button"
         onClick={() => setOpen((v) => !v)}
-        className="rounded-full border border-ivory-edge bg-white/70 px-6 py-2.5 font-display text-lg text-maroon transition hover:border-maroon"
+        className={`rounded-full border px-6 py-2.5 font-display text-lg transition ${onDark ? "border-[#e8c37a]/45 bg-transparent text-[#f2dcae] hover:border-[#e8c37a]" : "border-ivory-edge bg-white/70 text-maroon hover:border-maroon"}`}
       >
         {open ? t.sealOpen : t.sealClose}
       </button>
 
-      <p className="text-[12px] text-ink-faint">
+      <p className={`text-[12px] ${onDark ? "text-[#8d7461]" : "text-ink-faint"}`}>
         {open
           ? (hint ??
             (s.lang === "hi"

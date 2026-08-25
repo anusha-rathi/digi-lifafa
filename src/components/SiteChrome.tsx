@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const NAV = [
   { href: "/make", label: "Make a lifafa" },
@@ -8,10 +11,21 @@ const NAV = [
 ];
 
 export function SiteHeader() {
+  // The landing hero is a dark stage. An ivory bar sitting on top of it reads
+  // as broken chrome, so the header follows the page it is on.
+  const p = usePathname();
+  const dark = p === "/";
+
   return (
-    <header className="sticky top-0 z-50 border-b border-ivory-edge/70 bg-ivory/85 backdrop-blur">
+    <header
+      className={
+        dark
+          ? "sticky top-0 z-50 border-b border-[#e8c37a]/15 bg-[#17090e]/90 backdrop-blur"
+          : "sticky top-0 z-50 border-b border-ivory-edge/70 bg-ivory/85 backdrop-blur"
+      }
+    >
       <div className="mx-auto flex w-full max-w-5xl flex-col gap-1.5 px-5 py-2.5 sm:flex-row sm:items-center sm:justify-between sm:gap-4 sm:py-3">
-        <Link href="/" className="font-display text-xl leading-none text-maroon">
+        <Link href="/" className={`text-xl leading-none [font-family:var(--font-wordmark)] ${dark ? "text-[#f2dcae]" : "text-maroon"}`}>
           डिजि लिफ़ाफ़ा
         </Link>
         <nav className="-mx-2 flex flex-wrap items-center gap-x-0.5 text-[13px] sm:mx-0 sm:gap-1 sm:text-sm">
@@ -19,7 +33,7 @@ export function SiteHeader() {
             <Link
               key={n.href}
               href={n.href}
-              className="rounded-full px-2.5 py-1.5 text-ink-soft transition hover:bg-ivory-deep hover:text-ink sm:px-3"
+              className={`rounded-full px-2.5 py-1.5 transition sm:px-3 ${dark ? "text-[#c9ab8c] hover:bg-white/5 hover:text-[#f6e9d6]" : "text-ink-soft hover:bg-ivory-deep hover:text-ink"}`}
             >
               {n.label}
             </Link>
@@ -36,7 +50,7 @@ export function SiteFooter() {
       <div className="mx-auto w-full max-w-5xl px-5 py-10">
         <div className="flex flex-wrap gap-x-10 gap-y-6">
           <div className="min-w-[200px] flex-1">
-            <p className="font-display text-lg text-maroon">डिजि लिफ़ाफ़ा</p>
+            <p className="text-lg text-maroon [font-family:var(--font-wordmark)]">डिजि लिफ़ाफ़ा</p>
             <p className="mt-1.5 max-w-xs text-sm leading-relaxed text-ink-soft">
               A shagun ka lifafa you can send as a link. The paper is ours; the
               money stays entirely between you and them.
