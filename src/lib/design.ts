@@ -363,19 +363,65 @@ export const occasionById = (id: string | null) =>
 
 /* Compose the paper: texture layer over pattern layer over the base colour —
    exactly the order the canvas uses. */
-/* Relative luminance of the paper, so the highlight layer can flip from white
-   to a dark tint instead of disappearing on pale papers. */
-function isPale(hex: string) {
+/* Palettes carry a motif colour (`lace`) chosen by eye, and by eye alone it
+   swings from 7.8:1 contrast on aubergine down to 2.0:1 on blush, where white
+   on pink is very nearly invisible. That is why a pattern looked like it
+   "vanished" when you changed the colour: the design was still selected, it
+   just had nothing left to show against the paper.
+
+   So the motif is never used raw. It is pushed away from the paper until it
+   clears a floor, which keeps all 21 papers legible on all 14 colours. */
+
+const srgb = (c: number) => {
+  const v = c / 255;
+  return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
+};
+
+const rgb = (hex: string) => {
   const n = parseInt(hex.slice(1), 16);
-  const [r, g, b] = [(n >> 16) & 255, (n >> 8) & 255, n & 255];
-  return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 > 0.6;
+  return [(n >> 16) & 255, (n >> 8) & 255, n & 255] as [number, number, number];
+};
+
+const lum = (hex: string) => {
+  const [r, g, b] = rgb(hex);
+  return 0.2126 * srgb(r) + 0.7152 * srgb(g) + 0.0722 * srgb(b);
+};
+
+const contrast = (a: string, b: string) => {
+  const [hi, lo] = [lum(a), lum(b)].sort((x, y) => y - x);
+  return (hi + 0.05) / (lo + 0.05);
+};
+
+const hex = (n: number) => Math.max(0, Math.min(255, Math.round(n))).toString(16).padStart(2, "0");
+
+/** Blend `c` toward black or white by `t` (0 to 1). */
+const shift = (c: string, toward: 0 | 255, t: number) => {
+  const [r, g, b] = rgb(c);
+  return `#${hex(r + (toward - r) * t)}${hex(g + (toward - g) * t)}${hex(b + (toward - b) * t)}`;
+};
+
+const MIN_CONTRAST = 3.4;
+
+/** A motif colour guaranteed to read against this paper. */
+export function motifFor(lace: string, base: string) {
+  if (contrast(lace, base) >= MIN_CONTRAST) return lace;
+  // Pale paper wants a darker motif; dark paper wants a lighter one.
+  const toward: 0 | 255 = lum(base) > 0.4 ? 0 : 255;
+  for (let t = 0.15; t <= 1; t += 0.15) {
+    const c = shift(lace, toward, t);
+    if (contrast(c, base) >= MIN_CONTRAST) return c;
+  }
+  return toward === 0 ? "#241a10" : "#fff6e2";
 }
+
+const isPale = (hex: string) => lum(hex) > 0.5;
 
 export function paperStyle(designId: string, paletteId: string, textureId: string) {
   const pal = paletteById(paletteId);
   const des = designById(designId);
   const tex = textureById(textureId);
-  const pat = des.f(pal.lace, pal.base, isPale(pal.base) ? "#4a3520" : "#ffffff");
+  const motif = motifFor(pal.lace, pal.base);
+  const pat = des.f(motif, pal.base, isPale(pal.base) ? "#3a2a18" : "#ffffff");
   const patImg = pat[0] === "none" ? "" : pat[0];
   const image = tex.img && patImg ? `${tex.img}, ${patImg}` : tex.img || patImg || "none";
   const size = tex.img && patImg ? `${tex.size}, ${pat[1]}` : tex.img ? tex.size : patImg ? pat[1] : "auto";

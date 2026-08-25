@@ -263,17 +263,20 @@ export default function Envelope({
                 {sweet && (
                   <div
                     {...tap()}
-                    className={`lf-tuck absolute left-5 top-[18px] h-[54px] w-[68px] ${
+                    className={`lf-tuck absolute left-4 top-[20px] h-[58px] w-[72px] ${
                       zoomable ? "cursor-zoom-in" : ""
                     }`}
                   >
-                    <div className="absolute inset-x-0 bottom-[10px] h-8 rounded-[2px] bg-[linear-gradient(160deg,#f6efdd,#d9c8a9)] shadow-[0_3px_8px_rgba(0,0,0,.45),inset_0_0_0_1px_rgba(0,0,0,.14)]" />
-                    <div className="absolute inset-x-0 bottom-[32px] h-[6px] rounded-[2px] bg-[linear-gradient(#fbf6e8,#e6d9bd)] shadow-[0_1px_2px_rgba(0,0,0,.25)]" />
-                    <div className="absolute left-[6px] top-[-11px] [filter:drop-shadow(0_2px_3px_rgba(0,0,0,.45))]">
-                      <SweetSvg shapes={sweet.sh} width={58} height={50} />
+                    {/* The mithai sits ON the dabba, not over its face, so the
+                        name below it stays readable. Geometry, top to bottom:
+                        sweet -16..32, lid 29..34, front face 34..58, name in
+                        the face at 41..53. */}
+                    <div className="absolute left-[8px] top-[-16px] [filter:drop-shadow(0_2px_3px_rgba(0,0,0,.45))]">
+                      <SweetSvg shapes={sweet.sh} width={56} height={48} />
                     </div>
-                    {/* the name, so the other person knows what you sent */}
-                    <div className="absolute inset-x-0 bottom-[13px] truncate px-1 text-center text-[8px] font-semibold tracking-[.04em] text-[#5c4326]">
+                    <div className="absolute inset-x-0 bottom-[24px] h-[5px] rounded-[2px] bg-[linear-gradient(#fbf6e8,#e6d9bd)] shadow-[0_1px_2px_rgba(0,0,0,.25)]" />
+                    <div className="absolute inset-x-0 bottom-0 h-6 rounded-[2px] bg-[linear-gradient(160deg,#f6efdd,#e2d3b6)] shadow-[0_3px_8px_rgba(0,0,0,.45),inset_0_0_0_1px_rgba(0,0,0,.14)]" />
+                    <div className="absolute inset-x-0 bottom-[5px] truncate px-[3px] text-center text-[9px] font-semibold leading-[14px] tracking-[.02em] text-[#5c4326]">
                       {sweetName}
                     </div>
                   </div>

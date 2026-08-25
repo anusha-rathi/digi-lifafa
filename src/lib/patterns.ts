@@ -85,8 +85,8 @@ export const PAPERS: PaperDesign[] = [
   ]),
 
   P("ऑर्गेंज़ा", "organza ombré", (m, _b, hi) => [
-    `repeating-linear-gradient(115deg, ${hi}3d 0 16px, transparent 16px 44px),
-     repeating-linear-gradient(115deg, ${m}22 0 4px, transparent 4px 44px)`,
+    `repeating-linear-gradient(115deg, ${hi}55 0 16px, transparent 16px 44px),
+     repeating-linear-gradient(115deg, ${m}44 0 4px, transparent 4px 44px)`,
     "auto, auto",
   ]),
 
@@ -159,7 +159,7 @@ export const PAPERS: PaperDesign[] = [
   P("जन्माष्टमी", "Janmashtami", (m) => [
     `radial-gradient(circle at 16px 7px, ${m}dd 1.7px, transparent 2.3px),
      radial-gradient(ellipse 6.5px 7.5px at 16px 15px, ${m}88 70%, transparent 72%),
-     repeating-linear-gradient(90deg, ${m}3d 0 1.2px, transparent 1.2px 32px)`,
+     repeating-linear-gradient(90deg, ${m}55 0 1.2px, transparent 1.2px 32px)`,
     "32px 30px, 32px 30px, auto",
   ]),
 
