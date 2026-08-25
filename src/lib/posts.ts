@@ -27,6 +27,131 @@ export type Post = {
 
 export const POSTS: Post[] = [
   {
+    slug: "ganesh-chaturthi-gifting",
+    title: "Ganesh Chaturthi: what to give, and why nobody writes it down",
+    date: "2026-08-25",
+    updated: "25 August 2026",
+    tag: "Festivals",
+    art: "modak",
+    excerpt:
+      "Ganesh Chaturthi 2026 is Monday 14 September. Every page that ranks for it tells you the muhurat and stops. This one covers the half about money.",
+    body: [
+      { p: "Search for Ganesh Chaturthi and you will get the same page nine times. Date, muhurat, puja vidhi, visarjan schedule. All of it correct, none of it any use on the afternoon you are standing in somebody's front room with a envelope in your bag and no idea whether ₹500 is generous or insulting." },
+      { p: "Worth knowing who is writing those pages, incidentally. On the day I checked, the results for this query were a lending app, two companies selling puja services, and a shop selling puja items. Nothing wrong with any of that, but a page whose job is to sell you a pandit is not going to spend a paragraph telling you the etiquette of handing over cash." },
+      { p: "So: the dates, then the part about money that nobody puts in writing." },
+
+      { h: "Ganesh Chaturthi 2026" },
+      { table: {
+        head: ["", "2026", "Note"],
+        rows: [
+          ["Ganesh Chaturthi", "Monday 14 September", "Sthapana, the installation"],
+          ["Madhyahna muhurat", "11:02 to 13:31", "The window for installing the idol"],
+          ["Anant Chaturdashi", "Friday 25 September", "Visarjan, the immersion"],
+        ],
+      } },
+      { note: "Muhurat timings are calculated from local sunrise and shift by city. The window above is the widely published figure; check a panchang for your own city if your family is strict about it. Dates checked 25 August 2026." },
+      { p: "The ten days between those two dates are the festival. Households keep Ganpati for a day and a half, three days, five, seven or the full ten, and which one is a family tradition rather than a choice. This matters for gifting, because it decides when you visit." },
+
+      { h: "The shape of Ganesh Chaturthi gifting" },
+      { p: "This festival is not built on cash the way Diwali and Rakhi are, and if you arrive expecting an envelope exchange you will be the only one holding one." },
+      { p: "It runs on prasad and on visiting. Somebody installs Ganpati at home, everybody else comes to see, and what changes hands is food. You arrive with something, you leave with modak. The giving is horizontal and it repeats: you will visit four houses over ten days and be fed at all of them." },
+      { h3: "So when does money change hands" },
+      { ul: [
+        "To children in the house you are visiting. Small, ₹101 or ₹251, pressed into a hand, not announced.",
+        "To the household help, the cook, the person who has been running that kitchen for ten days of visitors. This one is real and it is frequently forgotten.",
+        "To the sarvajanik mandal, the public pandal on your street, as a donation. This is the largest sum most people give at Ganesh Chaturthi and it is not shagun at all.",
+        "To a family installing Ganpati for the first time, which is treated a little like a griha pravesh.",
+      ] },
+      { p: "What you do not do is hand the hosts an envelope for having invited you. It is not a wedding. The visit is the gift in both directions." },
+
+      { h: "The pandal donation, which is its own thing" },
+      { p: "If your street or building has a sarvajanik Ganpati, somebody will come round with a receipt book. Ranges vary enormously by city and by how elaborate the mandal is, but as a rough map for a residential building or lane collection: ₹501 to ₹2,101 per household is common, and larger mandals in Mumbai and Pune run considerably higher." },
+      { p: "Two things worth knowing. Ask for the receipt, always, and keep it: registered mandals issue them and it is the normal, expected thing to do rather than a sign of distrust. And a mandal collection is a donation, not shagun, so the one-rupee rule does not apply. A flat ₹1,000 is perfectly correct here." },
+
+      { h: "Why the odd rupee, when it does apply" },
+      { p: "Anywhere you are giving to a person rather than a collection, the amount ends in one. ₹101, ₹251, ₹501, ₹1,101." },
+      { p: "The usual explanation is good luck, which is true but incomplete. A number ending in one cannot be halved. ₹500 splits into two ₹250s and the account closes; ₹501 does not, so it stays open, which is the point of giving in the first place." },
+      { p: "The other half of the reason is the one people are more careful about: even, round amounts are the convention for condolence money. Handing a round ₹500 to a child at a happy occasion puts your envelope in the wrong category. Nobody will say anything. Somebody will notice." },
+
+      { h: "What to actually take when you visit" },
+      { ul: [
+        "Modak, if you can get good ones. Ukadiche modak, the steamed kind, are the correct offering and they are also the hardest to carry, so fried ones are a completely normal substitute.",
+        "Any mithai, if not. Nobody minds.",
+        "Flowers, and durva grass if you can get it. Durva is specifically Ganesha's and a bunch costs almost nothing.",
+        "Fruit, which is what you take when the house has already been sent nine boxes of mithai and everyone knows it.",
+      ] },
+      { p: "One thing not to take: anything in a plastic box that the household will have to store for ten days while forty people visit. Their kitchen is already full." },
+
+      { h: "If you cannot visit" },
+      { p: "The visiting is most of the festival, and being in another city means missing the actual thing rather than a formality. There is no substitute and it is worth saying so plainly." },
+      { p: "What people do instead is send money for the mandal donation so their name is still on the lane's list, and send something to the household that is hosting. If you are sending money, send it before the sthapana rather than during the ten days, and say what it is for. Cash arriving with no frame is just cash. Cash arriving as “this is my share of the mandal, put my name down” is participation." },
+
+      { h: "So what should you give?" },
+      { p: "Visiting a house with Ganpati: take modak or flowers, give ₹101 to ₹251 to the children, and remember whoever has been cooking for ten days. Your building's mandal: ₹501 to ₹2,101, take the receipt, and a round number is fine there. A family installing for the first time: treat it like a housewarming and give ₹1,101." },
+      { p: "And if the whole thing is somebody else's family and you genuinely do not know: ask them. “What do people usually do?” is not a failure of preparation at a festival built entirely on visiting each other's houses. It is the correct question, and the answer is almost always “just come”." },
+    ],
+  },
+  {
+    slug: "teej-sindhara-guide",
+    title: "Teej: the sindhara, and which Teej you actually mean",
+    date: "2026-08-25",
+    updated: "25 August 2026",
+    tag: "Festivals",
+    art: "teej",
+    excerpt:
+      "There are three Teejs and they are months apart. Get that wrong and everything else on this page is wrong for you too, so it comes first.",
+    body: [
+      { p: "Somebody says “Teej is coming” and you have to work out which one they mean, because there are three and they are not close together. Every page that answers “when is Teej” by giving one date is wrong for roughly two thirds of the people reading it." },
+      { p: "Which one matters more than usual here, because the gifting is different for each. Hariyali Teej is about the sasural sending things to a married daughter. Hartalika Teej is a fast, and a fast is not an occasion for cash. Get the festival wrong and you will send exactly the wrong thing at exactly the wrong time." },
+      { p: "So: which Teej, then the sindhara, then what people actually give." },
+
+      { h: "The three Teejs" },
+      { table: {
+        head: ["Teej", "When", "What it is"],
+        rows: [
+          ["Hariyali Teej", "Shravan, around July or August", "Green, swings, the sasural's sindhara"],
+          ["Kajari Teej", "Bhadrapad, a fortnight later", "Observed mainly in UP, MP and Bihar"],
+          ["Hartalika Teej", "Bhadrapad Tritiya, around September", "A nirjala fast for Shiva and Parvati"],
+        ],
+      } },
+      { note: "Hartalika Teej 2026 is CONTESTED between Sunday 13 and Monday 14 September, because the tithi straddles sunrise and regional panchangs resolve it differently. Do not take a date off any page, including this one. Check the panchang your family actually uses, and if the household is fasting, that is the one that decides." },
+      { p: "If you are reading this because a Teej invitation arrived and you are not sure which, the tell is the colour. Hariyali Teej is green, everybody wears it, there are swings hung from trees. Hartalika Teej is a fast, quieter, and the women observing it will not have eaten or had water since the previous evening." },
+
+      { h: "The sindhara, which is the actual gifting tradition" },
+      { p: "This is the part nobody outside north India knows, and it is the whole gifting structure of Hariyali Teej." },
+      { p: "The sindhara is a parcel sent by a married woman's in-laws, or in many families by her parents, in the days before Teej. It goes to her, specifically, and it typically contains green bangles, mehendi, a saree or suit, sweets (ghevar above all), and often cash." },
+      { p: "The direction is what people get wrong. It is not a gift the guest brings to the party. It travels between two households about one woman, and it is a statement that she is looked after by both. In families that keep it properly the sindhara arriving late is noticed in the same way a forgotten Rakhi is." },
+      { h3: "Ghevar" },
+      { p: "It is worth knowing that ghevar is not incidental. It is the Teej sweet the way modak is the Ganesh Chaturthi sweet, disc-shaped, honeycombed, soaked. In Rajasthan and Haryana a sindhara without ghevar is an incomplete sindhara, and the good stuff sells out." },
+
+      { h: "What people actually give" },
+      { table: {
+        head: ["Who", "Common range", "Notes"],
+        rows: [
+          ["Sindhara cash, in-laws to daughter-in-law", "₹1,101 to ₹5,101", "Alongside the saree, bangles and ghevar, not instead of them"],
+          ["Parents to a married daughter", "₹1,101 to ₹2,101", "Often with her favourite mithai rather than the formal set"],
+          ["To a newly married woman, first Teej", "The largest of the year", "First Teej is a proper occasion and the sindhara is bigger"],
+          ["Between friends, at a Teej get-together", "₹101 to ₹501, or nothing", "Usually bangles or mehendi rather than money"],
+          ["To household help", "₹251 to ₹1,101, plus sweets", "Especially where they are also observing the fast"],
+        ],
+      } },
+      { p: "Ending in one, as always, and for the same reason: an even, round amount is what you hand over at a funeral, and a number ending in one cannot be divided in half, so the relationship stays open." },
+
+      { h: "Hartalika Teej is different, and cash sits oddly on it" },
+      { p: "Hartalika Teej is a nirjala vrat, a fast without even water, kept overnight through to the next morning's puja. It is an act of devotion, not a social occasion, and the mood of the day is nothing like Hariyali Teej." },
+      { p: "So gifting is thinner and quieter. What is normal: taking suhaag samagri to an older woman in the family, or fruit and something for the vrat to be broken with. What sits badly: arriving with an envelope of cash for somebody who has been without water for eighteen hours. It is not offensive, it is just the wrong register." },
+      { p: "If you want to give money around Hartalika Teej, give it the day after, or give it as part of the sindhara at Hariyali Teej where it belongs." },
+
+      { h: "What to write" },
+      { p: "Teej messages tend to arrive as forwards with a picture of a swing on them. If you have room to write properly, the things worth saying are the specific ones: her first Teej away from home, the year everybody got mehendi done in the wrong room, the fact that you know she is fasting and you are thinking about her at four in the afternoon when it is hardest." },
+      { p: "“Teej ki shubhkamnaayein” with nothing after it is fine and forgettable. One sentence that only you could have written is not." },
+
+      { h: "So what should you send?" },
+      { p: "Sending a sindhara to a daughter or daughter-in-law: green bangles, ghevar, something to wear, and ₹1,101 to ₹2,101 with it. Make it bigger if it is her first Teej. Going to a Hariyali Teej get-together: bangles or mehendi cones, no envelope needed. Around Hartalika Teej: fruit and suhaag samagri, and save the cash for another day." },
+      { p: "And check which Teej before you do any of it, because the whole calendar turns on that and the internet is not reliable about it." },
+    ],
+  },
+  {
     slug: "onam-onakkodi-gifting",
     title: "Onam gifting: Onakkodi, and what to send when you cannot get home",
     date: "2026-08-25",

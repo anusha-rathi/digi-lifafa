@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: "How to reach Digi Lifafa: questions, problems, and reporting abuse.",
 };
 
-const MAIL = "hello@digilifafa.in";
+const MAIL = "contact@anusha.fyi";
 
 export default function Contact() {
   return (

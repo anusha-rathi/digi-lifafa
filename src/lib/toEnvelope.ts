@@ -22,6 +22,7 @@ export function toEnvelope(l: Lifafa): EnvelopeState {
     designId: l.designId,
     paletteId: l.paletteId,
     textureId: l.textureId,
+    photoUrl: l.photoKey ? `/api/photo/${l.slug}` : null,
     borderId: l.borderId,
     motifId: l.motifId,
     notes: l.notes.map((denom, key) => ({ denom, key })),

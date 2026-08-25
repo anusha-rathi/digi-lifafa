@@ -15,6 +15,7 @@ export default function PayPanel({
   senderName,
   initialMarked,
   initialUtr,
+  lang = "en",
 }: {
   token: string;
   slug: string;
@@ -24,6 +25,7 @@ export default function PayPanel({
   senderName: string;
   initialMarked: Marked;
   initialUtr: string | null;
+  lang?: "hi" | "hn" | "en";
 }) {
   const [marked, setMarked] = useState<Marked>(initialMarked);
   const [utr, setUtr] = useState(initialUtr ?? "");
@@ -147,7 +149,7 @@ export default function PayPanel({
         </p>
       </div>
 
-      <SharePanel slug={slug} receiverName={payeeName} />
+      <SharePanel slug={slug} receiverName={payeeName} lang={lang} />
     </div>
   );
 }

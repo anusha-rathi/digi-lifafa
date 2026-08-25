@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import LifafaReveal from "@/components/LifafaReveal";
+import PhotoPanel from "@/components/PhotoPanel";
 import SharePanel from "@/components/SharePanel";
 import { byOwnerToken } from "@/lib/db";
+import { COPY } from "@/lib/design";
 import { toEnvelope } from "@/lib/toEnvelope";
 import PayPanel from "./PayPanel";
 
@@ -22,21 +24,16 @@ export default async function SenderPage({
   // No UPI ID means the sender chose "just the lifafa" — there is nothing to
   // pay, so no pay screen, no QR, straight to sharing.
   const vpa = l.payeeVpa;
+  const t = COPY[l.lang];
 
   return (
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">
-      <p className="text-xs uppercase tracking-[0.2em] text-ink-faint">
-        {l.lang === "hi"
-          ? "आपके प्रिय को ऐसा दिखेगा"
-          : l.lang === "hn"
-            ? "aapke priy ko aisa dikhega"
-            : "this is how it will look to them"}
-      </p>
-      <h1 className="mt-1 font-display text-3xl text-maroon">For {l.receiverName}</h1>
-      <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-        {vpa === null
-          ? "The paper is sealed. No nek attached, so send it whenever you are ready."
-          : "The paper is sealed. The money is the part only you can do. It goes from your bank to theirs, never through us."}
+      <p className="text-[13px] text-ink-faint">{t.sndPreview}</p>
+      <h1 className="mt-1 font-display text-3xl text-maroon">
+        {l.lang === "en" ? `${t.sndFor} ${l.receiverName}` : `${l.receiverName} ${t.sndFor}`}
+      </h1>
+      <p className="mt-2 text-[14px] leading-relaxed text-ink-soft">
+        {vpa === null ? t.sndSealedNoPay : t.sndSealedPay}
       </p>
 
       <div className="my-8 rounded-2xl border border-ivory-edge bg-ivory-deep/40 px-2 py-6">
@@ -44,7 +41,7 @@ export default async function SenderPage({
       </div>
 
       {vpa === null ? (
-        <SharePanel slug={l.slug} receiverName={l.receiverName} />
+        <SharePanel slug={l.slug} receiverName={l.receiverName} lang={l.lang} />
       ) : (
         <PayPanel
           token={token}
@@ -53,10 +50,13 @@ export default async function SenderPage({
           payeeName={l.receiverName}
           paise={l.amountPaise}
           senderName={l.senderName}
+          lang={l.lang}
           initialMarked={l.paymentMarked}
           initialUtr={l.utr}
         />
       )}
+
+      <PhotoPanel token={token} slug={l.slug} hasPhoto={!!l.photoKey} />
     </main>
   );
 }
