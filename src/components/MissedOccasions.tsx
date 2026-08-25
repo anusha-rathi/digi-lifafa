@@ -2,27 +2,30 @@
 
 import { useEffect, useState } from "react";
 
-/* The question the whole site is asking, with the occasion cycling under it.
+/* The question the whole site asks.
  *
- * The point is not that any one of these matters. It is that they keep coming,
- * one after another, and you were not there for any of them. Reading it for
- * fifteen seconds should feel like a slow count of everything you missed. */
+ * Two fixed lines with one rotating word between them, rather than a sentence
+ * with a hole in it: "Ghar se door the ___ pe" scanned badly in every tense.
+ * This reads as one line every time the word changes.
+ *
+ *   Is baar bhi
+ *   DIWALI
+ *   ghar se door?
+ */
 
 const OCCASIONS = [
-  "Raksha Bandhan",
   "Diwali",
+  "Raksha Bandhan",
   "Holi",
   "mummy ka birthday",
-  "chhoti ka birthday",
   "Ganesh Chaturthi",
-  "papa ki anniversary",
+  "chhoti ki shaadi",
   "Eid",
-  "bhai ki shaadi",
+  "papa ki anniversary",
   "Onam",
-  "griha pravesh",
   "Teej",
   "dadi ka birthday",
-  "Janmashtami",
+  "griha pravesh",
 ];
 
 export default function MissedOccasions() {
@@ -30,10 +33,9 @@ export default function MissedOccasions() {
   const [shown, setShown] = useState(true);
 
   useEffect(() => {
-    const media = window.matchMedia("(prefers-reduced-motion: reduce)");
-    // Reduced motion still cycles, it just does not cross-fade.
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)");
     const tick = setInterval(() => {
-      if (media.matches) {
+      if (reduce.matches) {
         setI((n) => (n + 1) % OCCASIONS.length);
         return;
       }
@@ -41,23 +43,21 @@ export default function MissedOccasions() {
       setTimeout(() => {
         setI((n) => (n + 1) % OCCASIONS.length);
         setShown(true);
-      }, 260);
-    }, 2100);
+      }, 240);
+    }, 2400);
     return () => clearInterval(tick);
   }, []);
 
   return (
-    <p className="mx-auto max-w-2xl font-display text-[26px] leading-[1.5] text-[#f6e9d6] sm:text-[34px]">
-      Ghar se door the{" "}
-      <span className="relative inline-block align-baseline">
-        <span
-          className="inline-block whitespace-nowrap text-[#e8c37a] transition-opacity duration-250"
-          style={{ opacity: shown ? 1 : 0 }}
-        >
-          {OCCASIONS[i]}
-        </span>
-      </span>{" "}
-      pe?
+    <p className="font-display leading-[1.25] text-[#f6e9d6]">
+      <span className="block text-[19px] text-[#c9ab8c] sm:text-[22px]">Is baar bhi</span>
+      <span
+        className="my-1 block min-h-[1.25em] text-[38px] text-[#e8c37a] transition-opacity duration-200 sm:text-[56px]"
+        style={{ opacity: shown ? 1 : 0 }}
+      >
+        {OCCASIONS[i]}
+      </span>
+      <span className="block text-[24px] sm:text-[30px]">ghar se door?</span>
     </p>
   );
 }

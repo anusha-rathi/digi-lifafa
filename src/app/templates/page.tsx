@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import PageHead from "@/components/PageHead";
 import TemplateCard from "@/components/TemplateCard";
 import { occasionById } from "@/lib/design";
 import { TEMPLATES, TEMPLATE_FESTIVALS, templatesFor } from "@/lib/templates";
@@ -12,13 +13,9 @@ export const metadata: Metadata = {
 
 export default function TemplatesIndex() {
   return (
-    <main className="mx-auto w-full max-w-5xl flex-1 px-5 py-14">
-      <h1 className="font-display text-4xl text-maroon">Ready-made lifafas</h1>
-      <p className="mt-3 max-w-lg text-base leading-relaxed text-ink-soft">
-        {TEMPLATES.length} envelopes already put together, with the paper, the
-        mithai and the words chosen. Pick one and change whatever you like. The
-        nek is a suggestion, never a requirement.
-      </p>
+    <>
+      <PageHead title="Ready-made lifafas" sub="Pick one, change whatever you like. The paper, the mithai, the amount, all of it." tone="peacock" wide />
+      <main className="mx-auto w-full max-w-5xl flex-1 px-5 py-12">
 
       {TEMPLATE_FESTIVALS.map((f) => {
         const occ = occasionById(f);
@@ -26,8 +23,7 @@ export default function TemplatesIndex() {
           <section key={f} className="mt-12">
             <div className="flex items-baseline justify-between gap-4">
               <h2 className="font-display text-2xl text-maroon">
-                {occ ? occ.hi : f}{" "}
-                <span className="text-[15px] text-ink-faint">{occ ? occ.en : ""}</span>
+                {occ ? occ.en : f}
               </h2>
               <Link
                 href={`/templates/${f}`}
@@ -44,6 +40,7 @@ export default function TemplatesIndex() {
           </section>
         );
       })}
-    </main>
+      </main>
+    </>
   );
 }

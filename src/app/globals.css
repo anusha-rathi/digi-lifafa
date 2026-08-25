@@ -6,9 +6,9 @@
    pair is marigold and peacock, and the display face is Devanagari-native. */
 @theme {
   /* light site */
-  --color-ivory: #fbf7f1;
-  --color-ivory-deep: #f3ebdd;
-  --color-ivory-edge: #e6d9c4;
+  --color-ivory: #fbf3e4;
+  --color-ivory-deep: #f4e7cf;
+  --color-ivory-edge: #e2cfab;
   --color-ink: #4a121c;
   --color-ink-soft: #7d5a52;
   --color-ink-faint: #a08b81;
@@ -48,6 +48,11 @@ html {
 body {
   background: var(--color-ivory);
   color: var(--color-ink);
+  /* a faint jaali across the whole site, so nothing is ever a flat fill */
+  background-image:
+    repeating-linear-gradient(45deg, rgba(184, 145, 47, 0.055) 0 1px, transparent 1px 22px),
+    repeating-linear-gradient(-45deg, rgba(184, 145, 47, 0.055) 0 1px, transparent 1px 22px);
+  background-attachment: fixed;
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
 }
@@ -282,7 +287,7 @@ body {
   position: absolute;
   inset: 0;
   z-index: -1;
-  opacity: 0.14;
+  opacity: 0.1;
   background-image:
     repeating-linear-gradient(45deg, #ffffff 0 1.5px, transparent 1.5px 24px),
     repeating-linear-gradient(-45deg, #ffffff 0 1.5px, transparent 1.5px 24px);

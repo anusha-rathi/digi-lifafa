@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import PageHead from "@/components/PageHead";
 import { POSTS, formatDate } from "@/lib/posts";
 
 export const metadata: Metadata = {
@@ -17,12 +18,9 @@ export default function BlogIndex() {
   const [lead, ...rest] = POSTS;
 
   return (
-    <main className="mx-auto w-full max-w-5xl flex-1 px-5 py-14">
-      <h1 className="font-display text-4xl text-maroon">Blog</h1>
-      <p className="mt-3 max-w-lg text-base leading-relaxed text-ink-soft">
-        What to give and when, how this thing actually works, and why we wanted
-        to build it in the first place.
-      </p>
+    <>
+      <PageHead title="Blog" sub="What to give and when, how this thing actually works, and why we wanted to build it in the first place." tone="marigold" wide />
+      <main className="mx-auto w-full max-w-5xl flex-1 px-5 py-12">
 
       {/* the lead piece gets the wide card */}
       <Link
@@ -68,6 +66,7 @@ export default function BlogIndex() {
           </Link>
         ))}
       </div>
-    </main>
+      </main>
+    </>
   );
 }

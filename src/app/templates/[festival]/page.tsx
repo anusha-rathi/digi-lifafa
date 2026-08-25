@@ -39,9 +39,9 @@ export default async function FestivalTemplates({
         ← All lifafas
       </Link>
       <h1 className="mt-5 font-display text-4xl text-maroon">
-        {occ.hi} <span className="text-2xl text-ink-faint">{occ.en}</span>
+        Lifafe for {occ.en}
       </h1>
-      <p className="mt-3 max-w-lg text-base leading-relaxed text-ink-soft">
+      <p className="mt-3 max-w-lg text-[17px] leading-relaxed text-ink-soft">
         {list.length} ready to send. Everything is changeable once you open it.
       </p>
 
