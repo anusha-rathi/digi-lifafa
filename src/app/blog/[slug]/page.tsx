@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { FESTIVAL_ART } from "@/components/FestivalArt";
 import { POSTS, formatDate, postBySlug } from "@/lib/posts";
 
 export function generateStaticParams() {
@@ -27,6 +28,8 @@ export default async function PostPage({
   const post = postBySlug(slug);
   if (!post) notFound();
 
+  const Art = post.art ? FESTIVAL_ART[post.art] : null;
+
   return (
     <main className="mx-auto w-full max-w-2xl flex-1 px-5 py-14">
       <Link href="/blog" className="text-sm text-ink-faint hover:text-ink-soft">
@@ -40,10 +43,22 @@ export default async function PostPage({
       <h1 className="mt-2 font-display text-4xl leading-[1.25] text-maroon">
         {post.title}
       </h1>
+      {post.updated ? (
+        <p className="mt-2 text-[13px] text-ink-faint">
+          Dates checked {post.updated}
+        </p>
+      ) : null}
+
+      {Art ? (
+        <div className="mt-7 overflow-hidden rounded-2xl border border-ivory-edge">
+          <Art />
+        </div>
+      ) : null}
 
       <div className="prose mt-8">
         {post.body.map((b, i) => {
           if ("h" in b) return <h2 key={i}>{b.h}</h2>;
+          if ("h3" in b) return <h3 key={i}>{b.h3}</h3>;
           if ("ul" in b)
             return (
               <ul key={i}>
@@ -51,6 +66,42 @@ export default async function PostPage({
                   <li key={j}>{li}</li>
                 ))}
               </ul>
+            );
+          if ("note" in b)
+            return (
+              <p
+                key={i}
+                className="rounded-xl border-l-2 border-marigold bg-marigold/8 px-4 py-3 text-[14px]"
+              >
+                {b.note}
+              </p>
+            );
+          if ("table" in b)
+            return (
+              <div key={i} className="my-6 overflow-x-auto">
+                <table className="w-full min-w-[420px] border-collapse text-left text-[14px]">
+                  <thead>
+                    <tr className="border-b border-ivory-edge">
+                      {b.table.head.map((h, j) => (
+                        <th key={j} className="py-2.5 pr-4 font-semibold text-ink">
+                          {h}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {b.table.rows.map((row, j) => (
+                      <tr key={j} className="border-b border-ivory-edge/60 align-top">
+                        {row.map((cell, k) => (
+                          <td key={k} className="py-2.5 pr-4 text-ink-soft">
+                            {cell}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
             );
           return <p key={i}>{b.p}</p>;
         })}
