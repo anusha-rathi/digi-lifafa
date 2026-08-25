@@ -69,7 +69,7 @@ export const TEMPLATES: Template[] = [
 
   // ── Onam ────────────────────────────────────────────────────────────
   T("onam-kasavu", "onam", "कसावु", "Kasavu Cream and Gold", "plain-ruled-edge", "cream", "linen", "zari-double", "lotus-medallion", "rasgulla", "petals", [500, 500, 100]),
-  T("onam-pookkalam", "onam", "पूक्कलम", "pookkalam", "kolam-grid", "marigold", "handmade", "gota-scallop", "lotus-medallion", "peda", "petals", [500, 100]),
+  T("onam-pookkalam", "onam", "पूक्कलम", "Pookkalam", "kolam-grid", "marigold", "handmade", "gota-scallop", "lotus-medallion", "peda", "petals", [500, 100]),
   T("onam-vine-green", "onam", "बेल हरी", "Green Vine", "teej-vine", "green", "handmade", "mango-vine", "toran", "sandesh", "petals", [500, 500]),
   T("onam-dove-quiet", "onam", "सादा धूसर", "Quiet Dove", "khadi-weave", "dove", "linen", "kadai-dot", "kalash", "kaju", null, [100, 100]),
 
@@ -92,13 +92,13 @@ export const TEMPLATES: Template[] = [
   // ── Shaadi ──────────────────────────────────────────────────────────
   T("wedding-brocade-rani", "wedding", "ब्रोकेड रानी", "Rani Brocade", "brocade-jaali", "rani", "handmade", "gota-scallop", "kalash", "motichoor", "petals", [500, 500, 100]),
   T("wedding-damask-gold", "wedding", "सुनहरा दमास्क", "Gold Damask", "gold-damask", "marigold", "foil", "temple-arch", "paisley-buta", "kaju", "petals", [500, 500, 100]),
-  T("wedding-peacock", "wedding", "मोर", "peacock", "peacock-eye", "aubergine", "silk", "zari-double", "peacock", "gulab", "petals", [500, 500, 100]),
+  T("wedding-peacock", "wedding", "मोर", "Peacock", "peacock-eye", "aubergine", "silk", "zari-double", "peacock", "gulab", "petals", [500, 500, 100]),
   T("wedding-kraft-simple", "wedding", "क्राफ़्ट सादा", "Quiet Kraft", "khadi-weave", "kraft", "linen", "kadai-dot", "lotus-medallion", "soan", null, [500, 500]),
   T("wedding-blush-modern", "wedding", "गुलाबी आधुनिक", "Modern Blush", "nordic-dots", "blush", "matte", "hairline-rule", "star-jaali", "macaron", "petals", [500, 500, 100]),
 
   // ── Birthday ────────────────────────────────────────────────────────
-  T("birthday-terrazzo", "birthday", "टेराज़ो", "terrazzo", "mukaish-sparkle", "peach", "matte", "kadai-dot", "star-jaali", "cupcake", "phuljhari", [100, 100, 100]),
-  T("birthday-gingham", "birthday", "चारखाना", "gingham", "gingham-check", "sky", "matte", "hairline-rule", "star-jaali", "cookie", "phuljhari", [100, 100]),
+  T("birthday-terrazzo", "birthday", "टेराज़ो", "Terrazzo", "mukaish-sparkle", "peach", "matte", "kadai-dot", "star-jaali", "cupcake", "phuljhari", [100, 100, 100]),
+  T("birthday-gingham", "birthday", "चारखाना", "Gingham", "gingham-check", "sky", "matte", "hairline-rule", "star-jaali", "cookie", "phuljhari", [100, 100]),
   T("birthday-stripe", "birthday", "पतली धारी", "Ticking Stripe", "ticking-stripe", "butter", "linen", "kadai-dot", "lotus-medallion", "brownie", "coins", [500, 100]),
   T("birthday-rani-bold", "birthday", "रानी चटक", "Bold Rani", "zari-chevron", "rani", "foil", "zari-double", "paisley-buta", "jalebi", "phuljhari", [500, 500, 100]),
 
@@ -117,10 +117,10 @@ export const TEMPLATES: Template[] = [
   T("baby-cream", "baby", "क्रीम", "Plain and Quiet", "khadi-weave", "cream", "linen", "gota-scallop", "toran", "kalakand", "coins", [500, 100]),
 
   // ── Griha pravesh ───────────────────────────────────────────────────
-  T("griha-kalash", "griha", "कलश", "kalash", "brocade-jaali", "marigold", "handmade", "temple-arch", "kalash", "motichoor", "petals", [500, 500, 100]),
-  T("griha-toran", "griha", "तोरण", "toran", "teej-vine", "green", "handmade", "mango-vine", "toran", "peda", "petals", [500, 500]),
-  T("griha-kraft", "griha", "क्राफ़्ट", "kraft", "khadi-weave", "kraft", "linen", "kadai-dot", "om", "kalakand", "diyas", [500, 100]),
-  T("griha-rani", "griha", "रानी", "rani", "gold-damask", "rani", "foil", "zari-double", "lotus-medallion", "kaju", "diyas", [500, 500, 100]),
+  T("griha-kalash", "griha", "कलश", "Kalash", "brocade-jaali", "marigold", "handmade", "temple-arch", "kalash", "motichoor", "petals", [500, 500, 100]),
+  T("griha-toran", "griha", "तोरण", "Toran", "teej-vine", "green", "handmade", "mango-vine", "toran", "peda", "petals", [500, 500]),
+  T("griha-kraft", "griha", "क्राफ़्ट", "Kraft", "khadi-weave", "kraft", "linen", "kadai-dot", "om", "kalakand", "diyas", [500, 100]),
+  T("griha-rani", "griha", "रानी", "Rani", "gold-damask", "rani", "foil", "zari-double", "lotus-medallion", "kaju", "diyas", [500, 500, 100]),
 ];
 
 export const templateById = (id: string | null | undefined) =>
