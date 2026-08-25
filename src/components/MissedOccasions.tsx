@@ -17,15 +17,14 @@ const OCCASIONS = [
   "Diwali",
   "Raksha Bandhan",
   "Holi",
-  "mummy ka birthday",
+  "Mummy ke Birthday",
   "Ganesh Chaturthi",
-  "chhoti ki shaadi",
+  "Chhoti ki Shaadi",
   "Eid",
-  "papa ki anniversary",
   "Onam",
   "Teej",
-  "dadi ka birthday",
-  "griha pravesh",
+  "Dadi ke Birthday",
+  "Griha Pravesh",
 ];
 
 export default function MissedOccasions() {
@@ -50,14 +49,22 @@ export default function MissedOccasions() {
 
   return (
     <p className="font-display leading-[1.25] text-[#f6e9d6]">
-      <span className="block text-[19px] text-[#c9ab8c] sm:text-[22px]">Is baar bhi</span>
+      <span className="block text-[19px] text-[#c9ab8c] sm:text-[22px]">
+        Is baar bhi
+      </span>
       <span
-        className="my-1 block min-h-[1.25em] text-[38px] text-[#e8c37a] transition-opacity duration-200 sm:text-[56px]"
-        style={{ opacity: shown ? 1 : 0 }}
+        className="my-1 block min-h-[1.25em] text-[38px] text-[#f0cf90] transition-opacity duration-200 sm:text-[56px]"
+        style={{
+          opacity: shown ? 1 : 0,
+          textShadow:
+            "0 0 18px rgba(232,195,122,.5), 0 0 46px rgba(232,195,122,.28), 0 0 90px rgba(207,138,10,.2)",
+        }}
       >
         {OCCASIONS[i]}
       </span>
-      <span className="block text-[24px] sm:text-[30px]">ghar se door?</span>
+      <span className="block text-[24px] sm:text-[30px]">
+        par ghar se door?
+      </span>
     </p>
   );
 }

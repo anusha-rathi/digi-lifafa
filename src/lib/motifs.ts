@@ -27,7 +27,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "paisley-buta",
     hi: "आम / बूटा",
-    en: "paisley buta",
+    en: "Paisley Buta",
     p: [
       // A buta is a solid shape, not an outline. Gold body, paper bitten out
       // of the middle, gold dots scattered in the void.
@@ -42,7 +42,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "kalash",
     hi: "कलश",
-    en: "kalash",
+    en: "Kalash",
     p: [
       // leaves fanning out of the pot mouth
       { d: "M50 30 C36 24 26 28 22 36 C32 42 44 40 50 32 Z", t: 1 },
@@ -60,7 +60,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "diya",
     hi: "दीया",
-    en: "diya",
+    en: "Diya",
     p: [
       { d: "M50 26 C58 38 56 50 50 55 C44 50 42 38 50 26 Z", t: 0 },
       { d: "M50 34 C54 42 53 49 50 52 C47 49 46 42 50 34 Z", t: 2 },
@@ -72,7 +72,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "lotus-medallion",
     hi: "कमल",
-    en: "lotus medallion",
+    en: "Lotus Medallion",
     p: [
       // eight petals, the same path rotated around the centre
       ...Array.from({ length: 8 }, (_, i) => ({
@@ -87,7 +87,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "toran",
     hi: "तोरण",
-    en: "toran",
+    en: "Toran",
     p: [
       { d: "M6 18 Q50 34 94 18", t: 0, w: 2.6 },
       ...[14, 27, 40, 53, 66, 79].map((x, i) => ({
@@ -100,7 +100,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "star-jaali",
     hi: "सितारा जाली",
-    en: "star jaali",
+    en: "Star Jaali",
     p: [
       { d: "M50 6 L61 34 L90 34 L67 51 L76 80 L50 63 L24 80 L33 51 L10 34 L39 34 Z", t: 0 },
       { d: "M50 20 L57 38 L76 38 L61 49 L67 68 L50 57 L33 68 L39 49 L24 38 L43 38 Z", t: 2 },
@@ -110,7 +110,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "peacock",
     hi: "मोर",
-    en: "peacock",
+    en: "Peacock",
     p: [
       // fanned tail
       ...[-40, -26, -13, 0, 13, 26, 40].map((a, i) => ({
@@ -132,7 +132,7 @@ export const MOTIF_LIST: MotifSpec[] = [
   {
     id: "om",
     hi: "ॐ",
-    en: "om",
+    en: "Om",
     // Rendered as type rather than traced paths: the glyph is what it is, and
     // a font draws it correctly at every size.
     p: [],

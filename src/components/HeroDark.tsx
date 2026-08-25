@@ -39,8 +39,8 @@ export default function HeroDark() {
           </Link>
         </div>
 
-        <p className="mt-5 text-[13px] text-[#8d7461]">
-          Free · no signup · we never touch the money
+        <p className="mx-auto mt-8 max-w-sm text-[17px] leading-relaxed text-[#c9ab8c] sm:text-[19px]">
+          Living away from home is expensive enough. This one is free.
         </p>
       </div>
     </section>
