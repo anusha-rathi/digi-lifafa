@@ -33,7 +33,10 @@ export default function PayPanel({
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
 
-  async function mark(paymentMarked: "paid" | "skipped", withUtr: string | null) {
+  async function mark(
+    paymentMarked: "paid" | "skipped",
+    withUtr: string | null,
+  ) {
     setBusy(true);
     setError("");
     const res = await fetch(`/api/lifafa/${token}`, {
@@ -73,8 +76,8 @@ export default function PayPanel({
           <div className="space-y-4 rounded-xl border border-ivory-edge bg-white/70 p-5">
             <p className="font-display text-xl text-maroon">Have you paid?</p>
             <p className="text-[13px] leading-relaxed text-ink-soft">
-              We genuinely can&apos;t tell. Your UPI app doesn&apos;t report back
-              to us, and we&apos;d rather say so than pretend.
+              We genuinely can&apos;t tell. Your UPI app doesn&apos;t report
+              back to us, and we&apos;d rather say so than pretend.
             </p>
 
             <div className="space-y-2">
@@ -83,7 +86,9 @@ export default function PayPanel({
               </label>
               <input
                 value={utr}
-                onChange={(e) => setUtr(e.target.value.replace(/\D/g, "").slice(0, 12))}
+                onChange={(e) =>
+                  setUtr(e.target.value.replace(/\D/g, "").slice(0, 12))
+                }
                 inputMode="numeric"
                 placeholder="12 digits, from your payment receipt"
                 className="w-full rounded-md border border-ivory-edge bg-white px-3 py-2.5 font-mono text-ink placeholder:text-ink-faint"
@@ -118,8 +123,8 @@ export default function PayPanel({
               </button>
             </div>
             <p className="text-[11px] leading-relaxed text-ink-faint">
-              This is the only thing about a lifafa that can ever be changed, and
-              only once.
+              This is the only thing about a lifafa that can ever be changed,
+              and only once.
             </p>
           </div>
         )}
@@ -129,25 +134,19 @@ export default function PayPanel({
 
   return (
     <div className="space-y-5">
-      <div className="rounded-xl border border-peacock/30 bg-peacock/8 p-5">
-        <p className="font-display text-xl text-peacock">
-          {marked === "paid" ? "Sealed and noted." : "Sealed."}
-        </p>
-        <p className="mt-1.5 text-[13px] leading-relaxed text-ink-soft">
-          {marked === "paid" ? (
-            <>
-              You noted reference <span className="font-mono text-ink">{utr}</span>.
-              We&apos;ve written it on the lifafa. We haven&apos;t checked it,
-              because we can&apos;t.
-            </>
-          ) : (
-            <>
-              No reference, no problem. Nobody has ever asked for a receipt with
-              a real lifafa either.
-            </>
-          )}
-        </p>
-      </div>
+      {/* Only shown when there is a reference to report. With no reference
+          there was nothing to say, and the card said it anyway. */}
+      {marked === "paid" && (
+        <div className="rounded-xl border border-peacock/30 bg-peacock/8 p-5">
+          <p className="font-display text-xl text-peacock">Sealed and noted.</p>
+          <p className="mt-1.5 text-[13px] leading-relaxed text-ink-soft">
+            You noted reference{" "}
+            <span className="font-mono text-ink">{utr}</span>. We&apos;ve
+            written it on the lifafa. We haven&apos;t checked it, because we
+            can&apos;t.
+          </p>
+        </div>
+      )}
 
       <SharePanel slug={slug} receiverName={payeeName} lang={lang} />
     </div>

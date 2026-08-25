@@ -110,12 +110,16 @@ export default function SharePanel({
       {canShare && (
         <p className="text-[12px] leading-relaxed text-ink-faint">
           {lang === "hi"
-            ? "भेजिए दबाने पर फ़ोन का अपना शेयर मेन्यू खुलेगा, वहीं से Instagram या कोई और ऐप चुन लीजिए।"
-            : "Send it opens your phone's own share menu, which is how you reach Instagram, Signal or anything else you have."}
+            ? "‘भेजिए’ दबाते ही फ़ोन का शेयर मेन्यू खुल जाएगा। वहाँ से WhatsApp, Instagram, जो भी ऐप चाहिए, चुन लीजिए।"
+            : lang === "hn"
+              ? "‘Bhejiye’ dabate hi phone ka share menu khul jaayega. Wahaan se WhatsApp, Instagram, jo bhi app chahiye, chun lijiye."
+              : "Send opens your phone's own share menu, which is how you reach Instagram, Signal or anything else you have."}
         </p>
       )}
 
-      <p className="text-[12px] leading-relaxed text-ink-faint">{t.shareKeep}</p>
+      <p className="text-[12px] leading-relaxed text-ink-faint">
+        {t.shareKeep}
+      </p>
     </div>
   );
 }
