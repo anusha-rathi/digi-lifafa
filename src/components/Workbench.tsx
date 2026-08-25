@@ -96,16 +96,15 @@ export default function Workbench() {
         </div>
         <div className="flex flex-col gap-[9px]">
           {([
-            ["hi", "हिंदी", "var(--color-maroon)", "var(--color-maroon)"],
-            ["hn", "Hinglish", "var(--color-ivory-edge)", "var(--color-ink)"],
-            ["en", "English", "var(--color-ivory-edge)", "var(--color-ink)"],
-          ] as const).map(([id, label, border, colour]) => (
+            ["hi", "हिंदी"],
+            ["hn", "Hinglish"],
+            ["en", "English"],
+          ] as const).map(([id, label]) => (
             <button
               key={id}
               type="button"
               onClick={() => setLang(id)}
-              className="rounded-[3px] border bg-transparent py-[15px] font-display text-[21px] transition hover:bg-maroon hover:text-ivory"
-              style={{ borderColor: border, color: colour }}
+              className="rounded-full border border-ivory-edge bg-white/70 py-[15px] font-display text-[21px] text-maroon transition hover:border-maroon hover:bg-maroon hover:text-ivory"
             >
               {label}
             </button>

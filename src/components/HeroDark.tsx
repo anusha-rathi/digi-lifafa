@@ -1,63 +1,56 @@
 import Link from "next/link";
-import LifafaReveal from "@/components/LifafaReveal";
+import MissedOccasions from "@/components/MissedOccasions";
 
-/* Variant A: the lifafa on the ground it was designed against.
-   The envelope art was drawn for #140c0b with gold foil catching light. On
-   ivory it looks like a stationery catalogue. This puts it back. */
+/* The landing hero.
+ *
+ * It opens with a question rather than a product, because the product is not
+ * interesting and the question is. The envelope preview that used to sit here
+ * is gone: showing people what it looks like before they care is the wrong
+ * order, and it made the page read as a feature tour. */
 export default function HeroDark() {
   return (
     <section className="lf-stage relative overflow-hidden">
-      {/* foil glow behind the envelope, not a floating-envelope collage */}
       <div
-        className="pointer-events-none absolute left-1/2 top-[18%] h-[420px] w-[420px] -translate-x-1/2 rounded-full opacity-70 blur-[90px]"
+        className="pointer-events-none absolute left-1/2 top-[10%] h-[460px] w-[460px] -translate-x-1/2 rounded-full opacity-60 blur-[110px]"
         style={{ background: "radial-gradient(circle, #7b1e2b 0%, transparent 70%)" }}
         aria-hidden
       />
-      <div className="relative mx-auto w-full max-w-3xl px-5 pt-10 pb-14 text-center sm:pt-14">
-        <p className="text-[13px] text-[#c2996a]">
-          शगुन का लिफ़ाफ़ा
-        </p>
 
-        <div className="mt-6">
-          <LifafaReveal
-            onDark
-            celebration="petals"
-            s={{
-              designId: "brocade-jaali",
-              paletteId: "rani",
-              textureId: "handmade",
-              notes: [500, 500, 100].map((denom, key) => ({ denom, key })),
-              coin: true,
-              sweetId: "motichoor",
-              occasionLabel: "शादी",
-              messagePeek: "नई शुरुआत की बहुत-बहुत शुभकामनाएँ। हमेशा ऐसे ही खुश रहो।",
-              name: "अनन्या",
-              salutation: "प्रिय",
-              senderName: "मम्मी",
-              lang: "hi",
-            }}
-          />
+      <div className="relative mx-auto w-full max-w-3xl px-5 pt-16 pb-16 text-center sm:pt-24">
+        <MissedOccasions />
+
+        <div className="mx-auto mt-10 max-w-xl space-y-5 text-[17px] leading-[1.75] text-[#c9ab8c] sm:text-[18px]">
+          <p>
+            You cannot fix being far away. Flights are expensive, leave is
+            short, and the day passes whether you are there or not.
+          </p>
+          <p className="text-[#f6e9d6]">
+            But the thing you miss is not the sweets or the photos. It is the
+            lifafa. Somebody older pressing one into your hand, or now that you
+            are the older one, putting it into somebody else&apos;s.
+          </p>
+          <p>UPI moved the money years ago. It never moved that.</p>
         </div>
 
-        <h1 className="mx-auto mt-9 max-w-lg font-display text-[34px] font-bold leading-[1.22] text-[#f6e9d6] sm:text-[44px]">
-          Ek lifafa. Ek link. <span className="text-[#e8c37a]">Baaki sab wahi.</span>
-        </h1>
-        <p className="mx-auto mt-4 max-w-md text-[16px] leading-relaxed text-[#c9ab8c]">
-          Pick the paper, tuck the notes in, add the one-rupee coin. Pay them
-          straight over UPI, then send the whole envelope as a link.
-        </p>
-
-        <div className="mt-8 flex flex-col items-center gap-3">
+        <div className="mt-11 flex flex-col items-center gap-3">
           <Link
-            href="/make"
+            href="/templates"
             className="rounded-full bg-[#e8c37a] px-10 py-4 text-lg font-semibold text-[#3a1a1c] transition hover:bg-[#f2dcae]"
           >
-            Make a lifafa
+            Bhej dijiye ek lifafa
           </Link>
-          <p className="text-[13px] text-[#8d7461]">
-            Free · no signup · we never touch the money
-          </p>
+          <Link
+            href="/make"
+            className="text-[15px] text-[#c9ab8c] underline underline-offset-4 hover:text-[#f6e9d6]"
+          >
+            or build one from scratch
+          </Link>
         </div>
+
+        <p className="mx-auto mt-10 max-w-md font-display text-[19px] leading-relaxed text-[#e8c37a]">
+          Living away is expensive. Something that brings you closer to home
+          should be free.
+        </p>
       </div>
     </section>
   );

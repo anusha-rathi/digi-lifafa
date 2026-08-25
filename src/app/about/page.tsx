@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Why we built Digi Lifafa, what it does, and the things we deliberately don't do.",
+    "Why Digi Lifafa exists: we are a generation living away from the people we grew up with, and UPI moved the money but not the lifafa.",
 };
 
 export default function About() {
@@ -14,72 +14,83 @@ export default function About() {
 
       <div className="prose mt-8">
         <p>
-          Digi Lifafa is a shagun ka lifafa you can send as a link. You make the
-          envelope, put the nek in note by note, add the one-rupee coin and a
-          mithai, write what you would have said. Then you pay them
-          directly over UPI and send them the envelope.
+          We are a generation that leaves. First you move away from your family
+          for college or a job, and then you find friends, and then you move
+          away from them too. Somewhere in all that, the cousins you grew up
+          with became people you text on birthdays.
+        </p>
+        <p>
+          The people who made this site live away from their families as well.
+          That is the whole reason it exists.
         </p>
 
-        <h2>Why it exists</h2>
+        <h2>The small thing you miss</h2>
         <p>
-          The ritual didn&apos;t survive the move to UPI. The money did, but the
-          envelope, the coin, the handwriting and the moment of handing it over
-          with both hands all collapsed into a notification that says ₹2,101
-          received.
+          Everyone talks about missing the big parts of a festival. The house,
+          the food, the noise. But there is a smaller thing, and for a lot of us
+          it is the one that actually stings: the shagun ka lifafa. An older
+          person pressing an envelope into your hand, or now that you have
+          somehow become the older one, putting it into somebody else&apos;s.
         </p>
         <p>
-          We wanted the wrapper back. Not a picture of money, but the actual gift
-          with the actual paper around it. So the money here is real and moves
-          exactly as it always did, and everything we built sits around it
-          rather than in the middle of it.
+          Thanks to UPI we can all send and receive money in about four seconds.
+          The money arrives perfectly. The feeling does not. Nobody hands you
+          anything. There is no envelope with your name on it.
+        </p>
+        <p>
+          And if you grew up in an Indian house you know exactly how much that
+          name mattered, because you know what happened to the ones without it.
+          A blank lifafa went into the almirah and came back out for the next
+          wedding. The one with your name on it did not.
         </p>
 
-        <h2>What we deliberately don&apos;t do</h2>
+        <h2>So we made the envelope</h2>
         <p>
-          This part matters more than the feature list, so it is the longer half
-          of this page.
+          You pick the paper, put the notes in, tuck in whichever mithai you
+          want them to have, and write the small note you would have said out
+          loud. Then you pay them yourself, over UPI, and send the envelope as a
+          link.
         </p>
+        <p>
+          It does not fix being far away. Nothing on a website does. But the
+          part that goes missing when a transfer replaces a gift is the part we
+          could actually put back.
+        </p>
+
+        <h2>What it costs</h2>
+        <p>
+          Nothing, for anyone. We do not take a cut, and the money never passes
+          through us, so there is nothing to take a cut of.
+        </p>
+        <p>
+          <strong>
+            Living away is not free. Living away is very expensive. So something
+            that brings you closer to your family should be.
+          </strong>
+        </p>
+
+        <h2>What we do not do</h2>
         <ul>
           <li>
-            <strong>We never hold your money.</strong> There is no wallet, no
-            balance, no escrow, no payment gateway. Your UPI app pays their bank
-            account directly. The moment we routed funds we would become a
-            Payment Aggregator under RBI rules, and more to the point, we
-            don&apos;t want to be one.
+            <strong>No money touches us.</strong> It goes from your bank to
+            theirs through your own UPI app.
           </li>
           <li>
-            <strong>We don&apos;t take a cut.</strong> It is free. Not
-            free-for-now, not free-with-a-paid-tier. We never handle the amount,
-            so there is nothing to take a percentage of.
+            <strong>No accounts.</strong> No signup, no password, no phone
+            number, no email.
           </li>
           <li>
-            <strong>We don&apos;t have accounts.</strong> No signup, no
-            password, no phone number, no email. Nothing to log into and nothing
-            to breach.
-          </li>
-          <li>
-            <strong>We don&apos;t pretend to verify payments.</strong> UPI apps
-            do not report back to websites. We are blind after handoff and we
-            say so, instead of showing you a green tick we have not earned.
-          </li>
-          <li>
-            <strong>We don&apos;t make it social.</strong> No feed, no profiles,
-            no public amounts, no leaderboard of the most generous cousin. One
-            person, one envelope, one other person.
+            <strong>Nothing is stored that we do not need.</strong> The QR is
+            only made when you give a UPI ID, and it is made in your browser as
+            you look at it. We never store your UPI ID, only theirs, because
+            the envelope has to know where the money was going.
           </li>
         </ul>
 
-        <h2>The one thing we ask of you</h2>
-        <p>
-          Check the UPI ID before you pay. We show it in full, large, right
-          above the button, precisely so that you can read it properly. Only
-          send shagun to people you actually know.
-        </p>
-
         <h2>Get in touch</h2>
         <p>
-          Something broken, something wrong, or a lifafa that needs taking down?{" "}
-          <Link href="/contact">Contact us</Link>. We read everything.
+          Something broken, an idea, or a lifafa that needs taking down?{" "}
+          <Link href="/contact">Write to us</Link>. A person reads it.
         </p>
       </div>
     </main>

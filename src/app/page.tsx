@@ -7,41 +7,53 @@ import { POSTS } from "@/lib/posts";
 const STEPS = [
   {
     n: "1",
-    h: "Choose the paper",
-    p: "Twenty-one papers: brocade jaali, bandhani, diya rows, khadi, in fourteen colours and five textures.",
+    h: "Choose the lifafa",
+    p: "Forty-four ready-made ones, or build your own from 21 papers, 14 colours, 7 borders and 8 motifs.",
   },
   {
     n: "2",
     h: "Fill it",
-    p: "Tap notes in one at a time. Add the one-rupee coin and a mithai, and write what you'd say.",
+    p: "Tap the notes in one at a time. Add the one-rupee coin, tuck in a mithai, and write what you would actually say.",
   },
   {
     n: "3",
     h: "Pay them, then send",
-    p: "Your UPI app opens and you pay them directly. Then you get a link to send.",
+    p: "Your UPI app opens and you pay them yourself. Then you get a link to send, and they open the lifafa.",
   },
 ];
 
 const FAQ = [
   {
-    q: "Does it cost anything?",
-    a: "No. There's no fee and no cut. We never touch the amount, so there's nothing to take a percentage of.",
+    q: "Do they need this website to open it?",
+    a: "No. They tap the link and it opens in whatever browser they already have. Nothing to install, no account, and it works on an old phone.",
   },
   {
-    q: "Do I need to sign up?",
-    a: "No. There are no accounts. Make the lifafa, get the link, send it.",
+    q: "I do not have their UPI ID. Can I still send one?",
+    a: "Yes. Tick \u201cno nek this time\u201d and you get a lifafa with no money attached, which you can send on its own. The QR is only made when you actually give a UPI ID.",
   },
   {
-    q: "Where does the money actually go?",
-    a: "Straight from your UPI app to their bank account. It never passes through this site. We have no wallet and no payment gateway.",
+    q: "How do I get their UPI ID without it being awkward?",
+    a: "\u201cSending you something, what\u2019s your UPI?\u201d does it. There is no directory to look it up in, for anyone, so asking is the normal thing rather than a failure.",
   },
   {
-    q: "Can you tell whether I paid?",
-    a: "No, and we won't pretend otherwise. UPI apps don't report back to websites. That's why we ask you afterwards, and why you can skip the question.",
+    q: "Do you take a cut of the money?",
+    a: "No, and we could not if we wanted to. The money goes from your UPI app straight to their bank. It never passes through us, so there is nothing to take a cut of.",
   },
   {
-    q: "Do I need their UPI ID?",
-    a: "Yes, and there's no directory to look it up in. \"Sending you something, what's your UPI?\" does the job.",
+    q: "Can you tell whether I actually paid?",
+    a: "No. UPI apps do not report back to websites, so we are blind the moment yours opens. That is why we ask you afterwards, and why you can skip the question.",
+  },
+  {
+    q: "What if I send it to the wrong person?",
+    a: "Check the UPI ID before you tap pay, because we cannot reverse anything. We show it in full, large, right above the button, for exactly that reason.",
+  },
+  {
+    q: "Can I change it after sending?",
+    a: "No, and that is deliberate. If the amount or the UPI ID could be edited later, somebody could send a lovely lifafa around a family group and swap in their own account afterwards.",
+  },
+  {
+    q: "How long does the link last?",
+    a: "As long as you want. Email us and we will delete it whenever you ask.",
   },
 ];
 
@@ -63,7 +75,7 @@ export default function Home() {
                   {s.n}
                 </span>
                 <h3 className="mt-3 font-semibold">{s.h}</h3>
-                <p className="mt-1.5 text-sm leading-relaxed opacity-80">{s.p}</p>
+                <p className="mt-2 text-[16px] leading-relaxed opacity-90">{s.p}</p>
               </div>
             ))}
           </div>
@@ -76,7 +88,7 @@ export default function Home() {
         <h2 className="text-center font-display text-3xl">
           For every mauka
         </h2>
-        <p className="mx-auto mt-2 max-w-sm text-center text-sm leading-relaxed opacity-80">
+        <p className="mx-auto mt-3 max-w-md text-center text-[17px] leading-relaxed">
           Each one comes with words already written, if you want them. Change
           them, or write your own, including your own heading.
         </p>
@@ -96,36 +108,42 @@ export default function Home() {
 
       {/* trust */}
       <section className="band band--maroon">
-        <div className="mx-auto w-full max-w-5xl px-5 py-20">
-          <h2 className="text-center font-display text-3xl">
+        <div className="mx-auto w-full max-w-4xl px-5 py-20">
+          <h2 className="text-center font-display text-3xl sm:text-4xl">
             We stay out of your money
           </h2>
-          <div className="mt-10 grid gap-7 sm:grid-cols-3">
-            <div>
-              <h3 className="font-semibold text-marigold-soft">It&apos;s free</h3>
-              <p className="mt-1.5 text-sm leading-relaxed opacity-80">
-                No fee, no cut, no premium tier. We never handle the amount, so
-                there is nothing for us to take a percentage of.
+          <div className="mt-12 grid gap-10 sm:grid-cols-3">
+            <div className="text-center">
+              <p className="font-display text-[30px] leading-tight text-marigold-soft sm:text-[34px]">
+                It is free
+              </p>
+              <p className="mx-auto mt-3 max-w-[15rem] text-[17px] leading-relaxed">
+                No fee, no cut, no paid version. Living away is expensive
+                enough.
               </p>
             </div>
-            <div>
-              <h3 className="font-semibold text-marigold-soft">It&apos;s private</h3>
-              <p className="mt-1.5 text-sm leading-relaxed opacity-80">
-                No accounts, no phone number, no email. Your lifafa link is
-                unguessable and is never indexed by search engines.
+            <div className="text-center">
+              <p className="font-display text-[30px] leading-tight text-marigold-soft sm:text-[34px]">
+                It is private
+              </p>
+              <p className="mx-auto mt-3 max-w-[15rem] text-[17px] leading-relaxed">
+                No account, no password, no phone number. Nothing to sign up
+                for.
               </p>
             </div>
-            <div>
-              <h3 className="font-semibold text-marigold-soft">It&apos;s peer to peer</h3>
-              <p className="mt-1.5 text-sm leading-relaxed opacity-80">
-                The money goes from your bank to theirs through your own UPI
-                app. We have no wallet and no gateway to route it through.
+            <div className="text-center">
+              <p className="font-display text-[30px] leading-tight text-marigold-soft sm:text-[34px]">
+                No money touches us
+              </p>
+              <p className="mx-auto mt-3 max-w-[15rem] text-[17px] leading-relaxed">
+                It goes from your bank to theirs. We have no wallet to hold it
+                in.
               </p>
             </div>
           </div>
-          <p className="mt-10 text-center text-sm">
-            <Link href="/blog/is-it-safe" className="text-marigold-soft underline underline-offset-2">
-              Read the straight answer on safety
+          <p className="mt-12 text-center text-[15px]">
+            <Link href="/privacy" className="underline underline-offset-4 hover:text-marigold-soft">
+              Read exactly what we store, which is not much
             </Link>
           </p>
         </div>
