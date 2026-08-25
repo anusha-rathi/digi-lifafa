@@ -9,7 +9,8 @@ export type Block =
   | { p: string }
   | { ul: string[] }
   | { note: string }
-  | { table: { head: string[]; rows: string[][] } };
+  | { table: { head: string[]; rows: string[][] } }
+  | { photo: string; caption?: string };
 
 export type Post = {
   slug: string;
@@ -52,6 +53,7 @@ export const POSTS: Post[] = [
       { p: "The pookkalam, the circular flower carpet at the entrance, starts small on Atham and gains a ring a day. By Thiruvonam it is at full size. It is a ten-day countdown you can see from the street, which is a better calendar than anything on your phone." },
       { note: "Onam follows the Malayalam calendar and the Thiruvonam nakshatram, so the Gregorian date moves each year. The 2026 dates above were checked on 25 August 2026." },
 
+      { photo: "pookkalamThrissur", caption: "The pookkalam gains a ring a day for ten days." },
       { h: "What Onakkodi actually is" },
       { p: "Onakkodi is new cloth, given for Onam. The traditional form is a kasavu mundu or a kasavu saree: off-white cotton with a gold border, which is the visual signature of the whole festival." },
       { p: "Kerala Tourism puts its weight bluntly, describing gifting Onakkodi as just as important as making the pookkalam. That is a strong claim, because the pookkalam is the thing every photograph of Onam is of." },
@@ -218,6 +220,7 @@ export const POSTS: Post[] = [
       { note: "Muhurat timings shift by city because they are calculated from local sunrise. The window above is the widely published Delhi figure. If your family is strict about timing, check a panchang for your own city rather than trusting any single page, including this one." },
       { p: "The reason the window matters more some years than others is Bhadra. Bhadra is a period considered inauspicious for tying the rakhi, and when it falls across the morning, families push the ceremony later or earlier to avoid it. In years when Bhadra clears early, as it does in 2026, the morning window is the good one and most households use it." },
 
+      { photo: "rakhiOnHand", caption: "The thread is a claim. The nek is the acceptance of it." },
       { h: "What the nek actually is" },
       { p: "The nek is not payment for the thread. This matters, because if you treat it as payment you will get the amount wrong in a specific way: you will scale it to the cost of the rakhi, and the rakhi cost eighty rupees." },
       { p: "The thread is a claim. She ties it and says, in effect, you are responsible for me. The nek is the acceptance of that claim. It is a promise renewed once a year that if something goes wrong, she has somewhere to go." },
@@ -263,6 +266,7 @@ export const POSTS: Post[] = [
       ] },
       { p: "The case people get wrong is a younger brother who is not yet earning. He is not expected to give money. A younger brother giving ₹101 he saved is doing the ritual correctly and completely. The obligation attaches to capacity, not to gender or birth order alone." },
 
+      { photo: "rakhiShopping", caption: "A rakhi stall in the week before the festival." },
       { h: "What to do when you are not in the same city" },
       { p: "This is now the normal case rather than the exception, and it is where the ritual quietly falls apart." },
       { p: "Here is what usually happens. She courier's the rakhi ten days early so it arrives in time. It sits on your desk. On the morning of the twenty-eighth you tie it yourself, or your flatmate does, and you send a photo. Then you open your UPI app and send ₹2,101, and the notification she receives says ₹2,101 received." },

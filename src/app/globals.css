@@ -99,31 +99,53 @@ body {
   }
 }
 
-/* long-form pages: about, blog posts, privacy, terms */
+/* Long-form reading: about, blog posts, privacy, terms.
+   Two deliberate choices here, both measured on the live page before changing.
+
+   1. Body copy is INK, not ink-soft. Muted brown on ivory measured 5.69:1,
+      which passes AA and is still tiring across two thousand words. Ink
+      measures about 12:1. ink-soft is for captions now, not paragraphs.
+   2. Headings are Mukta, not Yatra One. Yatra One is a poster face with a lot
+      of personality: right for the wordmark and the envelope, wrong repeated
+      down a long article, where it was the main thing making the page read as
+      templated. The display face stays on the h1 only. */
+.prose {
+  max-width: 66ch;
+}
 .prose p {
-  margin-bottom: 1.15rem;
-  line-height: 1.75;
-  color: var(--color-ink-soft);
+  margin-bottom: 1.35rem;
+  font-size: 1.0625rem;
+  line-height: 1.72;
+  color: var(--color-ink);
 }
 .prose h2 {
-  font-family: var(--font-display);
-  font-size: 1.5rem;
-  color: var(--color-ink);
-  margin: 2.25rem 0 0.85rem;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: var(--color-maroon);
+  margin: 2.6rem 0 0.8rem;
 }
 .prose h3 {
+  font-family: var(--font-body);
   font-weight: 600;
+  font-size: 1.08rem;
   color: var(--color-ink);
-  margin: 1.75rem 0 0.6rem;
+  margin: 1.9rem 0 0.55rem;
 }
 .prose ul {
-  margin: 0 0 1.15rem 1.1rem;
+  margin: 0 0 1.35rem 1.15rem;
   list-style: disc;
 }
 .prose li {
-  margin-bottom: 0.45rem;
-  line-height: 1.7;
-  color: var(--color-ink-soft);
+  margin-bottom: 0.6rem;
+  font-size: 1.0625rem;
+  line-height: 1.68;
+  color: var(--color-ink);
+}
+.prose li::marker {
+  color: var(--color-marigold);
 }
 .prose strong {
   color: var(--color-ink);
@@ -134,83 +156,9 @@ body {
   text-decoration: underline;
   text-underline-offset: 2px;
 }
-
-/* ── Lifafa Workbench motion, ported from the design canvas ────────────── */
-@keyframes lf-fly {
-  0%   { transform: translate(0, 320px) rotate(16deg) scale(.86); opacity: 0; }
-  55%  { opacity: 1; }
-  72%  { transform: var(--r) scale(1.04); }
-  100% { transform: var(--r); opacity: 1; }
-}
-@keyframes lf-coin {
-  0%   { transform: translateY(-170px) rotateY(0deg) scale(.7); opacity: 0; }
-  40%  { opacity: 1; }
-  100% { transform: translateY(0) rotateY(720deg) scale(1); opacity: 1; }
-}
-@keyframes lf-tuck {
-  0%   { transform: translate(-60px, 90px) rotate(-24deg); opacity: 0; }
-  100% { transform: translate(0, 0) rotate(-6deg); opacity: 1; }
-}
-@keyframes lf-slip {
-  0%   { transform: translate(40px, 110px) rotate(18deg); opacity: 0; }
-  100% { transform: rotate(7deg); opacity: 1; }
-}
-@keyframes lf-glint { 0%, 100% { opacity: .2 } 50% { opacity: .6 } }
-@keyframes lf-rise { from { transform: translateY(10px); opacity: 0 } to { transform: translateY(0); opacity: 1 } }
-
-.lf-fly   { animation: lf-fly .78s cubic-bezier(.2,.85,.25,1) both; }
-.lf-coin  { animation: lf-coin 1s cubic-bezier(.2,.8,.3,1) both; }
-.lf-tuck  { animation: lf-tuck .8s cubic-bezier(.2,.85,.25,1) both; }
-.lf-slip  { animation: lf-slip .7s cubic-bezier(.2,.85,.25,1) both; }
-.lf-glint { animation: lf-glint 3.6s ease-in-out infinite; }
-.lf-rise  { animation: lf-rise .3s ease both; }
-
-@media (prefers-reduced-motion: reduce) {
-  .lf-fly, .lf-coin, .lf-tuck, .lf-slip, .lf-rise { animation-duration: .35s !important; }
-  .lf-glint { animation: none; opacity: .45; }
-}
-
-/* The dark ground the lifafa is designed against — cream text, gold foil and
-   saturated paper all depend on it. Written as a real class because Tailwind
-   compiles `bg-[radial-gradient(...)]` to `background-color:`, which is
-   invalid for a gradient and gets dropped by the browser. */
-/* body carries it too, so a short page has no ivory gap under the fold */
-body:has(.lf-stage) {
-  background: #140c0b;
-}
-
-.lf-stage {
-  background:
-    radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
-    radial-gradient(90% 60% at 50% 110%, #2a1112 0%, transparent 55%),
-    #140c0b;
-  color: #f2e3d3;
-}
-
-/* The same ground, as an inset panel on a light page. */
-.lf-panel {
-  background:
-    radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
-    #140c0b;
-  color: #f2e3d3;
-}
-
-/* The lifafa is built on fixed 330x158 geometry — the flap curves are
-   clip-path coordinates, so it cannot reflow. On narrow phones it scales
-   down instead, and the stage height scales with it so the controls below
-   don't collide. 360px Androids and the 320px SE both fit without the page
-   ever scrolling sideways. */
-.lf-fit {
-  --lf-s: 1;
-  height: calc(344px * var(--lf-s));
-}
-.lf-fit > .lf-fit-inner {
-  transform: scale(var(--lf-s));
-  transform-origin: top center;
-}
-@media (max-width: 389px) {
-  .lf-fit { --lf-s: 0.92; }
-}
-@media (max-width: 359px) {
-  .lf-fit { --lf-s: 0.82; }
+/* the first paragraph of a post carries the opening, so it gets weight */
+.prose > p:first-child {
+  font-size: 1.2rem;
+  line-height: 1.62;
+  color: var(--color-ink);
 }

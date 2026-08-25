@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FESTIVAL_ART } from "@/components/FestivalArt";
 import { POSTS, formatDate, postBySlug } from "@/lib/posts";
+import { licenceUrl, photo } from "@/lib/photos";
 
 export function generateStaticParams() {
   return POSTS.map((p) => ({ slug: p.slug }));
@@ -76,6 +77,35 @@ export default async function PostPage({
                 {b.note}
               </p>
             );
+          if ("photo" in b) {
+            const ph = photo(b.photo);
+            if (!ph) return null;
+            return (
+              <figure key={i} className="my-7">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={ph.src}
+                  alt={ph.alt}
+                  loading="lazy"
+                  className="w-full rounded-xl border border-ivory-edge"
+                />
+                {/* The credit is not decoration. CC BY and CC BY-SA both
+                    require the photographer and the licence to be named. */}
+                <figcaption className="mt-2 text-[13px] leading-relaxed text-ink-faint">
+                  {b.caption ? <span className="text-ink-soft">{b.caption} </span> : null}
+                  Photo by{" "}
+                  <a href={ph.page} target="_blank" rel="noopener noreferrer">
+                    {ph.by}
+                  </a>
+                  , via Wikimedia Commons,{" "}
+                  <a href={licenceUrl(ph.licence)} target="_blank" rel="noopener noreferrer">
+                    {ph.licence}
+                  </a>
+                  .
+                </figcaption>
+              </figure>
+            );
+          }
           if ("table" in b)
             return (
               <div key={i} className="my-6 overflow-x-auto">
