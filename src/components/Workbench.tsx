@@ -5,6 +5,8 @@ import { useState } from "react";
 import Envelope, { SweetSvg, type View } from "@/components/Envelope";
 import Motif from "@/components/Motif";
 import { BORDER_LIST } from "@/lib/borders";
+import Celebration from "@/components/Celebration";
+import { CELEBRATION_LIST, celebrationFor } from "@/lib/celebrations";
 import { MOTIF_LIST } from "@/lib/motifs";
 import {
   COPY,
@@ -44,6 +46,10 @@ export default function Workbench() {
   const [textureId, setTextureId] = useState(TEXTURE_LIST[1].id);
   const [borderId, setBorderId] = useState<string | null>(null);
   const [motifId, setMotifId] = useState<string | null>(null);
+  const [celebrationId, setCelebrationId] = useState<string | null>(null);
+  // The sender picked it themselves, so an occasion change must not overwrite it.
+  const [celebAuto, setCelebAuto] = useState(true);
+  const [previewParty, setPreviewParty] = useState(false);
   const [notes, setNotes] = useState<{ denom: number; key: number }[]>([]);
   const [coin, setCoin] = useState(false);
   const [sweetTray, setSweetTray] = useState<"desi" | "west">("desi");
@@ -137,6 +143,7 @@ export default function Workbench() {
 
   function pickOccasion(id: string) {
     setOccasion(id);
+    if (celebAuto) setCelebrationId(celebrationFor(id));
     const o = occasionById(id);
     const starter = o ? starterFor(o) : "";
     const mine = message.trim() !== "" && !msgAuto;
@@ -160,6 +167,7 @@ export default function Workbench() {
         textureId,
         borderId,
         motifId,
+        celebrationId,
         notes: notes.map((n) => n.denom),
         coin,
         sweetId,
@@ -238,7 +246,10 @@ export default function Workbench() {
       <div className="mt-4 grid gap-x-12 gap-y-6 lg:grid-cols-[362px_minmax(0,1fr)] lg:items-start">
       {/* ══ LEFT: the object, and the money that goes in it ══ */}
       <div className="flex flex-col gap-[15px] lg:sticky lg:top-20">
-      <Envelope s={envState} view={view} caption={caption} />
+      <div className="relative">
+        <Envelope s={envState} view={view} caption={caption} />
+        <Celebration kind={celebrationId} playing={previewParty} />
+      </div>
 
       {/* view switch */}
       <div className="flex gap-1.5">
@@ -649,6 +660,38 @@ export default function Workbench() {
                 has no business carrying one. Everything else is untouched.
               </p>
             )}
+          </div>
+
+          {/* what happens when they open it */}
+          <div className="flex flex-col gap-[7px]">
+            <div className="text-[14px] text-[var(--color-ink-soft)]">{t.celebrationHint}</div>
+            <div className="flex flex-wrap gap-1.5">
+              <button
+                type="button"
+                onClick={() => { setCelebrationId(null); setCelebAuto(false); }}
+                className="rounded-[3px] border px-[11px] py-[7px] text-[14px]"
+                style={btn(celebrationId === null)}
+              >
+                {lang === "hi" ? "कुछ नहीं" : "nothing"}
+              </button>
+              {CELEBRATION_LIST.map((c) => (
+                <button
+                  key={c.id}
+                  type="button"
+                  onClick={() => {
+                    setCelebrationId(c.id);
+                    setCelebAuto(false);
+                    setPreviewParty(false);
+                    setTimeout(() => setPreviewParty(true), 30);
+                    setTimeout(() => setPreviewParty(false), 5200);
+                  }}
+                  className="whitespace-nowrap rounded-[3px] border px-[11px] py-[7px] text-[14px]"
+                  style={btn(celebrationId === c.id)}
+                >
+                  {lang === "hi" ? c.hi : lang === "hn" ? c.hn : c.en}
+                </button>
+              ))}
+            </div>
           </div>
         </div>
       )}

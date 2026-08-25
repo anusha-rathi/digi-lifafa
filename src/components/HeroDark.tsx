@@ -21,6 +21,7 @@ export default function HeroDark() {
         <div className="mt-6">
           <LifafaReveal
             onDark
+            celebration="petals"
             s={{
               designId: "brocade-jaali",
               paletteId: "rani",

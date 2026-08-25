@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import LifafaReveal from "@/components/LifafaReveal";
+import PassItOn from "@/components/PassItOn";
 import { bySlug, markOpened } from "@/lib/db";
 import { rupees } from "@/lib/limits";
 import { toEnvelope } from "@/lib/toEnvelope";
@@ -39,7 +40,7 @@ export default async function ReceiverPage({
   return (
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">
       <div className="rounded-2xl border border-ivory-edge bg-ivory-deep/40 px-2 py-6">
-        <LifafaReveal s={toEnvelope(l)} />
+        <LifafaReveal s={toEnvelope(l)} celebration={l.celebrationId} />
       </div>
 
       {/* who it's from, given the weight it deserves */}
@@ -68,6 +69,8 @@ export default async function ReceiverPage({
           ) : null}
         </div>
       ) : null}
+
+      <PassItOn lang={l.lang} />
     </main>
   );
 }

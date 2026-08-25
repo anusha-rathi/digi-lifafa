@@ -117,11 +117,14 @@ export default function Envelope({
   view,
   caption,
   zoomable = false,
+  sealBreaking = false,
 }: {
   s: EnvelopeState;
   view: View;
   caption?: string;
   zoomable?: boolean;
+  /** The half second where the seal gives way, before the card turns. */
+  sealBreaking?: boolean;
 }) {
   const [openedUp, setOpenedUp] = useState(false);
 
@@ -231,6 +234,7 @@ export default function Envelope({
               {hasMessage && (
                 <div
                   {...tap()}
+                  style={{ animationDelay: "1.15s" }}
                   className={`lf-slip absolute left-[6px] bottom-[88px] h-[74px] w-[126px] overflow-hidden rounded-[2px] bg-[linear-gradient(158deg,#fbf3e2,#ecdfc6)] px-[9px] py-2 shadow-[0_4px_10px_rgba(0,0,0,.35)] ${
                     zoomable ? "cursor-zoom-in ring-offset-2 hover:ring-2 hover:ring-[#e8c37a]" : ""
                   }`}
@@ -264,6 +268,7 @@ export default function Envelope({
                           transform: tf,
                           zIndex: i + 1,
                           background: DENOM_BG[n.denom],
+                          animationDelay: `${0.18 + i * 0.085}s`,
                         } as React.CSSProperties
                       }
                     >
@@ -301,6 +306,7 @@ export default function Envelope({
                 {sweet && (
                   <div
                     {...tap()}
+                    style={{ animationDelay: "0.95s" }}
                     className={`lf-tuck absolute left-4 top-[20px] h-[58px] w-[72px] ${
                       zoomable ? "cursor-zoom-in" : ""
                     }`}
@@ -322,6 +328,7 @@ export default function Envelope({
                 {s.coin && (
                   <div
                     {...tap()}
+                    style={{ animationDelay: "0.7s" }}
                     className={`lf-coin absolute right-[26px] top-[26px] grid h-[46px] w-[46px] place-items-center rounded-full bg-[conic-gradient(from_210deg,#f3d489,#b8862f,#ffeab8,#9c6c22,#f3d489)] shadow-[0_3px_8px_rgba(0,0,0,.5),inset_0_0_0_2px_rgba(255,255,255,.35)] ${
                       zoomable ? "cursor-zoom-in" : ""
                     }`}
@@ -414,6 +421,13 @@ export default function Envelope({
                 >
                   {nameShown}
                 </div>
+                {sealBreaking && (
+                  <div className="lf-crack pointer-events-none absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+                    <div className="grid h-[46px] w-[46px] place-items-center rounded-full bg-[radial-gradient(circle_at_34%_30%,#f6dea6,#c9922f_55%,#8b5f19)] shadow-[0_3px_9px_rgba(0,0,0,.5)]">
+                      <span className="font-display text-[17px] leading-none text-[#4a3208]">श्री</span>
+                    </div>
+                  </div>
+                )}
               </div>
             </div>
           )}

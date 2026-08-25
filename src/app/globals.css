@@ -294,3 +294,36 @@ body {
 .band--paper::before { opacity: 0.05; background-image:
     repeating-linear-gradient(45deg, #b8912f 0 1.5px, transparent 1.5px 24px),
     repeating-linear-gradient(-45deg, #b8912f 0 1.5px, transparent 1.5px 24px); }
+
+/* ── The moment after opening ──────────────────────────────────────────── */
+@keyframes lf-fall {
+  0%   { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+  8%   { opacity: 1; }
+  100% { transform: translate(var(--drift, 0px), 460px) rotate(var(--spin, 360deg)); opacity: 0; }
+}
+@keyframes lf-light {
+  0%   { opacity: 0; transform: translateX(-50%) translateY(10px) scale(.7); }
+  60%  { opacity: 1; transform: translateX(-50%) translateY(0) scale(1.06); }
+  100% { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
+}
+@keyframes lf-spark {
+  0%   { transform: rotate(var(--a, 0deg)) translateX(0) scaleX(.3); opacity: 0; }
+  15%  { opacity: 1; }
+  100% { transform: rotate(var(--a, 0deg)) translateX(var(--throw, 140px)) scaleX(1); opacity: 0; }
+}
+.lf-fall  { animation: lf-fall 3.4s linear both; }
+.lf-light { animation: lf-light .5s cubic-bezier(.2,.8,.3,1) both; }
+.lf-spark { animation: lf-spark 1.1s ease-out both; }
+
+/* The seal giving way, which is the first thing that happens. */
+@keyframes lf-crack {
+  0%   { transform: scale(1) rotate(0deg); }
+  35%  { transform: scale(1.18) rotate(-8deg); }
+  70%  { transform: scale(.86) rotate(6deg); opacity: 1; }
+  100% { transform: scale(.5) rotate(14deg); opacity: 0; }
+}
+.lf-crack { animation: lf-crack .55s cubic-bezier(.3,.7,.4,1) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .lf-fall, .lf-light, .lf-spark, .lf-crack { animation: none !important; opacity: 1; }
+}

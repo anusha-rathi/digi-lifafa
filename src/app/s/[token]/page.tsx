@@ -40,7 +40,7 @@ export default async function SenderPage({
       </p>
 
       <div className="my-8 rounded-2xl border border-ivory-edge bg-ivory-deep/40 px-2 py-6">
-        <LifafaReveal s={toEnvelope(l)} />
+        <LifafaReveal s={toEnvelope(l)} celebration={l.celebrationId} />
       </div>
 
       {vpa === null ? (

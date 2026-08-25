@@ -41,6 +41,7 @@ export type Lifafa = {
   textureId: string;
   borderId: string | null;
   motifId: string | null;
+  celebrationId: string | null;
   sweetId: string | null;
   utr: string | null;
   paymentMarked: "unknown" | "paid" | "skipped";
@@ -68,6 +69,7 @@ const hydrate = (r: Row): Lifafa => ({
   textureId: String(r.texture_id),
   borderId: r.border_id == null ? null : String(r.border_id),
   motifId: r.motif_id == null ? null : String(r.motif_id),
+  celebrationId: r.celebration_id == null ? null : String(r.celebration_id),
   sweetId: r.sweet_id == null ? null : String(r.sweet_id),
   utr: r.utr == null ? null : String(r.utr),
   paymentMarked: String(r.payment_marked) as Lifafa["paymentMarked"],
@@ -101,6 +103,7 @@ export async function createLifafa(v: CreateParsed) {
     sweet_id: v.sweetId,
     border_id: v.borderId,
     motif_id: v.motifId,
+    celebration_id: v.celebrationId,
   });
 
   if (error) throw new Error(`create failed: ${error.message}`);
