@@ -206,7 +206,7 @@ export default function Workbench() {
   const vBtn = (v: View) => btn(pending === v);
 
   return (
-    <div className="mx-auto w-full max-w-5xl px-4 pb-16">
+    <div className={`mx-auto w-full max-w-5xl px-4 pb-16 ${lang === "hi" ? "deva" : ""}`}>
       {/* header */}
       <div className="flex items-start justify-between gap-2.5">
         <div className="flex-1">
@@ -661,8 +661,7 @@ export default function Workbench() {
         type="button"
         disabled={!ready || busy}
         onClick={seal}
-        className="mt-0.5 rounded-[3px] border bg-transparent py-[15px] font-display text-[19px] text-[var(--color-ivory)] transition hover:bg-maroon hover:text-ivory disabled:opacity-40"
-        style={{ borderColor: "var(--color-maroon)" }}
+        className="mt-0.5 rounded-full bg-maroon py-[16px] font-display text-[19px] text-ivory shadow-[0_10px_24px_-10px_rgba(123,30,43,.6)] transition hover:bg-maroon-deep disabled:cursor-not-allowed disabled:opacity-35 disabled:shadow-none"
       >
         {busy ? "…" : t.sealOpen}
       </button>

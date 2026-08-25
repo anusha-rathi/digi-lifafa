@@ -203,11 +203,6 @@ body {
    saturated paper all depend on it. Written as a real class because Tailwind
    compiles `bg-[radial-gradient(...)]` to `background-color:`, which is
    invalid for a gradient and gets dropped by the browser. */
-/* body carries it too, so a short page has no ivory gap under the fold */
-body:has(.lf-stage) {
-  background: #140c0b;
-}
-
 .lf-stage {
   background:
     radial-gradient(120% 80% at 50% -10%, #3a1a1c 0%, transparent 60%),
@@ -249,3 +244,53 @@ body:has(.lf-stage) {
 @media (max-width: 359px) {
   .lf-fit { --lf-s: 0.82; }
 }
+
+/* Devanagari needs more room than Latin at the same nominal size: the
+   shirorekha sits above the x-height and conjuncts stack below it, so a line
+   that is comfortable in English is cramped in Hindi. The owner likes Mukta,
+   so the face stays and the metrics change instead. */
+.deva {
+  font-size: 1.08em;
+  line-height: 1.85;
+  letter-spacing: 0;
+}
+.deva *,
+.deva-tight * {
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+}
+/* the envelope is drawn to fixed geometry, so it keeps the base scale */
+.deva .lf-fit {
+  font-size: 1rem;
+  line-height: normal;
+}
+.deva-tight {
+  font-size: 1.06em;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+/* Full-bleed festive grounds for the sections under the dark hero, so wide
+   screens have paper in the margins instead of empty ivory, and so seven
+   identical centred blocks stop reading as one templated rhythm. */
+.band {
+  position: relative;
+  isolation: isolate;
+}
+.band::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  opacity: 0.14;
+  background-image:
+    repeating-linear-gradient(45deg, #ffffff 0 1.5px, transparent 1.5px 24px),
+    repeating-linear-gradient(-45deg, #ffffff 0 1.5px, transparent 1.5px 24px);
+}
+.band--marigold { background: linear-gradient(#e79b12, #d68a09); color: #3a1a06; }
+.band--peacock  { background: linear-gradient(#0f6e5c, #084a3e); color: #eaf5f1; }
+.band--maroon   { background: linear-gradient(#7b1e2b, #5c1420); color: #f6e9d6; }
+.band--paper    { background: var(--color-ivory); color: var(--color-ink); }
+.band--paper::before { opacity: 0.05; background-image:
+    repeating-linear-gradient(45deg, #b8912f 0 1.5px, transparent 1.5px 24px),
+    repeating-linear-gradient(-45deg, #b8912f 0 1.5px, transparent 1.5px 24px); }

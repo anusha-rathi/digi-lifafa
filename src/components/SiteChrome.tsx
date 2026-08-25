@@ -46,8 +46,8 @@ export function SiteHeader() {
 
 export function SiteFooter() {
   return (
-    <footer className="mt-20 border-t border-ivory-edge/70 bg-ivory-deep/50">
-      <div className="mx-auto w-full max-w-5xl px-5 py-10">
+    <footer className="border-t border-ivory-edge bg-ivory-deep">
+      <div className="mx-auto w-full max-w-5xl px-5 py-12">
         <div className="flex flex-wrap gap-x-10 gap-y-6">
           <div className="min-w-[200px] flex-1">
             <p className="text-lg text-maroon [font-family:var(--font-wordmark)]">डिजि लिफ़ाफ़ा</p>

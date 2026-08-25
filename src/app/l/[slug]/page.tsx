@@ -33,7 +33,8 @@ export default async function ReceiverPage({
 
   await markOpened(slug);
 
-  const withLove = l.lang === "hi" ? "प्यार के साथ" : "with love";
+  const withLove =
+    l.lang === "hi" ? "प्यार के साथ" : l.lang === "hn" ? "pyaar ke saath" : "with love";
 
   return (
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">

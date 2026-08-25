@@ -50,19 +50,19 @@ export default function Home() {
       <HeroDark />
 
       {/* how it works */}
-      <section className="border-y border-ivory-edge/70 bg-ivory-deep/40">
-        <div className="mx-auto w-full max-w-3xl px-5 py-16">
-          <h2 className="text-center font-display text-3xl text-maroon">
+      <section className="band band--marigold">
+        <div className="mx-auto w-full max-w-5xl px-5 py-20">
+          <h2 className="text-center font-display text-3xl">
             Three steps, about a minute
           </h2>
           <div className="mt-10 grid gap-8 sm:grid-cols-3">
             {STEPS.map((s) => (
               <div key={s.n} className="text-center sm:text-left">
-                <span className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-marigold font-display text-lg text-night">
+                <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-maroon font-display text-lg text-ivory">
                   {s.n}
                 </span>
-                <h3 className="mt-3 font-semibold text-ink">{s.h}</h3>
-                <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">{s.p}</p>
+                <h3 className="mt-3 font-semibold">{s.h}</h3>
+                <p className="mt-1.5 text-sm leading-relaxed opacity-80">{s.p}</p>
               </div>
             ))}
           </div>
@@ -70,11 +70,12 @@ export default function Home() {
       </section>
 
       {/* occasions */}
-      <section className="mx-auto w-full max-w-3xl px-5 py-16">
-        <h2 className="text-center font-display text-3xl text-maroon">
+      <section className="band band--peacock">
+        <div className="mx-auto w-full max-w-5xl px-5 py-20">
+        <h2 className="text-center font-display text-3xl">
           For every mauka
         </h2>
-        <p className="mx-auto mt-2 max-w-sm text-center text-sm leading-relaxed text-ink-soft">
+        <p className="mx-auto mt-2 max-w-sm text-center text-sm leading-relaxed opacity-80">
           Each one comes with words already written, if you want them. Change
           them, or write your own, including your own heading.
         </p>
@@ -83,45 +84,46 @@ export default function Home() {
             <Link
               key={o.id}
               href="/make"
-              className="rounded-full border border-ivory-edge bg-white/60 px-4 py-2 text-sm text-ink-soft transition hover:border-marigold hover:text-ink"
+              className="rounded-full border border-white/25 bg-white/10 px-4 py-2 text-sm transition hover:border-white/60 hover:bg-white/20"
             >
-              {o.hi} <span className="text-ink-faint">· {o.en}</span>
+              {o.hi} <span className="opacity-65">· {o.en}</span>
             </Link>
           ))}
+        </div>
         </div>
       </section>
 
       {/* trust */}
-      <section className="border-y border-ivory-edge/70 bg-ivory-deep/40">
-        <div className="mx-auto w-full max-w-3xl px-5 py-16">
-          <h2 className="text-center font-display text-3xl text-maroon">
+      <section className="band band--maroon">
+        <div className="mx-auto w-full max-w-5xl px-5 py-20">
+          <h2 className="text-center font-display text-3xl">
             We stay out of your money
           </h2>
           <div className="mt-10 grid gap-7 sm:grid-cols-3">
             <div>
-              <h3 className="font-semibold text-peacock">It&apos;s free</h3>
-              <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">
+              <h3 className="font-semibold text-marigold-soft">It&apos;s free</h3>
+              <p className="mt-1.5 text-sm leading-relaxed opacity-80">
                 No fee, no cut, no premium tier. We never handle the amount, so
                 there is nothing for us to take a percentage of.
               </p>
             </div>
             <div>
-              <h3 className="font-semibold text-peacock">It&apos;s private</h3>
-              <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">
+              <h3 className="font-semibold text-marigold-soft">It&apos;s private</h3>
+              <p className="mt-1.5 text-sm leading-relaxed opacity-80">
                 No accounts, no phone number, no email. Your lifafa link is
                 unguessable and is never indexed by search engines.
               </p>
             </div>
             <div>
-              <h3 className="font-semibold text-peacock">It&apos;s peer to peer</h3>
-              <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">
+              <h3 className="font-semibold text-marigold-soft">It&apos;s peer to peer</h3>
+              <p className="mt-1.5 text-sm leading-relaxed opacity-80">
                 The money goes from your bank to theirs through your own UPI
                 app. We have no wallet and no gateway to route it through.
               </p>
             </div>
           </div>
           <p className="mt-10 text-center text-sm">
-            <Link href="/blog/is-it-safe" className="text-peacock underline underline-offset-2">
+            <Link href="/blog/is-it-safe" className="text-marigold-soft underline underline-offset-2">
               Read the straight answer on safety
             </Link>
           </p>
@@ -129,7 +131,8 @@ export default function Home() {
       </section>
 
       {/* blog */}
-      <section className="mx-auto w-full max-w-3xl px-5 py-16">
+      <section className="band band--paper">
+        <div className="mx-auto w-full max-w-5xl px-5 py-20">
         <div className="flex items-baseline justify-between gap-4">
           <h2 className="font-display text-3xl text-maroon">From the blog</h2>
           <Link href="/blog" className="text-sm text-peacock underline underline-offset-2">
@@ -153,24 +156,25 @@ export default function Home() {
             </Link>
           ))}
         </div>
+        </div>
       </section>
 
       {/* faq */}
-      <section className="border-t border-ivory-edge/70 bg-ivory-deep/40">
-        <div className="mx-auto w-full max-w-2xl px-5 py-16">
-          <h2 className="text-center font-display text-3xl text-maroon">
+      <section className="band band--marigold">
+        <div className="mx-auto w-full max-w-2xl px-5 py-20">
+          <h2 className="text-center font-display text-3xl">
             Questions people ask
           </h2>
-          <div className="mt-8 divide-y divide-ivory-edge">
+          <div className="mt-8 divide-y divide-black/15">
             {FAQ.map((f) => (
               <details key={f.q} className="group py-4">
-                <summary className="cursor-pointer list-none font-semibold text-ink marker:hidden">
-                  <span className="inline-block w-5 text-marigold transition group-open:rotate-90">
+                <summary className="cursor-pointer list-none font-semibold marker:hidden">
+                  <span className="inline-block w-5 text-maroon transition group-open:rotate-90">
                     ›
                   </span>
                   {f.q}
                 </summary>
-                <p className="mt-2 pl-5 text-sm leading-relaxed text-ink-soft">{f.a}</p>
+                <p className="mt-2 pl-5 text-sm leading-relaxed opacity-85">{f.a}</p>
               </details>
             ))}
           </div>
