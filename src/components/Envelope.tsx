@@ -111,9 +111,9 @@ export default function Envelope({
   const flipT =
     view === "open" ? "rotateY(0deg)" : view === "back" ? "rotateY(180deg)" : "rotateY(360deg)";
 
-  const paper = { background: pal.base, backgroundImage: image, backgroundSize: size };
+  const paper = { backgroundColor: pal.base, backgroundImage: image, backgroundSize: size };
   const flapPaper = (overlay: string) => ({
-    background: pal.flap,
+    backgroundColor: pal.flap,
     backgroundImage: `${overlay}, ${image}`,
     backgroundSize: `auto, ${size}`,
   });
@@ -254,7 +254,7 @@ export default function Envelope({
               <div
                 className="absolute left-0 bottom-0 h-[86px] w-[330px] [filter:drop-shadow(0_-4px_10px_rgba(0,0,0,.25))]"
                 style={{
-                  background: pal.base,
+                  backgroundColor: pal.base,
                   backgroundImage: `linear-gradient(rgba(255,255,255,.12), rgba(0,0,0,.18)), ${image}`,
                   backgroundSize: `auto, ${size}`,
                   clipPath: POCKET_PATH,
@@ -369,7 +369,7 @@ export default function Envelope({
         </div>
 
         {caption && (
-          <div className="absolute inset-x-0 bottom-[6px] text-center text-[10.5px] tracking-[.14em] text-ink-faint">
+          <div className="absolute inset-x-0 bottom-[6px] text-center text-[12px] tracking-[.12em] text-ink-faint">
             {caption}
           </div>
         )}

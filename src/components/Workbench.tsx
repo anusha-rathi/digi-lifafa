@@ -66,7 +66,7 @@ export default function Workbench() {
     return (
       <div className="mx-auto flex min-h-[70vh] w-full max-w-[375px] flex-col justify-center gap-6 px-4 text-center">
         <div className="flex flex-col gap-[5px]">
-          <div className="text-[10.5px] font-semibold uppercase tracking-[.26em] text-[var(--color-marigold)]">
+          <div className="text-[11.5px] font-semibold uppercase tracking-[.26em] text-[var(--color-marigold)]">
             digi lifafa
           </div>
           <h1 className="m-0 font-display text-[31px] font-normal leading-[1.6] text-[var(--color-ink)]">
@@ -209,7 +209,7 @@ export default function Workbench() {
       {/* header */}
       <div className="flex items-start justify-between gap-2.5">
         <div className="flex-1">
-          <div className="text-[10.5px] font-semibold uppercase tracking-[.22em] text-[var(--color-marigold)]">
+          <div className="text-[11.5px] font-semibold uppercase tracking-[.22em] text-[var(--color-marigold)]">
             {t.step}
           </div>
           <h1 className="m-0 font-display text-[26px] font-normal leading-[1.6] text-[var(--color-ink)]">
@@ -219,7 +219,7 @@ export default function Workbench() {
         <button
           type="button"
           onClick={() => setLang(NEXT_LANG[lang])}
-          className="mt-[5px] rounded-[3px] border bg-transparent px-2.5 py-1.5 text-[11px] tracking-[.08em] text-[var(--color-ink-soft)]"
+          className="mt-[5px] rounded-[3px] border bg-transparent px-2.5 py-1.5 text-[12.5px] tracking-[.08em] text-[var(--color-ink-soft)]"
           style={{ borderColor: "var(--color-ivory-edge)" }}
         >
           {t.langSwap}
@@ -238,7 +238,7 @@ export default function Workbench() {
             key={v}
             type="button"
             onClick={() => go(v)}
-            className="flex-1 rounded-[3px] border py-[9px] text-[13px]"
+            className="flex-1 rounded-[3px] border py-[9px] text-[14px]"
             style={vBtn(v)}
           >
             {label}
@@ -252,11 +252,11 @@ export default function Workbench() {
         style={{ borderColor: "var(--color-ivory-edge)" }}
       >
         <div>
-          <div className="text-[10px] uppercase tracking-[.2em] text-[var(--color-ink-soft)]">{t.total}</div>
+          <div className="text-[12px] uppercase tracking-[.2em] text-[var(--color-ink-soft)]">{t.total}</div>
           <div className="font-display text-[31px] leading-[1.15] text-[var(--color-ink)] [font-feature-settings:'tnum']">
             ₹{total.toLocaleString("en-IN")}
           </div>
-          <div className="text-[11.5px] leading-[1.4] text-[var(--color-ink-soft)]">
+          <div className="text-[13px] leading-[1.4] text-[var(--color-ink-soft)]">
             {total >= MAX_RUPEES
               ? `${t.cap}₹${MAX_RUPEES.toLocaleString("en-IN")}`
               : notes.length === 0
@@ -278,10 +278,10 @@ export default function Workbench() {
             borderColor: coin ? "var(--color-maroon)" : "var(--color-ivory-edge)",
           }}
         >
-          <span className="grid h-[34px] w-[34px] place-items-center rounded-full bg-[conic-gradient(from_210deg,#f3d489,#b8862f,#ffeab8,#9c6c22,#f3d489)] text-[15px] font-bold text-[#4a3208]">
+          <span className="grid h-[34px] w-[34px] place-items-center rounded-full bg-[conic-gradient(from_210deg,#f3d489,#b8862f,#ffeab8,#9c6c22,#f3d489)] text-[16px] font-bold text-[#4a3208]">
             {coin ? "✓" : "+"}
           </span>
-          <span className="text-center text-[11px] leading-[1.3]">
+          <span className="text-center text-[12.5px] leading-[1.3]">
             {coin ? t.coinIn : t.coinAdd}
           </span>
         </button>
@@ -298,7 +298,7 @@ export default function Workbench() {
             key={k}
             type="button"
             onClick={() => setTab(k)}
-            className="rounded-[3px] border py-[9px] text-[12.5px]"
+            className="rounded-[3px] border py-[9px] text-[14px]"
             style={btn(tab === k)}
           >
             {t.tabs[k]}
@@ -309,7 +309,7 @@ export default function Workbench() {
       {/* ── DESIGN ─────────────────────────────────────────────────── */}
       {tab === "design" && (
         <div className="lf-rise flex flex-col gap-[9px]">
-          <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.designHint}</div>
+          <div className="text-[14px] text-[var(--color-ink-soft)]">{t.designHint}</div>
           <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 xl:grid-cols-5">
             {DESIGN_LIST.map((d) => {
               const on = d.id === designId;
@@ -326,7 +326,7 @@ export default function Workbench() {
                   <span
                     className="block h-[42px] rounded-[2px] shadow-[inset_0_0_0_1px_rgba(255,255,255,.16)]"
                     style={{
-                      background: pal.base,
+                      backgroundColor: pal.base,
                       backgroundImage: image,
                       backgroundSize: size,
                       outline: d.frame ? `1px solid ${pal.lace}` : "none",
@@ -334,7 +334,7 @@ export default function Workbench() {
                     }}
                   />
                   <span
-                    className="text-left text-[10px] leading-[1.2]"
+                    className="text-left text-[12px] leading-[1.2]"
                     style={{ color: on ? "var(--color-ink)" : "var(--color-ink-soft)" }}
                   >
                     {lang === "hi" ? d.hi : d.en}
@@ -350,7 +350,7 @@ export default function Workbench() {
       {tab === "colour" && (
         <div className="lf-rise flex flex-col gap-3.5">
           <div className="flex flex-col gap-2">
-            <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.colourHint}</div>
+            <div className="text-[14px] text-[var(--color-ink-soft)]">{t.colourHint}</div>
             <div className="flex flex-wrap gap-2">
               {PALETTE_LIST.map((p) => (
                 <button
@@ -370,7 +370,7 @@ export default function Workbench() {
             </div>
           </div>
           <div className="flex flex-col gap-2">
-            <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.textureHint}</div>
+            <div className="text-[14px] text-[var(--color-ink-soft)]">{t.textureHint}</div>
             <div className="grid grid-cols-3 gap-2 sm:grid-cols-5">
               {TEXTURE_LIST.map((x) => {
                 const on = x.id === textureId;
@@ -389,12 +389,12 @@ export default function Workbench() {
                     <span
                       className="block h-[30px] rounded-[2px]"
                       style={{
-                        background: pal.base,
+                        backgroundColor: pal.base,
                         backgroundImage: x.img || "none",
                         backgroundSize: x.size || "auto",
                       }}
                     />
-                    <span className="text-left text-[10px]">{lang === "hi" ? x.hi : x.en}</span>
+                    <span className="text-left text-[12px]">{lang === "hi" ? x.hi : x.en}</span>
                   </button>
                 );
               })}
@@ -406,7 +406,7 @@ export default function Workbench() {
       {/* ── MONEY ──────────────────────────────────────────────────── */}
       {tab === "money" && (
         <div className="lf-rise flex flex-col gap-3">
-          <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.moneyHint}</div>
+          <div className="text-[14px] text-[var(--color-ink-soft)]">{t.moneyHint}</div>
           <div className="grid grid-cols-3 gap-2 sm:grid-cols-6">
             {DENOM_LIST.map((d) => {
               const count = notes.filter((n) => n.denom === d.denom).length;
@@ -422,7 +422,7 @@ export default function Workbench() {
                     ₹{d.denom}
                   </span>
                   {count > 0 && (
-                    <span className="absolute right-[5px] top-[3px] text-[10px] font-bold text-black/55">
+                    <span className="absolute right-[5px] top-[3px] text-[12px] font-bold text-black/55">
                       ×{count}
                     </span>
                   )}
@@ -433,7 +433,7 @@ export default function Workbench() {
           <button
             type="button"
             onClick={() => setNotes((n) => n.slice(0, -1))}
-            className="rounded-[3px] border bg-transparent py-2.5 text-[12.5px] text-[var(--color-ink-soft)]"
+            className="rounded-[3px] border bg-transparent py-2.5 text-[14px] text-[var(--color-ink-soft)]"
             style={{ borderColor: "var(--color-ivory-edge)" }}
           >
             {t.undo}
@@ -444,12 +444,12 @@ export default function Workbench() {
       {/* ── SWEETS ─────────────────────────────────────────────────── */}
       {tab === "sweet" && (
         <div className="lf-rise flex flex-col gap-3">
-          <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.sweetHint}</div>
+          <div className="text-[14px] text-[var(--color-ink-soft)]">{t.sweetHint}</div>
           <div className="flex gap-1.5">
             <button
               type="button"
               onClick={() => setSweetTray("desi")}
-              className="flex-1 rounded-[3px] border py-2 text-[12.5px]"
+              className="flex-1 rounded-[3px] border py-2 text-[14px]"
               style={btn(sweetTray === "desi")}
             >
               {t.desi}
@@ -457,7 +457,7 @@ export default function Workbench() {
             <button
               type="button"
               onClick={() => setSweetTray("west")}
-              className="flex-1 rounded-[3px] border py-2 text-[12.5px]"
+              className="flex-1 rounded-[3px] border py-2 text-[14px]"
               style={btn(sweetTray === "west")}
             >
               {t.western}
@@ -483,7 +483,7 @@ export default function Workbench() {
                   <span className="[filter:drop-shadow(0_3px_3px_rgba(0,0,0,.5))]">
                     <SweetSvg shapes={s.sh} width={66} height={58} />
                   </span>
-                  <span className="text-center text-[10px] leading-[1.2]">
+                  <span className="text-center text-[12px] leading-[1.2]">
                     {lang === "hi" ? s.hi : s.en}
                   </span>
                 </button>
@@ -493,7 +493,7 @@ export default function Workbench() {
           <button
             type="button"
             onClick={() => setSweetId(null)}
-            className="rounded-[3px] border bg-transparent py-2.5 text-[12.5px] text-[var(--color-ink-soft)]"
+            className="rounded-[3px] border bg-transparent py-2.5 text-[14px] text-[var(--color-ink-soft)]"
             style={{ borderColor: "var(--color-ivory-edge)" }}
           >
             {t.noSweet}
@@ -505,14 +505,14 @@ export default function Workbench() {
       {tab === "note" && (
         <div className="lf-rise flex flex-col gap-[13px]">
           <div className="flex flex-col gap-[7px]">
-            <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.occasionHint}</div>
+            <div className="text-[14px] text-[var(--color-ink-soft)]">{t.occasionHint}</div>
             <div className="flex flex-wrap gap-1.5">
               {OCCASION_LIST.map((o) => (
                 <button
                   key={o.id}
                   type="button"
                   onClick={() => pickOccasion(o.id)}
-                  className="whitespace-nowrap rounded-[3px] border px-[11px] py-[7px] text-[12.5px]"
+                  className="whitespace-nowrap rounded-[3px] border px-[11px] py-[7px] text-[14px]"
                   style={btn(o.id === occasion)}
                 >
                   {lang === "hi" ? o.hi : lang === "hn" ? o.rom : o.en}
@@ -523,7 +523,7 @@ export default function Workbench() {
 
           {occasion === "custom" && (
             <div className="flex flex-col gap-[7px]">
-              <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.customHint}</label>
+              <label className="text-[14px] text-[var(--color-ink-soft)]">{t.customHint}</label>
               <input
                 value={customHeading}
                 onChange={(e) => setCustomHeading(e.target.value.slice(0, 40))}
@@ -536,8 +536,8 @@ export default function Workbench() {
 
           <div className="flex flex-col gap-[7px]">
             <div className="flex items-baseline justify-between">
-              <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.messageHint}</label>
-              <span className="text-[11px] text-[var(--color-ink-faint)] [font-feature-settings:'tnum']">
+              <label className="text-[14px] text-[var(--color-ink-soft)]">{t.messageHint}</label>
+              <span className="text-[12.5px] text-[var(--color-ink-faint)] [font-feature-settings:'tnum']">
                 {message.length}/500
               </span>
             </div>
@@ -553,7 +553,7 @@ export default function Workbench() {
               style={{ borderColor: "var(--color-ivory-edge)" }}
             />
             {removed > 0 && (
-              <p className="rounded-[3px] bg-marigold/15 px-3 py-2 text-[11.5px] leading-relaxed text-ink-soft">
+              <p className="rounded-[3px] bg-marigold/15 px-3 py-2 text-[13px] leading-relaxed text-ink-soft">
                 {removed === 1 ? "एक लिंक हटाया गया" : `${removed} लिंक हटाए गए`}. A lifafa
                 has no business carrying one. Everything else is untouched.
               </p>
@@ -566,24 +566,24 @@ export default function Workbench() {
       {tab === "name" && (
         <div className="lf-rise flex flex-col gap-[13px]">
           <div className="flex flex-col gap-[7px]">
-            <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.nameHint}</label>
+            <label className="text-[14px] text-[var(--color-ink-soft)]">{t.nameHint}</label>
             <input
               value={name}
               onChange={(e) => setName(e.target.value.slice(0, 40))}
               placeholder="Ananya / अनन्या"
-              className="rounded-[3px] border bg-white px-[13px] py-3 text-[15px] text-[var(--color-ink)] outline-none focus:border-marigold"
+              className="rounded-[3px] border bg-white px-[13px] py-3 text-[16px] text-[var(--color-ink)] outline-none focus:border-marigold"
               style={{ borderColor: "var(--color-ivory-edge)" }}
             />
           </div>
           <div className="flex flex-col gap-[7px]">
-            <div className="text-[12.5px] text-[var(--color-ink-soft)]">{t.salHint}</div>
+            <div className="text-[14px] text-[var(--color-ink-soft)]">{t.salHint}</div>
             <div className="flex flex-wrap gap-1.5">
               {SALUTATION_LIST.map((s) => (
                 <button
                   key={s}
                   type="button"
                   onClick={() => setSalutation(s)}
-                  className="rounded-[3px] border px-[13px] py-2 text-[13.5px]"
+                  className="rounded-[3px] border px-[13px] py-2 text-[15px]"
                   style={btn(s === salutation)}
                 >
                   {s}
@@ -600,18 +600,18 @@ export default function Workbench() {
         style={{ borderColor: "var(--color-ivory-edge)" }}
       >
         <div className="flex flex-col gap-[7px]">
-          <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.senderLabel}</label>
+          <label className="text-[14px] text-[var(--color-ink-soft)]">{t.senderLabel}</label>
           <input
             value={senderName}
             onChange={(e) => setSenderName(e.target.value.slice(0, 40))}
             placeholder={lang === "hi" ? "मम्मी" : "Mummy"}
-            className="rounded-[3px] border bg-white px-[13px] py-3 text-[15px] text-[var(--color-ink)] outline-none focus:border-marigold"
+            className="rounded-[3px] border bg-white px-[13px] py-3 text-[16px] text-[var(--color-ink)] outline-none focus:border-marigold"
             style={{ borderColor: "var(--color-ivory-edge)" }}
           />
         </div>
 
         <div className="flex flex-col gap-[7px]">
-          <label className="text-[12.5px] text-[var(--color-ink-soft)]">{t.vpaLabel}</label>
+          <label className="text-[14px] text-[var(--color-ink-soft)]">{t.vpaLabel}</label>
           <input
             value={noPay ? "" : vpa}
             disabled={noPay}
@@ -621,11 +621,11 @@ export default function Workbench() {
             autoCapitalize="none"
             autoCorrect="off"
             spellCheck={false}
-            className="rounded-[3px] border bg-white px-[13px] py-3 font-mono text-[14px] text-[var(--color-ink)] outline-none focus:border-marigold disabled:bg-black/5 disabled:text-[var(--color-ink-faint)]"
+            className="rounded-[3px] border bg-white px-[13px] py-3 font-mono text-[15px] text-[var(--color-ink)] outline-none focus:border-marigold disabled:bg-black/5 disabled:text-[var(--color-ink-faint)]"
             style={{ borderColor: "var(--color-ivory-edge)" }}
           />
           {!noPay && (
-            <span className="text-[11px] leading-[1.5] text-[var(--color-ink-faint)]">
+            <span className="text-[12.5px] leading-[1.5] text-[var(--color-ink-faint)]">
               {t.vpaHelp}
             </span>
           )}
@@ -640,9 +640,9 @@ export default function Workbench() {
             className="mt-0.5 h-4 w-4 shrink-0 accent-[var(--color-maroon)]"
           />
           <span>
-            <span className="block text-[13px] text-[var(--color-ink)]">{t.noPay}</span>
+            <span className="block text-[14px] text-[var(--color-ink)]">{t.noPay}</span>
             {noPay && (
-              <span className="mt-0.5 block text-[11.5px] leading-[1.5] text-[var(--color-ink-faint)]">
+              <span className="mt-0.5 block text-[13px] leading-[1.5] text-[var(--color-ink-faint)]">
                 {t.noPayNote}
               </span>
             )}
@@ -651,7 +651,7 @@ export default function Workbench() {
       </div>
 
       {error && (
-        <p className="rounded-[3px] border border-kumkum/40 bg-kumkum/8 px-3 py-2.5 text-[13px] text-kumkum">
+        <p className="rounded-[3px] border border-kumkum/40 bg-kumkum/8 px-3 py-2.5 text-[14px] text-kumkum">
           {error}
         </p>
       )}
@@ -665,7 +665,7 @@ export default function Workbench() {
       >
         {busy ? "…" : t.sealOpen}
       </button>
-      <div className="text-center text-[11.5px] leading-[1.5] text-[var(--color-ink-faint)]">{t.footer}</div>
+      <div className="text-center text-[13px] leading-[1.5] text-[var(--color-ink-faint)]">{t.footer}</div>
       </div>
       </div>
     </div>
