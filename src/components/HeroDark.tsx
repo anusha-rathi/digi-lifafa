@@ -1,28 +1,30 @@
 import Link from "next/link";
-import LifafaFan from "@/components/LifafaFan";
+import { LifafaBackdrop } from "@/components/LifafaArt";
 import MissedOccasions from "@/components/MissedOccasions";
 
-/* The landing hero. One question, five real lifafas, two clear buttons.
-   Everything else that used to be here was explaining, and explaining is what
-   made it read like a brochure. */
+/* The landing hero.
+ *
+ * The lifafas are the background now rather than a strip underneath, and the
+ * paragraph that used to explain the question is gone. A page about envelopes
+ * should show envelopes before it says anything. */
 export default function HeroDark() {
   return (
     <section className="lf-stage relative overflow-hidden">
+      <LifafaBackdrop opacity={0.4} lift />
+      {/* a scrim only where the words are, so the lifafas stay visible */}
       <div
-        className="pointer-events-none absolute left-1/2 top-0 h-[520px] w-[520px] -translate-x-1/2 rounded-full opacity-55 blur-[120px]"
-        style={{ background: "radial-gradient(circle, #7b1e2b 0%, transparent 70%)" }}
+        className="pointer-events-none absolute inset-0"
+        style={{
+          background:
+            "radial-gradient(ellipse 46% 52% at 50% 50%, rgba(26,12,11,.95) 0%, rgba(26,12,11,.8) 48%, transparent 74%)",
+        }}
         aria-hidden
       />
 
-      <div className="relative mx-auto w-full max-w-3xl px-5 pt-14 pb-16 text-center sm:pt-20">
+      <div className="relative mx-auto w-full max-w-3xl px-5 py-20 text-center sm:py-24">
         <MissedOccasions />
 
-        <p className="mx-auto mt-7 max-w-md text-[17px] leading-[1.7] text-[#c9ab8c]">
-          You cannot fix that. But the thing you actually miss is the lifafa,
-          and that one you can still send.
-        </p>
-
-        <div className="mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
+        <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
           <Link
             href="/templates"
             className="w-full max-w-[280px] rounded-full bg-[#e8c37a] px-7 py-4 text-center text-[17px] font-semibold text-[#3a1a1c] transition hover:bg-[#f2dcae] sm:w-auto"
@@ -37,13 +39,9 @@ export default function HeroDark() {
           </Link>
         </div>
 
-        <p className="mt-4 text-[13px] text-[#8d7461]">
+        <p className="mt-5 text-[13px] text-[#8d7461]">
           Free · no signup · we never touch the money
         </p>
-
-        <div className="mt-12">
-          <LifafaFan />
-        </div>
       </div>
     </section>
   );

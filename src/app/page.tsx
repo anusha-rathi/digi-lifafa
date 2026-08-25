@@ -8,17 +8,17 @@ const STEPS = [
   {
     n: "1",
     h: "Choose the lifafa",
-    p: "Forty-four ready-made ones, or build your own from 21 papers, 14 colours, 7 borders and 8 motifs.",
+    p: "49 ready-made, or build your own.",
   },
   {
     n: "2",
     h: "Fill it",
-    p: "Tap the notes in one at a time. Add the one-rupee coin, tuck in a mithai, and write what you would actually say.",
+    p: "Tap the notes in, add the coin and a mithai, write something.",
   },
   {
     n: "3",
     h: "Pay them, then send",
-    p: "Your UPI app opens and you pay them yourself. Then you get a link to send, and they open the lifafa.",
+    p: "Your UPI app opens, you pay them directly. Then send the link.",
   },
 ];
 
@@ -75,7 +75,9 @@ export default function Home() {
                   {s.n}
                 </span>
                 <h3 className="mt-3 font-semibold">{s.h}</h3>
-                <p className="mt-2 text-[16px] leading-relaxed opacity-90">{s.p}</p>
+                <p className="mt-2 text-[16px] leading-relaxed opacity-90">
+                  {s.p}
+                </p>
               </div>
             ))}
           </div>
@@ -85,24 +87,23 @@ export default function Home() {
       {/* occasions */}
       <section className="band band--peacock">
         <div className="mx-auto w-full max-w-5xl px-5 py-20">
-        <h2 className="text-center font-display text-3xl">
-          For every mauka
-        </h2>
-        <p className="mx-auto mt-3 max-w-md text-center text-[17px] leading-relaxed">
-          Each one comes with words already written, if you want them. Change
-          them, or write your own, including your own heading.
-        </p>
-        <div className="mt-8 flex flex-wrap justify-center gap-2.5">
-          {OCCASION_LIST.filter((o) => TEMPLATE_FESTIVALS.includes(o.id)).map((o) => (
-            <Link
-              key={o.id}
-              href={`/templates/${o.id}`}
-              className="rounded-full border border-white/25 bg-white/10 px-4 py-2 text-sm transition hover:border-white/60 hover:bg-white/20"
-            >
-              {o.hi} <span className="opacity-65">· {o.en}</span>
-            </Link>
-          ))}
-        </div>
+          <h2 className="text-center font-display text-3xl">For every mauka</h2>
+          <p className="mx-auto mt-3 text-center text-[16px] opacity-80">
+            Words already written. Change any of it.
+          </p>
+          <div className="mt-8 flex flex-wrap justify-center gap-2.5">
+            {OCCASION_LIST.filter((o) => TEMPLATE_FESTIVALS.includes(o.id)).map(
+              (o) => (
+                <Link
+                  key={o.id}
+                  href={`/templates/${o.id}`}
+                  className="rounded-full border border-white/25 bg-white/10 px-4 py-2 text-sm transition hover:border-white/60 hover:bg-white/20"
+                >
+                  {o.hi} <span className="opacity-65">· {o.en}</span>
+                </Link>
+              ),
+            )}
+          </div>
         </div>
       </section>
 
@@ -118,8 +119,7 @@ export default function Home() {
                 It is free
               </p>
               <p className="mx-auto mt-3 max-w-[15rem] text-[17px] leading-relaxed">
-                No fee, no cut, no paid version. Living away is expensive
-                enough.
+                No fee, no cut, no paid version.
               </p>
             </div>
             <div className="text-center">
@@ -127,8 +127,7 @@ export default function Home() {
                 It is private
               </p>
               <p className="mx-auto mt-3 max-w-[15rem] text-[17px] leading-relaxed">
-                No account, no password, no phone number. Nothing to sign up
-                for.
+                No account, no password, no phone number.
               </p>
             </div>
             <div className="text-center">
@@ -136,13 +135,15 @@ export default function Home() {
                 No money touches us
               </p>
               <p className="mx-auto mt-3 max-w-[15rem] text-[17px] leading-relaxed">
-                It goes from your bank to theirs. We have no wallet to hold it
-                in.
+                It goes from your bank straight to theirs.
               </p>
             </div>
           </div>
           <p className="mt-12 text-center text-[15px]">
-            <Link href="/privacy" className="underline underline-offset-4 hover:text-marigold-soft">
+            <Link
+              href="/privacy"
+              className="underline underline-offset-4 hover:text-marigold-soft"
+            >
               Read exactly what we store, which is not much
             </Link>
           </p>
@@ -152,29 +153,34 @@ export default function Home() {
       {/* blog */}
       <section className="band band--paper">
         <div className="mx-auto w-full max-w-5xl px-5 py-20">
-        <div className="flex items-baseline justify-between gap-4">
-          <h2 className="font-display text-3xl text-maroon">From the blog</h2>
-          <Link href="/blog" className="text-sm text-peacock underline underline-offset-2">
-            All posts
-          </Link>
-        </div>
-        <div className="mt-8 grid gap-5 sm:grid-cols-3">
-          {POSTS.slice(0, 3).map((p) => (
+          <div className="flex items-baseline justify-between gap-4">
+            <h2 className="font-display text-3xl text-maroon">From the blog</h2>
             <Link
-              key={p.slug}
-              href={`/blog/${p.slug}`}
-              className="group rounded-xl border border-ivory-edge bg-white/60 p-5 transition hover:border-marigold"
+              href="/blog"
+              className="text-sm text-peacock underline underline-offset-2"
             >
-              <span className="text-[11px] uppercase tracking-[0.16em] text-marigold">
-                {p.tag}
-              </span>
-              <h3 className="mt-2 font-display text-lg leading-snug text-ink group-hover:text-maroon">
-                {p.title}
-              </h3>
-              <p className="mt-2 text-[13px] leading-relaxed text-ink-soft">{p.excerpt}</p>
+              All posts
             </Link>
-          ))}
-        </div>
+          </div>
+          <div className="mt-8 grid gap-5 sm:grid-cols-3">
+            {POSTS.slice(0, 3).map((p) => (
+              <Link
+                key={p.slug}
+                href={`/blog/${p.slug}`}
+                className="group rounded-xl border border-ivory-edge bg-white/60 p-5 transition hover:border-marigold"
+              >
+                <span className="text-[11px] uppercase tracking-[0.16em] text-marigold">
+                  {p.tag}
+                </span>
+                <h3 className="mt-2 font-display text-lg leading-snug text-ink group-hover:text-maroon">
+                  {p.title}
+                </h3>
+                <p className="mt-2 text-[13px] leading-relaxed text-ink-soft">
+                  {p.excerpt}
+                </p>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
@@ -193,7 +199,9 @@ export default function Home() {
                   </span>
                   {f.q}
                 </summary>
-                <p className="mt-2 pl-5 text-sm leading-relaxed opacity-85">{f.a}</p>
+                <p className="mt-2 pl-5 text-sm leading-relaxed opacity-85">
+                  {f.a}
+                </p>
               </details>
             ))}
           </div>

@@ -287,10 +287,10 @@ body {
   position: absolute;
   inset: 0;
   z-index: -1;
-  opacity: 0.1;
+  opacity: 0.055;
   background-image:
-    repeating-linear-gradient(45deg, #ffffff 0 1.5px, transparent 1.5px 24px),
-    repeating-linear-gradient(-45deg, #ffffff 0 1.5px, transparent 1.5px 24px);
+    repeating-linear-gradient(45deg, #ffffff 0 1px, transparent 1px 26px),
+    repeating-linear-gradient(-45deg, #ffffff 0 1px, transparent 1px 26px);
 }
 .band--marigold { background: linear-gradient(#e79b12, #d68a09); color: #3a1a06; }
 .band--peacock  { background: linear-gradient(#0f6e5c, #084a3e); color: #eaf5f1; }
