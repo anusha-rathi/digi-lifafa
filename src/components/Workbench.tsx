@@ -1,6 +1,6 @@
 "use client";
 
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import Envelope, { SweetSvg, type View } from "@/components/Envelope";
 import Motif from "@/components/Motif";
@@ -8,6 +8,7 @@ import { BORDER_LIST } from "@/lib/borders";
 import Celebration from "@/components/Celebration";
 import { CELEBRATION_LIST, celebrationFor } from "@/lib/celebrations";
 import { MOTIF_LIST } from "@/lib/motifs";
+import { templateById } from "@/lib/templates";
 import {
   COPY,
   DENOM_LIST,
@@ -39,28 +40,35 @@ const btn = (on: boolean) => ({
 
 export default function Workbench() {
   const router = useRouter();
+  // ?t=<id> arrives from a template card. Everything it sets stays editable;
+  // it is a starting point, not a lock.
+  const tpl = templateById(useSearchParams().get("t"));
 
   const [lang, setLang] = useState<Lang | null>(null);
-  const [designId, setDesignId] = useState(DESIGN_LIST[0].id);
-  const [paletteId, setPaletteId] = useState(PALETTE_LIST[0].id);
-  const [textureId, setTextureId] = useState(TEXTURE_LIST[1].id);
-  const [borderId, setBorderId] = useState<string | null>(null);
-  const [motifId, setMotifId] = useState<string | null>(null);
-  const [celebrationId, setCelebrationId] = useState<string | null>(null);
+  const [designId, setDesignId] = useState(tpl?.designId ?? DESIGN_LIST[0].id);
+  const [paletteId, setPaletteId] = useState(tpl?.paletteId ?? PALETTE_LIST[0].id);
+  const [textureId, setTextureId] = useState(tpl?.textureId ?? TEXTURE_LIST[1].id);
+  const [borderId, setBorderId] = useState<string | null>(tpl?.borderId ?? null);
+  const [motifId, setMotifId] = useState<string | null>(tpl?.motifId ?? null);
+  const [celebrationId, setCelebrationId] = useState<string | null>(tpl?.celebrationId ?? null);
   // The sender picked it themselves, so an occasion change must not overwrite it.
   const [celebAuto, setCelebAuto] = useState(true);
   const [previewParty, setPreviewParty] = useState(false);
-  const [notes, setNotes] = useState<{ denom: number; key: number }[]>([]);
-  const [coin, setCoin] = useState(false);
+  const [notes, setNotes] = useState<{ denom: number; key: number }[]>(
+    (tpl?.notes ?? []).map((denom, key) => ({ denom, key })),
+  );
+  const [coin, setCoin] = useState(tpl?.coin ?? false);
   const [sweetTray, setSweetTray] = useState<"desi" | "west">("desi");
-  const [sweetId, setSweetId] = useState<string | null>(null);
-  const [occasion, setOccasion] = useState<string | null>(null);
+  const [sweetId, setSweetId] = useState<string | null>(tpl?.sweetId ?? null);
+  const [occasion, setOccasion] = useState<string | null>(tpl?.festival ?? null);
   const [customHeading, setCustomHeading] = useState("");
   const [message, setMessage] = useState("");
+  // Seeded once from the template's occasion, after `lang` is known.
+  const [seeded, setSeeded] = useState(false);
   // Only a message WE auto-filled may be replaced when the occasion changes.
   const [msgAuto, setMsgAuto] = useState(false);
   const [name, setName] = useState("");
-  const [salutation, setSalutation] = useState(SALUTATION_LIST[0]);
+  const [salutation, setSalutation] = useState(tpl?.salutation ?? SALUTATION_LIST[0]);
   const [view, setView] = useState<View>("open");
   const [pending, setPending] = useState<View>("open");
   const [tab, setTab] = useState<Tab>("design");
@@ -108,6 +116,18 @@ export default function Workbench() {
   }
 
   const t = COPY[lang];
+
+  // A template names an occasion; the starter message for it depends on the
+  // language, which is not known until the gate is answered. Seed once.
+  if (tpl && !seeded && !message.trim()) {
+    const o = occasionById(tpl.festival);
+    const starter = o ? (lang === "hi" ? o.mhi : lang === "hn" ? o.mrom : o.men) : "";
+    if (starter) {
+      setMessage(starter);
+      setMsgAuto(true);
+    }
+    setSeeded(true);
+  }
   const total = notes.reduce((s, n) => s + n.denom, 0) + (coin ? 1 : 0);
   const occ = occasionById(occasion);
   const { text: cleanMessage, removed } = stripUrls(message);

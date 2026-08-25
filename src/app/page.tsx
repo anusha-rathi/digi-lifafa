@@ -1,6 +1,7 @@
 import Link from "next/link";
 import HeroDark from "@/components/HeroDark";
 import { OCCASION_LIST } from "@/lib/design";
+import { TEMPLATE_FESTIVALS } from "@/lib/templates";
 import { POSTS } from "@/lib/posts";
 
 const STEPS = [
@@ -80,10 +81,10 @@ export default function Home() {
           them, or write your own, including your own heading.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-2.5">
-          {OCCASION_LIST.map((o) => (
+          {OCCASION_LIST.filter((o) => TEMPLATE_FESTIVALS.includes(o.id)).map((o) => (
             <Link
               key={o.id}
-              href="/make"
+              href={`/templates/${o.id}`}
               className="rounded-full border border-white/25 bg-white/10 px-4 py-2 text-sm transition hover:border-white/60 hover:bg-white/20"
             >
               {o.hi} <span className="opacity-65">· {o.en}</span>

@@ -1,10 +1,13 @@
 "use client";
 
 import Link from "next/link";
+import { occasionById } from "@/lib/design";
+import { TEMPLATE_FESTIVALS } from "@/lib/templates";
 import { usePathname } from "next/navigation";
 
 const NAV = [
   { href: "/make", label: "Make a lifafa" },
+  { href: "/templates", label: "Ready-made" },
   { href: "/blog", label: "Blog" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
@@ -59,9 +62,21 @@ export function SiteFooter() {
           <nav className="flex flex-col gap-2 text-sm">
             <span className="text-xs uppercase tracking-[0.18em] text-ink-faint">Site</span>
             <Link href="/make" className="text-ink-soft hover:text-ink">Make a lifafa</Link>
+            <Link href="/templates" className="text-ink-soft hover:text-ink">Ready-made</Link>
             <Link href="/blog" className="text-ink-soft hover:text-ink">Blog</Link>
             <Link href="/about" className="text-ink-soft hover:text-ink">About</Link>
             <Link href="/contact" className="text-ink-soft hover:text-ink">Contact</Link>
+          </nav>
+          <nav className="flex flex-col gap-2 text-sm">
+            <span className="text-xs uppercase tracking-[0.18em] text-ink-faint">Lifafa for</span>
+            {TEMPLATE_FESTIVALS.slice(0, 6).map((f) => {
+              const o = occasionById(f);
+              return (
+                <Link key={f} href={`/templates/${f}`} className="text-ink-soft hover:text-ink">
+                  {o ? o.en : f}
+                </Link>
+              );
+            })}
           </nav>
           <nav className="flex flex-col gap-2 text-sm">
             <span className="text-xs uppercase tracking-[0.18em] text-ink-faint">Legal</span>

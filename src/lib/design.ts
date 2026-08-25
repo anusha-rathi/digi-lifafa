@@ -91,7 +91,15 @@ const OCCASIONS = [
     mhi: 'नए घर की शुभकामनाएँ। बरकत और खुशियाँ बनी रहें।',
     men: 'Blessings on the new house. May it always be full.',
     mrom: 'Naye ghar ki shubhkamnaayein. Barkat bani rahe.' },
-  // no preset message — the sender writes their own heading and their own words
+  { id: 'ganesh', hi: 'गणेश चतुर्थी', en: 'Ganesh Chaturthi', rom: 'Ganesh Chaturthi',
+    mhi: 'गणपति बप्पा मोरया। घर में सुख और समृद्धि आए।',
+    men: 'Ganpati Bappa Morya. May the year clear every obstacle.',
+    mrom: 'Ganpati Bappa Morya. Ghar mein sukh aur samruddhi aaye.' },
+  { id: 'onam', hi: 'ओणम', en: 'Onam', rom: 'Onam',
+    mhi: 'ओणम की शुभकामनाएँ। घर भरा रहे, थाली भरी रहे।',
+    men: 'Happy Onam. May the house stay full and the sadya stay long.',
+    mrom: 'Onam ki shubhkamnaayein. Ghar bhara rahe, thali bhari rahe.' },
+  // no preset message, the sender writes their own heading and their own words
   { id: 'custom', hi: 'अपना', en: 'Something else', rom: 'Apna',
     mhi: '', men: '', mrom: '' }
 ];

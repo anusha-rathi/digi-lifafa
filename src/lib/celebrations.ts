@@ -23,14 +23,14 @@ export const CELEBRATION_LIST: CelebrationSpec[] = [
     hi: "गेंदे की पंखुड़ियाँ",
     hn: "gende ki pankhudiyan",
     en: "marigold petals",
-    suits: ["wedding", "griha", "teej", "janmashtami"],
+    suits: ["wedding", "griha", "teej", "janmashtami", "onam"],
   },
   {
     id: "diyas",
     hi: "दीये जलते हुए",
     hn: "diye jalte hue",
     en: "diyas lighting",
-    suits: ["diwali"],
+    suits: ["diwali", "ganesh"],
   },
   {
     id: "phuljhari",

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Workbench from "@/components/Workbench";
 
 export const metadata: Metadata = {
@@ -10,7 +11,11 @@ export const metadata: Metadata = {
 export default function Make() {
   return (
     <main className="flex-1 pt-6 pb-2">
-      <Workbench />
+      {/* The workbench reads ?t= for templates, so it needs a boundary or the
+          page cannot be prerendered. */}
+      <Suspense fallback={<div className="min-h-[70vh]" />}>
+        <Workbench />
+      </Suspense>
     </main>
   );
 }
