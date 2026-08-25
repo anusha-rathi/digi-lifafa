@@ -22,6 +22,8 @@ export function toEnvelope(l: Lifafa): EnvelopeState {
     designId: l.designId,
     paletteId: l.paletteId,
     textureId: l.textureId,
+    borderId: l.borderId,
+    motifId: l.motifId,
     notes: l.notes.map((denom, key) => ({ denom, key })),
     coin: l.coin,
     sweetId: l.sweetId,

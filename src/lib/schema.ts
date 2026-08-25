@@ -1,4 +1,6 @@
 import { z } from "zod";
+import { BORDER_LIST } from "@/lib/borders";
+import { MOTIF_LIST } from "@/lib/motifs";
 import {
   DESIGN_LIST,
   PALETTE_LIST,
@@ -40,6 +42,9 @@ export const createSchema = z
     designId: z.enum(idsOf(DESIGN_LIST)),
     paletteId: z.enum(idsOf(PALETTE_LIST)),
     textureId: z.enum(idsOf(TEXTURE_LIST)),
+    // Null renders exactly what existing lifafas render, so null stays legal.
+    borderId: z.enum(idsOf(BORDER_LIST)).nullable().default(null),
+    motifId: z.enum(idsOf(MOTIF_LIST)).nullable().default(null),
     sweetId: z.enum(idsOf(ALL_SWEETS)).nullable().default(null),
     occasion: z.enum(idsOf(OCCASION_LIST)).nullable().default(null),
     customHeading: z.string().trim().max(HEADING_MAX).default(""),

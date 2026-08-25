@@ -3,6 +3,9 @@
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import Envelope, { SweetSvg, type View } from "@/components/Envelope";
+import Motif from "@/components/Motif";
+import { BORDER_LIST } from "@/lib/borders";
+import { MOTIF_LIST } from "@/lib/motifs";
 import {
   COPY,
   DENOM_LIST,
@@ -12,6 +15,7 @@ import {
   SALUTATION_LIST,
   SWEET_LIST,
   TEXTURE_LIST,
+  motifFor,
   occasionById,
   paperStyle,
   piecesOf,
@@ -38,8 +42,9 @@ export default function Workbench() {
   const [designId, setDesignId] = useState(DESIGN_LIST[0].id);
   const [paletteId, setPaletteId] = useState(PALETTE_LIST[0].id);
   const [textureId, setTextureId] = useState(TEXTURE_LIST[1].id);
+  const [borderId, setBorderId] = useState<string | null>(null);
+  const [motifId, setMotifId] = useState<string | null>(null);
   const [notes, setNotes] = useState<{ denom: number; key: number }[]>([]);
-  const [seq, setSeq] = useState(0);
   const [coin, setCoin] = useState(false);
   const [sweetTray, setSweetTray] = useState<"desi" | "west">("desi");
   const [sweetId, setSweetId] = useState<string | null>(null);
@@ -126,8 +131,7 @@ export default function Workbench() {
 
   function addNote(d: number) {
     if (total + d > MAX_RUPEES) return;
-    setNotes((n) => [...n, { denom: d, key: seq }]);
-    setSeq((s) => s + 1);
+    setNotes((n) => [...n, { denom: d, key: (n[n.length - 1]?.key ?? -1) + 1 }]);
     go("open");
   }
 
@@ -154,6 +158,8 @@ export default function Workbench() {
         designId,
         paletteId,
         textureId,
+        borderId,
+        motifId,
         notes: notes.map((n) => n.denom),
         coin,
         sweetId,
@@ -186,6 +192,8 @@ export default function Workbench() {
     designId,
     paletteId,
     textureId,
+    borderId,
+    motifId,
     notes,
     coin,
     sweetId,
@@ -344,6 +352,74 @@ export default function Workbench() {
               );
             })}
           </div>
+
+          {/* the gold edge */}
+          <div className="mt-2 text-[14px] text-[var(--color-ink-soft)]">{t.borderHint}</div>
+          <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 xl:grid-cols-8">
+            <button
+              type="button"
+              onClick={() => setBorderId(null)}
+              className="rounded-[4px] border px-2 py-2 text-[12px]"
+              style={btn(borderId === null)}
+            >
+              {lang === "hi" ? "बिना" : "none"}
+            </button>
+            {BORDER_LIST.map((b) => {
+              const on = b.id === borderId;
+              const pal = PALETTE_LIST.find((p) => p.id === paletteId)!;
+              const gold = motifFor(pal.lace, pal.base);
+              return (
+                <button
+                  key={b.id}
+                  type="button"
+                  onClick={() => setBorderId(b.id)}
+                  title={lang === "hi" ? b.hi : b.en}
+                  className="rounded-[4px] border p-[3px]"
+                  style={{ borderColor: on ? "var(--color-maroon)" : "var(--color-ivory-edge)" }}
+                >
+                  <span
+                    className="relative block h-[38px] rounded-[2px]"
+                    style={{ backgroundColor: pal.base }}
+                  >
+                    <span className="absolute inset-[3px]" style={b.f(gold, pal.base)} />
+                  </span>
+                </button>
+              );
+            })}
+          </div>
+
+          {/* the motif in the middle */}
+          <div className="mt-2 text-[14px] text-[var(--color-ink-soft)]">{t.motifHint}</div>
+          <div className="grid grid-cols-4 gap-2 sm:grid-cols-6 xl:grid-cols-9">
+            <button
+              type="button"
+              onClick={() => setMotifId(null)}
+              className="rounded-[4px] border px-2 py-2 text-[12px]"
+              style={btn(motifId === null)}
+            >
+              {lang === "hi" ? "बिना" : "none"}
+            </button>
+            {MOTIF_LIST.map((m) => {
+              const on = m.id === motifId;
+              const pal = PALETTE_LIST.find((p) => p.id === paletteId)!;
+              const gold = motifFor(pal.lace, pal.base);
+              return (
+                <button
+                  key={m.id}
+                  type="button"
+                  onClick={() => setMotifId(m.id)}
+                  title={lang === "hi" ? m.hi : m.en}
+                  className="grid place-items-center rounded-[4px] border p-1"
+                  style={{
+                    borderColor: on ? "var(--color-maroon)" : "var(--color-ivory-edge)",
+                    backgroundColor: pal.base,
+                  }}
+                >
+                  <Motif spec={m} gold={gold} paper={pal.base} size={34} />
+                </button>
+              );
+            })}
+          </div>
         </div>
       )}
 
@@ -416,14 +492,26 @@ export default function Workbench() {
                   key={d.denom}
                   type="button"
                   onClick={() => addNote(d.denom)}
-                  className="relative flex h-[54px] items-center justify-center rounded-[3px] border-none shadow-[0_2px_6px_rgba(0,0,0,.35),inset_0_0_0_1px_rgba(255,255,255,.35)]"
+                  aria-label={`${d.denom} rupees`}
+                  className="relative h-[62px] overflow-hidden rounded-[4px] border-none text-left shadow-[0_3px_8px_rgba(0,0,0,.3),inset_0_0_0_1px_rgba(255,255,255,.45)] transition active:translate-y-[1px]"
                   style={{ background: d.bg }}
                 >
-                  <span className="font-display text-[21px] text-black/75 [font-feature-settings:'tnum']">
+                  {/* the same note the envelope draws, so what you pick is
+                      recognisably what lands inside it */}
+                  <span className="absolute inset-y-0 left-0 w-[7px] bg-[repeating-linear-gradient(0deg,rgba(0,0,0,.22)_0_3px,transparent_3px_7px)]" />
+                  <span className="absolute inset-[3px] rounded-[2px] border border-black/15" />
+                  <span className="absolute right-[22px] top-[10px] h-[34px] w-[30px] rounded-[50%] bg-[radial-gradient(ellipse_at_50%_45%,rgba(255,255,255,.6),rgba(255,255,255,0)_70%)]" />
+                  <span className="absolute left-[13px] top-[7px] text-[7px] font-semibold text-black/50">
+                    भारतीय रिज़र्व बैंक
+                  </span>
+                  <span className="absolute right-[8px] bottom-[4px] font-display text-[24px] leading-none text-black/75 [font-feature-settings:'tnum']">
                     ₹{d.denom}
                   </span>
+                  <span className="absolute left-[13px] bottom-[7px] text-[9px] font-medium text-black/55">
+                    {lang === "hi" ? d.hi : d.rom}
+                  </span>
                   {count > 0 && (
-                    <span className="absolute right-[5px] top-[3px] text-[12px] font-bold text-black/55">
+                    <span className="absolute right-[7px] top-[5px] rounded-full bg-black/60 px-1.5 text-[11px] font-bold text-white">
                       ×{count}
                     </span>
                   )}
@@ -524,8 +612,9 @@ export default function Workbench() {
 
           {occasion === "custom" && (
             <div className="flex flex-col gap-[7px]">
-              <label className="text-[14px] text-[var(--color-ink-soft)]">{t.customHint}</label>
+              <label htmlFor="lf-heading" className="text-[14px] text-[var(--color-ink-soft)]">{t.customHint}</label>
               <input
+                id="lf-heading"
                 value={customHeading}
                 onChange={(e) => setCustomHeading(e.target.value.slice(0, 40))}
                 placeholder={t.customPlaceholder}
@@ -537,12 +626,13 @@ export default function Workbench() {
 
           <div className="flex flex-col gap-[7px]">
             <div className="flex items-baseline justify-between">
-              <label className="text-[14px] text-[var(--color-ink-soft)]">{t.messageHint}</label>
+              <label htmlFor="lf-message" className="text-[14px] text-[var(--color-ink-soft)]">{t.messageHint}</label>
               <span className="text-[12.5px] text-[var(--color-ink-faint)] [font-feature-settings:'tnum']">
                 {message.length}/500
               </span>
             </div>
             <textarea
+              id="lf-message"
               value={message}
               onChange={(e) => {
                 setMessage(e.target.value.slice(0, 500));
@@ -567,8 +657,9 @@ export default function Workbench() {
       {tab === "name" && (
         <div className="lf-rise flex flex-col gap-[13px]">
           <div className="flex flex-col gap-[7px]">
-            <label className="text-[14px] text-[var(--color-ink-soft)]">{t.nameHint}</label>
+            <label htmlFor="lf-name" className="text-[14px] text-[var(--color-ink-soft)]">{t.nameHint}</label>
             <input
+              id="lf-name"
               value={name}
               onChange={(e) => setName(e.target.value.slice(0, 40))}
               placeholder="Ananya / अनन्या"
@@ -601,8 +692,9 @@ export default function Workbench() {
         style={{ borderColor: "var(--color-ivory-edge)" }}
       >
         <div className="flex flex-col gap-[7px]">
-          <label className="text-[14px] text-[var(--color-ink-soft)]">{t.senderLabel}</label>
+          <label htmlFor="lf-sender" className="text-[14px] text-[var(--color-ink-soft)]">{t.senderLabel}</label>
           <input
+            id="lf-sender"
             value={senderName}
             onChange={(e) => setSenderName(e.target.value.slice(0, 40))}
             placeholder={lang === "hi" ? "मम्मी" : "Mummy"}
@@ -612,8 +704,9 @@ export default function Workbench() {
         </div>
 
         <div className="flex flex-col gap-[7px]">
-          <label className="text-[14px] text-[var(--color-ink-soft)]">{t.vpaLabel}</label>
+          <label htmlFor="lf-vpa" className="text-[14px] text-[var(--color-ink-soft)]">{t.vpaLabel}</label>
           <input
+            id="lf-vpa"
             value={noPay ? "" : vpa}
             disabled={noPay}
             onChange={(e) => setVpa(e.target.value.trim().toLowerCase())}
@@ -636,6 +729,7 @@ export default function Workbench() {
         <label className="flex cursor-pointer items-start gap-2.5 sm:col-span-2">
           <input
             type="checkbox"
+            name="no-pay"
             checked={noPay}
             onChange={(e) => setNoPay(e.target.checked)}
             className="mt-0.5 h-4 w-4 shrink-0 accent-[var(--color-maroon)]"

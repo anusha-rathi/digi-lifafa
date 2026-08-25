@@ -1,7 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import { paperStyle, piecesOf, sweetById, type PathSpec } from "@/lib/design";
+import Motif from "@/components/Motif";
+import { borderFor } from "@/lib/borders";
+import { motifById } from "@/lib/motifs";
+import { motifFor, paperStyle, piecesOf, sweetById, type PathSpec } from "@/lib/design";
 
 /* The lifafa itself, ported from the Claude Design canvas. Three views on one
    3D card: OPEN, BACK (the श्री seal) and FRONT (their name). The clip-path
@@ -21,6 +24,8 @@ export type EnvelopeState = {
   notes: { denom: number; key: number }[];
   coin: boolean;
   sweetId: string | null;
+  borderId?: string | null;
+  motifId?: string | null;
   occasionLabel: string;
   messagePeek: string;
   name: string;
@@ -121,6 +126,11 @@ export default function Envelope({
   const [openedUp, setOpenedUp] = useState(false);
 
   const { pal, des, image, size } = paperStyle(s.designId, s.paletteId, s.textureId);
+  // Border and motif reuse the same contrast-checked gold as the tile, so they
+  // stay legible on every palette without a second colour system.
+  const gold = motifFor(pal.lace, pal.base);
+  const border = borderFor(s.borderId, des.frame);
+  const motif = motifById(s.motifId);
   const sweet = sweetById(s.sweetId);
   const notes = s.notes.slice(-9);
   const hasMessage = !!(s.messagePeek.trim() || s.occasionLabel);
@@ -138,7 +148,8 @@ export default function Envelope({
 
   const nameShown = s.name.trim() || (s.lang === "hi" ? "उनका नाम" : "their name");
   const isLatinSal = /^[A-Za-z]/.test(s.salutation);
-  const nameSize = nameShown.length > 22 ? 19 : nameShown.length > 14 ? 22 : 27;
+  const nameSize =
+    nameShown.length > 28 ? 17 : nameShown.length > 22 ? 19 : nameShown.length > 14 ? 22 : 27;
   const sweetName = sweet ? (s.lang === "hi" ? sweet.hi : sweet.en) : "";
 
   // Everything opens together. Reading the message shouldn't mean tapping
@@ -176,7 +187,16 @@ export default function Envelope({
                   ...flapPaper("linear-gradient(rgba(0,0,0,.26), rgba(0,0,0,.02))"),
                   clipPath: FLAP_PATH,
                 }}
-              />
+              >
+                {/* The flap is 150px of empty texture standing above the notes
+                    and the pocket, which is both where nothing can collide and
+                    where a real envelope prints its buta. */}
+                {motif && (
+                  <div className="absolute left-1/2 top-[46px] -translate-x-1/2">
+                    <Motif spec={motif} gold={gold} paper={pal.flap} size={66} opacity={0.92} />
+                  </div>
+                )}
+              </div>
 
               <div
                 className="absolute left-0 top-0 h-[158px] w-[62px]"
@@ -311,10 +331,10 @@ export default function Envelope({
                 )}
               </div>
 
-              {des.frame && (
+              {border && (
                 <div
-                  className="pointer-events-none absolute inset-[9px] rounded-[2px] border opacity-75"
-                  style={{ borderColor: pal.lace }}
+                  className="pointer-events-none absolute inset-[7px] rounded-[2px]"
+                  style={border.f(gold, pal.base)}
                 />
               )}
             </div>
@@ -344,10 +364,10 @@ export default function Envelope({
                     श्री
                   </span>
                 </div>
-                {des.frame && (
+                {border && (
                   <div
-                    className="absolute inset-[9px] rounded-[2px] border opacity-75"
-                    style={{ borderColor: pal.lace }}
+                    className="pointer-events-none absolute inset-[7px] rounded-[2px]"
+                    style={border.f(gold, pal.base)}
                   />
                 )}
               </div>
@@ -361,10 +381,23 @@ export default function Envelope({
                 className="absolute inset-0 flex flex-col items-center justify-center overflow-hidden rounded-[4px] shadow-[0_22px_40px_rgba(0,0,0,.35),inset_0_0_0_1px_rgba(255,255,255,.1)]"
                 style={paper}
               >
-                <div
-                  className="absolute inset-[11px] rounded-[2px] border opacity-60"
-                  style={{ borderColor: des.frame ? pal.lace : "transparent" }}
-                />
+                {border && (
+                  <div
+                    className="pointer-events-none absolute inset-[9px] rounded-[2px]"
+                    style={border.f(gold, pal.base)}
+                  />
+                )}
+                {motif && (
+                  <div className="mb-1.5">
+                    <Motif
+                      spec={motif}
+                      gold={gold}
+                      paper={pal.base}
+                      size={nameShown.length > 22 ? 34 : 44}
+                      opacity={0.95}
+                    />
+                  </div>
+                )}
                 <div
                   className="text-[15px] leading-[1.6]"
                   style={{
