@@ -14,6 +14,7 @@ import {
   TEXTURE_LIST,
   occasionById,
   paperStyle,
+  piecesOf,
   type Lang,
 } from "@/lib/design";
 import { MAX_RUPEES } from "@/lib/limits";
@@ -481,7 +482,7 @@ export default function Workbench() {
                   }}
                 >
                   <span className="[filter:drop-shadow(0_3px_3px_rgba(0,0,0,.5))]">
-                    <SweetSvg shapes={s.sh} width={66} height={58} />
+                    <SweetSvg shapes={s.sh} width={66} height={58} pieces={piecesOf(s.id)} />
                   </span>
                   <span className="text-center text-[12px] leading-[1.2]">
                     {lang === "hi" ? s.hi : s.en}

@@ -427,3 +427,18 @@ export function paperStyle(designId: string, paletteId: string, textureId: strin
   const size = tex.img && patImg ? `${tex.size}, ${pat[1]}` : tex.img ? tex.size : patImg ? pat[1] : "auto";
   return { pal, des, image, size };
 }
+
+/* How many pieces of each mithai sit in the dabba. The small round ones come
+   as a pair, the way they actually arrive; anything big enough to be a
+   portion on its own (a ghevar, a slab of kalakand, a cheesecake) stays
+   single. */
+const SINGLE_PIECE = new Set([
+  // desi: too big, or already drawn as a stack
+  "kalakand", "jalebi", "imarti", "soan", "mysore", "rasmalai", "ghevar",
+  // western: a whole slice or a whole cone is one serving
+  "cupcake", "brownie", "cheesecake", "tiramisu", "swissroll", "pie",
+  "waffle", "icecream", "lollipop",
+]);
+
+export const piecesOf = (id: string | null | undefined): 1 | 2 =>
+  id && !SINGLE_PIECE.has(id) ? 2 : 1;

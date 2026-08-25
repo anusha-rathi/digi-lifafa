@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { paperStyle, sweetById, type PathSpec } from "@/lib/design";
+import { paperStyle, piecesOf, sweetById, type PathSpec } from "@/lib/design";
 
 /* The lifafa itself, ported from the Claude Design canvas. Three views on one
    3D card: OPEN, BACK (the श्री seal) and FRONT (their name). The clip-path
@@ -58,19 +58,15 @@ export function SweetSvg({
   shapes,
   width,
   height,
+  pieces = 1,
 }: {
   shapes: PathSpec[];
   width: number;
   height: number;
+  pieces?: 1 | 2;
 }) {
-  return (
-    <svg
-      viewBox="-2 -2 52 46"
-      width={width}
-      height={height}
-      style={{ display: "block", overflow: "visible" }}
-      aria-hidden
-    >
+  const piece = (key: string, transform?: string) => (
+    <g key={key} transform={transform}>
       {shapes.map((p, i) => (
         <path
           key={i}
@@ -83,6 +79,28 @@ export function SweetSvg({
           strokeLinecap="round"
         />
       ))}
+    </g>
+  );
+
+  return (
+    <svg
+      viewBox="-2 -2 52 46"
+      width={width}
+      height={height}
+      style={{ display: "block", overflow: "visible" }}
+      aria-hidden
+    >
+      {/* Nobody hands you one ladoo. The small round mithai come as a pair:
+          one sitting behind and slightly smaller, one in front. The big ones
+          (ghevar, a slab of kalakand, a cheesecake) stay single. */}
+      {pieces === 2 ? (
+        <>
+          {piece("back", "translate(-7.5 4) scale(0.84)")}
+          {piece("front", "translate(6 0)")}
+        </>
+      ) : (
+        piece("only")
+      )}
     </svg>
   );
 }
@@ -272,7 +290,7 @@ export default function Envelope({
                         sweet -16..32, lid 29..34, front face 34..58, name in
                         the face at 41..53. */}
                     <div className="absolute left-[8px] top-[-16px] [filter:drop-shadow(0_2px_3px_rgba(0,0,0,.45))]">
-                      <SweetSvg shapes={sweet.sh} width={56} height={48} />
+                      <SweetSvg shapes={sweet.sh} width={56} height={48} pieces={piecesOf(sweet.id)} />
                     </div>
                     <div className="absolute inset-x-0 bottom-[24px] h-[5px] rounded-[2px] bg-[linear-gradient(#fbf6e8,#e6d9bd)] shadow-[0_1px_2px_rgba(0,0,0,.25)]" />
                     <div className="absolute inset-x-0 bottom-0 h-6 rounded-[2px] bg-[linear-gradient(160deg,#f6efdd,#e2d3b6)] shadow-[0_3px_8px_rgba(0,0,0,.45),inset_0_0_0_1px_rgba(0,0,0,.14)]" />
@@ -435,7 +453,7 @@ export default function Envelope({
             {/* the mithai */}
             {sweet ? (
               <div className="mt-4 flex items-center gap-4 rounded-xl border border-ivory-edge bg-white/70 p-4">
-                <SweetSvg shapes={sweet.sh} width={84} height={72} />
+                <SweetSvg shapes={sweet.sh} width={84} height={72} pieces={piecesOf(sweet.id)} />
                 <div>
                   <p className="font-display text-xl text-maroon">{sweet.hi}</p>
                   <p className="text-sm text-ink-soft">{sweet.en}</p>
