@@ -32,11 +32,13 @@ const martel = Martel({
 
 export const metadata: Metadata = {
   title: {
-    default: "Digi Lifafa: send a shagun ka lifafa as a link",
+    default: "Digi Lifafa",
     template: "%s · Digi Lifafa",
   },
+  // Kept under about 100 characters: WhatsApp and iMessage truncate the
+  // preview line, and the old one was cut at "Make a shagun ka lifafa, add…".
   description:
-    "Make a shagun ka lifafa, add your wishes, a mithai and the one-rupee coin, then pay them directly over UPI and send the envelope as a link.",
+    "Send a shagun ka lifafa as a link. Free, no signup, and the money never touches us.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

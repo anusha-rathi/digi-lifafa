@@ -332,3 +332,14 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .lf-fall, .lf-light, .lf-spark, .lf-crack { animation: none !important; opacity: 1; }
 }
+
+/* Everything under the envelope, arriving after it opens rather than being
+   there the whole time. */
+@keyframes lf-arrive {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: none; }
+}
+.lf-arrive { animation: lf-arrive .55s .35s both ease-out; }
+@media (prefers-reduced-motion: reduce) {
+  .lf-arrive { animation: none; }
+}

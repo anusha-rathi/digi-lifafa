@@ -32,8 +32,12 @@ export default function SharePanel({
   const line =
     lang === "hi"
       ? `${receiverName}, तुम्हारे लिए कुछ भेजा है 🧧`
-      : `${receiverName}, kuch bheja hai tumhare liye 🧧`;
-  const msg = `${line} ${url}`;
+      : lang === "hn"
+        ? `${receiverName}, kuch bheja hai tumhare liye 🧧`
+        : `${receiverName}, I sent you something 🧧`;
+  // The link goes on its own line. Run together, WhatsApp wraps the URL into
+  // the sentence and the whole message reads as one ragged block.
+  const msg = `${line}\n${url}`;
 
   async function copy() {
     try {
