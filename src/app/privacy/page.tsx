@@ -82,9 +82,18 @@ export default function Privacy() {
 
           <h2>Cookies and tracking</h2>
           <p>
-            We set no advertising cookies and run no third-party analytics or
-            trackers. There is no cookie banner because there is nothing to
-            consent to.
+            We set no cookies at all, and there is no cookie banner because
+            there is nothing to consent to. We run no advertising trackers and
+            no cross-site tracking of any kind.
+          </p>
+          <p>
+            We do count page views, using Vercel Web Analytics. It records the
+            page, the country, and the kind of device and browser. It sets no
+            cookie and stores nothing on your device. To tell one visit from
+            another within a single day it derives a hash from your request and
+            throws it away daily, so there is no identifier that follows you
+            between days, between devices or to any other site. We use it to
+            see which pages people actually reach, and nothing else.
           </p>
 
           <h2>Sharing</h2>

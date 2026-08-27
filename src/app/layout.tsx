@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { Yatra_One, Mukta, Martel } from "next/font/google";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import "./globals.css";
@@ -48,6 +49,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SiteHeader />
         <div className="flex flex-1 flex-col">{children}</div>
         <SiteFooter />
+        {/* Cookieless page counts. No identifiers, nothing stored on the
+            visitor, so it does not change what the privacy policy promises. */}
+        <Analytics />
       </body>
     </html>
   );
