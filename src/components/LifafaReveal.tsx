@@ -34,6 +34,7 @@ export default function LifafaReveal({
 }) {
   const [phase, setPhase] = useState<Phase>("sealed");
   const [party, setParty] = useState(false);
+  const [reading, setReading] = useState(false);
   const timers = useRef<ReturnType<typeof setTimeout>[]>([]);
   const t = COPY[s.lang as Lang];
 
@@ -77,6 +78,8 @@ export default function LifafaReveal({
             view={open ? "open" : "front"}
             zoomable={open}
             sealBreaking={phase === "breaking"}
+            expanded={reading}
+            onExpandedChange={setReading}
           />
         </button>
         <Celebration kind={celebration} playing={party} />
@@ -94,20 +97,36 @@ export default function LifafaReveal({
         {open ? t.sealOpen : t.sealClose}
       </button>
 
-      <p className={`text-[13px] ${onDark ? "text-[#8d7461]" : "text-ink-faint"}`}>
-        {open
-          ? (hint ??
+      {/* Once it is open the next thing you want is the letter, and telling
+          somebody to tap a picture is not a control. */}
+      {open ? (
+        <button
+          type="button"
+          onClick={() => setReading(true)}
+          className={`rounded-full px-6 py-2.5 font-display text-lg transition ${
+            onDark
+              ? "bg-[#e8c37a] text-[#3a1a1c] hover:bg-[#f2dcae]"
+              : "bg-maroon text-ivory hover:bg-maroon-deep"
+          }`}
+        >
+          {hint ??
             (s.lang === "hi"
-              ? "लिफ़ाफ़े पर टैप कीजिए, सब कुछ खुल जाएगा"
+              ? "संदेश पढ़िए"
               : s.lang === "hn"
-                ? "lifafe pe tap karo, sab kuch khul jaayega"
-                : "tap the lifafa to see everything inside"))
-          : s.lang === "hi"
+                ? "Sandesh padhiye"
+                : "Read the message")}
+        </button>
+      ) : (
+        <p
+          className={`text-[13px] ${onDark ? "text-[#8d7461]" : "text-ink-faint"}`}
+        >
+          {s.lang === "hi"
             ? "अभी बंद है"
             : s.lang === "hn"
               ? "abhi band hai"
               : "sealed shut"}
-      </p>
+        </p>
+      )}
     </div>
   );
 }

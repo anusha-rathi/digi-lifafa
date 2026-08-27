@@ -27,13 +27,43 @@ export type UpiApp = {
 };
 
 export const UPI_APPS: UpiApp[] = [
-  { id: "gpay", label: "Google Pay", pkg: "com.google.android.apps.nbu.paisa.user", ios: "gpay" },
+  {
+    id: "gpay",
+    label: "Google Pay",
+    pkg: "com.google.android.apps.nbu.paisa.user",
+    ios: "gpay",
+  },
   { id: "phonepe", label: "PhonePe", pkg: "com.phonepe.app", ios: "phonepe" },
   { id: "paytm", label: "Paytm", pkg: "net.one97.paytm", ios: "paytmmp" },
   { id: "bhim", label: "BHIM", pkg: "in.org.npci.upiapp", ios: "bhim" },
+  {
+    id: "mobikwik",
+    label: "MobiKwik",
+    pkg: "com.mobikwik_new",
+    ios: "mobikwik",
+  },
 ];
 
-export function upiParams(vpa: string, payeeName: string, paise: number, note: string) {
+/* Opening an app with nothing to pay.
+ *
+ * A sender who ticked "no nek this time" can still change their mind on this
+ * page, so the apps are offered. But a UPI link needs a payee: with no UPI ID
+ * there is no `pa=`, so these can only open the app at its own home screen and
+ * the sender has to find the person themselves. The UI says exactly that
+ * rather than dressing it up as a pay button. */
+export const openAppUri = (app: UpiApp, platform: Platform) =>
+  platform === "android"
+    ? `intent://#Intent;package=${app.pkg};end`
+    : app.ios
+      ? `${app.ios}://`
+      : "";
+
+export function upiParams(
+  vpa: string,
+  payeeName: string,
+  paise: number,
+  note: string,
+) {
   return new URLSearchParams({
     pa: vpa,
     pn: payeeName,
@@ -44,8 +74,12 @@ export function upiParams(vpa: string, payeeName: string, paise: number, note: s
 }
 
 /** The generic link. Every UPI app on Android registers for this. */
-export const upiUri = (vpa: string, payeeName: string, paise: number, note: string) =>
-  `upi://pay?${upiParams(vpa, payeeName, paise, note)}`;
+export const upiUri = (
+  vpa: string,
+  payeeName: string,
+  paise: number,
+  note: string,
+) => `upi://pay?${upiParams(vpa, payeeName, paise, note)}`;
 
 /** Android: skips the app chooser and opens one app directly. */
 export const androidIntent = (app: UpiApp, q: string) =>
@@ -61,7 +95,11 @@ export function detectPlatform(ua: string): Platform {
   if (/android/i.test(ua)) return "android";
   // iPadOS reports as Macintosh with touch, so check for that too.
   if (/iphone|ipad|ipod/i.test(ua)) return "ios";
-  if (/macintosh/i.test(ua) && typeof navigator !== "undefined" && navigator.maxTouchPoints > 1)
+  if (
+    /macintosh/i.test(ua) &&
+    typeof navigator !== "undefined" &&
+    navigator.maxTouchPoints > 1
+  )
     return "ios";
   return "other";
 }

@@ -5,6 +5,7 @@ import SharePanel from "@/components/SharePanel";
 import { byOwnerToken } from "@/lib/db";
 import { COPY } from "@/lib/design";
 import { toEnvelope } from "@/lib/toEnvelope";
+import OpenUpiApps from "@/components/OpenUpiApps";
 import PayPanel from "./PayPanel";
 
 // C1 — the pay screen lives ONLY behind the owner token, never at /l/[slug].
@@ -29,7 +30,9 @@ export default async function SenderPage({
     <main className="mx-auto w-full max-w-md flex-1 px-5 py-10">
       <p className="text-[13px] text-ink-faint">{t.sndPreview}</p>
       <h1 className="mt-1 font-display text-3xl text-maroon">
-        {l.lang === "en" ? `${t.sndFor} ${l.receiverName}` : `${l.receiverName} ${t.sndFor}`}
+        {l.lang === "en"
+          ? `${t.sndFor} ${l.receiverName}`
+          : `${l.receiverName} ${t.sndFor}`}
       </h1>
       <p className="mt-2 text-[14px] leading-relaxed text-ink-soft">
         {vpa === null ? t.sndSealedNoPay : t.sndSealedPay}
@@ -40,7 +43,15 @@ export default async function SenderPage({
       </div>
 
       {vpa === null ? (
-        <SharePanel slug={l.slug} receiverName={l.receiverName} lang={l.lang} />
+        <>
+          {/* Ticking "no nek" at build time is not a final answer. */}
+          <OpenUpiApps lang={l.lang} />
+          <SharePanel
+            slug={l.slug}
+            receiverName={l.receiverName}
+            lang={l.lang}
+          />
+        </>
       ) : (
         <PayPanel
           token={token}
@@ -54,7 +65,6 @@ export default async function SenderPage({
           initialUtr={l.utr}
         />
       )}
-
     </main>
   );
 }

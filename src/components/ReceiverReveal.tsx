@@ -28,6 +28,7 @@ type Copy = {
   what: string;
   cta1: string;
   cta2: string;
+  read: string;
   hint1: string;
   hint2: string;
   withLove: string;
@@ -40,7 +41,8 @@ const COPY: Record<"hi" | "hn" | "en", Copy> = {
     head: (who) => `आपके लिए ${who} ने भेजा है`,
     what: "शगुन का लिफ़ाफ़ा",
     cta1: "खोलकर देखिए",
-    cta2: "संदेश पढ़िए",
+    cta2: "खोलिए",
+    read: "संदेश पढ़िए",
     hint1: "अभी बंद है",
     hint2: "सील अभी लगी है",
     withLove: "प्यार के साथ",
@@ -51,7 +53,8 @@ const COPY: Record<"hi" | "hn" | "en", Copy> = {
     head: (who) => `Aapke liye ${who} ne bheja hai`,
     what: "shagun ka lifafa",
     cta1: "Kholkar dekhiye",
-    cta2: "Sandesh padhiye",
+    cta2: "Kholiye",
+    read: "Sandesh padhiye",
     hint1: "abhi band hai",
     hint2: "seal abhi lagi hai",
     withLove: "pyaar ke saath",
@@ -62,7 +65,8 @@ const COPY: Record<"hi" | "hn" | "en", Copy> = {
     head: (who) => `${who} has sent you a`,
     what: "shagun ka lifafa",
     cta1: "Tap to open",
-    cta2: "Tap to read the message",
+    cta2: "Open it",
+    read: "Read the message",
     hint1: "still sealed",
     hint2: "the seal is still on",
     withLove: "with love",
@@ -94,6 +98,7 @@ export default function ReceiverReveal({
 }) {
   const [phase, setPhase] = useState<Phase>("front");
   const [party, setParty] = useState(false);
+  const [reading, setReading] = useState(false);
   const timers = useRef<ReturnType<typeof setTimeout>[]>([]);
   const t = COPY[s.lang as "hi" | "hn" | "en"];
 
@@ -143,12 +148,22 @@ export default function ReceiverReveal({
                 view={view}
                 zoomable={open}
                 sealBreaking={phase === "breaking"}
+                expanded={reading}
+                onExpandedChange={setReading}
               />
             </button>
             <Celebration kind={celebration} playing={party} />
           </div>
 
-          {!open && (
+          {open ? (
+            <button
+              type="button"
+              onClick={() => setReading(true)}
+              className="rounded-full bg-maroon px-7 py-3 font-display text-lg text-ivory transition hover:bg-maroon-deep"
+            >
+              {t.read}
+            </button>
+          ) : (
             <>
               <button
                 type="button"
