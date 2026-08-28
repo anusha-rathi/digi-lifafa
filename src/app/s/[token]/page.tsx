@@ -11,6 +11,12 @@ import PayPanel from "./PayPanel";
 // A pay screen reachable from the shared link is a phishing kit.
 export const metadata: Metadata = { robots: { index: false, follow: false } };
 
+// This page renders mutable state (payment_marked, utr) and must never be
+// served from the Full Route Cache — a cached copy would keep showing "not
+// paid yet" after the sender marked it. /l/[slug] already did this; this page,
+// the one that actually changes, did not.
+export const dynamic = "force-dynamic";
+
 export default async function SenderPage({
   params,
 }: {

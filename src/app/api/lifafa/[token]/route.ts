@@ -1,6 +1,9 @@
 import { NextResponse } from "next/server";
 import { byOwnerToken, markPayment } from "@/lib/db";
 import { markSchema } from "@/lib/schema";
+import { hashIp, rateLimit, tooMany } from "@/lib/ratelimit";
+
+export const runtime = "nodejs";
 
 /* SPEC S4 — the ONLY mutation in the app. Write-once, owner-token gated, and
    it can never touch payee_vpa, amount, names or the message. */
@@ -8,6 +11,13 @@ export async function PATCH(
   req: Request,
   { params }: { params: Promise<{ token: string }> },
 ) {
+  /* A 24-char nanoid is far past brute force, so this is not guarding the
+     token — it is stopping an unbounded stream of anonymous DB reads, since
+     every miss still costs a query. */
+  const who = hashIp(req);
+  const v = rateLimit(who, "mark", 20, 10 * 60 * 1000); // 20 per 10 min
+  if (!v.ok) return tooMany(v.retryAfter);
+
   const { token } = await params;
 
   let body: unknown;

@@ -378,7 +378,13 @@ const SWEETS_ART = {
   ]
 };
 
-/* ---- stable ids, derived once from the English names ---- */
+/* ---- ids, derived from the English names ----
+   NOT stable, despite what this comment used to claim. These strings are
+   written into design_id / palette_id / texture_id in the database, and they
+   are a pure function of the display name — so editing "Gingham Check" to
+   "Gingham Check Paper" repoints every lifafa ever made with it.
+   If you rename an entry, you are performing a data migration. Either keep the
+   old id by adding an explicit `id`, or write SQL to move the stored rows. */
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 export const DESIGN_LIST: Design[] = PAPERS.map((x) => ({ ...x, id: slug(x.en) }));
@@ -394,9 +400,47 @@ export const COPY = T;
 export const SWEET_LIST = SWEETS_ART;
 export const ALL_SWEETS: Sweet[] = [...SWEETS_ART.desi, ...SWEETS_ART.west];
 
-export const designById = (id: string) => DESIGN_LIST.find((x) => x.id === id) ?? DESIGN_LIST[0];
-export const paletteById = (id: string) => PALETTE_LIST.find((x) => x.id === id) ?? PALETTE_LIST[0];
-export const textureById = (id: string) => TEXTURE_LIST.find((x) => x.id === id) ?? TEXTURE_LIST[1];
+/* An id that isn't in the catalogue means a STORED lifafa points at a paper,
+   palette or texture that no longer exists — almost always because an English
+   name was edited and the derived id moved with it. The old behaviour was to
+   quietly return list item 0, so the receiver opened an envelope that was not
+   the one the sender built, and nobody ever found out.
+   Dev and test throw, so it surfaces the moment it is introduced. Production
+   logs and still renders: a wrong-looking envelope is bad, but crashing on
+   somebody opening a gift is worse, and the log is what gets it fixed. */
+function unknownId(kind: string, id: string): void {
+  const msg =
+    `Unknown ${kind} id ${JSON.stringify(id)} — a stored lifafa references a ` +
+    `catalogue entry that no longer exists. Renaming an entry changes its id.`;
+  if (process.env.NODE_ENV !== "production") throw new Error(msg);
+  console.error(`[lifafa] ${msg}`);
+}
+
+/* Named, so reordering the arrays cannot quietly change what a broken lifafa
+   falls back to. TEXTURE_LIST[1] used to be spelled as a bare index. */
+const FALLBACK_DESIGN = DESIGN_LIST[0];
+const FALLBACK_PALETTE = PALETTE_LIST[0];
+const FALLBACK_TEXTURE =
+  TEXTURE_LIST.find((t) => t.id === "handmade") ?? TEXTURE_LIST[0];
+
+export const designById = (id: string) => {
+  const found = DESIGN_LIST.find((x) => x.id === id);
+  if (found) return found;
+  unknownId("design", id);
+  return FALLBACK_DESIGN;
+};
+export const paletteById = (id: string) => {
+  const found = PALETTE_LIST.find((x) => x.id === id);
+  if (found) return found;
+  unknownId("palette", id);
+  return FALLBACK_PALETTE;
+};
+export const textureById = (id: string) => {
+  const found = TEXTURE_LIST.find((x) => x.id === id);
+  if (found) return found;
+  unknownId("texture", id);
+  return FALLBACK_TEXTURE;
+};
 export const sweetById = (id: string | null) =>
   id ? ALL_SWEETS.find((x) => x.id === id) ?? null : null;
 export const occasionById = (id: string | null) =>

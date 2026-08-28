@@ -242,7 +242,13 @@ export default function Envelope({
                   <div className="text-[8px] uppercase tracking-[.16em] text-[#a08054]">
                     {s.occasionLabel}
                   </div>
-                  <div className="mt-[3px] max-h-[44px] overflow-hidden text-[9.5px] leading-[1.45] text-[#6b543c]">
+                  {/* A 500-char message into a 126x44px slip. This used to be a
+                      bare overflow-hidden, so it sliced mid-word and left a
+                      half-height sliver of the next line — it read as broken
+                      text, not as a preview. line-clamp ends on a whole line
+                      and adds the ellipsis, so the cut is legible as a cut.
+                      The full message is always readable in the letter view. */}
+                  <div className="mt-[3px] line-clamp-3 overflow-hidden text-[9.5px] leading-[1.45] text-[#6b543c]">
                     {s.messagePeek}
                   </div>
                 </div>

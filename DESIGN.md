@@ -14,28 +14,51 @@ accent. That is the default AI aesthetic and it reads as templated. SPEC §7.
 
 ## Palette
 
+Transcribed from `@theme` in `globals.css`, which is the source of truth. If
+these disagree, the CSS is right and this table is stale.
+
+The site is light warm paper; only the stage the envelope sits on is dark.
+
+**Light site**
+
 | Token | Hex | Use |
 |---|---|---|
-| `night` | `#17090e` | page ground. Dark so the foil catches light. |
-| `night-soft` | `#24121a` | inputs, raised panels |
-| `paper` | `#f6e9d2` | the card inside the envelope, body text on dark |
-| `paper-deep` | `#e9d6b4` | paper shadow |
-| `ink` | `#2a1810` | text on paper |
-| `ink-soft` | `#6b4a37` | secondary text on paper |
-| `maroon` | `#7b1e2b` | envelope paper (default) |
-| `kumkum` | `#c42b1c` | the seal, error states |
-| `marigold` | `#e8a33d` | primary action, headings |
-| `peacock` | `#0f6e5c` | envelope option |
-| `indigo` | `#2b3a67` | envelope option |
-| `foil` / `foil-hi` / `foil-lo` | `#c9a227` / `#f4dc8c` / `#8a6b12` | three stops so gold gradients like real stamping rather than sitting flat |
+| `ivory` | `#fbf3e4` | page ground |
+| `ivory-deep` | `#f4e7cf` | raised panels |
+| `ivory-edge` | `#e2cfab` | borders |
+| `ink` | `#4a121c` | body text |
+| `ink-soft` | `#7d5a52` | secondary text |
+| `ink-faint` | `#a08b81` | captions |
 
-Envelope colours are duplicated in `src/lib/options.ts` because they are *data*
-(persisted to the DB as an allowlisted id), not just styling.
+**The dark stage, and the paper inside**
+
+| Token | Hex | Use |
+|---|---|---|
+| `night` / `night-soft` | `#17090e` / `#24121a` | the stage the envelope sits on. Dark so the foil catches light. |
+| `paper` / `paper-deep` | `#f6e9d2` / `#e9d6b4` | the card inside the envelope, and its shadow |
+
+**Print colours**
+
+| Token | Hex | Use |
+|---|---|---|
+| `maroon` / `maroon-deep` | `#7b1e2b` / `#4e0f1a` | envelope paper (default) |
+| `kumkum` | `#c42b1c` | the seal, error states |
+| `marigold` / `marigold-soft` | `#e09112` / `#f2b84b` | primary action, headings |
+| `peacock` / `peacock-soft` | `#0f6e5c` / `#2f9880` | envelope option |
+| `indigo` | `#2b3a67` | envelope option |
+| `foil` / `foil-hi` / `foil-lo` | `#b8912f` / `#f4dc8c` / `#8a6b12` | three stops so gold gradients like real stamping rather than sitting flat |
+
+The envelope catalogue lives in `src/lib/design.ts`, built from `patterns.ts`.
+Those ids are *data* — they are written into `design_id`, `palette_id` and
+`texture_id` — and they are derived from each entry's English display name.
+**Renaming an entry changes its id and orphans every lifafa already stored
+against it.** A rename is a data migration, not a copy edit.
 
 ## Type
 
-- **Display** — Yatra One. Devanagari-native, poster-lettering character. Headings, names, amounts.
-- **Body** — Mukta. Clean, Devanagari + Latin, 300/400/600/700.
+- **Display** — Martel (`--font-display`). Devanagari and Latin serif with weight and no bounce. Headings, names, amounts.
+- **Wordmark** — Yatra One (`--font-wordmark`). Kept only as the logotype, where a face can be quirky. It read as a children's party invite at heading sizes.
+- **Body** — Mukta (`--font-body`). Clean, Devanagari + Latin, 300/400/600/700.
 
 Both cover Devanagari because many senders will write in Hindi. Test the
 message field in Devanagari at every size — SPEC §7.

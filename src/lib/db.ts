@@ -110,13 +110,32 @@ export async function createLifafa(v: CreateParsed) {
   return { slug, ownerToken };
 }
 
+/* Every column the receiver page is allowed to see — and deliberately NOT
+   owner_token. C1 says the pay screen must be unreachable from the slug; the
+   token is what makes it reachable, so it must not even be fetched on this
+   path. `select("*")` kept it one careless spread away from the public page. */
+// One literal, not a concatenation: supabase-js parses this string at the
+// type level, and `a + b` collapses to `string` and breaks the inference.
+const PUBLIC_COLUMNS =
+  "slug,lang,sender_name,receiver_name,salutation,message,occasion,custom_heading,amount_paise,notes,coin,payee_vpa,design_id,palette_id,texture_id,border_id,motif_id,celebration_id,sweet_id,utr,payment_marked,opened_at,is_blocked" as const;
+
 export async function bySlug(slug: string): Promise<Lifafa | null> {
-  const { data } = await db.from(TABLE).select("*").eq("slug", slug).maybeSingle();
+  const { data } = await db
+    .from(TABLE)
+    .select(PUBLIC_COLUMNS)
+    .eq("slug", slug)
+    .maybeSingle();
   return data ? hydrate(data as Row) : null;
 }
 
+/* The owner path. Same columns — the caller already holds the token, so
+   returning it again would only create another way to leak it. */
 export async function byOwnerToken(token: string): Promise<Lifafa | null> {
-  const { data } = await db.from(TABLE).select("*").eq("owner_token", token).maybeSingle();
+  const { data } = await db
+    .from(TABLE)
+    .select(PUBLIC_COLUMNS)
+    .eq("owner_token", token)
+    .maybeSingle();
   return data ? hydrate(data as Row) : null;
 }
 
@@ -156,20 +175,12 @@ export async function markPayment(
    link a way to take down someone else's rakhi envelope.
    Blocking is a manual `is_blocked = true` in the Supabase dashboard. */
 export async function reportLifafa(slug: string): Promise<boolean> {
-  const row = await bySlug(slug);
-  if (!row) return false;
-  const { error } = await db
-    .from(TABLE)
-    .update({
-      reported_at: new Date().toISOString(),
-      report_count: (await countReports(slug)) + 1,
-    })
-    .eq("slug", slug);
+  // ONE statement, evaluated in the database (migration 006). The previous
+  // version read the count and wrote count+1 across two round trips, so two
+  // simultaneous reports both wrote the same number — it under-counted exactly
+  // when something was being reported hard. It also stamped reported_at every
+  // time, so "when was this first reported" was unrecoverable.
+  const { error } = await db.rpc("increment_report", { p_slug: slug });
   if (error) throw new Error(`report failed: ${error.message}`);
   return true;
-}
-
-async function countReports(slug: string): Promise<number> {
-  const { data } = await db.from(TABLE).select("report_count").eq("slug", slug).maybeSingle();
-  return Number((data as { report_count?: number } | null)?.report_count ?? 0);
 }

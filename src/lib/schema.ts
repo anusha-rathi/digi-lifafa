@@ -94,12 +94,20 @@ export type CreateParsed = z.output<typeof createSchema>;
 /* SPEC S4 — only these two fields are ever written after creation, each once,
    and only with a valid owner_token. A UTR is twelve digits; we cannot check
    it against anything, which is exactly why it is never called "verified". */
-export const markSchema = z.object({
-  paymentMarked: z.enum(["paid", "skipped"]),
-  utr: z
-    .string()
-    .trim()
-    .regex(/^\d{12}$/, "A UPI reference is 12 digits")
-    .nullable()
-    .default(null),
-});
+export const markSchema = z
+  .object({
+    paymentMarked: z.enum(["paid", "skipped"]),
+    utr: z
+      .string()
+      .trim()
+      .regex(/^\d{12}$/, "A UPI reference is 12 digits")
+      .nullable()
+      .default(null),
+  })
+  // "I skipped the payment, and here is its reference number" is not a state
+  // that can exist. Rejecting it here keeps the row honest, so the receiver
+  // page can never render a payment reference under a skipped payment.
+  .refine((v) => v.paymentMarked === "paid" || v.utr === null, {
+    message: "A reference number only makes sense with a payment",
+    path: ["utr"],
+  });
