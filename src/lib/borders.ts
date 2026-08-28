@@ -19,6 +19,22 @@ export type BorderSpec = {
   f: (gold: string, base: string) => CSSProperties;
 };
 
+/* The band the border occupies, so content can be kept out of it.
+ *
+ * A real shagun envelope prints the frame near the edge and leaves the middle
+ * clear — the border never crosses the writing. Here the border is an overlay
+ * drawn ON TOP of the contents, so anything sitting inside this band gets a
+ * gold strip painted through it. That is what was slicing the bottom off the
+ * mithai's name.
+ *
+ * BAND is the tallest strip any border in the list uses; keep it in step if a
+ * taller one is added. Exported so the envelope derives its clearance from
+ * these numbers instead of a hand-matched pixel offset. */
+export const BORDER_INSET = 7;
+export const BORDER_BAND = 12;
+/** Distance from the paper's edge that content must stay clear of. */
+export const BORDER_SAFE = BORDER_INSET + BORDER_BAND;
+
 const uri = (svg: string) =>
   `url("data:image/svg+xml,${svg.replace(/#/g, "%23").replace(/"/g, "'").replace(/\s+/g, " ").trim()}")`;
 

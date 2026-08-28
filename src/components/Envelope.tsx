@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Motif from "@/components/Motif";
-import { borderFor } from "@/lib/borders";
+import { borderFor, BORDER_INSET, BORDER_SAFE } from "@/lib/borders";
 import { motifById } from "@/lib/motifs";
 import { motifFor, paperStyle, piecesOf, sweetById, type PathSpec } from "@/lib/design";
 
@@ -312,8 +312,17 @@ export default function Envelope({
                 {sweet && (
                   <div
                     {...tap()}
-                    style={{ animationDelay: "0.95s" }}
-                    className={`lf-tuck absolute left-4 top-[20px] h-[58px] w-[72px] ${
+                    /* The dabba used to sit 8px off the paper's edge, inside
+                       the band the border paints, so a bordered lifafa had a
+                       gold strip running through the sweet's name. Lift it
+                       clear of BORDER_SAFE when there is a border to clear;
+                       keep the original 8px when there isn't, so unbordered
+                       papers look exactly as they did. */
+                    style={{
+                      animationDelay: "0.95s",
+                      bottom: border ? BORDER_SAFE + 3 : 8,
+                    }}
+                    className={`lf-tuck absolute left-4 h-[58px] w-[72px] ${
                       zoomable ? "cursor-zoom-in" : ""
                     }`}
                   >
@@ -346,8 +355,8 @@ export default function Envelope({
 
               {border && (
                 <div
-                  className="pointer-events-none absolute inset-[7px] rounded-[2px]"
-                  style={border.f(gold, pal.base)}
+                  className="pointer-events-none absolute rounded-[2px]"
+                  style={{ inset: BORDER_INSET, ...border.f(gold, pal.base) }}
                 />
               )}
             </div>
@@ -379,8 +388,8 @@ export default function Envelope({
                 </div>
                 {border && (
                   <div
-                    className="pointer-events-none absolute inset-[7px] rounded-[2px]"
-                    style={border.f(gold, pal.base)}
+                    className="pointer-events-none absolute rounded-[2px]"
+                    style={{ inset: BORDER_INSET, ...border.f(gold, pal.base) }}
                   />
                 )}
               </div>
