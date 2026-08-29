@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Digi Lifafa">
+  <title>Digi Lifafa</title>
+  <rect width="512" height="512" fill="#7b1e2b"/>
+  <g transform="translate(256 256) scale(6.4) translate(-32 -32)">
+    <circle cx="32" cy="15" r="9" fill="#e09112"/>
+    <path d="M7 37c0-6 6-9 12-7l13 4 13-4c6-2 12 1 12 7 0 12-11 21-25 21S7 49 7 37z" fill="#f4dc8c"/>
+  </g>
+</svg>

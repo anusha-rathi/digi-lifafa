@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Digi Lifafa">
+  <title>Digi Lifafa — cupped palms</title>
+  <!-- the shagun, above the hands -->
+  <circle cx="32" cy="15" r="9" fill="#e09112"/>
+  <!-- cupped palms. Symmetric on purpose: an angled single hand reads as a
+       rude gesture once it is shrunk to 24px. -->
+  <path d="M7 37c0-6 6-9 12-7l13 4 13-4c6-2 12 1 12 7 0 12-11 21-25 21S7 49 7 37z" fill="#7b1e2b"/>
+</svg>

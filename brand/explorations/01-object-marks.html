@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>डिजि लिफ़ाफ़ा — logo samples</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;600;700&family=Martel:wght@400;600;700;800;900&family=Yatra+One&display=swap" rel="stylesheet">
+<style>
+/* Palette taken from globals.css @theme — the real tokens, not approximations. */
+:root{
+  --ivory:#fbf3e4; --ivory-deep:#f4e7cf; --ivory-edge:#e2cfab;
+  --ink:#4a121c; --ink-soft:#7d5a52; --ink-faint:#a08b81;
+  --maroon:#7b1e2b; --maroon-deep:#4e0f1a; --kumkum:#c42b1c;
+  --marigold:#e09112; --peacock:#0f6e5c;
+  --foil:#b8912f; --foil-hi:#f4dc8c; --foil-lo:#8a6b12;
+  --night:#17090e;
+  --disp:'Martel',Georgia,serif; --word:'Yatra One',serif; --body:'Mukta',system-ui,sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--ivory);color:var(--ink);font-family:var(--body);-webkit-font-smoothing:antialiased;
+  line-height:1.6;padding:0 0 70px;
+  background-image:
+    repeating-linear-gradient(45deg,rgba(184,145,47,.055) 0 1px,transparent 1px 22px),
+    repeating-linear-gradient(-45deg,rgba(184,145,47,.055) 0 1px,transparent 1px 22px);
+  background-attachment:fixed}
+.wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+header{padding:52px 0 30px}
+header .k{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--marigold);font-weight:700;margin:0 0 12px}
+header h1{font-family:var(--word);font-size:clamp(26px,5vw,38px);margin:0 0 12px;font-weight:400;color:var(--ink)}
+header p{margin:0;color:var(--ink-soft);font-size:15px;max-width:64ch}
+header p b{color:var(--ink)}
+
+.card{background:#fff;border:1px solid var(--ivory-edge);border-radius:16px;overflow:hidden;margin:0 0 20px}
+.head{padding:20px 22px 16px;border-bottom:1px solid var(--ivory-deep)}
+.num{display:inline-grid;place-items:center;width:24px;height:24px;border-radius:50%;font-size:12px;font-weight:800;
+  background:linear-gradient(140deg,var(--foil-hi),var(--foil));color:var(--maroon-deep);margin-right:9px;vertical-align:middle}
+.nm{font-family:var(--word);font-size:19px;color:var(--ink);vertical-align:middle}
+.en{font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--marigold);font-weight:700;margin:8px 0 0}
+.ds{font-size:13.5px;color:var(--ink-soft);margin:9px 0 0;line-height:1.6;max-width:70ch}
+.ds b{color:var(--ink);font-weight:600}
+
+/* the hero lockup, on ivory */
+.hero{padding:34px 22px;display:flex;align-items:center;justify-content:center;background:var(--ivory-deep)}
+/* the size tests — where logos actually live or die */
+.tests{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:0;border-top:1px solid var(--ivory-deep)}
+.t{padding:18px 16px;border-right:1px solid var(--ivory-deep);display:flex;flex-direction:column;align-items:center;gap:11px;text-align:center}
+.t:last-child{border-right:none}
+.t .lbl{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint);font-weight:700}
+.t .box{display:flex;align-items:center;justify-content:center;min-height:44px}
+/* dark test — the header already has a dark variant */
+.t.dark{background:var(--night)}
+.t.dark .lbl{color:#8a7361}
+/* favicon: shown in a rounded square the size a real tab renders */
+.fav{width:32px;height:32px;border-radius:7px;overflow:hidden;display:grid;place-items:center;
+  box-shadow:0 0 0 1px rgba(0,0,0,.12)}
+
+/* ── shared marks ─────────────────────────────────── */
+.coin{border-radius:50%;display:grid;place-items:center;flex:none;
+  background:radial-gradient(circle at 34% 28%,var(--foil-hi),var(--foil) 46%,var(--foil-lo));
+  color:var(--maroon-deep);font-family:var(--disp);font-weight:800;line-height:1}
+.word{font-family:var(--word);color:var(--maroon);line-height:1;white-space:nowrap}
+.word.on-dark{color:#f2dcae}
+.lat{font-family:var(--body);font-weight:600;color:var(--ink-soft);letter-spacing:.14em;text-transform:uppercase}
+.lat.on-dark{color:#a08b81}
+.lock{display:flex;align-items:center;gap:12px}
+.lock.tight{gap:8px}
+.stack{display:flex;flex-direction:column;gap:3px;align-items:flex-start}
+
+footer{padding:28px 0 0;color:var(--ink-faint);font-size:12.5px}
+footer b{color:var(--ink-soft)}
+</style>
+</head>
+<body>
+
+<header><div class="wrap">
+  <p class="k">five directions</p>
+  <h1>डिजि लिफ़ाफ़ा — logo samples</h1>
+  <p>Right now the logo is <b>type only</b>, Yatra One in maroon, with no mark and no favicon — <code>public/</code> still holds the Next.js starter SVGs. Each direction below is shown at the three sizes that decide it: the lockup, the <b>24px header</b>, and a <b>32px favicon</b>. A mark that dies at 32px is not a mark.</p>
+</div></header>
+
+<div class="wrap">
+
+<!-- ═══════════ 1 · THE COIN ═══════════ -->
+<div class="card">
+  <div class="head">
+    <div><span class="num">1</span><span class="nm">सिक्का</span></div>
+    <p class="en">The one rupee</p>
+    <p class="ds">The strongest idea the product owns. Shagun is <b>never a round number</b> — the extra rupee exists so the account can't be settled and the relationship stays open. A circle survives shrinking better than a silhouette does — but look at the 32px row before believing that: the ₹1 inside it goes muddy, so as a <b>favicon this is a gold dot</b>, not a coin.</p>
+  </div>
+  <div class="hero">
+    <div class="lock">
+      <div class="coin" style="width:62px;height:62px;font-size:21px;box-shadow:0 3px 10px rgba(0,0,0,.22)">₹1</div>
+      <div class="stack">
+        <span class="word" style="font-size:30px">डिजि लिफ़ाफ़ा</span>
+        <span class="lat" style="font-size:9.5px">digi lifafa</span>
+      </div>
+    </div>
+  </div>
+  <div class="tests">
+    <div class="t"><span class="lbl">header · 24px</span><div class="box">
+      <div class="lock tight"><div class="coin" style="width:24px;height:24px;font-size:9px">₹1</div>
+      <span class="word" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t dark"><span class="lbl">header · dark</span><div class="box">
+      <div class="lock tight"><div class="coin" style="width:24px;height:24px;font-size:9px">₹1</div>
+      <span class="word on-dark" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t"><span class="lbl">favicon · 32px</span><div class="box">
+      <div class="fav" style="background:var(--maroon)">
+        <div class="coin" style="width:24px;height:24px;font-size:9.5px">₹1</div></div></div></div>
+  </div>
+</div>
+
+<!-- ═══════════ 2 · THE FLAP ═══════════ -->
+<div class="card">
+  <div class="head">
+    <div><span class="num">2</span><span class="nm">झालर</span></div>
+    <p class="en">The flap</p>
+    <p class="ds">You already own this shape — it is <code>FLAP_PATH</code> from <code>Envelope.tsx</code>, the triple-scallop every lifafa in the app is cut with. Nothing else in the category looks like it. <b>Free consistency:</b> the logo and the product are literally the same curve. Weakest of the five at 32px, though — the scallops dissolve and it becomes a blob.</p>
+  </div>
+  <div class="hero">
+    <div class="lock">
+      <svg width="76" height="42" viewBox="0 0 330 160" aria-label="flap mark">
+        <defs><linearGradient id="f2" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#8a6b12"/><stop offset=".3" stop-color="#f4dc8c"/>
+          <stop offset=".6" stop-color="#b8912f"/><stop offset="1" stop-color="#f4dc8c"/></linearGradient></defs>
+        <path d="M0,150 L0,86 C0,60 14,36 40,24 C62,14 84,26 96,40 C110,20 140,4 165,4 C190,4 220,20 234,40 C246,26 268,14 290,24 C316,36 330,60 330,86 L330,150 Z" fill="#7b1e2b"/>
+        <path d="M0,150 L0,86 C0,60 14,36 40,24 C62,14 84,26 96,40 C110,20 140,4 165,4 C190,4 220,20 234,40 C246,26 268,14 290,24 C316,36 330,60 330,86 L330,150 Z" fill="none" stroke="url(#f2)" stroke-width="9"/>
+        <circle cx="165" cy="104" r="21" fill="url(#f2)"/>
+      </svg>
+      <div class="stack">
+        <span class="word" style="font-size:30px">डिजि लिफ़ाफ़ा</span>
+        <span class="lat" style="font-size:9.5px">digi lifafa</span>
+      </div>
+    </div>
+  </div>
+  <div class="tests">
+    <div class="t"><span class="lbl">header · 24px</span><div class="box">
+      <div class="lock tight">
+        <svg width="42" height="23" viewBox="0 0 330 160"><path d="M0,150 L0,86 C0,60 14,36 40,24 C62,14 84,26 96,40 C110,20 140,4 165,4 C190,4 220,20 234,40 C246,26 268,14 290,24 C316,36 330,60 330,86 L330,150 Z" fill="#7b1e2b"/><circle cx="165" cy="104" r="21" fill="#b8912f"/></svg>
+        <span class="word" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t dark"><span class="lbl">header · dark</span><div class="box">
+      <div class="lock tight">
+        <svg width="42" height="23" viewBox="0 0 330 160"><path d="M0,150 L0,86 C0,60 14,36 40,24 C62,14 84,26 96,40 C110,20 140,4 165,4 C190,4 220,20 234,40 C246,26 268,14 290,24 C316,36 330,60 330,86 L330,150 Z" fill="#f2dcae"/><circle cx="165" cy="104" r="21" fill="#7b1e2b"/></svg>
+        <span class="word on-dark" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t"><span class="lbl">favicon · 32px</span><div class="box">
+      <div class="fav" style="background:var(--maroon)">
+        <svg width="26" height="15" viewBox="0 0 330 160"><path d="M0,150 L0,86 C0,60 14,36 40,24 C62,14 84,26 96,40 C110,20 140,4 165,4 C190,4 220,20 234,40 C246,26 268,14 290,24 C316,36 330,60 330,86 L330,150 Z" fill="#f4dc8c"/></svg>
+      </div></div></div>
+  </div>
+</div>
+
+<!-- ═══════════ 3 · THE MONOGRAM ═══════════ -->
+<div class="card">
+  <div class="head">
+    <div><span class="num">3</span><span class="nm">ल</span></div>
+    <p class="en">The monogram</p>
+    <p class="ds">One Devanagari letter — the ल of लिफ़ाफ़ा — foil-stamped in a roundel. <b>Unmistakably Indian, and the least likely to be confused with a mail app.</b> Reads at any size because it's one glyph. The risk: it means nothing to a non-Devanagari reader.</p>
+  </div>
+  <div class="hero">
+    <div class="lock">
+      <div style="width:62px;height:62px;border-radius:50%;display:grid;place-items:center;flex:none;
+        background:var(--maroon);box-shadow:0 3px 10px rgba(0,0,0,.22),inset 0 0 0 2px var(--foil)">
+        <span style="font-family:var(--word);font-size:34px;line-height:1;color:var(--foil-hi);margin-top:-2px">ल</span>
+      </div>
+      <div class="stack">
+        <span class="word" style="font-size:30px">डिजि लिफ़ाफ़ा</span>
+        <span class="lat" style="font-size:9.5px">digi lifafa</span>
+      </div>
+    </div>
+  </div>
+  <div class="tests">
+    <div class="t"><span class="lbl">header · 24px</span><div class="box">
+      <div class="lock tight">
+        <div style="width:24px;height:24px;border-radius:50%;display:grid;place-items:center;background:var(--maroon)">
+          <span style="font-family:var(--word);font-size:14px;line-height:1;color:var(--foil-hi)">ल</span></div>
+        <span class="word" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t dark"><span class="lbl">header · dark</span><div class="box">
+      <div class="lock tight">
+        <div style="width:24px;height:24px;border-radius:50%;display:grid;place-items:center;background:var(--foil-hi)">
+          <span style="font-family:var(--word);font-size:14px;line-height:1;color:var(--maroon-deep)">ल</span></div>
+        <span class="word on-dark" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t"><span class="lbl">favicon · 32px</span><div class="box">
+      <div class="fav" style="background:var(--maroon)">
+        <span style="font-family:var(--word);font-size:21px;line-height:1;color:var(--foil-hi)">ल</span></div></div></div>
+  </div>
+</div>
+
+<!-- ═══════════ 4 · ENVELOPE AS LINK ═══════════ -->
+<div class="card">
+  <div class="head">
+    <div><span class="num">4</span><span class="nm">कड़ी</span></div>
+    <p class="en">Envelope as a link</p>
+    <p class="ds">The actual proposition in one mark: a lifafa that <b>travels as a URL</b>. The flap's base becomes a chain link. Most "explains itself" of the five — and the most likely to feel like a tech logo rather than a festival one, which is the tension worth deciding on.</p>
+  </div>
+  <div class="hero">
+    <div class="lock">
+      <svg width="70" height="60" viewBox="0 0 120 104" aria-label="envelope link mark">
+        <path d="M6,58 L6,36 C6,22 16,10 30,7 C42,4 52,10 58,18 C64,10 76,4 88,7 C102,10 114,22 114,36 L114,58 Z" fill="#7b1e2b"/>
+        <g fill="none" stroke="#b8912f" stroke-width="7" stroke-linecap="round">
+          <path d="M42,76 a14,14 0 0 1 0,-20 l6,-6"/>
+          <path d="M78,76 a14,14 0 0 0 0,-20 l-6,-6"/>
+          <path d="M52,72 l16,-16"/>
+        </g>
+      </svg>
+      <div class="stack">
+        <span class="word" style="font-size:30px">डिजि लिफ़ाफ़ा</span>
+        <span class="lat" style="font-size:9.5px">digi lifafa</span>
+      </div>
+    </div>
+  </div>
+  <div class="tests">
+    <div class="t"><span class="lbl">header · 24px</span><div class="box">
+      <div class="lock tight">
+        <svg width="28" height="24" viewBox="0 0 120 104"><path d="M6,58 L6,36 C6,22 16,10 30,7 C42,4 52,10 58,18 C64,10 76,4 88,7 C102,10 114,22 114,36 L114,58 Z" fill="#7b1e2b"/><g fill="none" stroke="#b8912f" stroke-width="9" stroke-linecap="round"><path d="M42,76 a14,14 0 0 1 0,-20 l6,-6"/><path d="M78,76 a14,14 0 0 0 0,-20 l-6,-6"/></g></svg>
+        <span class="word" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t dark"><span class="lbl">header · dark</span><div class="box">
+      <div class="lock tight">
+        <svg width="28" height="24" viewBox="0 0 120 104"><path d="M6,58 L6,36 C6,22 16,10 30,7 C42,4 52,10 58,18 C64,10 76,4 88,7 C102,10 114,22 114,36 L114,58 Z" fill="#f2dcae"/><g fill="none" stroke="#e09112" stroke-width="9" stroke-linecap="round"><path d="M42,76 a14,14 0 0 1 0,-20 l6,-6"/><path d="M78,76 a14,14 0 0 0 0,-20 l-6,-6"/></g></svg>
+        <span class="word on-dark" style="font-size:19px">डिजि लिफ़ाफ़ा</span></div></div></div>
+    <div class="t"><span class="lbl">favicon · 32px</span><div class="box">
+      <div class="fav" style="background:var(--maroon)">
+        <svg width="24" height="21" viewBox="0 0 120 104"><path d="M6,58 L6,36 C6,22 16,10 30,7 C42,4 52,10 58,18 C64,10 76,4 88,7 C102,10 114,22 114,36 L114,58 Z" fill="#f4dc8c"/><g fill="none" stroke="#e09112" stroke-width="11" stroke-linecap="round"><path d="M42,76 a14,14 0 0 1 0,-20"/><path d="M78,76 a14,14 0 0 0 0,-20"/></g></svg>
+      </div></div></div>
+  </div>
+</div>
+
+<!-- ═══════════ 5 · WORDMARK ONLY ═══════════ -->
+<div class="card">
+  <div class="head">
+    <div><span class="num">5</span><span class="nm">सिर्फ़ नाम</span></div>
+    <p class="en">Wordmark only</p>
+    <p class="ds">No mark at all — the name, set properly, with the ि matra of लिफ़ाफ़ा extended into a rule that underlines the word. Closest to what you have, so <b>nothing to re-learn</b>. The honest cost: <b>there is no favicon</b>, so the browser tab and the WhatsApp preview fall back to a letter in a box.</p>
+  </div>
+  <div class="hero">
+    <div class="stack" style="align-items:center;gap:6px">
+      <span class="word" style="font-size:40px">डिजि लिफ़ाफ़ा</span>
+      <div style="height:2px;width:100%;background:linear-gradient(90deg,transparent,var(--foil),var(--marigold),var(--foil),transparent)"></div>
+      <span class="lat" style="font-size:10px">shagun, sent as a link</span>
+    </div>
+  </div>
+  <div class="tests">
+    <div class="t"><span class="lbl">header · 24px</span><div class="box">
+      <span class="word" style="font-size:21px">डिजि लिफ़ाफ़ा</span></div></div>
+    <div class="t dark"><span class="lbl">header · dark</span><div class="box">
+      <span class="word on-dark" style="font-size:21px">डिजि लिफ़ाफ़ा</span></div></div>
+    <div class="t"><span class="lbl">favicon · 32px</span><div class="box">
+      <div class="fav" style="background:var(--maroon)">
+        <span style="font-family:var(--word);font-size:20px;line-height:1;color:var(--foil-hi)">डि</span></div></div></div>
+  </div>
+</div>
+
+<footer>
+  <p><b>Two constraints these had to satisfy.</b> Devanagari is never letter-spaced — tracking detaches the matras and डिजि लिफ़ाफ़ा falls apart, so only the Latin subtitles are tracked. And every mark is tested at 32px, because most people meet this product as a browser tab and a WhatsApp preview, not as a hero.</p>
+  <p style="margin-top:10px"><b>My read, after looking at the 32px row rather than guessing:</b> <b>3</b>. I expected to land on the coin, and the render says otherwise — at favicon size the coin is a gold dot, the flap dissolves into a blob, and the chain becomes two smudges. ल is the only one still legible, and it is the most ownable of the five. The coin idea is better expressed where it already lives: inside the product, as the last beat of the reveal. Second choice is <b>2</b>, for the lockup only, with something else carrying the favicon.</p>
+</footer>
+
+</div>
+</body>
+</html>
