@@ -12,7 +12,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
 
   const staticPages: [string, number, "weekly" | "monthly" | "yearly"][] = [
-    ["", 1, "weekly"],
+    // Trailing slash: the homepage's own canonical carries one, and a sitemap
+    // entry that disagrees with the canonical is a signal Google has to
+    // resolve rather than follow.
+    ["/", 1, "weekly"],
     ["/templates", 0.9, "weekly"],
     ["/make", 0.9, "monthly"],
     ["/blog", 0.7, "weekly"],
