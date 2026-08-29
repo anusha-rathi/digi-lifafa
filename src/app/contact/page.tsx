@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     "How to reach Digi Lifafa: questions, ideas, partnerships, and reporting a lifafa.",
 };
 
-const HELLO = "hello@anusha.fyi";
-const PARTNERSHIPS = "partnerships@anusha.fyi";
+const HELLO = "hey@lifafa.cc";
+const PARTNERSHIPS = "business@lifafa.cc";
 
 export default function Contact() {
   return (
