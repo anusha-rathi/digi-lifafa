@@ -8,8 +8,22 @@ import { COPY } from "@/lib/design";
 import { rupees } from "@/lib/limits";
 import { toEnvelope } from "@/lib/toEnvelope";
 
-// SPEC S9 — individual lifafas must never be indexed.
-export const metadata: Metadata = { robots: { index: false, follow: false } };
+/* SPEC S9 / S10 — individual lifafas must never be indexed, and the link
+   preview must never carry personal data.
+   This link is pasted into WhatsApp. The preview is fetched by WhatsApp's
+   servers, rendered to everyone in the chat, and cached by services we don't
+   control — so it must not contain the receiver's name, the sender's name, or
+   the amount. The opengraph-image.png in this folder is the deliberately
+   generic one; the title and description below are pinned for the same reason,
+   so nothing personal can drift into them later. */
+export const metadata: Metadata = {
+  robots: { index: false, follow: false },
+  title: "A lifafa for you",
+  openGraph: {
+    title: "किसी ने आपके लिए लिफ़ाफ़ा भेजा है",
+    description: "Someone has sent you a lifafa.",
+  },
+};
 export const dynamic = "force-dynamic";
 
 export default async function ReceiverPage({

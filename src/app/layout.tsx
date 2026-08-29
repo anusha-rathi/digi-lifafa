@@ -29,13 +29,31 @@ const martel = Martel({
   display: "swap",
 });
 
+const SITE =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://digilifafa.vercel.app";
+
+const DESCRIPTION =
+  "Make a shagun ka lifafa, add your wishes, a mithai and the one-rupee coin, then pay them directly over UPI and send the envelope as a link.";
+
 export const metadata: Metadata = {
+  // Without metadataBase, Next resolves opengraph-image to a relative path and
+  // WhatsApp, which is where nearly every one of these links is opened, will
+  // not fetch it at all.
+  metadataBase: new URL(SITE),
   title: {
     default: "Digi Lifafa: send a shagun ka lifafa as a link",
     template: "%s · Digi Lifafa",
   },
-  description:
-    "Make a shagun ka lifafa, add your wishes, a mithai and the one-rupee coin, then pay them directly over UPI and send the envelope as a link.",
+  description: DESCRIPTION,
+  openGraph: {
+    type: "website",
+    siteName: "Digi Lifafa",
+    locale: "hi_IN",
+    title: "Digi Lifafa: send a shagun ka lifafa as a link",
+    description: DESCRIPTION,
+  },
+  twitter: { card: "summary_large_image" },
+  manifest: "/site.webmanifest",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

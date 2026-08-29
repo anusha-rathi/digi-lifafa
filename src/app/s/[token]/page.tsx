@@ -7,9 +7,19 @@ import { COPY } from "@/lib/design";
 import { toEnvelope } from "@/lib/toEnvelope";
 import PayPanel from "./PayPanel";
 
-// C1 — the pay screen lives ONLY behind the owner token, never at /l/[slug].
-// A pay screen reachable from the shared link is a phishing kit.
-export const metadata: Metadata = { robots: { index: false, follow: false } };
+/* C1 — the pay screen lives ONLY behind the owner token, never at /l/[slug].
+   A pay screen reachable from the shared link is a phishing kit.
+   The preview is pinned generic for the same reason as the receiver page, and
+   with more at stake: this URL contains the owner_token, so anything rendered
+   into a link preview is a leak of the one credential that can mark payment. */
+export const metadata: Metadata = {
+  robots: { index: false, follow: false },
+  title: "Your lifafa",
+  openGraph: {
+    title: "डिजि लिफ़ाफ़ा",
+    description: "Your lifafa is ready to send.",
+  },
+};
 
 // This page renders mutable state (payment_marked, utr) and must never be
 // served from the Full Route Cache — a cached copy would keep showing "not
