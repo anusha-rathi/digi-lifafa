@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/next";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { Yatra_One, Mukta, Martel } from "next/font/google";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { SITE } from "@/lib/site";
@@ -57,9 +58,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SiteHeader />
         <div className="flex flex-1 flex-col">{children}</div>
         <SiteFooter />
-        {/* Cookieless page counts. No identifiers, nothing stored on the
-            visitor, so it does not change what the privacy policy promises. */}
+        {/* Vercel's is cookieless. Google's is not: gtag sets _ga and _ga_*
+            and keeps a client id across visits, which is why the privacy
+            policy has a cookies section now instead of claiming there are
+            none. Loaded through @next/third-parties so it lands after
+            hydration rather than blocking the first paint. */}
         <Analytics />
+        <GoogleAnalytics gaId="G-WDKX62E555" />
       </body>
     </html>
   );

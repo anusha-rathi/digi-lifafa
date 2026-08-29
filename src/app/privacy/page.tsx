@@ -17,7 +17,7 @@ export default function Privacy() {
         tone="peacock"
       />
       <main className="mx-auto w-full max-w-2xl flex-1 px-5 py-12">
-        <p className="text-sm text-ink-faint">Last updated 24 August 2026</p>
+        <p className="text-sm text-ink-faint">Last updated 29 August 2026</p>
 
         <div className="prose mt-6">
           <h2>What we store</h2>
@@ -82,18 +82,47 @@ export default function Privacy() {
 
           <h2>Cookies and tracking</h2>
           <p>
-            We set no cookies at all, and there is no cookie banner because
-            there is nothing to consent to. We run no advertising trackers and
-            no cross-site tracking of any kind.
+            We use two analytics tools, and they behave differently enough that
+            it is worth separating them.
           </p>
           <p>
-            We do count page views, using Vercel Web Analytics. It records the
-            page, the country, and the kind of device and browser. It sets no
-            cookie and stores nothing on your device. To tell one visit from
-            another within a single day it derives a hash from your request and
-            throws it away daily, so there is no identifier that follows you
-            between days, between devices or to any other site. We use it to
-            see which pages people actually reach, and nothing else.
+            <strong>Vercel Web Analytics</strong> records the page, the country,
+            and the kind of device and browser. It sets no cookie and stores
+            nothing on your device. To tell one visit from another within a
+            single day it derives a hash from your request and throws it away
+            daily, so nothing follows you between days, between devices or to
+            any other site.
+          </p>
+          <p>
+            <strong>Google Analytics</strong> does set cookies. Two of them,
+            named <code>_ga</code> and <code>_ga_WDKX62E555</code>, which hold a
+            random identifier for this browser and last up to two years. That
+            identifier is what lets Google count you as one returning visitor
+            rather than several new ones, so unlike the tool above, it does
+            follow you between visits on this device. The data goes to Google
+            and is subject to their terms as well as this policy.
+          </p>
+          <p>
+            What we do not do with it: we run no advertising, we have not turned
+            on Google Signals or ads personalisation, and we do not build
+            profiles or remarketing audiences. Google Analytics does not store
+            your full IP address, and we never send it your name, your message,
+            the amount, or any UPI ID.
+          </p>
+          <p>
+            If you would rather not be counted at all, browser tracking
+            protection, an ad blocker or Google&apos;s own{" "}
+            <a
+              href="https://tools.google.com/dlpage/gaoptout"
+              className="underline underline-offset-2"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              opt-out add-on
+            </a>{" "}
+            all stop it, and nothing on this site breaks if you do. We would
+            rather say this plainly than hide it behind a banner you click to
+            make go away.
           </p>
 
           <h2>Sharing</h2>
