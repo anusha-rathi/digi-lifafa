@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/next";
 import { Yatra_One, Mukta, Martel } from "next/font/google";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
+import { SITE } from "@/lib/site";
 import "./globals.css";
 
 // Display face with real character, Devanagari-native. Body face clean and
@@ -31,6 +32,11 @@ const martel = Martel({
 });
 
 export const metadata: Metadata = {
+  // Without this, every relative OG and canonical URL is resolved against
+  // whatever host served the request, including preview deployments.
+  metadataBase: new URL(SITE),
+  alternates: { canonical: "/" },
+  openGraph: { siteName: "Digi Lifafa", type: "website", locale: "en_IN" },
   title: {
     default: "Digi Lifafa",
     template: "%s · Digi Lifafa",
