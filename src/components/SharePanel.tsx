@@ -29,12 +29,20 @@ export default function SharePanel({
     setCanShare(typeof navigator.share === "function");
   }, [slug]);
 
+  // Title-cased, because the sender types their own name however they like and
+  // "priya, kuch bheja hai" opens the message on a lowercase letter.
+  const who = receiverName.trim().replace(/^\p{L}/u, (c) => c.toUpperCase());
+
+  /* No emoji. U+1F9E7, the red envelope, is missing from the font WhatsApp
+     uses on macOS and rendered as a question-mark box, which is the one thing
+     a message like this cannot afford to look like. The preview card below it
+     already carries the picture. */
   const line =
     lang === "hi"
-      ? `${receiverName}, तुम्हारे लिए कुछ भेजा है 🧧`
+      ? `${who}, तुम्हारे लिए एक लिफ़ाफ़ा भेजा है। खोलकर देखो।`
       : lang === "hn"
-        ? `${receiverName}, kuch bheja hai tumhare liye 🧧`
-        : `${receiverName}, I sent you something 🧧`;
+        ? `${who}, tumhare liye ek lifafa bheja hai. Kholkar dekho.`
+        : `${who}, I have sent you a lifafa. Open it.`;
   // The link goes on its own line. Run together, WhatsApp wraps the URL into
   // the sentence and the whole message reads as one ragged block.
   const msg = `${line}\n${url}`;

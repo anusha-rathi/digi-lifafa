@@ -6,8 +6,21 @@ import { bySlug, markOpened } from "@/lib/db";
 import { COPY } from "@/lib/design";
 import { toEnvelope } from "@/lib/toEnvelope";
 
-// SPEC S9 — individual lifafas must never be indexed.
-export const metadata: Metadata = { robots: { index: false, follow: false } };
+/* SPEC S9: individual lifafas must never be indexed.
+ *
+ * The preview card is deliberately anonymous. WhatsApp and iMessage fetch it
+ * server-side, and a forwarded link would show whatever is in here to whoever
+ * it was forwarded to, so neither name goes in it. What it says instead is the
+ * one thing the receiver needs, rather than the pitch aimed at senders. */
+export const metadata: Metadata = {
+  robots: { index: false, follow: false },
+  title: "A lifafa for you",
+  description: "Someone has sent you a shagun ka lifafa. Tap to open it.",
+  openGraph: {
+    title: "A lifafa for you",
+    description: "Someone has sent you a shagun ka lifafa. Tap to open it.",
+  },
+};
 export const dynamic = "force-dynamic";
 
 export default async function ReceiverPage({
