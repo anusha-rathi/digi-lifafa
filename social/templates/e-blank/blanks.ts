@@ -16,15 +16,17 @@ type Opts = {
   rule: string;
   /** Posts get a drawn border; stories stay plain. */
   border: boolean;
-  /** Flat colour: no jaali, no border, just ground and branding. */
+  /** Flat colour: no jaali. A border can still be drawn over it. */
   plain?: boolean;
+  /** Latin half of the branding. Empty leaves the Devanagari wordmark alone. */
+  latin?: string;
   /** How far up from the bottom the branding sits. */
   markUp: number;
 };
 
 const BRAND = "digi.lifafa &nbsp;|&nbsp; lifafa.cc";
 
-function blank({ id, canvas, ground, mark, rule, border, markUp, plain }: Opts): Template {
+function blank({ id, canvas, ground, mark, rule, border, markUp, plain, latin = BRAND }: Opts): Template {
   return {
     id,
     category: "E. Blank",
@@ -37,7 +39,7 @@ function blank({ id, canvas, ground, mark, rule, border, markUp, plain }: Opts):
         repeating-linear-gradient(45deg, ${rule}22 0 1.5px, transparent 1.5px 30px),
         repeating-linear-gradient(-45deg, ${rule}22 0 1.5px, transparent 1.5px 30px);"></div>`}
 
-      ${border && !plain
+      ${border
         ? `<div style="position:absolute; inset:46px; border:7px solid ${rule};"></div>
            <div style="position:absolute; inset:62px; border:2px solid ${rule}; opacity:.55;"></div>`
         : ""}
@@ -46,9 +48,9 @@ function blank({ id, canvas, ground, mark, rule, border, markUp, plain }: Opts):
                   display:flex; align-items:center; justify-content:center; gap:22px;">
         <span style="font-family:${F.wordmark}; font-size:38px; color:${mark};
                      line-height:1.7;">डिजि लिफ़ाफ़ा</span>
-        <span style="width:2px; height:30px; background:${mark}; opacity:.45;"></span>
+        ${latin ? `<span style="width:2px; height:30px; background:${mark}; opacity:.45;"></span>
         <span style="font-family:${F.body}; font-size:27px; font-weight:600;
-                     letter-spacing:.10em; color:${mark}; opacity:.9;">${BRAND}</span>
+                     letter-spacing:.10em; color:${mark}; opacity:.9;">${latin}</span>` : ""}
       </div>`;
     },
   };
@@ -77,21 +79,35 @@ export const POST_MAROON = blank({
 /* Flat colour. No jaali, no border. Both Instagram post ratios plus the
    story, because "IG post dimensions" covers 4:5 and 1:1 and picking one
    for someone would be a guess. */
-const flat = (id: string, canvas: { w: number; h: number }, dark: boolean, markUp: number) =>
+const flat = (
+  id: string,
+  canvas: { w: number; h: number },
+  dark: boolean,
+  markUp: number,
+  border = false,
+  latin = BRAND,
+) =>
   blank({
     id,
     canvas,
     ground: dark ? C.maroon : C.ivory,
     mark: dark ? C.ivory : C.maroon,
-    rule: dark ? C.foilHi : C.foil,
-    border: false,
+    rule: dark ? C.foilHi : C.maroon,
+    border,
     plain: true,
     markUp,
+    latin,
   });
 
-export const FLAT_POST_BEIGE = flat("f-post45-beige", SIZE.feed, false, 84);
-export const FLAT_POST_MAROON = flat("f-post45-maroon", SIZE.feed, true, 84);
-export const FLAT_SQ_BEIGE = flat("f-post11-beige", SIZE.square, false, 84);
-export const FLAT_SQ_MAROON = flat("f-post11-maroon", SIZE.square, true, 84);
+/* Posts carry a border and drop the Latin "digi.lifafa": the Devanagari
+   wordmark already says the name, so repeating it romanised beside itself
+   was the same word twice. Stories stay plain and keep the handle, since a
+   story is where somebody would go looking for it. */
+const SITE_ONLY = "lifafa.cc";
+
+export const FLAT_POST_BEIGE = flat("f-post45-beige", SIZE.feed, false, 96, true, SITE_ONLY);
+export const FLAT_POST_MAROON = flat("f-post45-maroon", SIZE.feed, true, 96, true, SITE_ONLY);
+export const FLAT_SQ_BEIGE = flat("f-post11-beige", SIZE.square, false, 96, true, SITE_ONLY);
+export const FLAT_SQ_MAROON = flat("f-post11-maroon", SIZE.square, true, 96, true, SITE_ONLY);
 export const FLAT_STORY_BEIGE = flat("f-story-beige", SIZE.story, false, 268);
 export const FLAT_STORY_MAROON = flat("f-story-maroon", SIZE.story, true, 268);
