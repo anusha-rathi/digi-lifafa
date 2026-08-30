@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Martel:wght@400;700;800;900&family=Mukta:wght@300;400;600;700&family=Yatra+One&display=swap">
+  <style>
+    body { margin: 0; }
+    a { color: #7b1e2b; } a:hover { color: #4e0f1a; }
+  </style>
+</helmet>
+
+<div style="width: 1080px; height: 1350px; position: relative; overflow: hidden; background-color: #f4e7cf; font-family: Mukta, system-ui, sans-serif;">
+
+  <div style="position: absolute; inset: 0; opacity: 0.3; mix-blend-mode: multiply; background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='240' height='240' filter='url(%23n)'/%3E%3C/svg%3E&quot;);"></div>
+
+  <div style="position: absolute; left: 50%; top: 470px; width: 940px; height: 940px; transform: translateX(-50%); border-radius: 50%; background: radial-gradient(circle, rgba(224,145,18,0.20) 0%, rgba(224,145,18,0) 68%);"></div>
+
+  <svg viewBox="0 0 1080 1350" style="position: absolute; inset: 0; width: 1080px; height: 1350px;" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <pattern id="oJaali" width="30" height="30" patternUnits="userSpaceOnUse">
+        <path d="M0,30 L30,0 M0,0 L30,30" stroke="#e8c37a" stroke-width="1" opacity="0.20"></path>
+        <circle cx="15" cy="15" r="2" fill="#e8c37a" opacity="0.28"></circle>
+      </pattern>
+      <filter id="oDrop" x="-30%" y="-30%" width="170%" height="170%">
+        <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#3a0d16" flood-opacity="0.28"></feDropShadow>
+      </filter>
+      <radialGradient id="oCoin" cx="0.34" cy="0.28" r="0.85">
+        <stop offset="0" stop-color="#f4dc8c"></stop>
+        <stop offset="0.55" stop-color="#b8912f"></stop>
+        <stop offset="1" stop-color="#8a6b12"></stop>
+      </radialGradient>
+    </defs>
+
+    <g transform="translate(140 560) scale(2.1) rotate(-3)" filter="url(#oDrop)">
+      <path d="M8,260 Q0,260 0,252 L0,74 C0,58 14,44 34,40 C58,35 76,46 92,60 C112,32 148,14 190,14 C232,14 268,32 288,60 C304,46 322,35 346,40 C366,44 380,58 380,74 L380,252 Q380,260 372,260 Z" fill="#a4123f"></path>
+      <path d="M8,260 Q0,260 0,252 L0,74 C0,58 14,44 34,40 C58,35 76,46 92,60 C112,32 148,14 190,14 C232,14 268,32 288,60 C304,46 322,35 346,40 C366,44 380,58 380,74 L380,252 Q380,260 372,260 Z" fill="url(#oJaali)"></path>
+
+      <g transform="translate(56 88) rotate(-9)">
+        <rect x="0" y="0" width="150" height="66" rx="3" fill="#c9d8b0"></rect>
+        <rect x="7" y="7" width="136" height="52" rx="2" fill="none" stroke="#7d8f5f" stroke-width="1.2" opacity="0.7"></rect>
+        <circle cx="34" cy="33" r="14" fill="none" stroke="#7d8f5f" stroke-width="1.4" opacity="0.6"></circle>
+        <text x="112" y="42" text-anchor="middle" font-family="Martel, serif" font-size="26" font-weight="700" fill="#4c5a35">500</text>
+      </g>
+      <g transform="translate(112 74) rotate(4)">
+        <rect x="0" y="0" width="150" height="66" rx="3" fill="#c3b8de"></rect>
+        <rect x="7" y="7" width="136" height="52" rx="2" fill="none" stroke="#6d5f93" stroke-width="1.2" opacity="0.7"></rect>
+        <circle cx="34" cy="33" r="14" fill="none" stroke="#6d5f93" stroke-width="1.4" opacity="0.6"></circle>
+        <text x="112" y="42" text-anchor="middle" font-family="Martel, serif" font-size="26" font-weight="700" fill="#3d3355">100</text>
+      </g>
+      <g transform="translate(176 86) rotate(13)">
+        <rect x="0" y="0" width="150" height="66" rx="3" fill="#f2c07c"></rect>
+        <rect x="7" y="7" width="136" height="52" rx="2" fill="none" stroke="#a5701f" stroke-width="1.2" opacity="0.7"></rect>
+        <circle cx="34" cy="33" r="14" fill="none" stroke="#a5701f" stroke-width="1.4" opacity="0.6"></circle>
+        <text x="112" y="42" text-anchor="middle" font-family="Martel, serif" font-size="26" font-weight="700" fill="#6b3a20">200</text>
+      </g>
+
+      <path d="M0,260 L0,166 C0,152 10,142 26,142 L114,142 C129,142 137,152 146,164 L234,164 C243,152 251,142 266,142 L354,142 C370,142 380,152 380,166 L380,260 Z" fill="#8d0f36"></path>
+      <path d="M0,260 L0,166 C0,152 10,142 26,142 L114,142 C129,142 137,152 146,164 L234,164 C243,152 251,142 266,142 L354,142 C370,142 380,152 380,166 L380,260 Z" fill="url(#oJaali)"></path>
+      <path d="M14,246 L14,182 C14,174 20,168 28,168 L352,168 C360,168 366,174 366,182 L366,246 C366,252 360,258 352,258 L28,258 C20,258 14,252 14,246 Z" fill="none" stroke="#e8c37a" stroke-width="2.4" opacity="0.85"></path>
+      <path d="M190,196 C174,214 174,234 190,250 C206,234 206,214 190,196 Z" fill="#e8c37a" opacity="0.55"></path>
+    </g>
+
+    <g transform="translate(878 588)">
+      <circle r="52" fill="url(#oCoin)"></circle>
+      <circle r="52" fill="none" stroke="#8a6b12" stroke-width="2.4" opacity="0.65"></circle>
+      <circle r="42" fill="none" stroke="#8a6b12" stroke-width="1.4" opacity="0.45"></circle>
+      <text y="16" text-anchor="middle" font-family="Martel, serif" font-size="42" font-weight="700" fill="#8a6b12" opacity="0.9">₹1</text>
+    </g>
+  </svg>
+
+  <div style="position: absolute; left: 80px; top: 80px; right: 80px; display: flex; flex-direction: column; gap: 26px;">
+    <div style="font-family: Mukta, sans-serif; font-size: 28px; font-weight: 600; letter-spacing: 0.26em; text-transform: uppercase; color: #0f6e5c;">shaadi ke baad</div>
+    <div style="font-family: Martel, serif; font-weight: 800; font-size: 86px; line-height: 1.06; color: #4a121c; max-width: 900px; text-wrap: pretty;">mehmaan gaye.<br>darwaza band hua.</div>
+    <div style="font-family: Mukta, sans-serif; font-size: 44px; line-height: 1.36; color: #7d5a52; max-width: 820px; text-wrap: pretty;">mummy ne lifafe nikale. asli function ab shuru hua.</div>
+  </div>
+
+  <div style="position: absolute; left: 0; right: 0; bottom: 0; height: 110px; display: flex; align-items: center; justify-content: space-between; padding: 0 80px; border-top: 3px solid #e2cfab;">
+    <span style="font-family: 'Yatra One', Georgia, serif; font-size: 44px; color: #7b1e2b; line-height: 1.7;">डिजि लिफ़ाफ़ा</span>
+    <span style="font-family: Mukta, sans-serif; font-size: 28px; color: #a08b81; letter-spacing: 0.06em;">@digi.lifafa</span>
+  </div>
+
+</div>
+</x-dc>
+<script data-dc-script data-props='{}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

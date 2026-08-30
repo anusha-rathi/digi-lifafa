@@ -1,0 +1,11 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1080, "h": 1350, "title": "A. Type-led" },
+    { "file": "ObjectLed.dc.html", "x": 1180, "y": 0, "w": 1080, "h": 1350, "title": "B. Object-led" },
+    { "file": "NightEditorial.dc.html", "x": 2360, "y": 0, "w": 1080, "h": 1350, "title": "C. Night editorial" }
+  ],
+  "annotations": [
+    { "id": "brief", "x": 0, "y": -230, "w": 700, "text": "Three directions, same brand.\nAll 1080x1350. Palette, type and the envelope shape come from the app itself.\nPick one and I will build the other 49 templates on it." }
+  ],
+  "launch": { "view": "canvas" }
+}

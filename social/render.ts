@@ -22,7 +22,9 @@ async function collect(): Promise<Template[]> {
     const catDir = join(dir, cat);
     for (const f of readdirSync(catDir).filter((f) => f.endsWith(".ts"))) {
       const mod = await import(pathToFileURL(join(catDir, f)).href);
-      found.push(mod.default as Template);
+      // Shared modules in a category folder have no default export. They are
+      // library, not artboards, so skip rather than crash on mod.default.id.
+      if (mod.default?.id) found.push(mod.default as Template);
     }
   }
   return found.sort((a, b) => a.id.localeCompare(b.id));
