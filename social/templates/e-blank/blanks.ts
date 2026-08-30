@@ -99,20 +99,14 @@ const flat = (
     latin,
   });
 
-/* Posts carry a border and drop the Latin "digi.lifafa": the Devanagari
-   wordmark already says the name, so repeating it romanised beside itself
-   was the same word twice. Stories stay plain and keep the handle, since a
-   story is where somebody would go looking for it. */
+/* No borders anywhere. Flat ground, the Devanagari wordmark and the site,
+   nothing else. The romanised handle is gone because the wordmark beside it
+   is the same name in the other script. */
 const SITE_ONLY = "lifafa.cc";
 
-export const FLAT_POST_BEIGE = flat("f-post45-beige", SIZE.feed, false, 96, true, SITE_ONLY);
-export const FLAT_POST_MAROON = flat("f-post45-maroon", SIZE.feed, true, 96, true, SITE_ONLY);
-export const FLAT_SQ_BEIGE = flat("f-post11-beige", SIZE.square, false, 96, true, SITE_ONLY);
-export const FLAT_SQ_MAROON = flat("f-post11-maroon", SIZE.square, true, 96, true, SITE_ONLY);
-/* Stories in both states, same branding as the posts either way. The plain
-   pair is for reel covers, where a border fights whatever gets laid over it;
-   the bordered pair matches the feed posts. */
-export const FLAT_STORY_BEIGE = flat("f-story-beige-plain", SIZE.story, false, 268, false, SITE_ONLY);
-export const FLAT_STORY_MAROON = flat("f-story-maroon-plain", SIZE.story, true, 268, false, SITE_ONLY);
-export const BORD_STORY_BEIGE = flat("f-story-beige-bordered", SIZE.story, false, 268, true, SITE_ONLY);
-export const BORD_STORY_MAROON = flat("f-story-maroon-bordered", SIZE.story, true, 268, true, SITE_ONLY);
+export const FLAT_POST_BEIGE = flat("f-post45-beige", SIZE.feed, false, 96, false, SITE_ONLY);
+export const FLAT_POST_MAROON = flat("f-post45-maroon", SIZE.feed, true, 96, false, SITE_ONLY);
+export const FLAT_SQ_BEIGE = flat("f-post11-beige", SIZE.square, false, 96, false, SITE_ONLY);
+export const FLAT_SQ_MAROON = flat("f-post11-maroon", SIZE.square, true, 96, false, SITE_ONLY);
+export const FLAT_STORY_BEIGE = flat("f-story-beige", SIZE.story, false, 268, false, SITE_ONLY);
+export const FLAT_STORY_MAROON = flat("f-story-maroon", SIZE.story, true, 268, false, SITE_ONLY);
