@@ -46,7 +46,9 @@ export const F = {
 
 /** 1080-wide canvas. Every number here is in those pixels. */
 export const SIZE = {
+  /** Instagram's two post ratios: 4:5 portrait and 1:1 square. */
   feed: { w: 1080, h: 1350 },
+  square: { w: 1080, h: 1080 },
   story: { w: 1080, h: 1920 },
 } as const;
 

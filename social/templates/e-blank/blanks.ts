@@ -16,13 +16,15 @@ type Opts = {
   rule: string;
   /** Posts get a drawn border; stories stay plain. */
   border: boolean;
+  /** Flat colour: no jaali, no border, just ground and branding. */
+  plain?: boolean;
   /** How far up from the bottom the branding sits. */
   markUp: number;
 };
 
 const BRAND = "digi.lifafa &nbsp;|&nbsp; lifafa.cc";
 
-function blank({ id, canvas, ground, mark, rule, border, markUp }: Opts): Template {
+function blank({ id, canvas, ground, mark, rule, border, markUp, plain }: Opts): Template {
   return {
     id,
     category: "E. Blank",
@@ -31,11 +33,11 @@ function blank({ id, canvas, ground, mark, rule, border, markUp }: Opts): Templa
       return `
       <div class="stage" style="background:${ground};"></div>
 
-      <div class="stage" style="opacity:.5; background-image:
+      ${plain ? "" : `<div class="stage" style="opacity:.5; background-image:
         repeating-linear-gradient(45deg, ${rule}22 0 1.5px, transparent 1.5px 30px),
-        repeating-linear-gradient(-45deg, ${rule}22 0 1.5px, transparent 1.5px 30px);"></div>
+        repeating-linear-gradient(-45deg, ${rule}22 0 1.5px, transparent 1.5px 30px);"></div>`}
 
-      ${border
+      ${border && !plain
         ? `<div style="position:absolute; inset:46px; border:7px solid ${rule};"></div>
            <div style="position:absolute; inset:62px; border:2px solid ${rule}; opacity:.55;"></div>`
         : ""}
@@ -71,3 +73,25 @@ export const POST_MAROON = blank({
   id: "e-post-maroon", canvas: SIZE.feed, ground: C.maroon,
   mark: C.ivory, rule: C.foilHi, border: true, markUp: 96,
 });
+
+/* Flat colour. No jaali, no border. Both Instagram post ratios plus the
+   story, because "IG post dimensions" covers 4:5 and 1:1 and picking one
+   for someone would be a guess. */
+const flat = (id: string, canvas: { w: number; h: number }, dark: boolean, markUp: number) =>
+  blank({
+    id,
+    canvas,
+    ground: dark ? C.maroon : C.ivory,
+    mark: dark ? C.ivory : C.maroon,
+    rule: dark ? C.foilHi : C.foil,
+    border: false,
+    plain: true,
+    markUp,
+  });
+
+export const FLAT_POST_BEIGE = flat("f-post45-beige", SIZE.feed, false, 84);
+export const FLAT_POST_MAROON = flat("f-post45-maroon", SIZE.feed, true, 84);
+export const FLAT_SQ_BEIGE = flat("f-post11-beige", SIZE.square, false, 84);
+export const FLAT_SQ_MAROON = flat("f-post11-maroon", SIZE.square, true, 84);
+export const FLAT_STORY_BEIGE = flat("f-story-beige", SIZE.story, false, 268);
+export const FLAT_STORY_MAROON = flat("f-story-maroon", SIZE.story, true, 268);

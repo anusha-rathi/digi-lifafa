@@ -1,0 +1,1 @@
+export { FLAT_STORY_MAROON as default } from "./blanks.ts";
