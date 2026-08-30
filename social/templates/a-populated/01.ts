@@ -28,14 +28,13 @@ export default {
 
     return `
     <svg class="stage" viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
-      <!-- The cluster sits in the lower half and stays clear of the footer
-           band, which the first render did not: a lifafa landed on top of the
-           wordmark and a coin on top of the handle. -->
-      ${Lifafa({ w: 400, x: -50, y: 760, rotate: tilt(rnd, 9) - 8, body: C.peacock, line: C.foilHi })}
-      ${Lifafa({ w: 300, x: 300, y: 998, rotate: tilt(rnd, 8) + 5, body: C.rani })}
-      ${Lifafa({ w: 420, x: 585, y: 800, rotate: tilt(rnd, 9) + 7, body: C.marigold, line: "#5c3a06", outline: "#5c3a06" })}
-      ${Coin({ x: 300, y: 800, r: 42, rotate: tilt(rnd, 16) })}
-      ${Coin({ x: 966, y: 1148, r: 28, rotate: tilt(rnd, 16) })}
+      <!-- Overlapping, tilted, filling the lower band. The cluster stays
+           clear of the footer strip. -->
+      ${Lifafa({ w: 430, x: 46, y: 762, rotate: tilt(rnd, 6) - 6, paper: C.peacock, ink: "#e6cf9a" })}
+      ${Lifafa({ w: 470, x: 548, y: 830, rotate: tilt(rnd, 6) + 5, paper: C.marigold, ink: "#5f3b06" })}
+      ${Lifafa({ w: 390, x: 268, y: 986, rotate: tilt(rnd, 5) + 2, paper: C.rani })}
+      ${Coin({ x: 512, y: 800, r: 38, rotate: tilt(rnd, 20) })}
+      ${Coin({ x: 208, y: 1092, r: 25, rotate: tilt(rnd, 20) })}
     </svg>
 
     <div class="safe" style="display:flex; flex-direction:column;">
