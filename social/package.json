@@ -1,0 +1,15 @@
+{
+  "name": "digi-lifafa-social",
+  "private": true,
+  "type": "module",
+  "description": "Renders the Instagram assets. Never imported by the app.",
+  "scripts": {
+    "render": "tsx render.ts",
+    "preview": "open preview/index.html"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1",
+    "sharp": "^0.35.4",
+    "tsx": "^4.23.13"
+  }
+}
