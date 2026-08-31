@@ -1,0 +1,9 @@
+# social/ is the Instagram asset factory. It is its own package, it renders
+# PNGs on a laptop, and the deployed site never imports a line of it.
+#
+# Left in, Vercel finds social/package.json and installs its devDependencies,
+# which include Playwright. Playwright's postinstall downloads a browser, and
+# the build fails. Nothing in here belongs in a deployment.
+social/
+research/
+SOCIAL.md
