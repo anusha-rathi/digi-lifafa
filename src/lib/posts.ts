@@ -99,7 +99,7 @@ export const POSTS: Post[] = [
 
       { h: "The pandal donation, which is its own thing" },
       {
-        p: "If your street or building has a sarvajanik Ganpati, somebody will come round with a receipt book. Ranges vary enormously by city and by how elaborate the mandal is, but as a rough map for a residential building or lane collection: ₹501 to ₹2,101 per household is common, and larger mandals in Mumbai and Pune run considerably higher.",
+        p: "If your street or building has a sarvajanik Ganpati, somebody will come round with a receipt book. Ranges vary enormously by city and by how elaborate the mandal is, but as a rough map for a residential building or lane collection: ₹501 to ₹2,100 per household is common, and larger mandals in Mumbai and Pune run considerably higher.",
       },
       {
         p: "Two things worth knowing. Ask for the receipt, always, and keep it: registered mandals issue them and it is the normal, expected thing to do rather than a sign of distrust. And a mandal collection is a donation, not shagun, so the one-rupee rule does not apply. A flat ₹1,000 is perfectly correct here.",
@@ -107,7 +107,7 @@ export const POSTS: Post[] = [
 
       { h: "Why the odd rupee, when it does apply" },
       {
-        p: "Anywhere you are giving to a person rather than a collection, the amount ends in one. ₹101, ₹251, ₹501, ₹1,101.",
+        p: "Anywhere you are giving to a person rather than a collection, the total ends in one. ₹101, ₹251 and ₹501 carry it in the number. ₹1,100 and ₹2,100 get it from the coin on the envelope.",
       },
       {
         p: "The usual explanation is good luck, which is true but incomplete. A number ending in one cannot be halved. ₹500 splits into two ₹250s and the account closes; ₹501 does not, so it stays open, which is the point of giving in the first place.",
@@ -139,10 +139,305 @@ export const POSTS: Post[] = [
 
       { h: "So what should you give?" },
       {
-        p: "Visiting a house with Ganpati: take modak or flowers, give ₹101 to ₹251 to the children, and remember whoever has been cooking for ten days. Your building's mandal: ₹501 to ₹2,101, take the receipt, and a round number is fine there. A family installing for the first time: treat it like a housewarming and give ₹1,101.",
+        p: "Visiting a house with Ganpati: take modak or flowers, give ₹101 to ₹251 to the children, and remember whoever has been cooking for ten days. Your building's mandal: ₹501 to ₹2,100, take the receipt, and a round number is fine there. A family installing for the first time: treat it like a housewarming and give ₹1,100.",
       },
       {
         p: "And if the whole thing is somebody else's family and you genuinely do not know: ask them. “What do people usually do?” is not a failure of preparation at a festival built entirely on visiting each other's houses. It is the correct question, and the answer is almost always “just come”.",
+      },
+    ],
+  },
+  {
+    slug: "married-into-an-indian-family",
+    title:
+      "Married into an Indian family: what to give, what to wear, and what nobody will tell you",
+    date: "2026-08-31",
+    updated: "31 August 2026",
+    tag: "How it works",
+    excerpt:
+      "You are the one person in the room who was not raised on this. A festival-by-festival guide to gifting and dressing, written for someone who keeps being told not to worry about it.",
+    body: [
+      {
+        p: "The thing nobody warns you about is not the ceremony. It is the three months afterwards, when a festival turns up roughly every fortnight and each one has a thing you are supposed to bring, wear or say, and everybody assumes you already know because you have been here a year now.",
+      },
+      {
+        p: "And when you ask, you get told not to worry about it. Which is kind, and useless, because the whole reason you asked is that you have noticed everybody else is doing something specific.",
+      },
+      {
+        p: "So this is the specific version. Written for the person marrying in, or married in, who wants to get it right rather than be reassured.",
+      },
+
+      { h: "The one rule that fixes half of it" },
+      {
+        p: "Ask which family, and which region. Not what do Indians do.",
+      },
+      {
+        p: "Almost every confident piece of advice about Indian custom online is one region's practice sold as national. Never wear white is a north Indian rule, and in Kerala the bridal saree is cream with a gold border, in Bengal it is red and white, and a Parsi bride wears white outright. Never give four of something is not Indian at all, it is Chinese, and it has leaked into etiquette listicles.",
+      },
+      {
+        p: "Your in-laws are one household in one community in one region. What they do is what is correct for you, and asking is not a failure. It is the only reliable method.",
+      },
+
+      { h: "Money" },
+      {
+        p: "Cash is not impersonal here. That is the single biggest adjustment for anyone from a Western gifting culture, where money says I could not be bothered to think. In India money is the useful, expected, generous thing, and a wrapped present in its place reads as if you did not know the form.",
+      },
+      {
+        p: "The total ends in a one. Small amounts carry it themselves: ₹101, ₹251, ₹501. Bigger ones do not, and this is the part that trips people up. You give ₹1,100 or ₹2,100 or ₹5,100, and the one-rupee coin already stuck to the front of the envelope makes the total ₹1,101. Buy the envelope with the coin on it and the arithmetic happens for you.",
+      },
+      {
+        p: "Even totals are condolence money. ₹500 flat, ₹1,000 flat, are what you take to a house in mourning, and in that case you also leave the coin off. Not because even is unlucky, but because even reads as complete, and completeness is right for a death and wrong for everything else.",
+      },
+      {
+        note: "If you take one thing from this page: at a wedding, add the rupee. At a funeral, take it off.",
+      },
+
+      { h: "Festival by festival" },
+      { h3: "Diwali" },
+      {
+        p: "The big one. Mithai or dry fruit to anyone whose house you enter, and cash to children and to anyone who works for the household. Kaju katli is the safe box and a respectable one is ₹500 to ₹1,600.",
+      },
+      {
+        p: "Wear colour. Anything jewel-toned, and this is the festival where dressing up is unambiguously welcome.",
+      },
+      { h3: "Holi" },
+      {
+        p: "Bring colours if you are hosting or arriving somewhere colours are happening. Wear white, and this is the one occasion where white is not only fine but the point, because it shows the colour.",
+      },
+      {
+        p: "Wear clothes you will never wear again. People will tell you the colour washes out. It does not, entirely.",
+      },
+      { h3: "Raksha Bandhan" },
+      {
+        p: "If you are a man who has married in, you will acquire sisters, and they will tie a thread on your wrist. You give money back. That is the whole transaction and it goes one way: sister ties, brother pays.",
+      },
+      {
+        p: "₹501 or ₹1,100 depending on age and closeness. If you are a woman marrying in, your husband's sisters may tie one on him and you are a bystander, which is normal.",
+      },
+      { h3: "Eid" },
+      {
+        p: "Eidi, and specifically crisp new notes, to every child in the house. Get them from a bank a few days early, because everybody wants new notes at the same time and the branch runs out.",
+      },
+      { h3: "Ganesh Chaturthi" },
+      {
+        p: "Modak if you can get them. If there is a pandal collection, that is a donation and not shagun, so a flat ₹1,000 is correct and you should take the receipt.",
+      },
+      { h3: "Onam" },
+      {
+        p: "Do not bring an envelope. Onam gifting runs on cloth, the Onakkodi, and it goes from elders to younger, given on Thiruvonam morning. An envelope is a north Indian instinct and it will land oddly in a Malayali house.",
+      },
+      { h3: "A new house, a new baby, a new car, a new job" },
+      {
+        p: "All of these get shagun, and this is the part that surprises people most. It is not only the big life events. A new car gets a nimbu-mirchi on the bumper and money from whoever comes to see it.",
+      },
+      {
+        p: "Griha pravesh takes plants, kitchen things, or something for the house. A new baby takes money to the baby, which the mother will take, which is correct.",
+      },
+
+      { h: "What to wear" },
+      {
+        p: "You will be told, enthusiastically, to wear Indian clothes. Worth knowing that almost every page saying so sells or rents Indian clothes, and I could not find a single dissenting voice online, which is not the same as there being none.",
+      },
+      {
+        p: "The defensible version, and the one people who have actually been through it give: you were invited. Dressing for the occasion is participation. And it is never required, so a bright Western outfit in a festive cut is entirely correct and nobody will think anything of it.",
+      },
+      {
+        p: "The colours to avoid at a wedding are red, which is the bride's, and white and black in north Indian Hindu contexts. Jewel tones are the no-fail default. And ask about white, because in Kerala, Bengal and Parsi weddings that rule does not hold.",
+      },
+      { h3: "Haldi, which has a real rule" },
+      {
+        p: "Wear something you are willing to destroy. Turmeric stains permanently and it goes much further than you expect.",
+      },
+      {
+        p: "Yellow, orange or green, because they hide it. Cotton, because turmeric comes out of cotton better than anything else. Nothing embellished, because you cannot clean it. Flat shoes, because it is outdoors. A yellow kurta with jeans is completely fine for a casual one, which is the most reassuring specific thing I can tell a nervous man.",
+      },
+      {
+        p: "Honest gap: the entire dress-advice industry writes for women. For a non-Indian man at a wedding, sangeet or home puja there is almost nothing published, and what there is comes from shops. Ask your husband or wife what their father is wearing and do that.",
+      },
+
+      { h: "Things you may have read that are wrong" },
+      {
+        ul: [
+          "Fruit reads as a hospital visit. It does not. Fruit is a completely normal gift for an ordinary social visit and the hesitation is imported.",
+          "Never give sets of four. Not an Indian belief. Where Indian sources are wary of numbers they name eight and seventeen, both ruled by Saturn. Thirteen is auspicious here.",
+          "Never wear white. North Indian Hindu, not universal. See Kerala, Bengal, the Parsis.",
+          "Always be punctual. Arriving fifteen to thirty minutes after the stated time is normal for a home invitation. Turning up exactly on time can catch a host mid-shower.",
+        ],
+      },
+      {
+        p: "Two that do hold, and are worth more than the folklore: shoes come off at the door, and ask before bringing alcohol, because a lot of households are dry and two states are.",
+      },
+
+      { h: "The thing nobody will say to you" },
+      {
+        p: "You will get things wrong, in front of people, and somebody will find it funny. That is not the same as being unwelcome and it is worth learning to tell them apart early, because a family that teases you is a family that has stopped treating you as a guest.",
+      },
+      {
+        p: "The one that actually causes offence is not a wrong colour or a wrong number. It is not showing up. Everything else gets absorbed.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "Is it cultural appropriation for me to wear a saree or a sherwani?",
+            a: "Every published source says no, you were invited, please do. It is worth knowing that nearly all of them sell Indian clothes, so weigh it yourself. It is also never required: a bright Western outfit in a festive cut is completely correct and raises no eyebrows.",
+          },
+          {
+            q: "Why is everyone giving money instead of presents?",
+            a: "Because cash is not impersonal in India the way it is in the West. It is useful, it is expected, and it spares a couple their fourth toaster. A present instead of an envelope reads as though you did not know the form. A present alongside a smaller envelope reads warmly.",
+          },
+          {
+            q: "How much do I give my husband's cousin at her wedding?",
+            a: "As an in-law rather than a guest you are giving on the family's side, so ask what the household is giving and match it. Turning up with a colleague-sized envelope when your in-laws have given ten times that is the awkward outcome, and it is entirely avoidable by asking.",
+          },
+          {
+            q: "Do I have to fast?",
+            a: "No. Nobody keeping a fast expects a person who married in to keep it, and plenty of people born into it do not either. If you want to, say so beforehand rather than announcing it on the day, because someone will want to feed you.",
+          },
+          {
+            q: "What do I bring the first time I visit their house?",
+            a: "A box of mithai or dry fruit, given with both hands or the right hand. It will probably not be opened in front of you, which is normal and not a snub. Take your shoes off at the door.",
+          },
+          {
+            q: "I have been told not to worry about it. Should I worry about it?",
+            a: "No, but ask anyway. Not worrying is good advice about the consequences and bad advice about the method. The people telling you not to worry learned all of this by osmosis over thirty years and genuinely cannot remember being taught it.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "sending-shagun-from-abroad",
+    title:
+      "Sending shagun from abroad: what actually reaches them, and what to send instead of a transfer",
+    date: "2026-08-31",
+    updated: "31 August 2026",
+    tag: "How it works",
+    excerpt:
+      "You are not going to make it to the wedding. Here is how the money should travel, what it costs, what the amount means at the other end, and the part a bank transfer cannot do.",
+    body: [
+      {
+        p: "You found out about the wedding six weeks ago and you are not going to make it. Flights are what they are, leave is what it is, and the date is a Tuesday.",
+      },
+      {
+        p: "So you will send money. And somewhere between your banking app and your cousin's account, the thing you meant to do stops being shagun and turns into a transfer, and everybody involved feels vaguely that something has gone missing without being able to name it.",
+      },
+      {
+        p: "This page is about what actually goes missing, and what to do about it.",
+      },
+
+      { h: "The amount, and what it means at the other end" },
+      {
+        p: "Convert first, then think in rupees. Not the other way round.",
+      },
+      {
+        table: {
+          head: ["You send", "USD", "GBP"],
+          rows: [
+            ["₹501", "$5.24", "£3.87"],
+            ["₹1,100", "$11.52", "£8.51"],
+            ["₹2,100", "$21.98", "£16.25"],
+            ["₹5,100", "$53.37", "£39.45"],
+            ["₹11,000", "$115.08", "£85.06"],
+            ["₹21,000", "$219.70", "£162.39"],
+          ],
+        },
+      },
+      {
+        note: "Rates as at 31 August 2026: ₹1 = $0.0105 = £0.0077, checked against two independent providers agreeing to within 0.2 percent. They will have moved by the time you read this.",
+      },
+      {
+        p: "Fifty-three dollars is not a useful number. Here is what ₹5,100 actually is at the other end: about a fortnight of part-time domestic wages in Delhi, or seven sleeper-class tickets from Delhi to Mumbai, or twenty restaurant thalis.",
+      },
+      {
+        p: "Which matters in both directions. The diaspora default of $101 per person, which is the figure people abroad name as safe, is close to ₹9,700 and lands at the top of the close-family band. That is not wrong. But if you are giving it to a second cousin you should know you are giving at family level, not at guest level.",
+      },
+      {
+        p: "There is also a real split people notice: the same person will give $200 at a wedding in New Jersey and ₹2,100 at a wedding in Jaipur. Both are normal. You are giving into the local economy, not converting your own norm.",
+      },
+
+      { h: "Ends in a one, and here is where people get it wrong" },
+      {
+        p: "Under about five hundred, the number carries the one itself. ₹101, ₹251, ₹501.",
+      },
+      {
+        p: "Above that, it does not. You give ₹1,100, ₹2,100, ₹5,100, ₹11,000. Those are the numbers. What makes the total odd is the one-rupee coin stuck to the front of the lifafa, which turns ₹1,100 into ₹1,101.",
+      },
+      {
+        p: "Which is a problem when you are eight thousand kilometres away, because there is no envelope and no coin. So the honest options are to send the round figure and let somebody at that end put it in a lifafa, or to send the odd total and have it be slightly unusual but unambiguous. Both happen. Nobody is going to be upset.",
+      },
+      {
+        p: "And in dollars, keep the habit: $101, $201, $501. It transfers.",
+      },
+
+      { h: "How to actually move it" },
+      {
+        p: "Four routes, and they are not equivalent.",
+      },
+      {
+        ul: [
+          "A remittance service, Wise or Remitly or similar. Best rate, arrives in a day or two, and you will pay a small fee rather than a hidden spread. This is the default and there is rarely a reason not to use it.",
+          "Your bank's international transfer. Slower, worse rate, higher fee, and the money often arrives with the exchange loss baked in so nobody sees it. Use it if you already have the relationship set up and the amount is large.",
+          "Sending it to a relative in India who then hands over cash in an envelope. This is the one that preserves the gesture, and it is what most people actually do.",
+          "UPI, if you have an Indian bank account and an Indian number still working. Instant and free, and increasingly the way it happens.",
+        ],
+      },
+      {
+        p: "One thing to know about the receiving end: money from a relative abroad is not taxable in India, at any amount, if you are a relative as the Income Tax Act defines it. That list is narrower than the word usually is. Cousins are not on it, and neither are nephews or nieces. That matters only above ₹50,000 in a financial year from everyone outside the list combined, which most shagun is nowhere near, but it is worth knowing before you send a large one.",
+      },
+
+      { h: "The part a transfer cannot do" },
+      {
+        p: "Here is what is actually missing, and it is not sentiment.",
+      },
+      {
+        p: "At an Indian wedding somebody is keeping a record. In Tamil Nadu it is explicit, a register at the door where a person writes your name, your town and the amount. In Punjab it is vartan bhanji and there is a written record. In Rajasthan it is neota, and those books get kept across generations.",
+      },
+      {
+        p: "A bank transfer arrives with your bank's version of your name and nothing else. No town, no relationship, no note. Six weeks later, when a family member sits down to reconcile who gave what, you are a line in a statement that somebody has to work out.",
+      },
+      {
+        p: "So whatever route you use, send a message separately that says what the money is for, who it is from, and where you are. Same information the register wants. It takes fifteen seconds and it is the difference between being recorded and being deciphered.",
+      },
+      {
+        p: "The second thing missing is the object. Shagun is an envelope somebody puts into a hand. A notification is not that, which is most of the reason this site exists, so take that as disclosure rather than a pitch.",
+      },
+
+      { h: "Timing" },
+      {
+        p: "Before the event, not after. This is the one that actually gets noticed.",
+      },
+      {
+        p: "For a wedding, a few days ahead so it can go in the book with everything else. For a festival, before the day rather than on it, because the day itself is busy and a transfer landing at 9pm on Diwali is competing with a lot.",
+      },
+      {
+        p: "If you are late, send it anyway. Late shagun is a normal thing. Nothing is remembered as badly as nothing.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "What is the cheapest way to send shagun to India?",
+            a: "A remittance service like Wise or Remitly, which will beat a bank on both rate and fee for small amounts. If you still hold an Indian bank account, UPI is instant and free. A bank wire is the most expensive route and the loss is usually hidden in the rate rather than shown as a fee.",
+          },
+          {
+            q: "Will they have to pay tax on it?",
+            a: "Not if you are a relative as the Income Tax Act defines that, which is narrower than the everyday word and excludes cousins, nephews and nieces. Even then it only bites above ₹50,000 in a financial year from everyone outside that list combined, which ordinary shagun does not approach.",
+          },
+          {
+            q: "Should I send a round number or one ending in one?",
+            a: "In India you would give ₹1,100 and let the coin on the envelope make it ₹1,101. Sending directly there is no envelope, so either send the round figure and let someone put it in a lifafa, or send the odd total. Both are fine. In dollars, keep the habit: $101, $201, $501.",
+          },
+          {
+            q: "How much do I give if I am not attending?",
+            a: "The same as you would if you were. Not attending is not a discount, and if anything people are more generous when they cannot come. What matters more is that it arrives before the event and that it is clear who it is from.",
+          },
+          {
+            q: "Is it rude to send money instead of coming?",
+            a: "No. What people mind is silence. An envelope that arrives on time from someone who could not travel is completely normal and always has been, which is the whole reason shagun works by post in the first place.",
+          },
+        ],
       },
     ],
   },
@@ -182,7 +477,16 @@ export const POSTS: Post[] = [
 
       { h: "The extra rupee" },
       {
-        p: "The amount is never round. It is 101, or 501, or 1,101, or 5,101. There is a one on the end, and there is very often an actual one-rupee coin stuck to the front of the envelope, which is what makes 500 into 501.",
+        p: "The total is never round, and there are two different ways it gets there, which is the bit that confuses people.",
+      },
+      {
+        p: "Small amounts carry the one inside the number. ₹101, ₹201, ₹251, ₹501. You count out that exact figure and you are done.",
+      },
+      {
+        p: "Larger ones do not. You put ₹1,100 in, or ₹2,100, or ₹5,100, or ₹11,000, and those are the numbers people say out loud. What makes the total odd is the one-rupee coin already stuck to the front of a traditional lifafa. ₹1,100 plus the coin is ₹1,101.",
+      },
+      {
+        p: "So the coin is not a decoration and it is not a bonus. It is doing the arithmetic, and it is the reason nobody counts out ₹1,101 in notes. Buy the envelope with the coin on it and the sum comes out right on its own.",
       },
       {
         p: "Everybody in India knows this and almost nobody agrees on why. Here are the explanations people actually give.",
@@ -199,6 +503,20 @@ export const POSTS: Post[] = [
       },
       {
         p: "Take that list as a list. There is no single correct answer and anyone who tells you there is has read one article. Which brings up something worth knowing about the sourcing.",
+      },
+      {
+        table: {
+          head: ["What you put in", "The coin", "The total"],
+          rows: [
+            ["₹101", "already in the number", "₹101"],
+            ["₹251", "already in the number", "₹251"],
+            ["₹501", "already in the number", "₹501"],
+            ["₹1,100", "on the envelope", "₹1,101"],
+            ["₹2,100", "on the envelope", "₹2,101"],
+            ["₹5,100", "on the envelope", "₹5,101"],
+            ["₹11,000", "on the envelope", "₹11,001"],
+          ],
+        },
       },
       {
         note: "Most of the English-language internet on this traces to one wire story, published in March 2024 with no byline, no named expert and no region. It runs on The Tribune, India New England, Gujarat Samachar and Prokerala under different headlines. Four pages, one source.",
@@ -244,7 +562,7 @@ export const POSTS: Post[] = [
         p: "If you are giving in dollars from abroad the ladder is different and much higher against local incomes: fifty to a hundred for a colleague, seventy-five to two hundred for a close friend, and $101 is the number people name as the safe default. Note that it ends in one too.",
       },
       {
-        p: "There is a second rule underneath the first, and it is the one that actually governs. Whatever that family gave at your last function is the floor for what you give at theirs. If they put ₹5,001 in at your daughter's wedding, ₹1,101 at their son's is a step down and it will be noticed. In north India this is unwritten. In Tamil Nadu it is written down, in a book, by a man at the door.",
+        p: "There is a second rule underneath the first, and it is the one that actually governs. Whatever that family gave at your last function is the floor for what you give at theirs. If they put ₹5,000 in at your daughter's wedding, ₹1,100 at their son's is a step down and it will be noticed. In north India this is unwritten. In Tamil Nadu it is written down, in a book, by a man at the door.",
       },
 
       { h: "Moi, and the register at the door" },
@@ -268,9 +586,9 @@ export const POSTS: Post[] = [
           rows: [
             ["₹251", "$2.63", "£1.94"],
             ["₹501", "$5.24", "£3.87"],
-            ["₹1,101", "$11.52", "£8.51"],
-            ["₹2,101", "$21.98", "£16.25"],
-            ["₹5,101", "$53.37", "£39.45"],
+            ["₹1,100", "$11.52", "£8.51"],
+            ["₹2,100", "$21.98", "£16.25"],
+            ["₹5,100", "$53.37", "£39.45"],
             ["₹11,000", "$115.08", "£85.06"],
             ["₹21,000", "$219.70", "£162.39"],
           ],
@@ -353,7 +671,7 @@ export const POSTS: Post[] = [
           },
           {
             q: "Why does it have to end in a one?",
-            a: "Because a round number reads as complete, and complete is what you want at a funeral rather than a wedding. Even amounts are condolence money. The one rupee keeps the sum open, and people give at least six different reasons for it, none of which is more official than the others.",
+            a: "Because a round total reads as complete, and complete is what you want at a funeral rather than a wedding. Note it is the total, not the notes: you hand over ₹1,100 and the coin already on the envelope makes it ₹1,101. Only the small amounts, ₹101 and ₹501, carry the one themselves.",
           },
           {
             q: "Do I have to use an actual envelope?",
@@ -534,7 +852,7 @@ export const POSTS: Post[] = [
         p: "So the version that works from another city, or another country, is not complicated. Send the ghevar if you can get it sent. Send the bangles. And send the money as its own thing rather than folded into the mithai order, because the mithai is a present and the cash is shagun and they are doing different jobs.",
       },
       {
-        p: "Ends in a one, as always. 501, 1,101, 2,101.",
+        p: "Ends in a one, as always. ₹501 on its own, or ₹1,100 with the coin on the envelope making it ₹1,101.",
       },
 
       { h: "Questions people ask" },
@@ -852,7 +1170,7 @@ export const POSTS: Post[] = [
         p: "Sindhara, the ghevar and gujiya and cash a mother sends her married daughter, belongs to Hariyali Teej and to Sawan. It is written up separately in the Teej sindhara guide. Kajari has its own thing going the other way, the bayna, which the daughter gives to her saas.",
       },
       {
-        p: "The one thing worth saying twice: whatever the amount, it ends in a one. 501, 1,101, 2,101. Even numbers are what gets handed over at a funeral.",
+        p: "The one thing worth saying twice: the total ends in a one. ₹501 has it built in; ₹1,100 gets it from the coin on the lifafa. Even totals are what gets handed over at a funeral.",
       },
       {
         p: "And if you are the one sending rather than the one receiving, send it before the moon rather than after. She has not eaten or had water all day. Something that arrives in the evening lands differently from something that arrives next morning, when it has become admin.",
@@ -965,12 +1283,12 @@ export const POSTS: Post[] = [
           rows: [
             [
               "Sindhara cash, in-laws to daughter-in-law",
-              "₹1,101 to ₹5,101",
+              "₹1,100 to ₹5,100",
               "Alongside the saree, bangles and ghevar, not instead of them",
             ],
             [
               "Parents to a married daughter",
-              "₹1,101 to ₹2,101",
+              "₹1,100 to ₹2,100",
               "Often with her favourite mithai rather than the formal set",
             ],
             [
@@ -985,7 +1303,7 @@ export const POSTS: Post[] = [
             ],
             [
               "To household help",
-              "₹251 to ₹1,101, plus sweets",
+              "₹251 to ₹1,100, plus sweets",
               "Especially where they are also observing the fast",
             ],
           ],
@@ -1016,7 +1334,7 @@ export const POSTS: Post[] = [
 
       { h: "So what should you send?" },
       {
-        p: "Sending a sindhara to a daughter or daughter-in-law: green bangles, ghevar, something to wear, and ₹1,101 to ₹2,101 with it. Make it bigger if it is her first Teej. Going to a Hariyali Teej get-together: bangles or mehendi cones, no envelope needed. Around Hartalika Teej: fruit and suhaag samagri, and save the cash for another day.",
+        p: "Sending a sindhara to a daughter or daughter-in-law: green bangles, ghevar, something to wear, and ₹1,100 to ₹2,100 with it. Make it bigger if it is her first Teej. Going to a Hariyali Teej get-together: bangles or mehendi cones, no envelope needed. Around Hartalika Teej: fruit and suhaag samagri, and save the cash for another day.",
       },
       {
         p: "And check which Teej before you do any of it, because the whole calendar turns on that and the internet is not reliable about it.",
@@ -1034,7 +1352,7 @@ export const POSTS: Post[] = [
       "Thiruvonam 2026 is Wednesday 26 August. Onam gifting runs on cloth, not cash, which is why the north Indian shagun rules give you the wrong answer.",
     body: [
       {
-        p: "Here is where people from outside Kerala go wrong. You have been to Indian weddings. You know the envelope, you know the number ends in one, you know cash is the default and everybody prefers it. So for Onam you put ₹2,101 in an envelope and you feel prepared.",
+        p: "Here is where people from outside Kerala go wrong. You have been to Indian weddings. You know the envelope, you know the total ends in one, you know cash is the default and everybody prefers it. So for Onam you put ₹2,100 in an envelope and you feel prepared.",
       },
       {
         p: "Then you watch what actually happens on Thiruvonam morning. The elders of the house hand out cloth. A kasavu mundu for one person, a kasavu saree for another, folded, given by hand, touched to the feet on the way back. Nobody produces an envelope. Your envelope is not wrong exactly, but it is answering a question nobody asked.",
@@ -1110,7 +1428,7 @@ export const POSTS: Post[] = [
         ],
       },
       {
-        p: "If you are giving cash for Onam, the shagun conventions do apply. Keep the amount ending in a one, and avoid round even numbers, which in Hindu practice belong to condolence giving rather than celebration. ₹501, ₹1,001, ₹2,101.",
+        p: "If you are giving cash for Onam, the shagun conventions do apply. Keep the amount ending in a one, and avoid round even numbers, which in Hindu practice belong to condolence giving rather than celebration. ₹501, ₹1,000, ₹2,100.",
       },
       {
         p: "The useful move is to say what the money is for. Cash handed over with no frame is just money. Cash handed over as buy yourself the Onakkodi I could not pick is the actual custom, delegated. It costs you one sentence and it puts the gift back in the right category.",
@@ -1208,7 +1526,7 @@ export const POSTS: Post[] = [
         p: "Every family has the aunt who keeps a stack of lifafas in the almirah. Red ones with gold jaali, a few plain ones for emergencies, and always a jar of one-rupee coins beside them. Before anyone leaves for a wedding, there is the small ceremony of choosing which envelope, counting the notes, tucking the coin in last.",
       },
       {
-        p: "Then everyone moved to UPI, and that whole ritual collapsed into a notification. ₹2,101 received. No paper, no coin, no handwriting, no moment of handing it over with both hands. The money arrived and the gift didn't.",
+        p: "Then everyone moved to UPI, and that whole ritual collapsed into a notification. ₹2,100 received. No paper, no coin, no handwriting, no moment of handing it over with both hands. The money arrived and the gift didn't.",
       },
       { h: "The coin is the whole point" },
       {
@@ -1315,15 +1633,15 @@ export const POSTS: Post[] = [
       },
 
       { h: "Why every amount ends in one" },
-      { p: "₹101, ₹501, ₹1,101, ₹5,101. Never ₹100, never ₹500." },
+      { p: "₹101, ₹501, ₹1,100, ₹5,100. Never ₹100, never ₹500." },
       {
-        p: "The usual explanation is that the extra rupee is the blessing, the ashirvaad, sitting on top of the money. That is true and it is the version most people will give you if you ask. There is a harder version underneath it.",
+        p: "Small amounts carry the one inside the number: ₹101, ₹251, ₹501. Larger ones do not. You put ₹1,100 in the envelope, or ₹2,100, or ₹5,100, and the one-rupee coin already stuck to the front of the lifafa is what makes the total ₹1,101. The coin is not decoration. It is doing the arithmetic.",
       },
       {
         p: "An even amount is a closed sum. It divides cleanly, it settles, it finishes. Closed sums are what you hand over at a funeral, where the point is precisely that an account is being closed. So ₹500 to a cousin at Diwali is not stingy and it is not rude. It is the wrong category, in the way that bringing a birthday cake to a condolence visit is the wrong category.",
       },
       {
-        p: "The extra rupee makes the number indivisible and therefore unfinished, which is the message: this carries on. That single rupee is also why an actual one-rupee coin often goes into the envelope alongside the notes.",
+        p: "Either way the total is indivisible and therefore unfinished, and that is the message: this carries on. Which is also why a traditional lifafa comes with the coin already on it. Nobody wants you doing sums at the door.",
       },
 
       { h: "What people actually give" },
@@ -1346,12 +1664,12 @@ export const POSTS: Post[] = [
             ],
             [
               "Younger cousins, nieces, nephews",
-              "₹251 to ₹1,101",
+              "₹251 to ₹1,100",
               "The most common case, and see the tax section",
             ],
             [
               "A newly married couple",
-              "₹1,101 and up",
+              "₹1,100 and up",
               "Wedding gifts have their own tax rule, Diwali shagun does not",
             ],
             [
@@ -1561,7 +1879,7 @@ export const POSTS: Post[] = [
 
       { h: "Why the amount always ends in one" },
       {
-        p: "Every festival amount in India ends in a one. ₹101, ₹501, ₹1,101, ₹2,101, ₹5,101. Most explanations you will read say it is for good luck, which is true in the way that saying a car runs on fuel is true.",
+        p: "Every festival amount in India ends in a one. ₹101, ₹501, ₹1,100, ₹2,100, ₹5,100. Most explanations you will read say it is for good luck, which is true in the way that saying a car runs on fuel is true.",
       },
       {
         p: "The actual mechanism is arithmetic. A number ending in one cannot be divided into two equal parts. ₹500 splits cleanly into two ₹250s and the transaction closes. ₹501 does not. The extra rupee is a deliberate remainder, and a remainder means the account is still open, which means the relationship continues.",
@@ -1573,7 +1891,7 @@ export const POSTS: Post[] = [
         p: "This is also why the physical ₹1 coin goes into the envelope at all. If you are handing over ₹500 in notes, the coin is what converts it into ₹501 and moves it out of the funeral column.",
       },
       {
-        note: "One rupee is the standard remainder, but it is not the only one. Some families use ₹11, ₹21 or ₹51 as the tail, which is the same logic scaled up. ₹5,100 becomes ₹5,101 or ₹5,151 depending on the household. Follow whatever your family already does.",
+        note: "One rupee is the standard remainder, but it is not the only one. Some families use ₹11, ₹21 or ₹51 as the tail, which is the same logic scaled up. ₹5,100 becomes ₹5,100 or ₹5,151 depending on the household. Follow whatever your family already does.",
       },
 
       { h: "How much to give in 2026" },
@@ -1591,12 +1909,12 @@ export const POSTS: Post[] = [
             ],
             [
               "Younger sister, college age",
-              "₹501 to ₹2,101",
+              "₹501 to ₹2,100",
               "Scale it to whether she is funding her own life yet",
             ],
             [
               "Adult sister, both earning",
-              "₹1,101 to ₹5,101",
+              "₹1,100 to ₹5,100",
               "The widest band and the most family-dependent",
             ],
             [
@@ -1606,17 +1924,17 @@ export const POSTS: Post[] = [
             ],
             [
               "Cousin sister",
-              "₹251 to ₹1,101",
+              "₹251 to ₹1,100",
               "Usually a step below a full sibling",
             ],
             [
               "Rakhi sister, no blood relation",
-              "₹251 to ₹1,101",
+              "₹251 to ₹1,100",
               "Match what you would give a cousin",
             ],
             [
               "Bhabhi tying rakhi to you",
-              "₹501 to ₹2,101",
+              "₹501 to ₹2,100",
               "Increasingly common in north Indian households",
             ],
           ],
@@ -1625,8 +1943,8 @@ export const POSTS: Post[] = [
       { p: "Three rules matter more than the table." },
       {
         ul: [
-          "Match the family, not the internet. If your family has given ₹1,101 for a decade, ₹5,101 is not generous, it is a statement, and everyone will ask what happened.",
-          "Never go down. If you gave ₹2,101 last year and ₹1,101 this year, that reads as a message about the relationship whether or not you meant one. If money is tight, keep the number and say less.",
+          "Match the family, not the internet. If your family has given ₹1,100 for a decade, ₹5,100 is not generous, it is a statement, and everyone will ask what happened.",
+          "Never go down. If you gave ₹2,100 last year and ₹1,100 this year, that reads as a message about the relationship whether or not you meant one. If money is tight, keep the number and say less.",
           "Never make it a competition between sisters. Sisters compare. If you have two, give the same, or have a reason you are prepared to say out loud.",
         ],
       },
@@ -1659,7 +1977,7 @@ export const POSTS: Post[] = [
         p: "This is now the normal case rather than the exception, and it is where the ritual quietly falls apart.",
       },
       {
-        p: "Here is what usually happens. She courier's the rakhi ten days early so it arrives in time. It sits on your desk. On the morning of the twenty-eighth you tie it yourself, or your flatmate does, and you send a photo. Then you open your UPI app and send ₹2,101, and the notification she receives says ₹2,101 received.",
+        p: "Here is what usually happens. She courier's the rakhi ten days early so it arrives in time. It sits on your desk. On the morning of the twenty-eighth you tie it yourself, or your flatmate does, and you send a photo. Then you open your UPI app and send ₹2,100, and the notification she receives says ₹2,100 received.",
       },
       {
         p: "Look at what survived that and what did not. The money survived. The thread survived. What did not survive is every part that made it a ritual: the handing over, the words, the fact that it happened in front of people, the small physical object with her name on it.",
@@ -1699,7 +2017,7 @@ export const POSTS: Post[] = [
 
       { h: "So what should you actually give?" },
       {
-        p: "If you want one number and you are an earning adult with an adult sister, ₹2,101 sits in the middle of the common band in 2026 and will not be wrong in most families. If she is younger and still studying, ₹1,101. If she is a cousin or a rakhi sister, ₹501.",
+        p: "If you want one number and you are an earning adult with an adult sister, ₹2,100 sits in the middle of the common band in 2026 and will not be wrong in most families. If she is younger and still studying, ₹1,100. If she is a cousin or a rakhi sister, ₹501.",
       },
       {
         p: "Then check it against what your family gave last year, and if the two disagree, follow the family. The table on this page is a description of what people do. Your household is the actual authority, and it always was.",
@@ -1899,7 +2217,7 @@ export const POSTS: Post[] = [
         p: "Two adjustments. North Indian communities are reported as having higher norms and much stronger reciprocity expectations than the south. And in Tamil, Telugu and Kannada weddings the family-side gift is often gold rather than cash, so a north Indian assumption that everybody hands over an envelope is simply wrong there.",
       },
       {
-        p: "Ends in a one. Always. ₹1,101, not ₹1,100. Even amounts are what you take to a funeral.",
+        p: "The total ends in a one. Under five hundred the number does it itself, ₹101 or ₹501. Above that you give the round figure, ₹1,100 or ₹5,100, and the coin on the lifafa makes it ₹1,101. Even totals are what you take to a funeral.",
       },
       {
         p: "If the office is pooling, the reported convention is ₹200 to ₹500 a head into one envelope, and the person sealing it adds a rupee so the total lands odd. That figure comes from a single source and I would treat it as a starting point rather than a rate.",
