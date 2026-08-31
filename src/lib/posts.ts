@@ -147,13 +147,435 @@ export const POSTS: Post[] = [
     ],
   },
   {
+    slug: "what-is-nek-shagun",
+    title:
+      "What is nek: the envelope, the extra rupee, and how much to actually put in",
+    date: "2026-08-31",
+    updated: "31 August 2026",
+    tag: "How it works",
+    excerpt:
+      "For anyone who did not grow up with this. What a lifafa is, why the amount ends in a one, what those rupees actually feel like in India, and the rule nobody tells you until you break it.",
+    body: [
+      {
+        p: "You have been invited to an Indian wedding, or you have married into a family, or you are going back to a country you left when you were four. At some point somebody says the word shagun, or nek, or lifafa, and hands you a small envelope, and you realise you have no idea what number goes in it.",
+      },
+      {
+        p: "The internet is not much help here. Search what is a lifafa and you get Walmart, Etsy and a cluster of AI-generated pages about an invented phrase. Search what is nek and you get almost nothing at all. Everyone writing about this is selling envelopes, sarees or gift boxes.",
+      },
+      {
+        p: "So here it is written down. What the object is, what the number means, what the number is worth, and the parts where I am going to tell you that the internet is repeating one press release.",
+      },
+
+      { h: "The object" },
+      {
+        p: "A lifafa is an envelope for money. It is small, roughly the size of a folded banknote, and you open it from the short end. That is the whole design brief.",
+      },
+      {
+        p: "What it is made of depends entirely on what you paid. At the bottom of the market it is thin printed paper, around 80 gsm, and sells wholesale for one or two rupees a piece. In the middle, which is what most people actually buy, it is a thick handmade paper, ten to twenty rupees. At the top it stops being paper: silk, jute, gota-embroidered cloth from Jaipur, and at three hundred rupees a piece a whole acrylic thing that is really a keepsake with a slot in it.",
+      },
+      {
+        p: "The printing is occasion-specific rather than generic. Ganesha and Radha-Krishna for a Hindu wedding, paisley and bandhani, gold foil, and separate lines for Eid and for Raksha Bandhan. You buy the envelope for the event.",
+      },
+      {
+        p: "In Tamil Nadu it is a different object with a different name, the moi cover, and it is sold in packs of a hundred and four hundred rather than ten. That is not a manufacturing quirk. It is because of what Tamil weddings do with them, which is further down and is the most interesting thing on this page.",
+      },
+
+      { h: "The extra rupee" },
+      {
+        p: "The amount is never round. It is 101, or 501, or 1,101, or 5,101. There is a one on the end, and there is very often an actual one-rupee coin stuck to the front of the envelope, which is what makes 500 into 501.",
+      },
+      {
+        p: "Everybody in India knows this and almost nobody agrees on why. Here are the explanations people actually give.",
+      },
+      {
+        ul: [
+          "Zero is an ending and one is a beginning. A round number is poora, complete, finished, and finished is not a thing you wish on a marriage.",
+          "501 will not divide evenly between two people, so the blessing cannot be split.",
+          "The extra rupee is a small unsettled debt, and a debt means you have to meet again.",
+          "The big amount is to spend and the one rupee is a seed, to be kept or invested or given away.",
+          "The coin is metal, and Lakshmi is worshipped in metal, so the coin is the goddess coming into the house. This one appears throughout the Hindi press and almost never in the English blogs.",
+          "Odd numbers are agents of motion in jyotish, and even numbers sit still.",
+        ],
+      },
+      {
+        p: "Take that list as a list. There is no single correct answer and anyone who tells you there is has read one article. Which brings up something worth knowing about the sourcing.",
+      },
+      {
+        note: "Most of the English-language internet on this traces to one wire story, published in March 2024 with no byline, no named expert and no region. It runs on The Tribune, India New England, Gujarat Samachar and Prokerala under different headlines. Four pages, one source.",
+      },
+      {
+        p: "The two genuinely independent accounts I could find are both from a folklore archive, both from Indian-American households, and they disagree with each other. One says amounts end in one or five. The other says it must end in one, and that ending in a ten makes it a full stop. Neither matches the blogs.",
+      },
+      {
+        p: "One more thing the explainers all get wrong by omission. The coin is not always hand-glued by a person who cares. Envelopes ship from the factory with the coin already attached, and there is an entire product category called printed coin envelopes where the coin is ink. All three exist and nobody writes about it.",
+      },
+
+      { h: "The rule nobody tells you until you break it" },
+      {
+        p: "Even amounts are condolence money.",
+      },
+      {
+        p: "₹100, ₹500, ₹1,000, clean and round, are what you hand over at a funeral or take to a house in mourning. Not as an insult, and not because even is unlucky. Because even reads as complete, and completeness is the right wish for a death and the wrong one for a wedding.",
+      },
+      {
+        p: "So the operative rule is not really give odd. It is drop the one. At a wedding you add the rupee. In a house of grief you take it off, and you do not bring the coin at all.",
+      },
+      {
+        p: "This is the single thing on this page most likely to cause you an actual problem, and it is the one least covered in English. If you search it in English you will mostly get Chinese and Singaporean funeral customs, which are a different tradition entirely and will lead you wrong.",
+      },
+
+      { h: "How much" },
+      {
+        p: "Ranges, because a single number would be a lie. These are what people in India report giving at a wedding.",
+      },
+      {
+        table: {
+          head: ["Who you are", "In India", "Roughly"],
+          rows: [
+            ["Colleague or acquaintance", "₹1,000 to ₹3,000", "$10 to $31"],
+            ["A polite minimum for anyone", "₹1,100 or ₹2,100", "$12 to $22"],
+            ["Close friend or cousin", "₹5,100", "$53"],
+            ["Extended family", "₹5,000 to ₹15,000", "$52 to $157"],
+            ["Close family", "₹10,000 to ₹50,000", "$105 to $524"],
+          ],
+        },
+      },
+      {
+        p: "If you are giving in dollars from abroad the ladder is different and much higher against local incomes: fifty to a hundred for a colleague, seventy-five to two hundred for a close friend, and $101 is the number people name as the safe default. Note that it ends in one too.",
+      },
+      {
+        p: "There is a second rule underneath the first, and it is the one that actually governs. Whatever that family gave at your last function is the floor for what you give at theirs. If they put ₹5,001 in at your daughter's wedding, ₹1,101 at their son's is a step down and it will be noticed. In north India this is unwritten. In Tamil Nadu it is written down, in a book, by a man at the door.",
+      },
+
+      { h: "Moi, and the register at the door" },
+      {
+        p: "At a Tamil wedding you do not slip an envelope into a box. You hand the cash to a person sitting at the entrance with a ledger, and he writes down your name, where you are from, and the amount. Out loud, sometimes.",
+      },
+      {
+        p: "That book is the point. It is kept. When your own function comes round, that family opens it, looks up what you gave, and gives you that or a little more. Moi is a rotating credit system that happens to look like a gift, and it has been running in some families for generations. There are apps for it now.",
+      },
+      {
+        p: "The contrast with the north is total. North Indian shagun is discreet: a sealed envelope into a box, nobody announces anything, and the reciprocity is remembered rather than recorded. Same underlying logic, opposite manners. If somebody tells you Indian gifting works one way, they have been to one kind of wedding.",
+      },
+
+      { h: "What the money is actually worth" },
+      {
+        p: "Converting ₹5,100 to fifty-three dollars is technically correct and tells you almost nothing, because fifty-three dollars does not buy in New Jersey what five thousand rupees buys in Jaipur.",
+      },
+      {
+        table: {
+          head: ["Amount", "USD", "GBP"],
+          rows: [
+            ["₹251", "$2.63", "£1.94"],
+            ["₹501", "$5.24", "£3.87"],
+            ["₹1,101", "$11.52", "£8.51"],
+            ["₹2,101", "$21.98", "£16.25"],
+            ["₹5,101", "$53.37", "£39.45"],
+            ["₹11,000", "$115.08", "£85.06"],
+            ["₹21,000", "$219.70", "£162.39"],
+          ],
+        },
+      },
+      {
+        note: "Rates as at 31 August 2026: ₹1 = $0.0105 = £0.0077. Checked against two independent providers, which agreed to within 0.2 percent. They will have moved by the time you read this.",
+      },
+      {
+        p: "Better anchors. ₹5,100 is roughly a fortnight's pay for a part-time domestic worker in Delhi. It is about seven sleeper-class tickets from Delhi to Mumbai, which is a sixteen-hour journey. It is twenty restaurant thalis. That is what the number means to the person opening the envelope, and it is not the same information as fifty-three dollars.",
+      },
+      {
+        p: "It also means the diaspora default of $101 is, in rupees, close to ₹9,700, which sits at the top of the close-family band. That is not wrong. It is just worth knowing you are giving at that level rather than a modest one.",
+      },
+
+      { h: "Nek is not quite the same as shagun" },
+      {
+        p: "Shagun is the general word: an auspicious gift, usually money, marking an occasion. Nek is narrower and more fun. Nek is the money that changes hands during a wedding for doing something specific.",
+      },
+      {
+        ul: [
+          "Joote ka nek, from the groom to the bride's sisters, to get his shoes back after they have hidden them. One account puts it at ₹1,000 per cousin, and that account is from 2014, so adjust.",
+          "Mehndi ka nek, to the artist who did the henna.",
+          "Kajal ka nek, to the aunts who put kajal on to keep the evil eye off.",
+          "Dwaar rokne ka nek, to the groom's sisters for standing in the doorway and not moving.",
+          "Vinayak ka nek, to the bride's brothers at the Ganesh puja.",
+          "Muh dikhayi, from the groom's family to the new bride, the first time they properly look at her face.",
+        ],
+      },
+      {
+        p: "The mehndi one carries a rule worth understanding. The artist is not paid. She is nek'd, which is a different verb and a different relationship, and it is given as shagun rather than as a fee. In practice a professional bridal mehndi artist in an Indian city charges between three and eleven thousand rupees and everyone knows it. Both of those things are true at once, and the fiction is load-bearing.",
+      },
+
+      { h: "What to bring, and what people get wrong" },
+      {
+        p: "If you are going to somebody's house rather than to a wedding, the default is a box of mithai. Kaju katli is the safe one. A respectable box is five hundred to sixteen hundred rupees, which is five to seventeen dollars. Dry fruits do the same job and read slightly differently: mithai says sweetness, dry fruit says prosperity.",
+      },
+      {
+        p: "Three things you may have read that are worth correcting.",
+      },
+      {
+        h3: "Fruit is fine",
+      },
+      {
+        p: "Bringing fruit to somebody's house in India is completely normal and carries no get-well-soon undertone. If you are hesitating over it, that hesitation is imported. Take the fruit.",
+      },
+      {
+        h3: "The sets-of-four thing is not Indian",
+      },
+      {
+        p: "You will find etiquette listicles telling you never to give four of something. That is tetraphobia, and it comes from Sinitic languages where the word for four sounds like the word for death. There is no Indian equivalent. Where Indian sources are wary of numbers they name eight and seventeen, both ruled by Saturn, and sometimes three. And thirteen is auspicious here; the fear of thirteen is the import.",
+      },
+      {
+        h3: "Never wear white is a regional rule sold as a national one",
+      },
+      {
+        p: "In north Indian Hindu practice white is mourning, and the advice to avoid it is sound there. It is not sound everywhere. In Kerala the kasavu, cream with a gold border, is the bridal saree and the Onam garment. A Bengali bride wears red and white. A Parsi bride wears white. So the useful question is not what colour, it is whose wedding.",
+      },
+      {
+        p: "The things that do hold: take your shoes off at the door, ask before bringing alcohol because plenty of households are dry and two states are, check on leather if the family is Jain or strictly vegetarian, and arrive fifteen to thirty minutes after the time on the invitation. Being punctual to an Indian home invitation is the mild rudeness.",
+      },
+
+      { h: "Where I am guessing" },
+      {
+        p: "Two things I believe from experience and could not corroborate anywhere, so treat them as mine rather than as fact.",
+      },
+      {
+        p: "Nobody gives ₹3,100 or ₹4,100. The ladder is 251, 501, 1,100, 2,100, 5,100, 11,000, 21,000, and three and four are simply not on it. I could not find a single source, English or Hindi, that says this or explains it. My own guess is that it is about notes rather than numerology: ₹2,100 is two thousand-value notes and a hundred, ₹5,100 is five five-hundreds and a hundred, and since demonetisation there is no clean way to build ₹3,100 out of what is in your wallet.",
+      },
+      {
+        p: "And the coin being stuck on by hand, at home, with glue. I have seen it. The retail catalogues say most of them arrive that way from a factory. Both are happening and the sentimental version is not the common one.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "How much should I give at an Indian wedding if I am not Indian?",
+            a: "The same as anyone else at your level of closeness, so ₹1,100 to ₹2,100 for a colleague and around ₹5,100 for a close friend. Giving from abroad, $101 per person is the number people name, though in rupees that lands at the top of the close-family band. Nobody expects a different amount from you because you are a guest from outside.",
+          },
+          {
+            q: "Why does it have to end in a one?",
+            a: "Because a round number reads as complete, and complete is what you want at a funeral rather than a wedding. Even amounts are condolence money. The one rupee keeps the sum open, and people give at least six different reasons for it, none of which is more official than the others.",
+          },
+          {
+            q: "Do I have to use an actual envelope?",
+            a: "At a wedding, yes, and they cost a few rupees. Cash handed over loose is not the gesture. If you are far away and sending it digitally, the envelope is the part that goes missing, which is the whole reason this site exists.",
+          },
+          {
+            q: "Can I give a gift instead of money?",
+            a: "You can, and at a wedding you will be in a small minority. Cash is not considered impersonal here the way it is in the West; it is the normal, expected and useful thing, and it spares the couple a third toaster. A gift alongside a smaller amount reads warmly. A gift instead of any envelope reads as though you did not know.",
+          },
+          {
+            q: "What do I do at a Tamil wedding?",
+            a: "Hand the cash to the person with the register at the entrance and give them your name and your town. It will be written down, and it will be remembered when your own function comes. Do not look for a box to slip it into.",
+          },
+          {
+            q: "Is it rude for me to wear Indian clothes?",
+            a: "Every published source says no, please do, you were invited. Worth knowing that almost all of them sell or rent Indian clothes, and I could not find a dissenting voice anywhere. It is also never required: a bright Western outfit in a festive cut is entirely correct.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "hariyali-teej-guide",
+    title: "Hariyali Teej: the green one, and what sindhara is really for",
+    date: "2026-08-31",
+    updated: "31 August 2026",
+    tag: "Festivals",
+    art: "teej",
+    excerpt:
+      "Hariyali Teej 2026 was Saturday 15 August. Green bangles, a jhoola, and a box of ghevar arriving from your mother. This is the one Teej that is actually old, and the one the other two get confused with.",
+    body: [
+      {
+        p: "Somewhere in Sawan a box turns up. Ghevar, gujiya, maybe feni, a set of green bangles, and something to wear. Your mother sent it, and if you are recently married it will be the first year it happens, and nobody will have explained that it was coming.",
+      },
+      {
+        p: "That box is sindhara, and it belongs to this Teej. Not the next one, not the one after. Which matters more than it sounds, because there are three festivals called Teej inside about a month and a half, and the amount of confusion between them is genuinely large.",
+      },
+      {
+        p: "This page is Hariyali: the green one, the one with the jhoola, and the only one of the three that is properly old.",
+      },
+      {
+        note: "Hariyali Teej 2026 was Saturday 15 August. Shravana shukla tritiya, tithi from 18:47 on 14 August to 17:29 on 15 August. It is also called Sawan Teej, Chhoti Teej and Sindhara Teej.",
+      },
+      { photo: "hariyaliTeej", caption: "Dressed for Hariyali Teej." },
+
+      { h: "Why this is the old one" },
+      {
+        p: "P. V. Kane catalogued around eleven hundred vratas and named the text each came from. Hariyali is in there, as Madhusrava, on Shravana shukla tritiya, and he sources it to Hemadri, which is thirteenth century. He also notes it was well known in Gurjaradesh, Gujarat.",
+      },
+      {
+        p: "The other two do not do nearly as well. Hartalika is missing from the twelfth and thirteenth century compendia entirely and only turns up in digests from the 1600s. Kajari gets one line in a legal digest of 1612, no Purana at all, and that digest says the puja is to Vishnu.",
+      },
+      {
+        p: "So if somebody tells you the Teej cycle is ancient, the honest version is that one of the three reaches the thirteenth century and the other two are early modern. Hariyali is the one with the receipts.",
+      },
+      {
+        p: "James Tod is worth reading on it too, from 1832, because he watched it. He calls it the Tij, says it is sacred to Parvati as the day she was reunited with Shiva after her austerities, and then describes Jaipur: red clothes worn by everybody, the Raja presenting red cloth to all his chiefs, and an image of Parvati richly dressed and carried on a throne by women singing, with the prince and his nobles walking behind.",
+      },
+      {
+        p: "And one line that has not changed in two hundred years: on this day, fathers present red garments and stuffs to their daughters.",
+      },
+
+      { h: "The green" },
+      {
+        p: "Hariyali means green, and it is not decorative. Sawan is when the rain has finally come and everything that was dust in June is green again. You are wearing the weather.",
+      },
+      {
+        p: "So: a green saree or suit, green bangles, a green bindi, mehendi. Bandhani and leheriya both belong here, leheriya especially, because those diagonal stripes are meant to be rain. In Jaipur the leheriya odhni is the Teej thing and you will see it on half the city.",
+      },
+      {
+        p: "Green is the colour of the month rather than of the goddess, which is why Tod finds everybody in red at the Jaipur procession while the women are in green. Both are correct. The red is for Parvati and the green is for Sawan.",
+      },
+      {
+        p: "Glass bangles specifically, and a lot of them, and this is the one part where people get quietly competitive. Chudi ka set poora hona chahiye.",
+      },
+
+      { h: "The jhoola" },
+      {
+        p: "A swing is hung from a tree or a beam, decorated with flowers, and women take turns on it and sing. It is the single most photographed thing about this festival and the least explained.",
+      },
+      {
+        p: "What it is doing there: Sawan is the month a married daughter traditionally goes back to her mayka, and the jhoola is what she does when she gets there, with the women she grew up with. The songs that go with it are about exactly that. Coming home, and the fact that it is temporary.",
+      },
+      {
+        p: "In Punjab the same festival is Teeyan and it runs for days rather than one, with giddha rather than swing songs, and it is explicitly the fortnight the daughters come back.",
+      },
+      { photo: "teeyanGiddha", caption: "Giddha at Teeyan, the Punjabi Teej." },
+
+      { h: "Sindhara" },
+      {
+        p: "The box. It goes from a mother to her married daughter, in Sawan, at her sasural, and it is the reason Hariyali Teej is also called Sindhara Teej.",
+      },
+      {
+        p: "What is in it, broadly: ghevar above all, then gujiya, feni, mathri. Green bangles. Something to wear, usually a saree or a suit. Mehendi. And cash, because there is always cash.",
+      },
+      {
+        p: "Ghevar is the load-bearing item and it is genuinely seasonal, made and sold for these few weeks and then gone. In a lot of families the arrival of ghevar is how you find out Teej is close.",
+      },
+      {
+        p: "Who sends it varies more than the lists admit. The straightforward version is mother to daughter. In many households it is the saas who sends it to her daughter-in-law, or the elder women of the house between them, and in some it goes both ways. Jaisa aapke ghar mein chalta hai, wahi theek hai.",
+      },
+      {
+        p: "The amounts and who gives what are written up separately in the Teej sindhara guide rather than repeated here.",
+      },
+
+      { h: "The fast, and whether men keep it" },
+      {
+        p: "Married women fast for their husbands. Unmarried girls fast for a good one. That formulation is identical everywhere and it is worth noticing how little it varies, because almost nothing else about these festivals is that consistent.",
+      },
+      {
+        p: "Nirjala in the strictest version, phalahari in most houses, and plenty of people keep it on water. There is no scriptural ruling to appeal to, so the rule in practice is whatever your family does.",
+      },
+      {
+        p: "Do husbands fast? Not traditionally, and there is no record of it anywhere we looked. What is recorded is that they were expected to be present. Tod, writing about the Bundi Teej, says it was the day on which a Rajput must visit his wife, and the vassals were sent home from court to keep it.",
+      },
+      {
+        p: "That said, plenty of couples now do it together, the same way karwa chauth has changed. Nothing in the festival forbids it. If you are the husband and you want to keep it, keep it, and expect exactly one relative to have an opinion about that.",
+      },
+
+      { h: "The confusion, and how to end it" },
+      {
+        p: "Three festivals, all called Teej, inside about six weeks. Here they are side by side.",
+      },
+      {
+        table: {
+          head: ["", "When", "What it is", "The gift"],
+          rows: [
+            [
+              "Hariyali",
+              "Shravana shukla 3",
+              "Green, jhoola, sindhara. The light one.",
+              "Sindhara, from the mayka",
+            ],
+            [
+              "Kajari",
+              "Bhadrapada krishna 3, three days after Rakhi",
+              "Nirjala, the talai, the bara. Marwari and Rajasthani.",
+              "Bayna, to the saas",
+            ],
+            [
+              "Hartalika",
+              "Bhadrapada shukla 3",
+              "The strictest. Nirjala plus a night vigil.",
+              "None specific",
+            ],
+          ],
+        },
+      },
+      {
+        p: "Hindi Wikipedia's own Hariyali Teej article says that in eastern Uttar Pradesh the festival is celebrated as Kajali Teej, which collapses two festivals a fortnight apart into one. That is the sort of thing that then gets copied everywhere.",
+      },
+      {
+        p: "The clean way to hold it: Hariyali is in Sawan and it is green. Kajari is three days after Rakhi and it is a fast that ends on the moon. Hartalika is a fortnight after Kajari and it is the hard one.",
+      },
+      {
+        p: "Rajasthan splits along the same line, royally. Jaipur keeps Hariyali, with the Parvati procession Tod watched. Bundi keeps Kajli, a fortnight later, with its own. Two Teej processions, two cities, and an argument about which is the real one that has been running for two centuries.",
+      },
+
+      { h: "What people forget it also was" },
+      {
+        p: "Teej was a fair, and it was where young unmarried women went.",
+      },
+      {
+        p: "Tod records the fair of the Tij at Pipar in Marwar, and the reason he records it is a raid in 1516 in which a hundred and forty of the maidens of Maru were carried off from it. Marwari bards were still singing that three hundred years later, in his hearing.",
+      },
+      {
+        p: "William Crooke, writing in 1896 about Saharanpur, describes something different again and much smaller: at the rainy-season Tij the girls put on their best clothes, go to a tank, drop offerings in honour of Khwaja Khizr, then split into two parties and stage a mock wedding around a tulsi or a pipal, teasing each other throughout.",
+      },
+      {
+        p: "A children's game with an offering to a Muslim saint in the middle of it, filed under Teej. Which is a useful reminder that a festival is not one thing that has been slowly forgotten. It is many things, and different ones survive in different places.",
+      },
+
+      { h: "If you are far from home" },
+      {
+        p: "Sindhara is a box that arrives. The whole point of it is that it comes from your mother's house to the house you married into, and the distance is built into the gesture.",
+      },
+      {
+        p: "So the version that works from another city, or another country, is not complicated. Send the ghevar if you can get it sent. Send the bangles. And send the money as its own thing rather than folded into the mithai order, because the mithai is a present and the cash is shagun and they are doing different jobs.",
+      },
+      {
+        p: "Ends in a one, as always. 501, 1,101, 2,101.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "Is Hariyali Teej the same as Hartalika Teej?",
+            a: "No, and they are a month apart. Hariyali is Shravana shukla tritiya, Hartalika is Bhadrapada shukla tritiya. Hariyali is the green, swing-and-sindhara one; Hartalika is the strict nirjala fast with a night vigil.",
+          },
+          {
+            q: "Who sends sindhara, and to whom?",
+            a: "Most commonly a mother to her married daughter at her sasural, during Sawan. In many families the saas sends it to her daughter-in-law instead, or the elder women send between themselves. All of these are normal, and the version your family does is the right one.",
+          },
+          {
+            q: "What actually goes in sindhara?",
+            a: "Ghevar above everything, then gujiya, feni and mathri; green bangles; a saree or suit; mehendi; and cash. Ghevar is seasonal and only made for these few weeks, which is why its arrival is how a lot of people find out Teej is near.",
+          },
+          {
+            q: "Do I have to wear green?",
+            a: "Nothing bad happens if you do not, but the festival is named for it. Green saree or suit, green bangles, green bindi. Leheriya is the Rajasthani version, and its diagonal stripes are meant to be rain.",
+          },
+          {
+            q: "Can a husband keep the fast?",
+            a: "Traditionally no, and there is no historical record of men fasting for this one. What the record does show is that they were expected to be home for it. Plenty of couples now fast together anyway, the way karwa chauth has changed.",
+          },
+          {
+            q: "Why is it called Sindhara Teej?",
+            a: "For the sindhara itself. It is one of the few Indian festivals named after the gift rather than the god or the day, which tells you where its centre of gravity is.",
+          },
+        ],
+      },
+    ],
+  },
+  {
     slug: "kajari-teej-guide",
     title:
       "Kajari Teej: the bara, the talai, and why the fast does not break at sunset",
     date: "2026-08-31",
     updated: "31 August 2026",
     tag: "Festivals",
-    art: "teej",
+    art: "bara",
     excerpt:
       "Kajari Teej 2026 is Monday 31 August. Every page gives you the tithi and a katha. Almost none tells you what the thing in the tin is, why there is a pond made of mud against your wall, or when you are actually allowed to eat.",
     body: [
@@ -1287,37 +1709,259 @@ export const POSTS: Post[] = [
   },
   {
     slug: "wedding-shagun-etiquette",
-    title: "Wedding shagun: how much, and when to hand it over",
+    title:
+      "Wedding shagun: how much, who to hand it to, and why you write your city on it",
     date: "2026-08-08",
+    updated: "31 August 2026",
     tag: "Festivals",
     excerpt:
-      "The envelope at the reception, the amount nobody says out loud, and how not to get it wrong.",
+      "Every page about this is an amount table. The amount is the least of it. Here is the whole shape of an Indian wedding, where money moves at each stage, and the book somebody is keeping.",
     body: [
       {
-        p: "Wedding shagun is the highest-stakes envelope in Indian social life, mostly because everyone can see you hand it over and somebody is writing your name in a register.",
-      },
-      { h: "The amount" },
-      {
-        p: "It scales with closeness and with what the family gave at your own functions, many households genuinely keep a book. As a rough map:",
+        p: "The published advice for a colleague's wedding runs from ₹501 to ₹5,000. That is a factor of ten, from pages that all sound equally certain. Nobody says so, because saying so would give away that none of them knows.",
       },
       {
-        ul: [
-          "Colleague or acquaintance: ₹1,101 to ₹2,101.",
-          "Friend, ₹2,101 to ₹5,101.",
-          "Close friend or extended family: ₹5,101 to ₹11,001.",
-          "Immediate family: whatever has been decided at home, and it is rarely your decision alone.",
+        p: "The reason the number floats is that it is not really a number question. Somewhere at that wedding there is a book, or a memory doing the work of one, and what you give is being read against what your family gave last time and what theirs gave yours. Get that and the amount mostly answers itself.",
+      },
+      {
+        p: "So this page does the whole shape: the functions in order, where money actually moves at each one, who you hand the envelope to, what to write on it, and what to do if you cannot afford the going rate.",
+      },
+
+      { h: "The functions, and where money moves" },
+      {
+        p: "An Indian wedding is not an event, it is a season. As a guest you will be invited to some of these and not others, and money behaves differently at each.",
+      },
+      { h3: "Roka" },
+      {
+        p: "The families formally agree. Family only, historically, though city weddings now put thirty to a hundred people in a booked hall. Both sides give: clothes, mithai, dry fruit, and cash from the bride's family to the groom, jewellery and clothes back the other way.",
+      },
+      {
+        p: "Worth knowing that roka became popular partly because it is cheap. Fieldwork in Jalandhar found families choosing it precisely to avoid the cost of the older mangni, so that the engagement and the wedding could be done together and the groom's side saved a feast.",
+      },
+      { h3: "Sagai, and what it replaced" },
+      {
+        p: "The ring exchange is the modern version and it is a fairly recent import. What it replaced was mangni, and mangni was not simultaneous. The bride's male relatives went to the groom's house with gur, dry fruit and money, and the groom sat while they put money in his lap, or a silver coin and sugar in his palm. Only after they went home did the groom's family send gifts back.",
+      },
+      {
+        p: "The bit worth knowing is that the invitation itself was carried by the barber and it stated how many guests the bride's family could afford to feed. The reciprocity was written down, in advance, including the limit.",
+      },
+      { h3: "Mehendi" },
+      {
+        p: "Guests attend, and guests get henna. The bride's is done by an artist now; historically it was her unmarried friends, with the professional as an option rather than the default.",
+      },
+      {
+        p: "One belief attached to it that gets garbled in retelling: dark henna is read as a sign of the mother-in-law's affection. You will see it repeated as the depth of the groom's love, which is the greeting-card version.",
+      },
+      { h3: "Haldi" },
+      {
+        p: "Turmeric paste on both of them, on separate days at separate houses, and it is the one function with a genuinely non-negotiable dress rule: wear something you are willing to lose. Yellow, cotton, nothing embellished. It stains permanently and it travels further than you expect.",
+      },
+      {
+        p: "Who applies it is the interesting part, and it is in its own section below.",
+      },
+      { h3: "Sangeet" },
+      {
+        p: "Money moves here, but not to the hosts. Notes get flicked over dancers, and in Punjab a garland of notes goes round the groom during the baraat. Where there are hereditary musicians, as with the Manganiyars in Jaisalmer, the payment for reciting a family's genealogy is the actual living the community makes.",
+      },
+      { h3: "The wedding" },
+      {
+        p: "This is where your envelope goes. Also joota chupai, where the bride's sisters hold the groom's shoes hostage and negotiate, which is a real transaction with real amounts and is meant to be enjoyed.",
+      },
+
+      { h: "The function nobody's guest guide mentions" },
+      {
+        p: "The largest single sum at a north Indian wedding does not come from a guest. It comes from the bride's mother's brother.",
+      },
+      {
+        p: "Mayra in Rajasthan, bhaat in Haryana, nanki chhak in Punjab. The maternal uncle offsets his sister's wedding costs, and in Punjab he does more than pay: he gives the clothes the couple actually get married in, gives the bride her red ivory churha, ties the gana on her wrist, and lifts them both off the haldi platform. The bride arrives at her own wedding in her mama's clothes and leaves in her in-laws'.",
+      },
+      {
+        p: "The numbers that reach the news are enormous, crores, tractors, land. Those are news precisely because they are extreme, and I could not find any source for what a normal one costs. But if you are a guest wondering whether your envelope is the point, it is not. You are a rounding error next to the mama, and that is by design.",
+      },
+
+      { h: "Haldi is applied by married women, nearly everywhere" },
+      {
+        p: "If you have heard that only married women apply the haldi, that is right, and it is not one community's rule. It runs across most of them, with the number specified.",
+      },
+      {
+        table: {
+          head: ["Community", "Called", "Who applies it"],
+          rows: [
+            [
+              "Marwari, Rajasthani",
+              "Pithi Dastoor",
+              "Women of the family, married women, some say seven",
+            ],
+            [
+              "Maharashtrian",
+              "Halad Chadavane",
+              "Five suhasinis, applied with mango leaves",
+            ],
+            [
+              "Bengali",
+              "Gaye Holud",
+              "The groom's mother first, then five or seven sadhaba",
+            ],
+            [
+              "Sindhi",
+              "Tel ki Rasam",
+              "Seven married women, oil in the hair first",
+            ],
+            [
+              "Tamil, Telugu, Kannada",
+              "Mangala Snanam",
+              "Five or seven sumangalis, on the wedding morning",
+            ],
+            [
+              "Punjabi",
+              "Vatna, Maiyan",
+              "Her sisters and unmarried friends. His sisters and his bhabhis.",
+            ],
+          ],
+        },
+      },
+      {
+        p: "Punjab is the exception and it is a real one. The academic account of Punjabi vatna does not restrict it to married women at all, and the groom's side is done by his sisters, who need not be married, alongside his brothers' wives, who are.",
+      },
+      {
+        p: "Two things happen to the leftover paste. In Maharashtrian and Bengali practice it travels: what is left from the groom is carried to the bride's house and used on her, which makes the haldi a physical link between two households rather than something you wash off. And in a lot of families the couple daub the unmarried cousins with it, on the theory that they are next.",
+      },
+      {
+        p: "One correction worth making because Kerala weddings now look like everyone else's on Instagram: haldi, mehendi and sangeet were not traditionally part of a Kerala Hindu wedding at all. They are recent imports from the north, common enough now that Kerala vendors sell haldi stage decoration.",
+      },
+
+      { h: "The book" },
+      {
+        p: "This is the thing that makes sense of everything else, and it exists under different names in at least three separate traditions.",
+      },
+      {
+        p: "In Tamil Nadu it is not hidden. You hand your cash at a table by the entrance to somebody with a notebook, the moi notu, and he writes your name, where you are from, and the amount. Four or five people staff it. At larger functions bank employees turn up to help with a counting machine.",
+      },
+      {
+        p: "And it is not a gift. It is a loan, and the repayment rate is stated: when you hold your own function, the family repays roughly double, about five years on. The custom traces back to Chettiar moneylending, went commercial somewhere around 1975 to 1980, and has now reached the point where invitations carry a barcode so you can moi over GPay.",
+      },
+      {
+        p: "In Punjab the same logic is vartan bhanji, and the academic literature is blunt about it: weddings are the only occasion for which a written record of gifts is kept. The mechanism is designed never to settle. You return what was given, and you add a little, so the other side owes you, so it comes back with a little more.",
+      },
+      {
+        p: "In Rajasthan it is neota, or netra. Registers kept across generations, so that neither family consistently gives more than the other.",
+      },
+      {
+        p: "In most north Indian households nobody writes it down and it works anyway, because somebody's mother remembers. That is the same system with worse tooling.",
+      },
+
+      { h: "So: write your name and your city on it" },
+      {
+        p: "This is the single most practical thing on the page and almost nobody says it.",
+      },
+      {
+        p: "The Tamil register records name, place and amount. Not name and amount. Place. Because there are four Sharmas and the one who matters is the one from Jodhpur, and in three decades when somebody opens that book to work out what is owed at your daughter's wedding, your first name will not be enough to find you.",
+      },
+      {
+        p: "Write both. Add a line of a blessing if you like. It costs nothing and it is the difference between being remembered and being an unattributed entry.",
+      },
+
+      { h: "Who you actually hand it to" },
+      {
+        p: "It depends on the wedding, and the sources genuinely disagree, so here is the honest version.",
+      },
+      {
+        p: "At a Tamil or Telugu wedding, look for the table at the entrance. There will be one. That is where it goes, and not to the couple.",
+      },
+      {
+        p: "At a north Indian reception there may be no table. Then it is a family member, a parent or a sibling, or the box if there is one. My own advice, and it is advice rather than a rule: do not hand it to the bride. She is carrying about twenty kilos of clothing and jewellery, she has no hands and no pockets, and she is going to have to hand it straight to somebody else anyway. One published source recommends exactly this and several others say the couple is fine, so take it as reasoning rather than law.",
+      },
+      {
+        p: "Some south Indian communities do not do gifts at the wedding at all, and there is a separate meet-and-greet afterwards where it happens. If you are told to wait, that is why.",
+      },
+
+      { h: "How much" },
+      {
+        p: "There is no survey. Not one. Every table you will find, including this one, is somebody's assertion, and the published tables disagree with each other by a factor of ten for a colleague and a factor of fifty for an extended relative.",
+      },
+      {
+        p: "So this is a middle, and the point is the range and not the number.",
+      },
+      {
+        table: {
+          head: ["Who you are", "Modest wedding", "Big city, big wedding"],
+          rows: [
+            ["Colleague or acquaintance", "₹501 to ₹1,100", "₹1,100 to ₹2,100"],
+            ["Friend, going alone", "₹1,100 to ₹2,100", "₹2,100 to ₹5,100"],
+            ["Close friend", "₹5,100 to ₹11,000", "₹11,000 to ₹21,000"],
+            ["Extended relative", "₹5,100 to ₹11,000", "₹11,000 to ₹25,000"],
+            ["Sibling, or a big role", "₹11,000 upward", "₹21,000 upward"],
+            ["As a couple, add", "roughly half again", "roughly half again"],
+          ],
+        },
+      },
+      {
+        p: "Two adjustments. North Indian communities are reported as having higher norms and much stronger reciprocity expectations than the south. And in Tamil, Telugu and Kannada weddings the family-side gift is often gold rather than cash, so a north Indian assumption that everybody hands over an envelope is simply wrong there.",
+      },
+      {
+        p: "Ends in a one. Always. ₹1,101, not ₹1,100. Even amounts are what you take to a funeral.",
+      },
+      {
+        p: "If the office is pooling, the reported convention is ₹200 to ₹500 a head into one envelope, and the person sealing it adds a rupee so the total lands odd. That figure comes from a single source and I would treat it as a starting point rather than a rate.",
+      },
+
+      { h: "If you cannot afford it" },
+      {
+        p: "This is a real problem and it has actually been studied, which is more than can be said for the amounts.",
+      },
+      {
+        p: "The research on vartan bhanji in rural Punjab finds exactly what you would expect: reciprocity pressure that pushes low-income households into giving beyond their means, and which holds them back. It is not a matter of nobody minding. The obligation is real and it is heaviest on the people least able to carry it.",
+      },
+      {
+        p: "Two things that genuinely help. The first is that if you have no history with this family, there is no ledger entry to fall short of. You are opening the account, not settling it. The floor is only sharp for people already in the book, which is why a first-time guest and a first cousin are not playing the same game at all.",
+      },
+      {
+        p: "The second is that ₹501 with something written on it, from somebody who came, is not the thing that gets remembered badly. Not turning up is.",
+      },
+
+      { h: "If you are not Indian" },
+      {
+        p: "Almost nothing changes, and the one thing that does works in your favour.",
+      },
+      {
+        p: "You are not in anybody's neota book and you never will be. Nobody is going to reciprocate at your wedding in Ohio. Which removes the reciprocity stakes entirely and means the amount is genuinely just what you would spend on any friend's wedding, converted.",
+      },
+      {
+        p: "Practical: end it in a one, so $201 rather than $200. Buy an envelope from any Indian grocery or stationery shop, because handing over loose cash is not the gesture. Avoid red, which is the bride's, and avoid white and black. And if you are anxious about how much, the tour operators who actually deal with foreign wedding guests all say the same thing, which is that your being there is the part that registers.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "How much do I give at an Indian wedding?",
+            a: "For a colleague, ₹1,100 to ₹2,100. For a close friend, ₹5,100 to ₹11,000. For an extended relative, more, and for a sibling, considerably more. The published guidance spans a factor of ten, so treat any single number you are given as one person's opinion, including this one.",
+          },
+          {
+            q: "Who do I hand the envelope to?",
+            a: "At a Tamil or Telugu wedding, the person with the register at the entrance table. Elsewhere, a parent or a sibling, or the gift box. Avoid the bride herself: she is wearing about twenty kilos of clothing and has nowhere to put it.",
+          },
+          {
+            q: "What do I write on it?",
+            a: "Your name and your city or town. The city is not optional in any family that keeps a record, because your first name will not identify you in thirty years. A short blessing is welcome too.",
+          },
+          {
+            q: "Should I tip the mehendi artist?",
+            a: "Tip her, yes. Some families treat it as nek rather than a fee, but that is a household practice rather than a documented custom, and the artists themselves say South Asian clients are the ones least likely to tip. Fifteen to twenty percent is the norm they ask for.",
+          },
+          {
+            q: "Can I give a gift instead of cash?",
+            a: "At most Hindu weddings cash is the expected thing and a gift alone reads as though you did not know. A gift alongside a smaller envelope reads warmly. Some Christian and Parsi weddings do work on wrapped gifts, and an actual registry means what it says.",
+          },
+          {
+            q: "What do I wear to the haldi?",
+            a: "Yellow, cotton, and nothing you would be sad to lose. Turmeric stains permanently and gets much further than you expect. A yellow kurta with jeans is completely fine for a casual one.",
+          },
+          {
+            q: "I cannot afford the going rate. What do I do?",
+            a: "Give what you can and turn up. If you have no previous gift history with the family there is no ledger entry to fall short of, so the pressure people describe applies much less to you than to a first cousin. Not attending is the thing that gets noticed.",
+          },
         ],
-      },
-      {
-        p: "Always ending in one, always. And if the family gave you ₹5,101 at your wedding, ₹5,101 is the floor, not the target.",
-      },
-      { h: "When to give it" },
-      {
-        p: "At the reception, usually during or just after the stage photo, handed to the couple directly or dropped in the box beside them. Not at the mehendi, not at the haldi, those are for the family, not for envelopes.",
-      },
-      { h: "Write your name on it" },
-      {
-        p: "The single most common mistake. An unmarked envelope in a stack of two hundred means the couple has no idea who to thank, and it is the reason the register exists. If you are sending a digital one, your name is already on it, which is one small advantage.",
       },
     ],
   },

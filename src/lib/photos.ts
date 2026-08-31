@@ -67,6 +67,21 @@ export const PHOTOS: Record<string, Photo> = {
     licence: "CC BY 2.0",
     page: "https://commons.wikimedia.org/wiki/File:Rakhi_shopping_Raksha_Bandhan_Hindu_festival.jpg",
   },
+
+  hariyaliTeej: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hariyali_Teej.jpg/1280px-Hariyali_Teej.jpg",
+    alt: "Women dressed for Hariyali Teej",
+    by: "Archies2804",
+    licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Hariyali_Teej.jpg",
+  },
+  teeyanGiddha: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Giddha_dance_Teeyan_Punjab_Teej_India.jpg/1280px-Giddha_dance_Teeyan_Punjab_Teej_India.jpg",
+    alt: "Giddha danced at Teeyan, the Punjabi Teej",
+    by: "University of the Fraser Valley",
+    licence: "CC BY 2.0",
+    page: "https://commons.wikimedia.org/wiki/File:Giddha_dance_Teeyan_Punjab_Teej_India.jpg",
+  },
 };
 
 export const photo = (key: string): Photo | null => PHOTOS[key] ?? null;
