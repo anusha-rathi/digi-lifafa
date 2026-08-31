@@ -343,3 +343,20 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .lf-arrive { animation: none; }
 }
+
+/* Anchor jumps must not land under the sticky header. Its height is not a
+   constant: the nav wraps to a second row under about 640px, and on a blog
+   post the contents bar adds roughly 36px more. Contents.tsx measures the real
+   header and writes --hdr; this fallback is what applies before hydration and
+   with JS off, sized for the desktop bar. */
+.prose h2,
+.prose h3 {
+  scroll-margin-top: calc(var(--hdr, 4.5rem) + 1rem);
+}
+
+/* The reading-progress fill. Scaled per frame from Contents.tsx, deliberately
+   not a transition, so prefers-reduced-motion has nothing to suppress. */
+.toc-fill {
+  transform-origin: left;
+  transform: scaleX(0);
+}
