@@ -146,6 +146,144 @@ export const POSTS: Post[] = [
     ],
   },
   {
+    slug: "kajari-teej-guide",
+    title: "Kajari Teej: the fast does not break at sunset",
+    date: "2026-08-31",
+    updated: "31 August 2026",
+    tag: "Festivals",
+    art: "teej",
+    excerpt:
+      "Kajari Teej 2026 is Monday 31 August. Every page tells you the tithi. Almost none tells you the one thing that catches people out, which is when you are actually allowed to eat.",
+    body: [
+      {
+        p: "Here is the part that catches people out, usually at about seven in the evening. You have not had water since before sunrise. The sun goes down. Everyone around you who has kept some other vrat this year is eating. And you cannot, because this one does not end at sunset. It ends when the moon comes up.",
+      },
+      {
+        p: "Kajari Teej falls in the dark fortnight. That is the whole problem. In the dark fortnight the moon rises late, and on Kajari it can be well after nine. So the fast that looked like a normal day-long fast when you started it in the morning turns out to have a few more hours in it than you planned for.",
+      },
+      {
+        p: "This page covers that, and the rest of it: what the neem branch is doing there, what you break the fast with and why it is specifically that, which Teej this even is, and the bit almost every page gets wrong about the katha.",
+      },
+      {
+        note: "Kajari Teej 2026 is Monday 31 August. Bhadrapada Krishna Tritiya, which runs from 09:35 on 30 August to 08:50 on 31 August.",
+      },
+
+      { h: "Which Teej is this" },
+      {
+        p: "There are three, they are all named Teej, they all fall in the monsoon, and being told “it’s Teej” tells you almost nothing. This is the one in the middle.",
+      },
+      {
+        table: {
+          head: ["", "When", "What it is like"],
+          rows: [
+            [
+              "Hariyali Teej",
+              "Shravana, shukla tritiya",
+              "Green, swings, new bangles. The happy one.",
+            ],
+            [
+              "Kajari Teej",
+              "Bhadrapada, krishna tritiya",
+              "Named for the kajri songs, which are about missing somebody. Nirjala, and the moon decides when you eat.",
+            ],
+            [
+              "Hartalika Teej",
+              "Bhadrapada, shukla tritiya",
+              "The strict one. Nirjala plus a night vigil, and the sand-linga story.",
+            ],
+          ],
+        },
+      },
+      {
+        p: "Kajari is kept mostly across Bundelkhand, eastern Uttar Pradesh, Bihar and Rajasthan. If your family does not do it, that is not an oversight. It is geography.",
+      },
+
+      { h: "The fast" },
+      {
+        p: "Nirjala, so no food and no water, through the day and through the night until the moon. Plenty of people keep it phalahari instead, on fruit and water, and that is a normal accommodation rather than a lesser version.",
+      },
+      {
+        p: "When the moon is up you offer arghya: water with milk, roli and akshat, poured towards the moon three times, usually from a copper vessel. That is the gate. Water after that, not before.",
+      },
+      {
+        p: "Moonrise moves by city and by a fair margin across India, so look it up for where you actually are. We are not going to print one time here and let somebody in Jaipur break their fast on Patna’s moon.",
+      },
+
+      { h: "The neem branch" },
+      {
+        p: "A neem branch is set up and worshipped as Neemdi Mata, and it is Parvati. It gets water, roli, rice and flowers, the same as an image would. Some households use a Shiva-Parvati image instead and nothing is lost.",
+      },
+      {
+        p: "The neem is not incidental. It is the monsoon, everything is damp, and neem in folk practice is the thing you reach for against heat, infection and skin trouble. A tree that keeps you well, worshipped in the month you are most likely to fall ill.",
+      },
+
+      { h: "Sattu, and why it is sattu" },
+      {
+        p: "You break it with sattu before anything else. Roasted flour, ghee and jaggery. Grierson recorded that exact preparation in 1885, which is worth sitting with: the thing your family hands you tonight is the same thing somebody was handed a hundred and forty years ago, in the same month, for the same reason.",
+      },
+      {
+        p: "There is not one sattu. Depending on where you are it is made from gehun, jau, chana, maida or chawal, and every household will tell you theirs is the correct one.",
+      },
+      {
+        p: "The reason it is sattu and not, say, puri, is that it is the sensible thing to put into a body that has had nothing for eighteen hours. Roasted flour with fat and sugar in it, no cooking, nothing to sit heavily. Then the rest of the food afterwards.",
+      },
+      {
+        p: "In Bundelkhand the cows are fed first: chapatis with ghee and jaggery, gau puja, and only then the household eats.",
+      },
+
+      { h: "What almost every page gets wrong" },
+      {
+        p: "Search for Kajari Teej and you will be given a vrat katha about a poor brahmin’s wife and a moneylender, printed as though it came out of a Purana.",
+      },
+      {
+        p: "It did not. Kajari Teej has no Puranic katha of its own. The stories in circulation are folk narratives, carried orally and then in printed pamphlets, and they cannot be traced to scripture. The scriptural story underneath all of this is Parvati’s penance to win Shiva, from the Rudra Samhita of the Shiva Purana, and it belongs to all three Teejs rather than to this one.",
+      },
+      {
+        p: "This is not a reason to stop telling the story. Folk tradition is tradition. It is a reason not to let anybody tell you that you have kept the vrat wrong because you heard a different version, because there is no authorised version to be wrong about.",
+      },
+
+      { h: "Where the money comes in" },
+      {
+        p: "Kajari sits inside the same season as sindhara, the set of things a mother sends her married daughter for Teej, and the money that goes with it. We wrote that up separately in the Teej sindhara guide, which covers who sends what and roughly how much, rather than repeating it here.",
+      },
+      {
+        p: "The one thing worth saying twice: whatever the amount, it ends in a one. ₹501, ₹1,101. Even figures are what you hand over at a funeral.",
+      },
+
+      { h: "What this page does not know" },
+      {
+        ul: [
+          "Moonrise where you are. It genuinely varies and a single national time would be wrong for most people reading this.",
+          "Whether the sattu preparation is called bara in your family. We could not find that word in any of the nine sources we read, though it may well be a Marwari or household term.",
+          "How Kajari is kept in the parts of India where it is not kept at all, which is most of them. Everything here is Bundelkhand, eastern UP, Bihar and Rajasthan.",
+          "Whether any of the folk kathas is older than the others. Nobody has dated them, us included.",
+        ],
+      },
+
+      { h: "Questions people actually ask next" },
+      { p: "Can I drink water at sunset if the moon has not come up yet?" },
+      {
+        p: "Not if you are keeping it nirjala. The arghya to the moon is the thing that ends it, not the sunset. If you cannot manage that, keep it phalahari from the start rather than breaking a nirjala fast halfway.",
+      },
+      { p: "It is cloudy and I cannot see the moon." },
+      {
+        p: "Households handle this differently and there is no single ruling. Some go by the panchang time for moonrise whether or not it is visible, some wait for a break in the cloud. Ask the oldest woman in your house, and whatever she says is the answer for your family.",
+      },
+      { p: "Do unmarried women keep it?" },
+      {
+        p: "In most places it is married women, and in some families unmarried girls keep it too. Hartalika is the one more commonly kept by both.",
+      },
+      { p: "Is Kajari Teej the same as Kajri Teej?" },
+      {
+        p: "Yes. Also Kajali Teej, also Badi Teej in some places. Same day, same fast.",
+      },
+      { p: "I am not there and I want to send my mother something." },
+      {
+        p: "Send it before the moon, not after. The whole day she is not eating and not drinking, and something arriving in the evening lands differently than something arriving the next morning when it has become admin.",
+      },
+    ],
+  },
+  {
     slug: "teej-sindhara-guide",
     title: "Teej: the sindhara, and which Teej you actually mean",
     date: "2026-08-25",
