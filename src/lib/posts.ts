@@ -167,7 +167,7 @@ export const POSTS: Post[] = [
         p: "That is the part people get caught by. The rest of this page is the part nobody writes down at all: what the decorated thing in the katordan actually is, who it was made by and why it came from your mayka, what the little pond of mud against your wall is doing there, and what you are supposed to see in it.",
       },
       {
-        note: "Kajari Teej 2026 is Monday 31 August. Bhadrapada krishna tritiya, which runs from 09:35 on 30 August to 08:50 on 31 August. It is also called Kajali Teej, Badi Teej and Satudi Teej, and that last name is a clue about what matters most.",
+        note: "Kajari Teej 2026 is Monday 31 August, Bhadrapada krishna tritiya. If you never want to look it up again: it is three days after Rakhi. Panchangs disagree on the exact start and end of the tithi, some giving 09:35 to 08:50 and others 21:39 to 20:53, but they all land the festival on the same day. It is also called Kajali Teej, Badi Teej and Satudi Teej, and that last name is the clue about what matters most.",
       },
 
       { h: "Which Teej this is" },
@@ -200,6 +200,20 @@ export const POSTS: Post[] = [
         p: "The Kajari complex that follows here, the talai and Neemdi Mata and the bara, is Marwari and Rajasthani. That is worth saying at the top, because a lot of pages present it as pan-north-Indian and it is not. More on that further down.",
       },
 
+      { h3: "Why two panchangs print two different months" },
+      {
+        p: "If you have seen this called Shravana krishna tritiya somewhere else, nobody is wrong. A Hindu month has a bright fortnight and a dark one, and everybody agrees on that. What India has never agreed on is where to cut the month.",
+      },
+      {
+        p: "Most of the north cuts at the full moon. The west and south cut at the new moon. For a bright fortnight this makes no difference at all: it falls in the same month either way. For a dark fortnight it makes a month of difference, because one system is seeing the beginning of a month and the other is seeing the end of the previous one.",
+      },
+      {
+        p: "Kajari is the only one of the three Teejs in a dark fortnight. So it is the only one that gets two names for one day, and the only one people quietly mis-shelve. Hariyali and Hartalika are both bright-fortnight and nobody argues about them.",
+      },
+      {
+        p: "This is not a modern muddle either. Kane records the split inside his own entry for the festival, four hundred years ago.",
+      },
+
       { h: "The talai, and the pond it is standing in for" },
       {
         p: "In the morning, against a wall, you build a small pond out of mitti or gobar. Sticky clay, kneaded stiff like atta, with a little haldi and kumkum worked into it. You raise a border all the way round and press it hard, because it has to hold liquid for a whole evening. On one side of the rim you shape a seat for the diya.",
@@ -228,10 +242,7 @@ export const POSTS: Post[] = [
         p: "Neemdi gets roli, haldi, akshat, flowers. Then mehendi, kajal, bangles, a bindi, a red chunri. Kalava tied round the twig as her clothing. Haldi specifically because, as one of them puts it, haldi is a suhaag ka soochak.",
       },
       {
-        p: "On the wall behind, a plain sheet of paper is stuck up with mehendi, and it gets a swastik in roli and then thirteen tikkis each of roli, mehendi and kajal. A tiny jhoola is made on it out of lachcha thread, also stuck down with mehendi.",
-      },
-      {
-        p: "That paper is not thrown away. It stays on the wall for a year, and it comes down when next year’s goes up.",
+        p: "On the wall behind, a sheet of paper goes up, stuck with mehendi, and takes a swastik in roli and thirteen tikkis each of roli, mehendi and kajal, plus a tiny jhoola made of lachcha thread. It stays there for a year and comes down when next year’s goes up.",
       },
 
       { h: "The bara" },
@@ -250,16 +261,10 @@ export const POSTS: Post[] = [
 
       { h3: "How it is actually made" },
       {
-        p: "The grain is bought unpolished. It is monsoon, so it does not get washed, it gets wiped with a damp cotton cloth and spread out under a fan overnight. Dhoop ho toh dho ke sukha do.",
+        p: "The grain is bought unpolished, and because it is monsoon it does not get washed, it gets wiped with a damp cloth and spread under a fan overnight. Then each grain is dry-roasted separately, low flame, small batches. Chana dal is the difficult one and will blacken and turn bitter if you walk away; gehun tells you it is ready by crackling. Two and a half kilos takes about two hours, and the burnt grains get picked out.",
       },
       {
-        p: "Then each grain is dry-roasted separately, low flame, small batches, in a deep kadhai. Chana dal is the difficult one and it will stick and blacken and turn bitter if you walk away. Gehun tells you it is ready by crackling. Two and a half kilos takes about two hours, and the blackened grains get picked out and thrown.",
-      },
-      {
-        p: "Roast, then grind. Not the other way round. Somebody asked her in the comments and she came back to correct it. And grind it dardara, coarse, so it does not glue itself to the roof of your mouth.",
-      },
-      {
-        p: "Then boora, crushed elaichi, and warm ghee worked in by hand in stages. There is no fixed ghee measurement anywhere and there was never going to be one. Jab laddu banne lag jaaye, tab samajh lo ghee perfect hai.",
+        p: "Roast, then grind. Not the other way round, and somebody asked her in the comments so she came back to correct it. Grind it dardara, coarse, so it does not glue itself to the roof of your mouth. Then boora, crushed elaichi, and warm ghee worked in by hand in stages. There is no fixed ghee measurement and there was never going to be one. Jab laddu banne lag jaaye, tab samajh lo ghee perfect hai.",
       },
       {
         p: "Then thapna: it is pressed by hand into a katordan, the round lidded tin, and set as a disc rather than moulded. Alongside it you make batliyan, five small ones, ek pooja ki aur chaar baantne ke liye.",
@@ -302,10 +307,7 @@ export const POSTS: Post[] = [
 
       { h: "Looking into the water" },
       {
-        p: "This is the part of Kajari Teej that no English page carries, and it is the reason to keep the festival.",
-      },
-      {
-        p: "The diya on the rim of the talai is made with a long batti on purpose, because after the puja you sit and look at the reflections in the milk-water. One at a time. And you say something to each one.",
+        p: "The diya on the rim is made with a long batti on purpose, because after the puja you sit and look at the reflections in the milk-water. One at a time, and you say something to each one.",
       },
       {
         p: "Talai mein nimbu dikhyo, dikhyo jaiso tootyo. The lemon appeared to me, and may it appear the same way when it breaks.",
@@ -367,13 +369,49 @@ export const POSTS: Post[] = [
       },
       { h3: "The katha everybody prints is not scripture" },
       {
-        p: "Search for this festival and you will be handed a vrat katha about a poor brahmin’s wife and a moneylender, laid out as though it came out of a Purana.",
+        p: "Search for this festival and you get a vrat katha about a poor brahmin\u2019s wife and a moneylender, laid out as though it came out of a Purana. It did not, and this is checkable rather than a matter of opinion.",
       },
       {
-        p: "It did not. Kajari Teej has no Puranic katha of its own. The stories going round are folk narrative, carried orally and then in printed pamphlets, and they do not trace back to a text. The scriptural story underneath all three Teejs is Parvati’s penance for Shiva, from the Rudra Samhita of the Shiva Purana, and it belongs to all three rather than to this one.",
+        p: "P. V. Kane\u2019s History of Dharmasastra catalogues around eleven hundred vratas and names the text each one comes from. The entry for Kajjali exists. It cites the Nirnayasindhu, a legal digest of 1612, and a manuscript from the 1760s. It cites no Purana.",
       },
       {
-        p: "This is not a reason to stop telling it. Folk tradition is tradition, and a story that has survived on being retold is doing something a citation cannot. It does mean that when somebody tells you your family’s version is the wrong one, there is no authorised version for them to be measuring it against.",
+        p: "That absence is the argument, because on the same page the entries around it read \u201cfrom Brahma\u201d, \u201cfrom Bhavishya\u201d, \u201cfrom Skanda\u201d. Naming the Purana is what Kane does. For this one there is nothing to name. And searching twenty Puranas for the word turns up kajjala every time, meaning kohl, the thing you line your eyes with.",
+      },
+      {
+        p: "Two things in Kane\u2019s one line are worth sitting with. That 1612 digest says the day is well known in Madhyadesh, the doab, not in Rajasthan. And it says the puja is to Vishnu. Not Shiva, not Parvati. The Shiv-Parvati framing that every article gives you is not in the oldest text that names the day.",
+      },
+      {
+        p: "It gets stranger going forward rather than back. William Crooke spent a career writing down folk practice in eastern UP, and he mentions Kajari twice in 1896, both times as a rowdy monsoon festival in the same breath as Holi, known for ribaldry. Not a fast. Not a women\u2019s vrat at all.",
+      },
+      {
+        p: "So the suhaag vrat may well be the newest layer on this day rather than the oldest one.",
+      },
+      {
+        p: "And Kajari is not even a special case. Kane says Hartalika is missing from the twelfth and thirteenth century compendia too and only turns up in digests from the 1600s. Only Hariyali reaches Hemadri in the thirteenth. The whole Teej cycle is late, and Kajari is the latest and thinnest of the three.",
+      },
+      {
+        p: "Look at the moneylender story again with that in mind and it starts telling on itself. The wife sends her husband for sava kilo of chana dal. A kilogram. Puranas do not weigh their offerings in metric. And the man he robs is a sahukar with a shop, a stock and night-watchmen, and the story turns on him choosing mercy over the law. That is not scripture. That is a story about credit, told in a Marwari trading town.",
+      },
+      {
+        p: "None of which makes it worth less. It makes it the story the festival grew itself, in the mouths of the women keeping it, and it means nobody has an authorised version to tell you your family\u2019s is wrong against.",
+      },
+
+      { h3: "Who has actually written this down" },
+      {
+        p: "The name turns up in English in 1832. James Tod, in the Annals and Antiquities of Rajasthan, writes of \u201cthe Kajri Tij\u201d at Bundi, the day on which a Rajput must visit his wife, and the vassals were sent home to keep it.",
+      },
+      {
+        p: "Grierson gets the practice fifty-three years later. Bihar Peasant Life, 1885, entry 1443: women fast a day and a night on the third of Bhadon in honour of Parbati and eat sattu the next day. He never uses the name Kajari, and he does not say which fortnight, but he numbers the days elsewhere in the same book in a way that settles it. He calls the new moon the fifteenth of Bhadon, so his month starts at the full moon, so his third is the dark third. It is our day.",
+      },
+      {
+        p: "That is the whole documented history in English: a name in 1832 and a fast with sattu in 1885. Everything else has come down the way this kind of thing usually does.",
+      },
+
+      {
+        h3: "Bundi and Jaipur have been arguing about this for two hundred years",
+      },
+      {
+        p: "Jaipur keeps Hariyali Teej. Bundi keeps Kajli Teej a fortnight later, with its own royal procession, and the Bundi story is that the golden Teej idol was taken from Jaipur\u2019s and brought here. Locals put it more directly: Bundi mein asli, Jaipur mein nakli. Tod, writing in the 1820s without telling any of that, happens to place both of the men the legend names at the Bundi Teej in person, in the right generation. The fair still runs for two weeks, and the government tourism listing puts it on Bhadrapada krishna tritiya, which is one more place English Wikipedia has it wrong.",
       },
 
       { h: "The songs it is named after" },
@@ -381,15 +419,15 @@ export const POSTS: Post[] = [
         p: "Kajri are monsoon songs, and the register is domestic and teasing rather than devotional. One of the standards being sung at the Varanasi festival is Saiyan mile larkaiya, which is a wife complaining that her husband is a boy.",
       },
       {
-        p: "Where the name comes from is not settled either. A singer at the Chunar Kajri Mahotsav traces it to Kajla Devi, a name of Vindhyavasini, and then lists what the songs are actually about: sanyog hai, viyog hai, jhoola hai. Union, separation, the swing. The other explanation you will hear is simply that kajri means black, for the clouds.",
+        p: "Where the name comes from is not settled. A singer at the Chunar Kajri Mahotsav traces it to Kajla Devi, a name of Vindhyavasini, and then says what the songs are about: sanyog hai, viyog hai, jhoola hai. The other explanation is simply that kajri means black, for the clouds.",
       },
       {
-        p: "They are not gone. Chunar had around seven hundred women singing in 2026 under Urmila Srivastava, who has a Padma Shri for this. But a woman in Varanasi says the plainer thing on camera: ab log TV, mobile mein busy ho gaye, yeh sab chhootti jaa rahi hai.",
+        p: "They are not gone. Chunar had around seven hundred women singing in 2026. But a woman in Varanasi says the plainer thing on camera: ab log TV, mobile mein busy ho gaye, yeh sab chhootti jaa rahi hai.",
       },
 
       { h: "Where the money comes in" },
       {
-        p: "Kajari sits in the same season as sindhara, the set of things a mother sends her married daughter for Teej, and the cash that travels with it. That is written up separately in the Teej sindhara guide rather than repeated here.",
+        p: "Sindhara, the ghevar and gujiya and cash a mother sends her married daughter, belongs to Hariyali Teej and to Sawan. It is written up separately in the Teej sindhara guide. Kajari has its own thing going the other way, the bayna, which the daughter gives to her saas.",
       },
       {
         p: "The one thing worth saying twice: whatever the amount, it ends in a one. 501, 1,101, 2,101. Even numbers are what gets handed over at a funeral.",
