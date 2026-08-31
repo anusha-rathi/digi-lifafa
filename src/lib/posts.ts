@@ -148,30 +148,31 @@ export const POSTS: Post[] = [
   },
   {
     slug: "kajari-teej-guide",
-    title: "Kajari Teej: the fast does not break at sunset",
+    title:
+      "Kajari Teej: the bara, the talai, and why the fast does not break at sunset",
     date: "2026-08-31",
     updated: "31 August 2026",
     tag: "Festivals",
     art: "teej",
     excerpt:
-      "Kajari Teej 2026 is Monday 31 August. Every page tells you the tithi. Almost none tells you the one thing that catches people out, which is when you are actually allowed to eat.",
+      "Kajari Teej 2026 is Monday 31 August. Every page gives you the tithi and a katha. Almost none tells you what the thing in the tin is, why there is a pond made of mud against your wall, or when you are actually allowed to eat.",
     body: [
       {
-        p: "Here is the part that catches people out, usually at about seven in the evening. You have not had water since before sunrise. The sun goes down. Everyone around you who has kept some other vrat this year is eating. And you cannot, because this one does not end at sunset. It ends when the moon comes up.",
+        p: "Somewhere around seven in the evening, somebody who has not had water since before sunrise starts eyeing the kitchen. The sun has gone down. That is usually when it is enough. Not today.",
       },
       {
-        p: "Kajari Teej falls in the dark fortnight. That is the whole problem. In the dark fortnight the moon rises late, and on Kajari it can be well after nine. So the fast that looked like a normal day-long fast when you started it in the morning turns out to have a few more hours in it than you planned for.",
+        p: "Kajari Teej falls in the krishna paksh, and in the dark fortnight the chaand comes up late. Nine, sometimes later. So a vrat that felt like a normal day-long fast at 6am turns out to have three more hours in it than anybody warned you about.",
       },
       {
-        p: "This page covers that, and the rest of it: what the neem branch is doing there, what you break the fast with and why it is specifically that, which Teej this even is, and the bit almost every page gets wrong about the katha.",
+        p: "That is the part people get caught by. The rest of this page is the part nobody writes down at all: what the decorated thing in the katordan actually is, who it was made by and why it came from your mayka, what the little pond of mud against your wall is doing there, and what you are supposed to see in it.",
       },
       {
-        note: "Kajari Teej 2026 is Monday 31 August. Bhadrapada Krishna Tritiya, which runs from 09:35 on 30 August to 08:50 on 31 August.",
+        note: "Kajari Teej 2026 is Monday 31 August. Bhadrapada krishna tritiya, which runs from 09:35 on 30 August to 08:50 on 31 August. It is also called Kajali Teej, Badi Teej and Satudi Teej, and that last name is a clue about what matters most.",
       },
 
-      { h: "Which Teej is this" },
+      { h: "Which Teej this is" },
       {
-        p: "There are three, they are all named Teej, they all fall in the monsoon, and being told “it’s Teej” tells you almost nothing. This is the one in the middle.",
+        p: "There are three. They are all called Teej, they all sit in the monsoon, and being told “it’s Teej” narrows it down to almost nothing. This is the middle one.",
       },
       {
         table: {
@@ -180,107 +181,255 @@ export const POSTS: Post[] = [
             [
               "Hariyali Teej",
               "Shravana, shukla tritiya",
-              "Green, swings, new bangles. The happy one.",
+              "Green, jhoolas, new bangles. The light one.",
             ],
             [
               "Kajari Teej",
               "Bhadrapada, krishna tritiya",
-              "Named for the kajri songs, which are about missing somebody. Nirjala, and the moon decides when you eat.",
+              "Named after the kajri, which are songs about missing somebody. Nirjala, and the moon decides when you eat.",
             ],
             [
               "Hartalika Teej",
               "Bhadrapada, shukla tritiya",
-              "The strict one. Nirjala plus a night vigil, and the sand-linga story.",
+              "The strictest. Nirjala plus a night vigil, and the sand-linga story.",
             ],
           ],
         },
       },
       {
-        p: "Kajari is kept mostly across Bundelkhand, eastern Uttar Pradesh, Bihar and Rajasthan. If your family does not do it, that is not an oversight. It is geography.",
+        p: "The Kajari complex that follows here, the talai and Neemdi Mata and the bara, is Marwari and Rajasthani. That is worth saying at the top, because a lot of pages present it as pan-north-Indian and it is not. More on that further down.",
       },
 
-      { h: "The fast" },
+      { h: "The talai, and the pond it is standing in for" },
       {
-        p: "Nirjala, so no food and no water, through the day and through the night until the moon. Plenty of people keep it phalahari instead, on fruit and water, and that is a normal accommodation rather than a lesser version.",
+        p: "In the morning, against a wall, you build a small pond out of mitti or gobar. Sticky clay, kneaded stiff like atta, with a little haldi and kumkum worked into it. You raise a border all the way round and press it hard, because it has to hold liquid for a whole evening. On one side of the rim you shape a seat for the diya.",
       },
       {
-        p: "When the moon is up you offer arghya: water with milk, roli and akshat, poured towards the moon three times, usually from a copper vessel. That is the gate. Water after that, not before.",
+        p: "It has to be built in the morning. If it is still damp by evening the milk seeps out through the base and you spend the puja mopping.",
       },
       {
-        p: "Moonrise moves by city and by a fair margin across India, so look it up for where you actually are. We are not going to print one time here and let somebody in Jaipur break their fast on Patna’s moon.",
-      },
-
-      { h: "The neem branch" },
-      {
-        p: "A neem branch is set up and worshipped as Neemdi Mata, and it is Parvati. It gets water, roli, rice and flowers, the same as an image would. Some households use a Shiva-Parvati image instead and nothing is lost.",
+        p: "This is called the talai, or nadi in Marwari, and once somebody tells you what it is for it stops looking like a craft project. Ek Jodhpur wali ne apne video mein bilkul theek kaha: talai is a copy of a talaab, and women used to go to an actual pond to do this puja. Sheher mein talaab kahaan se laayein. So the pond comes to the house.",
       },
       {
-        p: "The neem is not incidental. It is the monsoon, everything is damp, and neem in folk practice is the thing you reach for against heat, infection and skin trouble. A tree that keeps you well, worshipped in the month you are most likely to fall ill.",
-      },
-
-      { h: "Sattu, and why it is sattu" },
-      {
-        p: "You break it with sattu before anything else. Roasted flour, ghee and jaggery. Grierson recorded that exact preparation in 1885, which is worth sitting with: the thing your family hands you tonight is the same thing somebody was handed a hundred and forty years ago, in the same month, for the same reason.",
+        p: "Into it goes kaccha doodh, unboiled, and water. Not panchamrit, which turns up in the generic samagri lists that news channels read out and in almost none of the households actually filming themselves do this. If your family adds it, add it. Raw milk is what the Marwari practice uses.",
       },
       {
-        p: "There is not one sattu. Depending on where you are it is made from gehun, jau, chana, maida or chawal, and every household will tell you theirs is the correct one.",
+        p: "A neem twig is broken off and planted, either into the clay at the edge or into a small pot packed with gobar beside it. One thing worth being clear about, because it is easy to get backwards: the neem tree is not being worshipped. The twig is an instrument in this puja, not the object of it.",
       },
       {
-        p: "The reason it is sattu and not, say, puri, is that it is the sensible thing to put into a body that has had nothing for eighteen hours. Roasted flour with fat and sugar in it, no cooking, nothing to sit heavily. Then the rest of the food afterwards.",
-      },
-      {
-        p: "In Bundelkhand the cows are fed first: chapatis with ghee and jaggery, gau puja, and only then the household eats.",
+        p: "Neemdi Mata is the twig, or a plain clay pindi seated beside it, or, if somebody in the house has the hands for it, a modelled clay figure with a pinched nose and jhumke, dried through the afternoon and painted. All three are normal.",
       },
 
-      { h: "What almost every page gets wrong" },
+      { h: "What she is dressed in" },
       {
-        p: "Search for Kajari Teej and you will be given a vrat katha about a poor brahmin’s wife and a moneylender, printed as though it came out of a Purana.",
+        p: "This is the part that gets under your skin a little. A woman keeping a fast for her marriage spends the afternoon doing somebody else’s shringar.",
       },
       {
-        p: "It did not. Kajari Teej has no Puranic katha of its own. The stories in circulation are folk narratives, carried orally and then in printed pamphlets, and they cannot be traced to scripture. The scriptural story underneath all of this is Parvati’s penance to win Shiva, from the Rudra Samhita of the Shiva Purana, and it belongs to all three Teejs rather than to this one.",
+        p: "Neemdi gets roli, haldi, akshat, flowers. Then mehendi, kajal, bangles, a bindi, a red chunri. Kalava tied round the twig as her clothing. Haldi specifically because, as one of them puts it, haldi is a suhaag ka soochak.",
       },
       {
-        p: "This is not a reason to stop telling the story. Folk tradition is tradition. It is a reason not to let anybody tell you that you have kept the vrat wrong because you heard a different version, because there is no authorised version to be wrong about.",
+        p: "On the wall behind, a plain sheet of paper is stuck up with mehendi, and it gets a swastik in roli and then thirteen tikkis each of roli, mehendi and kajal. A tiny jhoola is made on it out of lachcha thread, also stuck down with mehendi.",
+      },
+      {
+        p: "That paper is not thrown away. It stays on the wall for a year, and it comes down when next year’s goes up.",
+      },
+
+      { h: "The bara" },
+      {
+        p: "The thick pale disc in the metal tin, ringed with badam and kaju, a silver varak in the middle. Bara, or baro. Also pinda, or sattu pinda, and the same person will use both words in one sentence.",
+      },
+      {
+        p: "Kajari Teej’s other name is Satudi Teej. The festival is named after this. That should tell you where it sits.",
+      },
+      {
+        p: "Here is the thing about it that changes how the whole day reads. You did not make it. It was made in your mayka and sent to you, tied up in red cloth with a moli round it, and this evening you will break an eighteen-hour fast on food from your mother’s house.",
+      },
+      {
+        p: "And which grain it is made of tells you who it is for. Chana dal ka bara goes to the daughter. Chawal ka bara goes to the jawai. Gehun becomes laddus for the children. Ek hi kitchen se teen alag cheezein, teen alag logon ke liye.",
+      },
+
+      { h3: "How it is actually made" },
+      {
+        p: "The grain is bought unpolished. It is monsoon, so it does not get washed, it gets wiped with a damp cotton cloth and spread out under a fan overnight. Dhoop ho toh dho ke sukha do.",
+      },
+      {
+        p: "Then each grain is dry-roasted separately, low flame, small batches, in a deep kadhai. Chana dal is the difficult one and it will stick and blacken and turn bitter if you walk away. Gehun tells you it is ready by crackling. Two and a half kilos takes about two hours, and the blackened grains get picked out and thrown.",
+      },
+      {
+        p: "Roast, then grind. Not the other way round. Somebody asked her in the comments and she came back to correct it. And grind it dardara, coarse, so it does not glue itself to the roof of your mouth.",
+      },
+      {
+        p: "Then boora, crushed elaichi, and warm ghee worked in by hand in stages. There is no fixed ghee measurement anywhere and there was never going to be one. Jab laddu banne lag jaaye, tab samajh lo ghee perfect hai.",
+      },
+      {
+        p: "Then thapna: it is pressed by hand into a katordan, the round lidded tin, and set as a disc rather than moulded. Alongside it you make batliyan, five small ones, ek pooja ki aur chaar baantne ke liye.",
+      },
+      {
+        table: {
+          head: ["", "A Jodhpur bara, per 1.25 kg", "A Maheshwari samaj pinda"],
+          rows: [
+            [
+              "Flour",
+              "700 g coarse roasted chana dal",
+              "3 cups roasted chana dal",
+            ],
+            ["Sugar", "300 g boora", "1.5 cups, half the flour"],
+            ["Ghee", "250 g, melted and lukewarm", "0.75 cup, half the sugar"],
+          ],
+        },
+      },
+      {
+        p: "The measure is sava, one and a quarter. Sava kilo for a full one, sava pav for a small one. One woman turned three kilos of dal into two big baras, two small ones and a set of batliyan, and it took her five hours.",
+      },
+
+      { h3: "The decoration is a vocabulary, not a free hand" },
+      {
+        ul: [
+          "Silver varak, laid on a round gota first and then pressed into the centre. Where there is no gota, a supari sits in the middle instead.",
+          "A silver coin set into it. In Jodhpur that is standard, and some people use gold.",
+          "A whole dried gola in the middle, and dip it in ghee before it goes on. A dry coconut will quietly pull the ghee out of all the sattu around it.",
+          "Badam and kaju set in rings, with a single pista between each pair.",
+          "Laung and elaichi, and these are not optional. One woman gives her grandmother’s reason: laung buri shaktiyon ko door rakhta hai.",
+          "A swastik, drawn from the outside in. You do not cut through the middle of it.",
+          "Kesar soaked in a little water, a bindi of it at the centre, then flicked across the whole surface. Khushboo bhi aa jaati hai.",
+          "Colour, if you want it, let down with melted ghee. Never with water.",
+          "Flowers and leaves modelled out of the sattu dough itself, rolled thin on ghee-smeared polythene and scored with a knife.",
+        ],
+      },
+      {
+        p: "Everything about that list says it is going to be looked at before it is eaten, which is exactly what happens.",
+      },
+
+      { h: "Looking into the water" },
+      {
+        p: "This is the part of Kajari Teej that no English page carries, and it is the reason to keep the festival.",
+      },
+      {
+        p: "The diya on the rim of the talai is made with a long batti on purpose, because after the puja you sit and look at the reflections in the milk-water. One at a time. And you say something to each one.",
+      },
+      {
+        p: "Talai mein nimbu dikhyo, dikhyo jaiso tootyo. The lemon appeared to me, and may it appear the same way when it breaks.",
+      },
+      {
+        p: "Lemon first, everyone agrees on that. Then kakdi, then fruit, then the neem, then the flame itself, a string of moti, the nath, the maang tika, the mangalsutra, your bangles, the mehendi on your hands, the pallu of what you are wearing. In some houses two women sit facing each other and do it as call and response.",
+      },
+      {
+        p: "How many times each is not settled. One Marwari version does four, another household films themselves doing seven, and seven takes a while: kaafi time lag jaata hai pooja mein.",
+      },
+      {
+        p: "There is a counting rule that only one source mentions and it is the best small thing here. The number of things you look at has to come out even. Agar ek kam pad gaya, ek phool add kar lo, ek moti, koi bhi fruit. Number mein hi dekhna hota hai.",
+      },
+      {
+        p: "What it means is the same everywhere. As these appear to me tonight, may they still be mine on the last day.",
+      },
+
+      { h: "Breaking it" },
+      {
+        p: "Before any of that, at the other end of the day: dhamodi, a meal before sunrise. It is the same idea as sargi on karwa chauth. Mithai and fruit, and then nothing.",
+      },
+      {
+        p: "In the evening, after the katha, the arghya. The same lota that sat through the story, with moli at the neck, a swastik, thirteen roli tikkis, and the thirteen wheat grains you were holding dropped into it. Water poured towards the moon, roli and akshat offered, and then four turns in place. Sone ki saankli, motiyon ka haar, chaand ne arak deta, jeevo veer bhartaar.",
+      },
+      {
+        p: "Then the bara. And here is a rule about the words, not the food: it is never cut, and nobody says the word cut. It is badhana, to increase, or pasna. Chaakoo se nahi kaatte.",
+      },
+      {
+        p: "A man of the house does it, husband or son or brother or a child, with a silver coin. Five pieces or seven, depending on whose house you are in. If the husband is away, the saas or the nanad does it.",
+      },
+      {
+        p: "The sattu is the first thing eaten, off an aak leaf. Then, from a little dona folded out of aak leaves, raw milk seven times and water seven times. Doodh se dhaai, suhaag se kohni dhaai. Filled with milk, never filled enough with suhaag. Then the dona is torn into four and thrown to the four directions.",
+      },
+      {
+        p: "There is a real split on what technically breaks it. The recipe and vidhi channels say the sattu, first, before anything. The vlogs and the TV bulletins show water from the husband’s hand, karwa chauth style. Both are happening in real houses.",
+      },
+      {
+        p: "And the bayna: a small sattu, a blouse piece or a saree, shringar samagri, some cash, given to the saas with a touch of her feet. No saas, then the nanad, or a Brahmani.",
+      },
+
+      { h: "What a lot of pages get wrong" },
+      { p: "Three things, and the third is the one that matters." },
+      { h3: "Bundelkhand is a different festival on a different day" },
+      {
+        p: "Bhujariya, or kajliya, is wheat sown in small bamboo baskets on Nag Panchami, watered daily and grown pale in the dark, swung on a jhoola and sung to. By Rakhi it has sprouted, and the shoots go on a brother’s ears when the thread is tied. The day after Rakshabandhan they are carried out on the head and immersed.",
+      },
+      {
+        p: "That is Bhadrapada pratipada, not krishna tritiya. The Mahoba Kajli Mela hangs off this, not off Teej. In 2026 it was the 845th, and what it commemorates is a battle in 1182. Pond, seedlings and women, so it rhymes with the talai, but it is a separate rite on a separate day.",
+      },
+      { h3: "Eastern UP keeps the day without any of this" },
+      {
+        p: "Filmed in Kashi on Kajari Teej: mehendi, bangles exchanged between women, sixteen shringar, saris sent from the sasural, a nirjala fast, Shiv and Parvati, and singing. No talai, no Neemdi Mata, no sattu, no pinda in any of it.",
+      },
+      {
+        p: "So the honest version is that several different things share this date and this name. Web pages that describe Neemdi Mata puja in UP and Bihar courtyards do not seem to have anything behind them, and Neemdi is glossed as a Marwari word by the people who keep her.",
+      },
+      {
+        p: "As for Bihar, there is kajri singing and plenty of it, but we could not find a single record of a distinct Bihari Kajari Teej ritual. So this page does not claim one.",
+      },
+      { h3: "The katha everybody prints is not scripture" },
+      {
+        p: "Search for this festival and you will be handed a vrat katha about a poor brahmin’s wife and a moneylender, laid out as though it came out of a Purana.",
+      },
+      {
+        p: "It did not. Kajari Teej has no Puranic katha of its own. The stories going round are folk narrative, carried orally and then in printed pamphlets, and they do not trace back to a text. The scriptural story underneath all three Teejs is Parvati’s penance for Shiva, from the Rudra Samhita of the Shiva Purana, and it belongs to all three rather than to this one.",
+      },
+      {
+        p: "This is not a reason to stop telling it. Folk tradition is tradition, and a story that has survived on being retold is doing something a citation cannot. It does mean that when somebody tells you your family’s version is the wrong one, there is no authorised version for them to be measuring it against.",
+      },
+
+      { h: "The songs it is named after" },
+      {
+        p: "Kajri are monsoon songs, and the register is domestic and teasing rather than devotional. One of the standards being sung at the Varanasi festival is Saiyan mile larkaiya, which is a wife complaining that her husband is a boy.",
+      },
+      {
+        p: "Where the name comes from is not settled either. A singer at the Chunar Kajri Mahotsav traces it to Kajla Devi, a name of Vindhyavasini, and then lists what the songs are actually about: sanyog hai, viyog hai, jhoola hai. Union, separation, the swing. The other explanation you will hear is simply that kajri means black, for the clouds.",
+      },
+      {
+        p: "They are not gone. Chunar had around seven hundred women singing in 2026 under Urmila Srivastava, who has a Padma Shri for this. But a woman in Varanasi says the plainer thing on camera: ab log TV, mobile mein busy ho gaye, yeh sab chhootti jaa rahi hai.",
       },
 
       { h: "Where the money comes in" },
       {
-        p: "Kajari sits inside the same season as sindhara, the set of things a mother sends her married daughter for Teej, and the money that goes with it. We wrote that up separately in the Teej sindhara guide, which covers who sends what and roughly how much, rather than repeating it here.",
+        p: "Kajari sits in the same season as sindhara, the set of things a mother sends her married daughter for Teej, and the cash that travels with it. That is written up separately in the Teej sindhara guide rather than repeated here.",
       },
       {
-        p: "The one thing worth saying twice: whatever the amount, it ends in a one. ₹501, ₹1,101. Even figures are what you hand over at a funeral.",
+        p: "The one thing worth saying twice: whatever the amount, it ends in a one. 501, 1,101, 2,101. Even numbers are what gets handed over at a funeral.",
+      },
+      {
+        p: "And if you are the one sending rather than the one receiving, send it before the moon rather than after. She has not eaten or had water all day. Something that arrives in the evening lands differently from something that arrives next morning, when it has become admin.",
       },
 
-      { h: "What this page does not know" },
+      { h: "Questions people ask" },
       {
-        ul: [
-          "Moonrise where you are. It genuinely varies and a single national time would be wrong for most people reading this.",
-          "Whether the sattu preparation is called bara in your family. We could not find that word in any of the nine sources we read, though it may well be a Marwari or household term.",
-          "How Kajari is kept in the parts of India where it is not kept at all, which is most of them. Everything here is Bundelkhand, eastern UP, Bihar and Rajasthan.",
-          "Whether any of the folk kathas is older than the others. Nobody has dated them, us included.",
+        faq: [
+          {
+            q: "Can I drink water at sunset if the moon has not come up?",
+            a: "Not if you are keeping it nirjala. The arghya to the chaand is what ends it, not the sun going down. Kajari falls in the dark fortnight so moonrise is late, often past nine. If that is too long, keep it phalahari from the morning rather than starting nirjala and breaking it halfway.",
+          },
+          {
+            q: "What time does the moon rise where I am?",
+            a: "It shifts by roughly forty minutes across the country and by a few more each night, so a Jaipur time is wrong in Patna. Check a panchang for your own city on the day. If it is cloudy, most households go by the calculated moonrise time and give arghya to the open sky.",
+          },
+          {
+            q: "Is bara the same as sattu?",
+            a: "Sattu is the roasted flour. The bara, or pinda, is what you make out of it: a thick disc pressed into a katordan and decorated. Batliyan are the small ones that go alongside, one for the puja and four to give away.",
+          },
+          {
+            q: "Who makes the bara, and who is it for?",
+            a: "It is made in the woman’s mayka and sent to her at her sasural, wrapped in red cloth and tied with moli. The grain says who each one is for: chana dal for the daughter, chawal for the jawai, gehun as laddus for the children.",
+          },
+          {
+            q: "Do unmarried women keep this fast?",
+            a: "Mostly it is married women, and in some families unmarried girls keep it too. Hartalika Teej is the one more commonly kept by both, so if you have been told to fast and are not married, check which Teej is actually meant.",
+          },
+          {
+            q: "Why can the bara not be cut?",
+            a: "Nobody in these households uses the word. It is badhana, to increase, or pasna. It is broken by a man of the house with a silver coin, into five pieces or seven depending on where you are, and if the husband is away the saas or the nanad does it.",
+          },
+          {
+            q: "My family does not do the talai or Neemdi Mata. Are we doing it wrong?",
+            a: "No. That whole complex is Marwari and Rajasthani. In eastern UP the same day is kept with mehendi, bangles, sixteen shringar and a nirjala fast and no talai at all, and Bundelkhand’s bhujariya is a different rite on a different tithi. Several things share this name.",
+          },
         ],
-      },
-
-      { h: "Questions people actually ask next" },
-      { p: "Can I drink water at sunset if the moon has not come up yet?" },
-      {
-        p: "Not if you are keeping it nirjala. The arghya to the moon is the thing that ends it, not the sunset. If you cannot manage that, keep it phalahari from the start rather than breaking a nirjala fast halfway.",
-      },
-      { p: "It is cloudy and I cannot see the moon." },
-      {
-        p: "Households handle this differently and there is no single ruling. Some go by the panchang time for moonrise whether or not it is visible, some wait for a break in the cloud. Ask the oldest woman in your house, and whatever she says is the answer for your family.",
-      },
-      { p: "Do unmarried women keep it?" },
-      {
-        p: "In most places it is married women, and in some families unmarried girls keep it too. Hartalika is the one more commonly kept by both.",
-      },
-      { p: "Is Kajari Teej the same as Kajri Teej?" },
-      {
-        p: "Yes. Also Kajali Teej, also Badi Teej in some places. Same day, same fast.",
-      },
-      { p: "I am not there and I want to send my mother something." },
-      {
-        p: "Send it before the moon, not after. The whole day she is not eating and not drinking, and something arriving in the evening lands differently than something arriving the next morning when it has become admin.",
       },
     ],
   },
@@ -756,6 +905,9 @@ export const POSTS: Post[] = [
       {
         p: "Direction matters more than the number. Shagun runs downward and outward: from older to younger, from the settled to the starting out, from the household to the people who keep it running. Giving upward, to a parent or a grandparent, is a different gesture and usually not called shagun at all.",
       },
+      {
+        p: "These bands are the ones reported most often in north and west India. Diwali gifting in Tamil Nadu, Kerala or the north-east runs on its own logic, and if that is your family, theirs is the number that counts.",
+      },
 
       { h: "When shagun is taxable" },
       {
@@ -805,7 +957,7 @@ export const POSTS: Post[] = [
 
       { h: "If you employ someone at home" },
       {
-        p: "The custom, reported consistently in practitioner threads rather than in any survey we could find, is one month's salary as the Diwali bonus for a cook, a maid, a driver or building staff. Many households pay it without deducting for leave taken during the year, which is part of the point.",
+        p: "One month's salary is the reported custom for a cook, a maid, a driver or building staff, and many households pay it without deducting for leave taken during the year, which is part of the point. Reported custom, not survey data: nobody appears to have measured it.",
       },
       {
         p: "The tax treatment here trips people up in the opposite direction to everything above, because this is not shagun. It is employment.",
@@ -851,7 +1003,7 @@ export const POSTS: Post[] = [
         },
       },
       {
-        p: "The Lakshmi Puja muhurat is usually an evening window on the main day, but it shifts by city and every panchang prints its own. Check one for where you actually are rather than trusting a single time printed as though it were national.",
+        p: "The Lakshmi Puja muhurat is an evening window on the main day, but it shifts by city and every panchang prints its own, so check one for where you actually are.",
       },
       {
         p: "Early is fine. Late is what gets noticed, particularly for Bhai Dooj, where the whole thing is a fixed day and arriving after it reads as an afterthought.",
@@ -868,36 +1020,30 @@ export const POSTS: Post[] = [
         p: "The first two are fine. The third is the reason this site exists.",
       },
 
-      { h: "What this page does not know" },
+      { h: "Questions people ask" },
       {
-        ul: [
-          "Whether the amount bands above hold outside north and west India. They are the ranges reported most often, and Diwali gifting in Tamil Nadu, Kerala or the north-east may run differently.",
-          "What household staff are actually paid as a Diwali bonus in 2026. One month's salary is consistently reported custom, but we found no survey, and reported custom is not measured data.",
-          "Whether any of these tax thresholds survive the next Finance Act. They are correct as at 29 August 2026 and this page gets re-checked each year before Diwali.",
-          "The Lakshmi Puja muhurat where you are. It genuinely varies and we are not going to print one time and pretend otherwise.",
+        faq: [
+          {
+            q: "Does my cousin have to declare the \u20b91,100 I sent her?",
+            a: "Only if her total for the year from everyone outside that relatives list crosses \u20b950,000. \u20b91,100 on its own is nowhere near it. The threshold is an aggregate across the whole financial year, not per person and not per gift.",
+          },
+          {
+            q: "Is a UPI transfer treated differently from cash?",
+            a: "No. The rule turns on the relationship and the amount, not the method. What UPI changes is that there is now a record either way, where cash left the question theoretical.",
+          },
+          {
+            q: "I forgot on the day. Is it too late?",
+            a: "Send it. Late shagun is normal and it is noticed far less than nothing. What people remember is being skipped, not being second in the queue.",
+          },
+          {
+            q: "Can I give a round number if I add a one-rupee coin?",
+            a: "Yes, and that is exactly what the coin is for. \u20b9500 plus the coin is \u20b9501. It is the total that has to be odd, not the note.",
+          },
+          {
+            q: "I do not know their UPI ID and it feels awkward to ask.",
+            a: "There is no directory to look one up in, for anybody, so asking is the normal route rather than a failure. \u201cSending you something, what is your UPI?\u201d does it without ceremony.",
+          },
         ],
-      },
-
-      { h: "Questions people actually ask next" },
-      { p: "Does my cousin have to declare the ₹1,100 I sent her?" },
-      {
-        p: "Only if her total for the year from everyone who is not a relative under that list crosses ₹50,000. ₹1,100 on its own is nowhere near it. The threshold is an aggregate across the whole financial year, not per person and not per gift, so it is the sum of everything that matters.",
-      },
-      { p: "Is a UPI transfer treated differently from cash?" },
-      {
-        p: "No. The rule is about the relationship and the amount, not the method. What UPI changes is that there is now a record either way, where cash left the question theoretical.",
-      },
-      { p: "I forgot on the day. Is it too late?" },
-      {
-        p: "Send it. Late shagun is a normal thing and it is noticed far less than nothing. What people remember is being skipped, not being second in the queue.",
-      },
-      { p: "Can I give a round number if I add a one-rupee coin?" },
-      {
-        p: "Yes, and that is exactly what the coin is for. ₹500 plus the coin is ₹501. It is the total that has to be odd, not the note.",
-      },
-      { p: "I do not know their UPI ID and it feels awkward to ask." },
-      {
-        p: "There is no directory to look one up in, for anybody. Asking is the normal route rather than a failure, and “sending you something, what is your UPI?” does it without ceremony.",
       },
     ],
   },
