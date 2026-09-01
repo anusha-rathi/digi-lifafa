@@ -1,0 +1,445 @@
+{
+  "search_metadata": {
+    "id": "6a96b4dd0558c0cb175780f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/N3Y72P074OeRKt2_iJIX7MsK7C-WZxACgq_V9CdB7v4/6a96b4dd0558c0cb175780f4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/N3Y72P074OeRKt2_iJIX7MsK7C-WZxACgq_V9CdB7v4/6a96b4dd0558c0cb175780f4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/N3Y72P074OeRKt2_iJIX7MsK7C-WZxACgq_V9CdB7v4/6a96b4dd0558c0cb175780f4.json_with_pixel_position",
+    "created_at": "2026-09-01 11:19:57 UTC",
+    "processed_at": "2026-09-01 11:19:57 UTC",
+    "google_url": "https://www.google.com/search?q=diwali+bonus+for+maid&oq=diwali+bonus+for+maid&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/N3Y72P074OeRKt2_iJIX7MsK7C-WZxACgq_V9CdB7v4/6a96b4dd0558c0cb175780f4.html",
+    "total_time_taken": 2.78
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "diwali bonus for maid",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "diwali bonus for maid",
+    "total_results": 110,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How much bonus is given in Diwali?",
+      "type": "ai_overview",
+      "page_token": "JphcHHicHdDBbpswAABQ7WdybCBuWBspqkTATRzhChsb7MsEhgSCDelCaurb_mVfta9Z1eO7vj9_dTf0_358tNN0vW2WS2vtw3kcz7p5UKNZlrfPQS1VqXVVqn4T_Az8l5PaxvdDuHs_hCm7XnlEPGraMGHskzhok5X_xhwihMkgK8REHNfUqHU2kIj5MsUGH8g-Xacr9cheZdDkskizWtABYZ6ToInnY8aJrXy4w3tpmyEBVT4nVBP9ZUrNs8AA3ivAnczxrnBnl8GQlQPyEoBB3tchvdRHClqA46l7i8hdeCSsOTqWq6nDkJ9KLeYmque6xzfprTsxtDnWyJY-kphxErfKYR8XokBd1T-tVP9kWczTEsg9jUgo5rFLGXHqog3L4cQj7hSEhwq276nHneAoqsxzQV4npIwOa7s4qY8tWHx_bn-dzLS5_h7P_wHfCoNv",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JphcHHicHdDBbpswAABQ7WdybCBuWBspqkTATRzhChsb7MsEhgSCDelCaurb_mVfta9Z1eO7vj9_dTf0_358tNN0vW2WS2vtw3kcz7p5UKNZlrfPQS1VqXVVqn4T_Az8l5PaxvdDuHs_hCm7XnlEPGraMGHskzhok5X_xhwihMkgK8REHNfUqHU2kIj5MsUGH8g-Xacr9cheZdDkskizWtABYZ6ToInnY8aJrXy4w3tpmyEBVT4nVBP9ZUrNs8AA3ivAnczxrnBnl8GQlQPyEoBB3tchvdRHClqA46l7i8hdeCSsOTqWq6nDkJ9KLeYmque6xzfprTsxtDnWyJY-kphxErfKYR8XokBd1T-tVP9kWczTEsg9jUgo5rFLGXHqog3L4cQj7hSEhwq276nHneAoqsxzQV4npIwOa7s4qY8tWHx_bn-dzLS5_h7P_wHfCoNv",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGJvbnVzIGlzIGdpdmVuIGluIERpd2FsaT8iLCJsayI6IkdpRm9iM2NnYlhWamFDQmliMjUxY3lCcGN5Qm5hWFpsYmlCcGJpQmthWGRoYkdrIiwiYnMiOiJjLVB5NUZMeXlDOVh5QzFOemxCSXlzOHJMVmJJTEZaSXp5eEx6VlBJekZOd3lTeFB6TW0wTjFLV1VzekFyU29Gcklvcm1rczNQQ094QkNSVmtwR3FrSnFUbVo2WmxKbVRXVktwa0paZkJCYURtQWN4d3Q1SVMwcWpISS1HRkNURlhLRmNHaUIzbHVRckpDZm1KSmZtSkphZ21nWnlSM0ZpVG1KUnBiMlJwcFI2QnJyYUZLeHF1ZlM1SkQyTEZYSXJvUklXZXNiR3FncEF1NDBNVk8yTmhLUUVFTUlRVVFGR0FBIiwiaWQiOiJmY18zN1NXYXJibk82ck8wUEVQa3ZHSDRBY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGJvbnVzIGlzIGdpdmVuIGluIERpd2FsaT8iLCJsayI6IkdpRm9iM2NnYlhWamFDQmliMjUxY3lCcGN5Qm5hWFpsYmlCcGJpQmthWGRoYkdrIiwiYnMiOiJjLVB5NUZMeXlDOVh5QzFOemxCSXlzOHJMVmJJTEZaSXp5eEx6VlBJekZOd3lTeFB6TW0wTjFLV1VzekFyU29Gcklvcm1rczNQQ094QkNSVmtwR3FrSnFUbVo2WmxKbVRXVktwa0paZkJCYURtQWN4d3Q1SVMwcWpISS1HRkNURlhLRmNHaUIzbHVRckpDZm1KSmZtSkphZ21nWnlSM0ZpVG1KUnBiMlJwcFI2QnJyYUZLeHF1ZlM1SkQyTEZYSXJvUklXZXNiR3FncEF1NDBNVk8yTmhLUUVFTUlRVVFGR0FBIiwiaWQiOiJmY18zN1NXYXJibk82ck8wUEVQa3ZHSDRBY181In0%3D"
+    },
+    {
+      "question": "What is the eligibility for the Diwali bonus?",
+      "type": "ai_overview",
+      "page_token": "sfsc73icHdBNctowGIDhyWWyDJYFlDDDdEbFP3EjJZL4ZKNNx5YBg-WfiV1svMsVcoaeqqcp09W7ft7PP_Zcl38fvoq-b7v1bDYMw9OpaU728GSaapZ2t9rMTGptlppyvfy2RN-PZuNdDfnxYQiHtlVb4Uhn7lB_dYNQYxloKfHLqFDxTq0djC_qXWhvMHEkgwIohntboOr5lbkcZ8Gi1bD4uXfVb0galGFNwBonncqeltyRSMUxnMY4yYcUefMcxs7E7Jw5zsSUf2UVHw-w6NIt0QnOLcR6mbkvc4PyMFfRa64MBl8PqtZoN1kaVxaUEpQ5d5TDhjdQxExkJ0PRA4qILNtIXXyaBYIZ93mhg6IQfiG5y_apVdgrzMQQS_ZJdM7KlWvK1QCe4inWodwKsh-bMwcxmYutoCbX3d1IJ9-LLyygddQdFAkAaSUQaSgUFvjj0Vw3-PH_682vY9Wv24_m9A-A9orO",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sfsc73icHdBNctowGIDhyWWyDJYFlDDDdEbFP3EjJZL4ZKNNx5YBg-WfiV1svMsVcoaeqqcp09W7ft7PP_Zcl38fvoq-b7v1bDYMw9OpaU728GSaapZ2t9rMTGptlppyvfy2RN-PZuNdDfnxYQiHtlVb4Uhn7lB_dYNQYxloKfHLqFDxTq0djC_qXWhvMHEkgwIohntboOr5lbkcZ8Gi1bD4uXfVb0galGFNwBonncqeltyRSMUxnMY4yYcUefMcxs7E7Jw5zsSUf2UVHw-w6NIt0QnOLcR6mbkvc4PyMFfRa64MBl8PqtZoN1kaVxaUEpQ5d5TDhjdQxExkJ0PRA4qILNtIXXyaBYIZ93mhg6IQfiG5y_apVdgrzMQQS_ZJdM7KlWvK1QCe4inWodwKsh-bMwcxmYutoCbX3d1IJ9-LLyygddQdFAkAaSUQaSgUFvjj0Vw3-PH_682vY9Wv24_m9A-A9orO",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGVsaWdpYmlsaXR5IGZvciB0aGUgRGl3YWxpIGJvbnVzPyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQmxiR2xuYVdKcGJHbDBlU0JtYjNJZ1pHbDNZV3hwSUdKdmJuVnoiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJeXM4ckxWYklMRlpJenl4THpWUEl6Rk53eVN4UHpNbTBOMUtXVXN6QXJTb0ZySW9ybWtzM1BDT3hCQ1JWa3BHcWtKcVRtWjZabEptVFdWS3BrSlpmQkJhRG1BY3h3dDVJUzBxakhJLUdGQ1RGWEtGY0dpQjNsdVFySkNmbUpKZm1KSmFnbWdaeVIzRmlUbUpScGIyUnBwUjZCcnJhRkt4cXVmUzVKRDJMRlhJcm9SSVdlc2JHcWdwQXU0ME1WTzJOaEtRRUVNSVFVUUZHQUEiLCJpZCI6ImZjXzM3U1dhcmJuTzZyTzBQRVBrdkdINEFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGVsaWdpYmlsaXR5IGZvciB0aGUgRGl3YWxpIGJvbnVzPyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQmxiR2xuYVdKcGJHbDBlU0JtYjNJZ1pHbDNZV3hwSUdKdmJuVnoiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJeXM4ckxWYklMRlpJenl4THpWUEl6Rk53eVN4UHpNbTBOMUtXVXN6QXJTb0ZySW9ybWtzM1BDT3hCQ1JWa3BHcWtKcVRtWjZabEptVFdWS3BrSlpmQkJhRG1BY3h3dDVJUzBxakhJLUdGQ1RGWEtGY0dpQjNsdVFySkNmbUpKZm1KSmFnbWdaeVIzRmlUbUpScGIyUnBwUjZCcnJhRkt4cXVmUzVKRDJMRlhJcm9SSVdlc2JHcWdwQXU0ME1WTzJOaEtRRUVNSVFVUUZHQUEiLCJpZCI6ImZjXzM3U1dhcmJuTzZyTzBQRVBrdkdINEFjXzUifQ%3D%3D"
+    },
+    {
+      "question": "How to calculate Diwali bonus in salary?",
+      "type": "ai_overview",
+      "page_token": "1yqikHicHdDPTsIwAIDx-DIcxQ5BICEmg3ZssuFK2_25mK5lDNZ2FQYTbr6LT-XTSLx-p1--7x-1N_Xvw6VqW3ua9vtd1z3ummanto-i0X1-uhrRF1ypgot6OnoZgddSzODZd-efvhtTa9kCPxEvBtLYKFOSEDZR1FTPPAEON8zn3pBTp-5WVF6lYXOpAS88jEOofLHIr3GSDWhdZZuFOidpABlldQx8sGEYrCnWBKHBmrlELqtrtJRz4aFTDhSKkM2ECbLEBBwvg9G9-SSVodRstIXgvUDqsoVtyJjqYmdiibE4BXenbo8FBE5hdi2m6BB5-LROmLuthyXV0bBIkQsrcYtAlGZpsC_qsSPqcUchi_kgX24W2M2-mn1M8U0clGaweguBXHFHEaFsxlCluWrAhrghd_IyNu4573qluMwGvf-fs49St1N7bHZ_7XiDRA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1yqikHicHdDPTsIwAIDx-DIcxQ5BICEmg3ZssuFK2_25mK5lDNZ2FQYTbr6LT-XTSLx-p1--7x-1N_Xvw6VqW3ua9vtd1z3ummanto-i0X1-uhrRF1ypgot6OnoZgddSzODZd-efvhtTa9kCPxEvBtLYKFOSEDZR1FTPPAEON8zn3pBTp-5WVF6lYXOpAS88jEOofLHIr3GSDWhdZZuFOidpABlldQx8sGEYrCnWBKHBmrlELqtrtJRz4aFTDhSKkM2ECbLEBBwvg9G9-SSVodRstIXgvUDqsoVtyJjqYmdiibE4BXenbo8FBE5hdi2m6BB5-LROmLuthyXV0bBIkQsrcYtAlGZpsC_qsSPqcUchi_kgX24W2M2-mn1M8U0clGaweguBXHFHEaFsxlCluWrAhrghd_IyNu4573qluMwGvf-fs49St1N7bHZ_7XiDRA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgRGl3YWxpIGJvbnVzIGluIHNhbGFyeT8iLCJsayI6IkdpZG9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElHUnBkMkZzYVNCaWIyNTFjeUJwYmlCellXeGhjbmsiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJeXM4ckxWYklMRlpJenl4THpWUEl6Rk53eVN4UHpNbTBOMUtXVXN6QXJTb0ZySW9ybWtzM1BDT3hCQ1JWa3BHcWtKcVRtWjZabEptVFdWS3BrSlpmQkJhRG1BY3h3dDVJUzBxakhJLUdGQ1RGWEtGY0dpQjNsdVFySkNmbUpKZm1KSmFnbWdaeVIzRmlUbUpScGIyUnBwUjZCcnJhRkt4cXVmUzVKRDJMRlhJcm9SSVdlc2JHcWdwQXU0ME1WTzJOaEtRRUVNSVFVUUZHQUEiLCJpZCI6ImZjXzM3U1dhcmJuTzZyTzBQRVBrdkdINEFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IkhvdyB0byBjYWxjdWxhdGUgRGl3YWxpIGJvbnVzIGluIHNhbGFyeT8iLCJsayI6IkdpZG9iM2NnZEc4Z1kyRnNZM1ZzWVhSbElHUnBkMkZzYVNCaWIyNTFjeUJwYmlCellXeGhjbmsiLCJicyI6ImMtUHk1Rkx5eUM5WHlDMU56bEJJeXM4ckxWYklMRlpJenl4THpWUEl6Rk53eVN4UHpNbTBOMUtXVXN6QXJTb0ZySW9ybWtzM1BDT3hCQ1JWa3BHcWtKcVRtWjZabEptVFdWS3BrSlpmQkJhRG1BY3h3dDVJUzBxakhJLUdGQ1RGWEtGY0dpQjNsdVFySkNmbUpKZm1KSmFnbWdaeVIzRmlUbUpScGIyUnBwUjZCcnJhRkt4cXVmUzVKRDJMRlhJcm9SSVdlc2JHcWdwQXU0ME1WTzJOaEtRRUVNSVFVUUZHQUEiLCJpZCI6ImZjXzM3U1dhcmJuTzZyTzBQRVBrdkdINEFjXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is my bonus 8.33% or 20%?",
+      "type": "ai_overview",
+      "page_token": "m7ZzLXicHdBdboIwAADg7DI-jrZO50zMMhQUFBYKFOzLUlqUnxYIsmF52112qp1myb4jfN8_smzq34e0GIbutjaMcRwfr217lfkjb5XBbrrhBmdSZozX6-XzEr5e-Ma6jea2Hc0g7jqywyBsAsjTFmWHzo6Qq4R8Q7TCKkIrzRDZZ6m4p3N55DYZWDKcwgpXgfSRACuNYVFiZPdcCpAhB4UHfOSKhDE8awHPT0kkSgxoJWzS0XpAyU5oanmAgoF5CT7H8QIRS-iciF0MHB1OruOpBaBQDqdUFH5qAZr6lT_JLUO4z2OaJE0d2pM3j6EouHI_o4nqaDIDTMxe1MLxLbval66JD75-TyiOGq4ZxEcGSes1hFILj1QVkJAOZeQlzut7M7vwr8189j-2-bioYd317fUPYZl5gg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=m7ZzLXicHdBdboIwAADg7DI-jrZO50zMMhQUFBYKFOzLUlqUnxYIsmF52112qp1myb4jfN8_smzq34e0GIbutjaMcRwfr217lfkjb5XBbrrhBmdSZozX6-XzEr5e-Ma6jea2Hc0g7jqywyBsAsjTFmWHzo6Qq4R8Q7TCKkIrzRDZZ6m4p3N55DYZWDKcwgpXgfSRACuNYVFiZPdcCpAhB4UHfOSKhDE8awHPT0kkSgxoJWzS0XpAyU5oanmAgoF5CT7H8QIRS-iciF0MHB1OruOpBaBQDqdUFH5qAZr6lT_JLUO4z2OaJE0d2pM3j6EouHI_o4nqaDIDTMxe1MLxLbval66JD75-TyiOGq4ZxEcGSes1hFILj1QVkJAOZeQlzut7M7vwr8189j-2-bioYd317fUPYZl5gg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IklzIG15IGJvbnVzIDguMzMlIG9yIDIwJT8iLCJsayI6IkdoQmliMjUxY3lBNExqTXpJRzl5SURJdyIsImJzIjoiYy1QeTVGTHl5QzlYeUMxTnpsQkl5czhyTFZiSUxGWkl6eXhMelZQSXpGTnd5U3hQek1tME4xS1dVc3pBclNvRnJJb3Jta3MzUENPeEJDUlZrcEdxa0pxVG1aNlpsSm1UV1ZLcGtKWmZCQmFEbUFjeHd0NUlTMHFqSEktR0ZDVEZYS0ZjR2lCM2x1UXJKQ2ZtSkpmbUpKYWdtZ1p5UjNGaVRtSlJwYjJScHBSNkJycmFGS3hxdWZTNUpEMkxGWElyb1JJV2VzYkdxZ3BBdTQwTVZPMk5oS1FFRU1JUVVRRkdBQSIsImlkIjoiZmNfMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RHaGlhR2RIT0RsZlNEbG9lbHB4ZG14MU5XZEJUakpmWVVoT2F6RmlORlJZWjBSVFkxSndZbXBIU25SbVlWOVFZMnRCY1MxV1oyRjFka3RIZDJsalF6ZDBUV05mTW0xRVpuQnBOMWRUVG5JeFdVWkxRbGRFVEZjM1p4SVhNemRUVjJGeVltNVBObkpQTUZCRlVHdDJSMGcwUVdNYUlrRkVjM0k1WmxSVlNteEhja1o1V2toblEyVlJWVzQ0VVZVMWFtSnNlRU41VTFFIiwiZmN2IjoiMyIsImVpIjoiMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWMiLCJxYyI6IkNoVmthWGRoYkdrZ1ltOXVkWE1nWm05eUlHMWhhV1FRQUgyZ1hmSS0iLCJxdWVzdGlvbiI6IklzIG15IGJvbnVzIDguMzMlIG9yIDIwJT8iLCJsayI6IkdoQmliMjUxY3lBNExqTXpJRzl5SURJdyIsImJzIjoiYy1QeTVGTHl5QzlYeUMxTnpsQkl5czhyTFZiSUxGWkl6eXhMelZQSXpGTnd5U3hQek1tME4xS1dVc3pBclNvRnJJb3Jta3MzUENPeEJDUlZrcEdxa0pxVG1aNlpsSm1UV1ZLcGtKWmZCQmFEbUFjeHd0NUlTMHFqSEktR0ZDVEZYS0ZjR2lCM2x1UXJKQ2ZtSkpmbUpKYWdtZ1p5UjNGaVRtSlJwYjJScHBSNkJycmFGS3hxdWZTNUpEMkxGWElyb1JJV2VzYkdxZ3BBdTQwTVZPMk5oS1FFRU1JUVVRRkdBQSIsImlkIjoiZmNfMzdTV2FyYm5PNnJPMFBFUGt2R0g0QWNfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "SIgUbXiczVbZcqpIGH6AeY7hJhlBQU1SRZ1qsFU0LhitRG8oNhtkC7SGkLt5l3mqeZpptgQykFM5F1PzV2Ev_Gv3__H551-u7Tt__5ZY5_MzvqPpOI47KAiQa3b0wKNVnPg6fQxcHOnWD8vlTZ9CLm_7FA4ukW7aBq9bUeCZVPLCs5SOeYYybZ4dPjyqkeavBtGKWcO18zKZckCnMne8oqnYPJForydMKzT5cX5nR2TRwR3TVyZCZ3-YqBv46ttPu06P6d52VrTqER3w3wmUEUAAAhGQgYjQoIMadz-JCFNFUa7aiUWMj604DyTlavNWb0jOQopEMbMexQdlsSSTZf6eHJHcajyrLnA-SBOQmUiwucY2yUsYFyvYrgjaM8pLQcVq9PlNo8BJPQsBLcAaArn0UolFnFgVw3RDyNVWMjBHN8BCSGrPmpgLWzB1grLYdtkFD345x6MdkABtINKvDK1FZOjStm7p2STCaRuL21smgMlpH4OxGXK7UFvbQngIuHAe9V7CGaB1jei5gWqYhmIpzI9s3e11-8wtO7y5ziCk43cM4SqGtuJSEjCLpifUue8I3RI9pAqp8XjFtNTGK7QK1ab7gKW79ExRqSHIH1dQdkfa1Uy6Wzlt8cTktu9xzRgIceWkS4_EfSN6cjcfI0pjZ2KjIr9UaqbCppJ9RVYN9cmgVrcIuDIvSOCK6op1d-ImTzmvN677JaoWwa-Qn0_IZUrc51QJ0mtWQl64tK_uVAKPPjKQpHQXSmACoCiLYAMhSD9mQIa5ulDYEvQI9aByE1ZTd2OEvvN1-KgCfIGw96AlTD51fRUt08VwngwHqiQexf7bcnN-kObiQUui0zpuRkfgad-jGP1_BaGcgMYFAaX90gQh4ecQIgSEviKgfF4Q0KwgoHYIbTII_ZuA1vn7GgF9htCsCiGcQ6iFgL4JIfglhOTyNJogJDrFqgqhWSuEcgKqQMhayHUCkivuCwJ6h9AvEZD0SwSUIcrMhzobXU6olZXGYI5Gemg-er1TtA3nnDJgk53yNgjX8U9Z6eid7zzVcK8V27gTerNzYlwrZCO4Mw0q5A07Vl37Sgv8C746BtGVp9oG5blRwDNqP9704Lo7Dadv6nHobOSd5Giz3UgaPCrLp8vJuI_9p_05cYLYnyqzPjbHzCCBXI_lvO1l5cqXe_2VPZjc8LC5WWmr0R6okz4cvJj76flpttizTPTwh7fsr6WdAM5PF_i8haee9nirvKpgarFc0J_tlfCiuzMHc_4l7IIsN8wvbpRnBw1Nd-JQXqTz5DY4BJYyeERAB-IeyORPjCwG5InJMyBdIlBYVxUTv_D6zS2ndbU-e9SG_QHTpTx0Tp75QZ_CfsR3_wHnPUCn",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SIgUbXiczVbZcqpIGH6AeY7hJhlBQU1SRZ1qsFU0LhitRG8oNhtkC7SGkLt5l3mqeZpptgQykFM5F1PzV2Ev_Gv3__H551-u7Tt__5ZY5_MzvqPpOI47KAiQa3b0wKNVnPg6fQxcHOnWD8vlTZ9CLm_7FA4ukW7aBq9bUeCZVPLCs5SOeYYybZ4dPjyqkeavBtGKWcO18zKZckCnMne8oqnYPJForydMKzT5cX5nR2TRwR3TVyZCZ3-YqBv46ttPu06P6d52VrTqER3w3wmUEUAAAhGQgYjQoIMadz-JCFNFUa7aiUWMj604DyTlavNWb0jOQopEMbMexQdlsSSTZf6eHJHcajyrLnA-SBOQmUiwucY2yUsYFyvYrgjaM8pLQcVq9PlNo8BJPQsBLcAaArn0UolFnFgVw3RDyNVWMjBHN8BCSGrPmpgLWzB1grLYdtkFD345x6MdkABtINKvDK1FZOjStm7p2STCaRuL21smgMlpH4OxGXK7UFvbQngIuHAe9V7CGaB1jei5gWqYhmIpzI9s3e11-8wtO7y5ziCk43cM4SqGtuJSEjCLpifUue8I3RI9pAqp8XjFtNTGK7QK1ab7gKW79ExRqSHIH1dQdkfa1Uy6Wzlt8cTktu9xzRgIceWkS4_EfSN6cjcfI0pjZ2KjIr9UaqbCppJ9RVYN9cmgVrcIuDIvSOCK6op1d-ImTzmvN677JaoWwa-Qn0_IZUrc51QJ0mtWQl64tK_uVAKPPjKQpHQXSmACoCiLYAMhSD9mQIa5ulDYEvQI9aByE1ZTd2OEvvN1-KgCfIGw96AlTD51fRUt08VwngwHqiQexf7bcnN-kObiQUui0zpuRkfgad-jGP1_BaGcgMYFAaX90gQh4ecQIgSEviKgfF4Q0KwgoHYIbTII_ZuA1vn7GgF9htCsCiGcQ6iFgL4JIfglhOTyNJogJDrFqgqhWSuEcgKqQMhayHUCkivuCwJ6h9AvEZD0SwSUIcrMhzobXU6olZXGYI5Gemg-er1TtA3nnDJgk53yNgjX8U9Z6eid7zzVcK8V27gTerNzYlwrZCO4Mw0q5A07Vl37Sgv8C746BtGVp9oG5blRwDNqP9704Lo7Dadv6nHobOSd5Giz3UgaPCrLp8vJuI_9p_05cYLYnyqzPjbHzCCBXI_lvO1l5cqXe_2VPZjc8LC5WWmr0R6okz4cvJj76flpttizTPTwh7fsr6WdAM5PF_i8haee9nirvKpgarFc0J_tlfCiuzMHc_4l7IIsN8wvbpRnBw1Nd-JQXqTz5DY4BJYyeERAB-IeyORPjCwG5InJMyBdIlBYVxUTv_D6zS2ndbU-e9SG_QHTpTx0Tp75QZ_CfsR3_wHnPUCn"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How much should I pay my maid as a token this Diwali?",
+      "link": "https://www.reddit.com/r/mumbai/comments/yejku5/how_much_should_i_pay_my_maid_as_a_token_this/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFYSuvE6sNhUliuCSt1cFIepGOlpnyCOiKp13uWSZMBEqm93b6kCHOXNDCSzig9Nq9zo6qUjqIf2-6TS7Wk36yn6D5ZErNkD0fICN0KiNt_Zqznzm0XrL7VfM-Mu0eeth35xj8QDpCavlXv4hAMY5k38_uNTi7b4oOCOw220osZDzxrv0hPhW7Z0QkQWC2m2iGzA&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECBgQAQ&uoh=1",
+      "displayed_link": "70+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "The typical convention is to give one full salary as bonus if one year of service is completed or half salary if less than one year.",
+      "snippet_highlighted_words": [
+        "one full salary as bonus"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Diwali bonus to cook/maid and others : r/bangalore",
+            "link": "https://www.google.com/goto?url=CAESkAEB6zswFSWwiqCgUBUc8HcwYilBCk_Hl2kZ9CKpiXvWBP6Azhz6c1SMCajTOtTuCPAzeuxFOoG4IpphpsTOFxExvRtZL8QIlv9XpORd2Hc7D8srUwfSqLUFZVmIxeDvIjQvDGknjMujyDEn2OOyd7b96TWe4lPSbcl_I2MW3_rXuuMm_nLRXsPusww0-yTm2cY",
+            "answer_count": 134,
+            "date": "8 Oct 2024"
+          },
+          {
+            "title": "Diwali bonuses for maids : r/gurgaon",
+            "link": "https://www.google.com/goto?url=CAESgwEB6zswFVZzLpcZ4NArb22phjeE7D1t9ESFHJ3qVvQxdinyGZnwjwM7JtIUjVkRgqroLBcoen6X6bMKKPEPK0u8pBhbsHkTvIdYgygmveKFPVARResUbSUVq8ul2PQWsGDHPTibtLG7LrVH_fWeLJyAp0ikUOPiEJAUF2GSJ_55PpM-8A",
+            "answer_count": 63,
+            "date": "16 Nov 2023"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The typical convention is to give one full salary as bonus if one year of service is completed or half salary if less than one year.",
+          "source_info_link": "https://www.reddit.com/r/mumbai/comments/yejku5/how_much_should_i_pay_my_maid_as_a_token_this/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/mumbai/comments/yejku5/how_much_should_i_pay_my_maid_as_a_token_this/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fmumbai%2Fcomments%2Fyejku5%2Fhow_much_should_i_pay_my_maid_as_a_token_this%2F",
+      "source": "Reddit · r/mumbai",
+      "read_more_link": "https://www.google.com/goto?url=CAES4wEB6zswFY3GZK-XQZfG96ByAQdkrrRQqY4NXYpCTP1ibfWPrBtfnPgSScBJrYIPMNt2az6ZdQLxd63Wgur9OUIoIZa-48jFSpFV3JQbw49QT86CJbA63QGgz7oKOQN0pofLO5BUqD7X0k3hVuh5IOThea_OBe2ZgpidelHfnXCpRtmAPrO3jRKHI12E9QqbtnFxXQF5_dxbi6GEYwHfaYVlExNZb2oIRB6axm2NTgfkRcTDEk3thojziXX7IzKl19lTq_UlMFsLBOF-Qxw9SuC4GxqKDRR21qZXdRmEMrOIhKPcsA"
+    },
+    {
+      "position": 2,
+      "title": "How much should be the Diwali bonus for our cook? What ...",
+      "link": "https://www.facebook.com/groups/2076367945738853/posts/27471669149115383/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFfSjw3jokSxoUVG4ksEt0zgZ76LgftUG26d5NNajeLTaTKe3U607G4850unpja_0ibLEOWNKh3Kw-Ix4jHo1_n9kSZbZ0ybFY2t_ECWSLhUfJWsTLBBqACLyoiwQjpJbSqSK37ggykkdjNLZPl3l6vHFKX0SSN6Kpe-5fHQ&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECCcQAQ&uoh=1",
+      "displayed_link": "60+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "How much should be the Diwali bonus for our cook? What is the % generally given by people here in Bangalore?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the customary bonus for maids during Diwali?",
+            "link": "https://www.google.com/goto?url=CAESgAEB6zswFdIxPw20t2FQNBthaj1piunmZ837JXUqx83yyXCxCemamzLpgiVBABfiOZ4d5lTJftlS9q0XyhWQU1Fx7obcj3n9Ai4B8RRTCWYy_K6iuQBNYj1KDDUJPOOlird2XhbM6Hw3RKxdMB0nFH2mgO1VZTkFdX78JmrvKlQ8ig",
+            "date": "7 Nov 2024"
+          },
+          {
+            "title": "Nanganallur - Facebook",
+            "link": "https://www.google.com/goto?url=CAESfQHrOzAVY_t5W1OFW2ylLumlA_nh-aT43IBK4Nl38lEDjtArkCt063tm5T78MzW92mFUCYcVVZjRvwGd20mzoqZqshpPQSfe8FjWh839gAXpLwdYQttwXDFejDPK1rt89P95mRNw_OibOLlAJ0qF4yID-5O69ja4guCUlPze",
+            "date": "20 Jan 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Anything between 500/- to 1000/- . Diwali is the biggest festival of India, so they will distribute this 13th Salary durring Diwali, today ...",
+          "source_info_link": "https://www.facebook.com/groups/2076367945738853/posts/27471669149115383/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/2076367945738853/posts/27471669149115383/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F2076367945738853%2Fposts%2F27471669149115383%2F",
+      "source": "Facebook · Bengaluru-Cooks/Maids/Nannies/Drivers"
+    },
+    {
+      "position": 3,
+      "title": "Diwali bonus 'discretion' for house helps: Bengaluru ...",
+      "link": "https://www.moneycontrol.com/news/trends/diwali-bonus-discretion-for-house-helps-bengaluru-apartment-whatsapp-chat-sparks-outrage-11691451.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEB6zswFXkZtjbvcW47ts6dydL4ejVq2jY76K7w8_bakN-ncxm3ImmPLyTFdc2aaWBVKYlZ3KoVq4Uecr07J2u36pFOkUfleDipqTVhWlO7l4MynPRMyidcyKt2AAD-toF3kJuI22db9mXdrs5GlsoekhDszeuDrOMCZE-vAZhyACitNYRsM_gsTHXOpatCIB_3KKbwIqCBiinnJdAnhYzXMewhVFekGzizPTYht8CFQsqtQytfdDyPfa7gxOhTdnERsMLFByyJ5w&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.moneycontrol.com › NEWS › TRENDS",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEwAZqAAZqAAZqAAZqAAZqAAY6MAYaUWcJM8kGJPpStWqidJnkYwhXVTpzBirkaLwXpEohb____f7dqz1ah7uWeZx4oqf3_qduZxAAAABnRSTlMACZHj_zPhGhG8AAAAr0lEQVR4Aa3T0Q6DIAxA0QpdqUWrom7__6cDlRlD4Gk3NgaPT6YCQGcsFlnTQeyFlV4AHVbrwNTRgK2jBWx0ITlkZnKOziPdSNyLTw39yOjicaQfusHrkU-l2wNPk3iJxgqcVOdpmWaVEiWsIYQtzi4FLiG8t2PWpcT4MM8fUZo475KnQBW554k-p6knpu-NhPzpj9c0WUYkouvuHDM7woz1mmvSXrDmaraWuvk7fAEhTBYfbsD3rAAAAABJRU5ErkJggg.png",
+      "date": "8 Nov 2023",
+      "snippet": "\"Ladies please be cautious while giving Diwali bonuses to maids. Use your discretion according to their salary but not half month salary.",
+      "snippet_highlighted_words": [
+        "Use your discretion according to their salary"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "\"Ladies please be cautious while giving Diwali bonuses to maids. Use your discretion according to their salary but not half month salary.",
+          "source_info_link": "https://www.moneycontrol.com/news/trends/diwali-bonus-discretion-for-house-helps-bengaluru-apartment-whatsapp-chat-sparks-outrage-11691451.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEwAZqAAZqAAZqAAZqAAZqAAY6MAYaUWcJM8kGJPpStWqidJnkYwhXVTpzBirkaLwXpEohb____f7dqz1ah7uWeZx4oqf3_qduZxAAAABnRSTlMACZHj_zPhGhG8AAAAr0lEQVR4Aa3T0Q6DIAxA0QpdqUWrom7__6cDlRlD4Gk3NgaPT6YCQGcsFlnTQeyFlV4AHVbrwNTRgK2jBWx0ITlkZnKOziPdSNyLTw39yOjicaQfusHrkU-l2wNPk3iJxgqcVOdpmWaVEiWsIYQtzi4FLiG8t2PWpcT4MM8fUZo475KnQBW554k-p6knpu-NhPzpj9c0WUYkouvuHDM7woz1mmvSXrDmaraWuvk7fAEhTBYfbsD3rAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.moneycontrol.com/news/trends/diwali-bonus-discretion-for-house-helps-bengaluru-apartment-whatsapp-chat-sparks-outrage-11691451.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Ftrends%2Fdiwali-bonus-discretion-for-house-helps-bengaluru-apartment-whatsapp-chat-sparks-outrage-11691451.html",
+      "source": "Moneycontrol.com"
+    },
+    {
+      "position": 4,
+      "title": "What Diwali bonus do you give your house helpers ...",
+      "link": "https://www.quora.com/What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFQdeav8GXYscMuiL-leumZBRpDFPMBzbI46tM8DZIuzKkhb6J9-YH9B9eTznmVBSyeBUnoStZjgbFB7hVLKlvAbGw8W15RHu1NKHS7ML4myD1r5Y6cVt7tVVlt6ZDbzy42_YYxFJXz5j9hM84M-TliGd976-Q46ExNN7H4x-gzaYLhzcSEBu&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECCgQAQ&uoh=1",
+      "displayed_link": "20+ answers · 4 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "What Diwali bonus do you give your house helpers, watchman, etc.?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What can I gift my maid for Diwali? - Quora",
+            "link": "https://www.google.com/goto?url=CAEScAHrOzAV6mm94p0XZA-wHJ8yf7Ip-khOZDsa8dUgvHE6TUxRG368rT9M6psXBMn3m7ewdWx2oNTKjvAFCmWLxpPoKlY_WbSGvq5-4dVe5WTwCVZCXIc7C0geHSHPj0jbe6hXlVFyBdawFa23Bz0dPH8",
+            "answer_count": 34,
+            "date": "16 Oct 2016"
+          },
+          {
+            "title": "Do you have to give your maid an annual bonus? - Quora",
+            "link": "https://www.google.com/goto?url=CAESewHrOzAVzYY2j-f0vopfdkrxjGaaqzF2yvzM2MWPjJ0Lgtaz06hYQeqJpQPdFqB3Ju9gH518lAUo7LEoJ2n6wUV7x3PqFWRUNwtVSOqBOAZtnIltdtGKP_i6ZPn5Wmd0nY7GQTP5cJiSVxDlJospieYnGnhGmbY2UynP6g",
+            "answer_count": 31,
+            "date": "8 Oct 2023"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Dry fruits · Candles · Chocolates · Lights · Cutlery · Tea set · Sugar-free sweets and snacks · Handmade items, such as a notepad, magazines, a file ...",
+          "source_info_link": "https://www.quora.com/What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FWhat-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc",
+      "source": "Quora"
+    },
+    {
+      "position": 5,
+      "title": "What Happens When Domestic Workers Ask for A Bonus ...",
+      "link": "https://www.epw.in/engage/article/what-happens-when-domestic-workers-ask-bonus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFaNTsezgJnHbbgHhZj6HVjH5g1PxH9BR7-c8bCxhi7a8afKVAGRYWcruSbkPOkHSksjweE4JfnkSQlN7rFWQADihanjegzCEtoDDpvHjBxh-o9O3pJqVxBeXym2STxW_h1JmKbbVLcfecnjf5wPtmA7PEI1DATp5VTR1o_npTCfSdg&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.epw.in › engage › article › what-happens-...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3NzcyNzc3Nzc3Nzc3Nzc1NzczNzE3MDc3NzU3MTc3Nzc3Nzc1NTU1NSstNf_AABEIABwAHAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAAAAQIDBAUG_8QAKhAAAQMEAAUBCQAAAAAAAAAAAQIDBAAFERIGISJBUWEUIzEyUmJxobH_xAAbAQABBAMAAAAAAAAAAAAAAAABAAIDBAUGB__EACgRAAICAQIFAgcAAAAAAAAAAAECABEDBBIhMUGBkRNRBSRDUnGhsf_aAAwDAQACEQMRAD8Aydx3IrWLE6CFMNx5FC47aYbjyKVxbTHBWRypcI3bO7E2NbuGLOoSrfFfcjLWESIBeLxH3DGvjn5rLK6Y8KmwOHtMH6L5tVlG1iARyaq7dZPw6-hHDsS5zY8IRFvyXJzi2k5AJVqlA-PzEAAZ5cqOFh6QdgK43Bq0LalsOMndShRf4u-3WU2owVY2lJjhWeGXusIz73Ke_wBX7poUFQR9plln-YIJ-svjj-picdIbavxQ2hKNY7WyUjGDqO1UdcAMvYS38LYnT2fc_wBjmOI0JgRIkuzQJgioKG1vgkgE5NPXVUgVlBqRtoj6jOmUru51KU26KlW9mD7O00yy-68gIz07knUegzgVFkzHIoSqEtY8Ix5DkskkAeOveSW29v26MxHaabUhmcJoyT1KCNcH070ceobGoUDkbjc2nXMzMx5rt7XczpDpkSXn1pAU84pxX5Ucn-1A5LsWPWTLSqFHQAeImoowwwKUVQ1FCCouooyInjP_2Q.jpeg",
+      "snippet": "... maid or driver in the same household are being given one extra months salary. Further, my experience has been that this bonus is usually referred to as Puja ...",
+      "snippet_highlighted_words": [
+        "maid",
+        "bonus"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... maid or driver in the same household are being given one extra months salary. Further, my experience has been that this bonus is usually referred to as Puja ...",
+          "source_info_link": "https://www.epw.in/engage/article/what-happens-when-domestic-workers-ask-bonus",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3NzcyNzc3Nzc3Nzc3Nzc1NzczNzE3MDc3NzU3MTc3Nzc3Nzc1NTU1NSstNf_AABEIABwAHAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAAAAQIDBAUG_8QAKhAAAQMEAAUBCQAAAAAAAAAAAQIDBAAFERIGISJBUWEUIzEyUmJxobH_xAAbAQABBAMAAAAAAAAAAAAAAAABAAIDBAUGB__EACgRAAICAQIFAgcAAAAAAAAAAAECABEDBBIhMUGBkRNRBSRDUnGhsf_aAAwDAQACEQMRAD8Aydx3IrWLE6CFMNx5FC47aYbjyKVxbTHBWRypcI3bO7E2NbuGLOoSrfFfcjLWESIBeLxH3DGvjn5rLK6Y8KmwOHtMH6L5tVlG1iARyaq7dZPw6-hHDsS5zY8IRFvyXJzi2k5AJVqlA-PzEAAZ5cqOFh6QdgK43Bq0LalsOMndShRf4u-3WU2owVY2lJjhWeGXusIz73Ke_wBX7poUFQR9plln-YIJ-svjj-picdIbavxQ2hKNY7WyUjGDqO1UdcAMvYS38LYnT2fc_wBjmOI0JgRIkuzQJgioKG1vgkgE5NPXVUgVlBqRtoj6jOmUru51KU26KlW9mD7O00yy-68gIz07knUegzgVFkzHIoSqEtY8Ix5DkskkAeOveSW29v26MxHaabUhmcJoyT1KCNcH070ceobGoUDkbjc2nXMzMx5rt7XczpDpkSXn1pAU84pxX5Ucn-1A5LsWPWTLSqFHQAeImoowwwKUVQ1FCCouooyInjP_2Q.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.epw.in/engage/article/what-happens-when-domestic-workers-ask-bonus&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.epw.in%2Fengage%2Farticle%2Fwhat-happens-when-domestic-workers-ask-bonus",
+      "source": "Economic and Political Weekly",
+      "read_more_link": "https://www.google.com/goto?url=CAESzAEB6zswFfIE8e5T17dgd_qOO3T0vK4V1z3URDO0j1GKj8gQKSBvj3bZsQI9tm55IwpJGGdyIi6ScgPpmZxBXcPbHbNJyUVdETfJdT8uJjxfcaSPXld5uye4p4sgli9McvkIV0JBgV4t1X-6jSqwVf2yG5bHLE_xPxLU6Ik5c3Yu0SjyDHKnT6Vzplc9iOK1Fu6U-cybP4NbTGZ9afloXc6SYBNZblUDRIokh_T16tp6MZ2VDFbpzW3XbOSdBU4VHfFKietCnUFVXTT3Stw"
+    },
+    {
+      "position": 6,
+      "title": "Hiring House Maid Tips - Mumbai",
+      "link": "https://mysocietyclub.com/blog/hiring-house-maid-tips/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVzCa8M_Hp3lAgeBX4v-1QerjxmdetstlbViBnJg9MPFQuiNbt8VSQXje3IQ81SwHOPutaRhfDfyIKkKgeGrXGJzyDAMgBrB1obeSrMXk0Nsgh2Hn-WMa_3ZgycXAAQotCXKL2KWPsqq7y&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://mysocietyclub.com › blog › hiring-house-maid-tips",
+      "favicon": "https://serpapi.com/searches/6a96b4dd0558c0cb175780f4/images/BPf3BRnP_M7uKSMrlAjkEWqIBsiooqAqlrgTee05v5g.png",
+      "date": "12 Jun 2015",
+      "snippet": "9. Housemaids are given bonus on Diwali or major holidays. A good tip in metros is an entire month's salary, or something valuable like saree ...",
+      "snippet_highlighted_words": [
+        "Housemaids are given bonus on Diwali"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "9. Housemaids are given bonus on Diwali or major holidays. A good tip in metros is an entire month's salary, or something valuable like saree ...",
+          "source_info_link": "https://mysocietyclub.com/blog/hiring-house-maid-tips/",
+          "icon": "https://serpapi.com/searches/6a96b4dd0558c0cb175780f4/images/BPf3BRnP_M7uKSMrlAjkEUlZSpk75j6WaJ4zkhbxER71g2oRkN4RowCSWj_SZnPh.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://mysocietyclub.com/blog/hiring-house-maid-tips/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmysocietyclub.com%2Fblog%2Fhiring-house-maid-tips%2F",
+      "source": "MySocietyClub",
+      "read_more_link": "https://www.google.com/goto?url=CAESxgEB6zswFRm7W0um4Vf9LbEp3Zff3XgZDTdhkKAF_bRvinTEujUXKdfvpGL4mz3EteJCxk6cMZqIx0tI4Ehj2L4RRYXfZo25Qni-1ArcrnwllG4haVu2pbpYHI9Bbkxux-b1Kp47YRqcOuBbsUOEXTNzs0BDZd4K38ggSrmvF3t7iQSgZH-6pR2b7O2_8rAkR8i5XaR_TapEMLgT-vSxxNogO_JK0Kl6soZyAA2CMTIVNgBxLxchqAcfx6w-7oqgNpbu3i1wpEU"
+    },
+    {
+      "position": 7,
+      "title": "CA Umesh Jeswani's Post",
+      "link": "https://www.linkedin.com/posts/ca-umesh-jeswani-04799425_diwali-bonus-avoid-mistakes-which-people-activity-7253819839805333504-MR8Y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFaS21J5GjfeL5komfGKKOgQVPOpM7JDt3EmimSn1ol0-VXOhQtUBjrGVP089SqUosrirbv0B9M4rQf2BYODjyERJVGbCxNZCQnqJLQKiR-kb2M-n6tgTyaVDC7EESZk_ilFTXymkCItR77hD8guIKd9TNEDnyzB0gkdFDCEedNkwlNJoZEuNIBHkjPCPe1opkbr9lWgb8UBHIcfMp_f6rH-iB2gwgtf-PQK_qON8crMjkL7nw0eUXw&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECCMQAQ&uoh=1",
+      "displayed_link": "360+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+      "snippet": "always give bonus salary or money atleast 10 days before Diwali so that they can buy clothes, sweets, crackers etc. for you, 500 or 1000 doesn't ...",
+      "snippet_highlighted_words": [
+        "always give bonus salary or money atleast 10 days before Diwali"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "always give bonus salary or money atleast 10 days before Diwali so that they can buy clothes, sweets, crackers etc. for you, 500 or 1000 doesn't ...",
+          "source_info_link": "https://www.linkedin.com/posts/ca-umesh-jeswani-04799425_diwali-bonus-avoid-mistakes-which-people-activity-7253819839805333504-MR8Y",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.linkedin.com/posts/ca-umesh-jeswani-04799425_diwali-bonus-avoid-mistakes-which-people-activity-7253819839805333504-MR8Y&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fca-umesh-jeswani-04799425_diwali-bonus-avoid-mistakes-which-people-activity-7253819839805333504-MR8Y",
+      "source": "LinkedIn · CA Umesh Jeswani",
+      "read_more_link": "https://www.google.com/goto?url=CAESigIB6zswFR2yRQ9TgFvRHUaIGi-L3q0IgbESs-vuIO_hBbFB3KRPs9sN3v_C1EgxADojq0yqjXTIcBrSpOt7GQUYU3MsSnLoFepmtHqaA51yO4wakwRr1TmooNphT63BvEvuzv-HYIoOA4GufR0gmwEv2PmSch7dLrkcl_Rc2cYX5OQxQOTknpoqBqFtSRcWCS9R5DKcz4G8bwephMyHd12B6s-sJ0hzbc35vo7iSTUFKE6FVdH98yaeJdhlbibuQT_ePvbmXhJWLpmXk1fYMOVmYt02ZLC2J1ZsQTdd44xk5b3pd19gDXTU8IZoRd7dUAqaSqEPf3Fyfb8_RVWL69WPTbkofo6qqgmgnA"
+    },
+    {
+      "position": 8,
+      "title": "Smartphones, double salary, home appliances for Noida ...",
+      "link": "https://timesofindia.indiatimes.com/city/noida/smartphones-double-salary-home-appliances-for-noida-maids-this-diwali/articleshow/49701506.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFUvYqQ1KOUN1AM2DaCSoGxvYe-BA4pvYdy50c28VOxa3Xhi3e59Xk30ur7bXikx2QyfIOy1sbltp5QeWMkqL0Fpbt05L6zX24R5F98rAmbg6-XQzd4dGrMZ3HuDKbQGgR07RIHL-gmN7c_d7QNhbZrrOVSSGGqyRtoWuG6pZkdnQ6yTl33QjcQEsTyZ_gxUc2ZdHgZuq4sgO7ZNUovJRPSTue_kZyaFosp4JD5jTcUkSKXJY6iDdpYz_Ah6HywKWWLk&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://timesofindia.indiatimes.com › ... › noida News",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXMAQDMAADNCQjLAADTMjLYX17VTk7bV1bVTU3TOzvbWlnYQ0LQJibKAADrpKP_-vrhfHzwtbX____jhIT0z8_olpXkiYn21tbvuLj98fHecXHHAAD32dnXSkrcXFvRFxbxwcHaaGfRISH66entqqrqn5_SLy_s5ssvAAAA_UlEQVR4Ac3SBYKEMBAEwOl0cGY5Zt0V_v_ES87dZRuJFJpEXg9cOGL5UhHw9XwPv_5O3ia2Y4nbihP6JEmzPEkKgiironQE6jItc4gOmovW2mHTKv1oXPjJNFfUM5svAo6K5cAGy2K19PPpklzObE3NbAqRYqMaUHWx3dlQRbi3lbIMSDk4XCGwtaYkhMXctnqNgFxh6LSmogjro21uUOQW_T1mt4hrBNBYQgirueHpnaInm4SCCxspbxF6CgjBdnqMvzKae2piKyAYqtFxVDkIXdtl6XjXE4fTcbWPyML3vggo0Gq9XpOCQxG7JGoM5PnAn98Cw6sJ6F7P9hLc_hC1BcMqjgAAAABJRU5ErkJggg.png",
+      "date": "7 Nov 2015",
+      "snippet": "The maids don't settle for that much. So, I'm thinking of giving my maid a juicer and a mixer-grinder as her Diwali bonus.",
+      "snippet_highlighted_words": [
+        "a juicer and a mixer-grinder"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The maids don't settle for that much. So, I'm thinking of giving my maid a juicer and a mixer-grinder as her Diwali bonus.",
+          "source_info_link": "https://timesofindia.indiatimes.com/city/noida/smartphones-double-salary-home-appliances-for-noida-maids-this-diwali/articleshow/49701506.cms",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXMAQDMAADNCQjLAADTMjLYX17VTk7bV1bVTU3TOzvbWlnYQ0LQJibKAADrpKP_-vrhfHzwtbX____jhIT0z8_olpXkiYn21tbvuLj98fHecXHHAAD32dnXSkrcXFvRFxbxwcHaaGfRISH66entqqrqn5_SLy_s5ssvAAAA_UlEQVR4Ac3SBYKEMBAEwOl0cGY5Zt0V_v_ES87dZRuJFJpEXg9cOGL5UhHw9XwPv_5O3ia2Y4nbihP6JEmzPEkKgiironQE6jItc4gOmovW2mHTKv1oXPjJNFfUM5svAo6K5cAGy2K19PPpklzObE3NbAqRYqMaUHWx3dlQRbi3lbIMSDk4XCGwtaYkhMXctnqNgFxh6LSmogjro21uUOQW_T1mt4hrBNBYQgirueHpnaInm4SCCxspbxF6CgjBdnqMvzKae2piKyAYqtFxVDkIXdtl6XjXE4fTcbWPyML3vggo0Gq9XpOCQxG7JGoM5PnAn98Cw6sJ6F7P9hLc_hC1BcMqjgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://timesofindia.indiatimes.com/city/noida/smartphones-double-salary-home-appliances-for-noida-maids-this-diwali/articleshow/49701506.cms&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftimesofindia.indiatimes.com%2Fcity%2Fnoida%2Fsmartphones-double-salary-home-appliances-for-noida-maids-this-diwali%2Farticleshow%2F49701506.cms",
+      "source": "The Times of India",
+      "read_more_link": "https://www.google.com/goto?url=CAESngIB6zswFbYesGfup_D_Htol4BSXOpdhhXlVhXb1g0PkpP6kHsdBdpQ9ZyDuDgA5DQSvGCMUa2V8HVqGDdNWd2eCDSxfckhkpoXCm27lvMglRc7URegJao0uSngDwYx5chKhbf64NgU6u3sbtEgTBAgLBcWQulPW22VhpBbk43tWCGOpid2Hm5VGhHiA-X4ZNZ8bkwlj5_CwxrhkNuYchZdQY6O8MEpMRSEsRFDqGlw76OHytordIvKACmWzLjHpBtms7axGbm_bPO8e6PdaE5fAkrnIJLpjBIwOYtX8Ool7twuc54qwHI_NExM2Juq4jj4WNv_QKho0T2O781XYsCH6igfF8mTzn8ROKQ3SyfIH7xStVS4kGum5j6kIQR35"
+    },
+    {
+      "position": 9,
+      "title": "What Diwali bonus do you give your house helpers, watchman ...",
+      "link": "https://unemployedsdiary.quora.com/https-www-quora-com-What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc-answer-Prasanna-Bhalerao",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFS-myFTh2MSzGAS5lMcTwYv2RcQNqDL8aj5lhlzoZggz-8Qth--MbN0TRTxrYYfEIfScjnqPZcds63uDelWh-xnF-5nFf8X8ngQhIPM8DcQ03yxvD_8U2u16vByqIsN7byH3Tn6w5p7KG5Rk-JJQ05K42QSTyo50FvcqZaIHtt3KzBPc8hxBIDE_HkHFQPV_DLn1jCe3kJMGbY8Ags-FeKRqh_FAR-g3YG9xyRdUPXa1jz-7m-_3pvcKeNS2DkK_QrQ&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://unemployedsdiary.quora.com › https-www-quor...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "One full month salary irrespective of number of working months to our cook and maid (they have been working for 5 months only this year but we paid them ...",
+      "snippet_highlighted_words": [
+        "One full month salary"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "One full month salary irrespective of number of working months to our cook and maid (they have been working for 5 months only this year but we paid them ...",
+          "source_info_link": "https://unemployedsdiary.quora.com/https-www-quora-com-What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc-answer-Prasanna-Bhalerao",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://unemployedsdiary.quora.com/https-www-quora-com-What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc-answer-Prasanna-Bhalerao&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Funemployedsdiary.quora.com%2Fhttps-www-quora-com-What-Diwali-bonus-do-you-give-your-house-helpers-watchman-etc-answer-Prasanna-Bhalerao",
+      "source": "Quora",
+      "read_more_link": "https://www.google.com/goto?url=CAESpAIB6zswFV7f7mZlYSDBmVP3a6CMXXFWCavhxFwcVQEP7GH6zPcdKdyGSix_RK4921ALOt6uZxx7PaPq8T0UAwhrG9-VXtqdD8QGYwrBgDCD5Tv3uZ7ZjGB6dtNxL69GF5gM0fRj93-4etFJ2Tol6fI8pz_-DAFa-N5fafHCmAPH3XBv4UThTLHn2j16YCSCKHciZe3Yluy22BXEU-mXDiEPS_-OuP5NZGxC4Aj5Q1yKm4iYET0VtrtdLS63rBn61esXSsF3x2yyJ7lJd1u72HWWIDxudqhsF_wi7vJwhwgj2uhwwxIW32X4Q7yKXOXtQ6VjJN92a8sCEvhwkI367Wv3QxKLm8gpZoP_vJ2R5AsSF0wlZy8pZpbLRqH2gTYTBFGw7R8h"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Diwali bonus for maid in india",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+for+maid+in+india&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+for+maid+in+india"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus for maid in mumbai",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+for+maid+in+mumbai&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+for+maid+in+mumbai"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus for maid in maharashtra",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+for+maid+in+maharashtra&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+for+maid+in+maharashtra"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus for maid 2021",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+for+maid+2021&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+for+maid+2021"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus for maid in delhi",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+for+maid+in+delhi&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+for+maid+in+delhi"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus for maids in bangalore",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+for+maids+in+bangalore&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+for+maids+in+bangalore"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus percentage",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+percentage&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+percentage"
+    },
+    {
+      "block_position": 1,
+      "query": "Diwali bonus reddit",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Diwali+bonus+reddit&sa=X&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Diwali+bonus+reddit"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=10&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8NMDegQIPRAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=10&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8tMDegQIPRAE",
+      "3": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=20&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8tMDegQIPRAG",
+      "4": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=30&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8tMDegQIPRAI",
+      "5": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=40&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8tMDegQIPRAK",
+      "6": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=50&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8tMDegQIPRAM",
+      "7": "https://www.google.com/search?q=diwali+bonus+for+maid&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=37SWarbnO6rO0PEPkvGH4Ac&start=60&sa=N&sstk=AS6-VmK4VLe3erInKdbwyAAC6fOrskN6aWvUWhOD8POpxOzF40lNqMWfgen27QKbtOpE-_H5pii8HZ53vWpVi7Kj_R6Pbyix2_99og&ved=2ahUKEwj20rrLoc2WAxUqJzQIHZL4AXwQ8tMDegQIPRAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diwali+bonus+for+maid&start=60"
+    }
+  }
+}

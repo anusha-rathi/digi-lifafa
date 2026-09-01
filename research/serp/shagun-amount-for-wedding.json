@@ -1,0 +1,676 @@
+{
+  "search_metadata": {
+    "id": "6a96b4a5f735810d24cf7563",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JT3-jFcyTO06CyCCBlXQTrtFUXATA5c9sLx6Z-gBroo/6a96b4a5f735810d24cf7563.json",
+    "markdown_endpoint": "https://serpapi.com/searches/JT3-jFcyTO06CyCCBlXQTrtFUXATA5c9sLx6Z-gBroo/6a96b4a5f735810d24cf7563.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JT3-jFcyTO06CyCCBlXQTrtFUXATA5c9sLx6Z-gBroo/6a96b4a5f735810d24cf7563.json_with_pixel_position",
+    "created_at": "2026-09-01 11:19:01 UTC",
+    "processed_at": "2026-09-01 11:19:02 UTC",
+    "google_url": "https://www.google.com/search?q=shagun+amount+for+wedding&oq=shagun+amount+for+wedding&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JT3-jFcyTO06CyCCBlXQTrtFUXATA5c9sLx6Z-gBroo/6a96b4a5f735810d24cf7563.html",
+    "total_time_taken": 1.74
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "shagun amount for wedding",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "shagun amount for wedding",
+    "total_results": 188,
+    "time_taken_displayed": 0.52,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Turning Rs 11000 into a stunning money hamper !  A creative ...",
+      "link": "https://www.instagram.com/reel/DXV8dbsCY21/?hl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVH36iWHwKj-LinsspA_YWf7TZFPiryzW9L4rHT7oZkzYhsz_u4hYMw&s",
+      "channel": "Wedding Special By SRISHTI",
+      "duration": "0:15",
+      "platform": "Instagram",
+      "date": "19 Apr 2026"
+    },
+    {
+      "position": 2,
+      "title": "Creative Cash Gift for Wedding  | DIY Shagun Money Idea ...",
+      "link": "https://www.instagram.com/reel/DXwH8_Ph6GM/?hl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_VF2ZIGW1GNXBoR9Nag93rJzDTa5l8tBEuCthmR16EqnfQfqwGZHPCA&s",
+      "channel": "Anusha's Creations",
+      "duration": "0:22",
+      "platform": "Instagram",
+      "date": "30 Apr 2026"
+    },
+    {
+      "position": 3,
+      "title": "Modern Wedding Gifting Guide (What to Give & What to Avoid) ...",
+      "link": "https://www.youtube.com/shorts/ZKBCUCS5njQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIv7Itm6bEyU_bLg2-mRL_IycWEwae8leGvjxp30idOpc4EUUEou9kuQ&s",
+      "channel": "The Wedding Podcast",
+      "duration": "1:29",
+      "platform": "YouTube",
+      "date": "23 Apr 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSsBvQKthqnEHJS8gowrdmiJFc5WCOvEuiG6A"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How much money to give as shagun?",
+      "type": "ai_overview",
+      "page_token": "yGbGpnicHdBRToMwAADQeBk_HVCZbsliRFrYknVSaMv4MVA22FpKp7gif97FU3kaE98R3vePOmn5e3Nth8F8LGcza-1d0_eNOtyJvpuVH19azESpVFUKuZw_zN2no1jBz3XwclkHCTWGhcRJJ2irznS1buyhG145XExEG8giN6TQDTFl1y1qU0qZn55ru42Vys71WHnoknSL9x2v85Qlfg6CotLki0fufS0XGZFIUxC8FBMpcPg81XwzFgzJKma-AD1g8tGpdMuJK9zS3Y88x2brNWOmtxMGJC6k9XZ8E7IIlxQpLwE4zQFbC8ccC9huqsi_4Ni0JENGxEpy1A7lmWnY1lYonO_5I9g71t9L3-5CkoiQjSlXQTX2p4SSSZxVx6JxLnJc0Ig5GCXOAaJdGgenzNso1kGH5b1X2NujuK7A7f_n6u3YDUvz3jd_2NCDZg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yGbGpnicHdBRToMwAADQeBk_HVCZbsliRFrYknVSaMv4MVA22FpKp7gif97FU3kaE98R3vePOmn5e3Nth8F8LGcza-1d0_eNOtyJvpuVH19azESpVFUKuZw_zN2no1jBz3XwclkHCTWGhcRJJ2irznS1buyhG145XExEG8giN6TQDTFl1y1qU0qZn55ru42Vys71WHnoknSL9x2v85Qlfg6CotLki0fufS0XGZFIUxC8FBMpcPg81XwzFgzJKma-AD1g8tGpdMuJK9zS3Y88x2brNWOmtxMGJC6k9XZ8E7IIlxQpLwE4zQFbC8ccC9huqsi_4Ni0JENGxEpy1A7lmWnY1lYonO_5I9g71t9L3-5CkoiQjSlXQTX2p4SSSZxVx6JxLnJc0Ig5GCXOAaJdGgenzNso1kGH5b1X2NujuK7A7f_n6u3YDUvz3jd_2NCDZg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIG1vbmV5IHRvIGdpdmUgYXMgc2hhZ3VuPyIsImxrIjoiR2lCb2IzY2diWFZqYUNCdGIyNWxlU0IwYnlCbmFYWmxJR0Z6SUhOb1lXZDFiZyIsImJzIjoiYy1OeTUxTDB5QzlYeUMxTnpsREl6YzlMclZRb3lWZEl6eXhMVlVnc1Zpak9TRXd2emJNM1VwSlN5Q0NnaU11VVM4S3pXTUhZME1CQUlSRXFwcENZbTEtYVYySnZKQ2tsbm9sZGpzdWNTeEtvelJBRU1QVkpTVWxrNHBEazh1UlNDcy1vVkVqSlZ5aFBoYmpGVUtHb3RDQTFWU0V0dndqdWNtVXB4WEpDcWdRWUFRIiwiaWQiOiJmY19wclNXYW83Y0w5Yk5wODRQcDVxSWlBb182In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIG1vbmV5IHRvIGdpdmUgYXMgc2hhZ3VuPyIsImxrIjoiR2lCb2IzY2diWFZqYUNCdGIyNWxlU0IwYnlCbmFYWmxJR0Z6SUhOb1lXZDFiZyIsImJzIjoiYy1OeTUxTDB5QzlYeUMxTnpsREl6YzlMclZRb3lWZEl6eXhMVlVnc1Zpak9TRXd2emJNM1VwSlN5Q0NnaU11VVM4S3pXTUhZME1CQUlSRXFwcENZbTEtYVYySnZKQ2tsbm9sZGpzdWNTeEtvelJBRU1QVkpTVWxrNHBEazh1UlNDcy1vVkVqSlZ5aFBoYmpGVUtHb3RDQTFWU0V0dndqdWNtVXB4WEpDcWdRWUFRIiwiaWQiOiJmY19wclNXYW83Y0w5Yk5wODRQcDVxSWlBb182In0%3D"
+    },
+    {
+      "question": "Is 3100 a shagun amount?",
+      "type": "ai_overview",
+      "page_token": "3Cj_L3icHdDBboIwAIDh7GU8ahF1m4lZBlJcR7tRKCCXBVoFpUA30YK3vcueak8zs_uf7_B__8hDU_3eJWXXqdNyMtFaj4u2LeRuzNt6kp2Ghk94JmWe8Wq5uF8YT3u-ck7asltt-UypaE1BEIrPGNJ3DnFPXeJgg2g-7SkGD_OwMl5xLczYFZTUJfABMvEU2ukRUb_is0iSIIwjFDi9GTOVcIeytEJb5mCQSjHbRcgL3ZLlVzb1WaWzuH9hNQXMBV3KYBA20hJMnbO66iO382j8ONxMOwjJmZhO59_6fA09zGAj3DRhRjTPZBFA0xqYIcr8Ko7hWh7C5nlGoKVJAlHG4MU9IItuyPAWp9RLJIihCjDr7e213OKk3EQS6ZtbehE3SKWs0Z5fVubo_9jqY193S_XVFn-gy3he",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3Cj_L3icHdDBboIwAIDh7GU8ahF1m4lZBlJcR7tRKCCXBVoFpUA30YK3vcueak8zs_uf7_B__8hDU_3eJWXXqdNyMtFaj4u2LeRuzNt6kp2Ghk94JmWe8Wq5uF8YT3u-ck7asltt-UypaE1BEIrPGNJ3DnFPXeJgg2g-7SkGD_OwMl5xLczYFZTUJfABMvEU2ukRUb_is0iSIIwjFDi9GTOVcIeytEJb5mCQSjHbRcgL3ZLlVzb1WaWzuH9hNQXMBV3KYBA20hJMnbO66iO382j8ONxMOwjJmZhO59_6fA09zGAj3DRhRjTPZBFA0xqYIcr8Ko7hWh7C5nlGoKVJAlHG4MU9IItuyPAWp9RLJIihCjDr7e213OKk3EQS6ZtbehE3SKWs0Z5fVubo_9jqY193S_XVFn-gy3he",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IklzIDMxMDAgYSBzaGFndW4gYW1vdW50PyIsImxrIjoiR2hkcGN5QXpNVEF3SUdFZ2MyaGhaM1Z1SUdGdGIzVnVkQSIsImJzIjoiYy1OeTUxTDB5QzlYeUMxTnpsREl6YzlMclZRb3lWZEl6eXhMVlVnc1Zpak9TRXd2emJNM1VwSlN5Q0NnaU11VVM4S3pXTUhZME1CQUlSRXFwcENZbTEtYVYySnZKQ2tsbm9sZGpzdWNTeEtvelJBRU1QVkpTVWxrNHBEazh1UlNDcy1vVkVqSlZ5aFBoYmpGVUtHb3RDQTFWU0V0dndqdWNtVXB4WEpDcWdRWUFRIiwiaWQiOiJmY19wclNXYW83Y0w5Yk5wODRQcDVxSWlBb182In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IklzIDMxMDAgYSBzaGFndW4gYW1vdW50PyIsImxrIjoiR2hkcGN5QXpNVEF3SUdFZ2MyaGhaM1Z1SUdGdGIzVnVkQSIsImJzIjoiYy1OeTUxTDB5QzlYeUMxTnpsREl6YzlMclZRb3lWZEl6eXhMVlVnc1Zpak9TRXd2emJNM1VwSlN5Q0NnaU11VVM4S3pXTUhZME1CQUlSRXFwcENZbTEtYVYySnZKQ2tsbm9sZGpzdWNTeEtvelJBRU1QVkpTVWxrNHBEazh1UlNDcy1vVkVqSlZ5aFBoYmpGVUtHb3RDQTFWU0V0dndqdWNtVXB4WEpDcWdRWUFRIiwiaWQiOiJmY19wclNXYW83Y0w5Yk5wODRQcDVxSWlBb182In0%3D"
+    },
+    {
+      "question": "Is 11111 a shagun amount?",
+      "type": "ai_overview",
+      "page_token": "q6ttMnicHdBRboIwGADg7DI-CoiyzcQsVlaUOBilfwVeFqRqpQUabUR52112qp1myb4jfN8_6tzK36dMGKOvc8vq-3586rqTOoyrrrHK66OtrKpUal9Wcu49e87bsVq8X3u06nqUgNbMJ3Y6iIa52IszXh9oIXOnEDG89FwaE002A5_cZ6niUAL393WBGE4Ms4UDUgw8IDNeEy9vxDobyCWZzLo0I3gvwzTPtJM0d5U0qi4c3ea2UAf5ynYq9KjS9GOiU8hCsgUFHPS0lFcXBm5Su_isoDMURy2z8ZZKQ2JQLXHUscAMlZCn2EUPcLjYD7ymvjrTdjmNMOqjDIcl4FtwDhFZR494VwAwUezkxiG2xnlqu1XAVofARHS9dONgOlA_RKNjdVu4o_-xxdexMXN96U5_1HB5yA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=q6ttMnicHdBRboIwGADg7DI-CoiyzcQsVlaUOBilfwVeFqRqpQUabUR52112qp1myb4jfN8_6tzK36dMGKOvc8vq-3586rqTOoyrrrHK66OtrKpUal9Wcu49e87bsVq8X3u06nqUgNbMJ3Y6iIa52IszXh9oIXOnEDG89FwaE002A5_cZ6niUAL393WBGE4Ms4UDUgw8IDNeEy9vxDobyCWZzLo0I3gvwzTPtJM0d5U0qi4c3ea2UAf5ynYq9KjS9GOiU8hCsgUFHPS0lFcXBm5Su_isoDMURy2z8ZZKQ2JQLXHUscAMlZCn2EUPcLjYD7ymvjrTdjmNMOqjDIcl4FtwDhFZR494VwAwUezkxiG2xnlqu1XAVofARHS9dONgOlA_RKNjdVu4o_-xxdexMXN96U5_1HB5yA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IklzIDExMTExIGEgc2hhZ3VuIGFtb3VudD8iLCJsayI6ImM1T1N5Q3hXTUFRQmhVU0Y0b3pFOU5JOGhjVGNfTks4RWdBIiwiYnMiOiJjLU55NTFMMHlDOVh5QzFOemxESXpjOUxyVlFveVZkSXp5eExWVWdzVmlqT1NFd3Z6Yk0zVXBKU3lDQ2dpTXVVUzhLeldNSFkwTUJBSVJFcXBwQ1ltMS1hVjJKdkpDa2xub2xkanN1Y1N4S296UkFFTVBWSlNVbGs0cERrOHVSU0NzLW9WRWpKVnloUGhiakZVS0dvdENBMVZTRXR2d2p1Y21VcHhYSkNxZ1FZQVEiLCJpZCI6ImZjX3ByU1dhbzdjTDliTnA4NFBwNXFJaUFvXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IklzIDExMTExIGEgc2hhZ3VuIGFtb3VudD8iLCJsayI6ImM1T1N5Q3hXTUFRQmhVU0Y0b3pFOU5JOGhjVGNfTks4RWdBIiwiYnMiOiJjLU55NTFMMHlDOVh5QzFOemxESXpjOUxyVlFveVZkSXp5eExWVWdzVmlqT1NFd3Z6Yk0zVXBKU3lDQ2dpTXVVUzhLeldNSFkwTUJBSVJFcXBwQ1ltMS1hVjJKdkpDa2xub2xkanN1Y1N4S296UkFFTVBWSlNVbGs0cERrOHVSU0NzLW9WRWpKVnloUGhiakZVS0dvdENBMVZTRXR2d2p1Y21VcHhYSkNxZ1FZQVEiLCJpZCI6ImZjX3ByU1dhbzdjTDliTnA4NFBwNXFJaUFvXzYifQ%3D%3D"
+    },
+    {
+      "question": "Why do we give 1 rupee for shagun?",
+      "type": "ai_overview",
+      "page_token": "PBDhSHicHdDbboIwAIDh7GW8HAXEqYlZgniAaTcLLdKbBVo8tYUqnYh3e5c91Z5mZk_w5_u_f-SxEr9P14MxuhlbVtu2z_u63svymdXKypuuYhbLpSxyJsaDl4H9umOT2VfoT8-hv8FakwCB2NbXFaHRFtgQLRFmQthU8XuhzDFXto8UvMUp6co5PZYYranqdxSYmAPU4KUO6QnGaGZCXOlFOTM1xWQOt6TlLs0oIBcO9JYr1CfYfGQiCpk4eJmwz2sHviUV9MqpPU0cL0wrniDg7VJR96Fjd8zRcb4YNRhHDREkXSWwQdXaQXh0J3PsJfLgJJKItYwu1IFhDMwgTo0_O_CWSbjN0qGbgfbR8tr3AG1YQB4O6Re3-rjB6M5OUmEXykLcFtzlUaKGXQGigM6RylXjwpNfs0DGtO3t2HXi9v5_Tj53yoz1pd7_AbVOg_c",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PBDhSHicHdDbboIwAIDh7GW8HAXEqYlZgniAaTcLLdKbBVo8tYUqnYh3e5c91Z5mZk_w5_u_f-SxEr9P14MxuhlbVtu2z_u63svymdXKypuuYhbLpSxyJsaDl4H9umOT2VfoT8-hv8FakwCB2NbXFaHRFtgQLRFmQthU8XuhzDFXto8UvMUp6co5PZYYranqdxSYmAPU4KUO6QnGaGZCXOlFOTM1xWQOt6TlLs0oIBcO9JYr1CfYfGQiCpk4eJmwz2sHviUV9MqpPU0cL0wrniDg7VJR96Fjd8zRcb4YNRhHDREkXSWwQdXaQXh0J3PsJfLgJJKItYwu1IFhDMwgTo0_O_CWSbjN0qGbgfbR8tr3AG1YQB4O6Re3-rjB6M5OUmEXykLcFtzlUaKGXQGigM6RylXjwpNfs0DGtO3t2HXi9v5_Tj53yoz1pd7_AbVOg_c",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IldoeSBkbyB3ZSBnaXZlIDEgcnVwZWUgZm9yIHNoYWd1bj8iLCJsayI6IkdpRjNhSGtnWkc4Z2QyVWdaMmwyWlNBeElISjFjR1ZsSUdadmNpQnphR0ZuZFc0IiwiYnMiOiJjLU55NTFMMHlDOVh5QzFOemxESXpjOUxyVlFveVZkSXp5eExWVWdzVmlqT1NFd3Z6Yk0zVXBKU3lDQ2dpTXVVUzhLeldNSFkwTUJBSVJFcXBwQ1ltMS1hVjJKdkpDa2xub2xkanN1Y1N4S296UkFFTVBWSlNVbGs0cERrOHVSU0NzLW9WRWpKVnloUGhiakZVS0dvdENBMVZTRXR2d2p1Y21VcHhYSkNxZ1FZQVEiLCJpZCI6ImZjX3ByU1dhbzdjTDliTnA4NFBwNXFJaUFvXzYifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFpHbElSMmxFWVVkUWNuWk1jV2c0WTJSQ1VsRkZYM0pSZVcxV1FqVTBSekZwTUVGaVIzSllUa2wxTTFOSFlqSnFjbVptYms1Q1IwSXlYMUJZY1VVeVNVTktRM3B6YVVaUlNqVjBWVFJZYzBoQk1HdHJVM1ZxWmkxbmR4SVhjSEpUVjJGdk4yTk1PV0pPY0RnMFVIQTFjVWxwUVc4YUlrRkVjM0k1WmxSM1dEZFBWMVpOWm0xVFF6UlJiV0p2WmtKcVdtVTJXV2xzZEVFIiwiZmN2IjoiMyIsImVpIjoicHJTV2FvN2NMOWJOcDg0UHA1cUlpQW8iLCJxYyI6IkNobHphR0ZuZFc0Z1lXMXZkVzUwSUdadmNpQjNaV1JrYVc1bkVBQjl5cERsUGciLCJxdWVzdGlvbiI6IldoeSBkbyB3ZSBnaXZlIDEgcnVwZWUgZm9yIHNoYWd1bj8iLCJsayI6IkdpRjNhSGtnWkc4Z2QyVWdaMmwyWlNBeElISjFjR1ZsSUdadmNpQnphR0ZuZFc0IiwiYnMiOiJjLU55NTFMMHlDOVh5QzFOemxESXpjOUxyVlFveVZkSXp5eExWVWdzVmlqT1NFd3Z6Yk0zVXBKU3lDQ2dpTXVVUzhLeldNSFkwTUJBSVJFcXBwQ1ltMS1hVjJKdkpDa2xub2xkanN1Y1N4S296UkFFTVBWSlNVbGs0cERrOHVSU0NzLW9WRWpKVnloUGhiakZVS0dvdENBMVZTRXR2d2p1Y21VcHhYSkNxZ1FZQVEiLCJpZCI6ImZjX3ByU1dhbzdjTDliTnA4NFBwNXFJaUFvXzYifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "For an Indian wedding, a standard cash shagun ranges from ₹501 to ₹2,100 for acquaintances, colleagues, or casual friends, and goes up to ₹5,000 or more for close family and best friends.",
+        "snippet_highlighted_words": [
+          "₹501 to ₹2,100 for acquaintances, colleagues, or casual friends, and goes up to ₹5,000 or more for close family and best friends"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Standard Shagun Amounts by Relationship"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Colleagues / Casual Acquaintances: ₹501 to ₹1,001"
+          },
+          {
+            "snippet": "Good Friends / Extended Family: ₹1,100 to ₹2,100"
+          },
+          {
+            "snippet": "Close Family / Best Friends: ₹5,001 to ₹11,000+"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Essential Rules of Shagun"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Always add ₹1: End your amount with an odd, auspicious number ending in 1 (such as ₹501, ₹1,001, or ₹2,101). Even numbers like ₹500 or ₹1,000 are avoided because they are considered complete or final; adding ₹1 symbolizes growth, continuity, and a new beginning."
+          },
+          {
+            "snippet": "Presentation: Place the cash in a neat, decorative envelope (shagun lifafa) rather than giving loose notes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "How close you are to the couple (colleague, distant relative, best friend)"
+          },
+          {
+            "snippet": "Whether you are attending alone or with family"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you pinpoint the exact amount to give."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.google.com/goto?url=CAESmQEB6zswFUtT67jAP9ulepEuHeFMQAwHQoXfHHHSzVZlCQ7GVPjYMZFEFZ3UbvIlmtpaUU85TIcUvTBy4NCgtrqvZiiScFvU69sx-ml8pptdW9ZtEAgXN3jyU_WfjBpLdre85Nj0FRsEHTQBzwqQ7GFS1rZhMcJ7OmcYGHdES1Gu5HecGr07_3X79f2eADaSa5Y4f8Nn-AtOGFE",
+        "source": "reddit.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESaQHrOzAVm36rlVMQ9RPrR3DkJ5mmEYY0eB8m45XD3DY78na-3l03iLF9BhmqHJQIPz-yeHmd0LuGnzLyfDPtp9z1F_XAYbzXq7142nhfJOMXa7NK40nGz9NUCXdIafIQOrfCuhwwjgKFrQ",
+        "source": "confettigifts.in",
+        "index": 1
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESfwHrOzAVAzPQzSatjkA5ktL_lXvVii_hmzC8NpCmGfeJ-jVbG4-xqJsHfrFPCxRFSWhBrITsmb4d_hnTfSII42Hi3oeqZtKJLUjD4dGwSTV1-le1iryyVjU2ndmlu8M-OtIYphQ-gUlt4aFbMrHBfFnrdqwHH0Rwmv_An_9QAlw",
+        "source": "pataaree.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAEShQEB6zswFZNMg8lGW6WFnYQB0uYh97y8h4RcbJNwQtzwc_ekYEWf_210R2tQMs33dX6wMyAepjOeA3aP0lBtog5B68X8mrjbO7emG6SZWpzFbPo8OhutTpB8AZp3gvBrGAY8MK3gUBe8_rKhnWWlQE4NXSHrIbBgMBr5Cx2wsUfvXHEcnG-I",
+        "source": "loveleensari.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESYgHrOzAViiCL1qxqAzfQFOY6bkpKmEl4iYAKmnscZDkxAgYbIuFcwJP9pTasonOyJKLh7129ZLT7po91AXpIsdFTT6duYi-LsYi8cxkePJQ1q41nd3QJcn5OS7aBe1rFiKHu",
+        "source": "youtube.com",
+        "index": 4
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESogEB6zswFZ88UJEtUnSPcNpgzk7ASaxG8QjZSZDE1gVpU7Ipv-2Uc6l11w21Ekl6Ctpv_KtqegYBoHF3UVTb0LH9Ye9deW0D5cEoRdz9fCL1qbongCYA93xm71e35Rpa_aEyMh13Yt8v9YnsTJA-whF0eMd0ihlhL1jsxosV9luzG-7Tu5cvqFtRtPhL2eF3WIcfkiZ9A_2YE6x5Ww3J2GqMwYs",
+        "source": "foundationgift.com",
+        "index": 5
+      },
+      {
+        "title": "What is the appropriate cash amount to gift for a wedding in India? - Reddit",
+        "link": "https://www.google.com/goto?url=CAESmQEB6zswFSLcvVWJQXwTlYrsSrXWc3nR8u-DQQDjviSoB4n1DbT56STaubJE8LSyfWa35myFGljE9McntSqQs9Nb5DoxnltWasecVVMDDj66iZ7K_ub5GVdpt5PEdLR_SySxjsBxZTIoHzBWDmQqjkR4hbyYwBgfLc5mBfRAEKBd__wkAjcedvRA1uZtUTSnBq49Fq-MLtl9tdI",
+        "snippet": "Wedding Gift Amount: For a wedding gift in India, common cash amounts suggested range from 501 to 2100 rupees for a casual friend or colleague. Some recommend i...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs3mtSj2UfMEXXsSvuIE3PhjpndA9A-LM_A72GITRCHC57XX3wkW4ayXH02DChyvU_K6gFo60JXfhsZbpbUT5h6f3SYh8T14vELjP-",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Wedding Gifts: Frequently Asked Questions - Confetti Gifts",
+        "link": "https://www.google.com/goto?url=CAESaQHrOzAV7vq_K_Zo4vSOIyB3m9iCqKDpDY4GYOZ3Cl1eJO6mepp2js80dIl_rFsIHSmLfuaMCaPUXhR49RGTLNQukWHKxJsKg5mMepMDPzY4SkEvaWY_tcaCWX1SYLbN5NWGuw9gALcXcw",
+        "snippet": "Cash in shagun amounts (e.g., ₹1,001 or ₹5,001) is common. Silver items (coins, Diya's, bowls), sarees, or traditional keepsakes work well. For close relations,",
+        "source": "Confetti Gifts",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe-ReOt5a5S97A2AdJBhrWiolI6d5Z4oJEChFT5IyDkmaPXWSoGCv3sX5TxRLd2L1Z2B_EtaraTifYSYKD7-02BzLwvij3CHkHrXZj",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://confettigifts.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "How much to spend on a wedding gift? The complete guide - Pataaree",
+        "link": "https://www.google.com/goto?url=CAESfwHrOzAV-_eTKJtQeeJB2Nka8bB0r7MwVcnI46LNUVHRLL8dGvGUYaQe4Y65qEHJRurWNtI4zBFXczUI0SbHIVLBwalqj3YqvFqUjR75R-SLAtGGwxmm2aajZLW6eHDk2F-I-6OdOEiD2SsbQNrikNXA5uaZMlmBh1LFQtqsQi0",
+        "snippet": "* Weddings are moments of love, family, and new beginnings—and so is the art of gifting. ... * In this guide, we'll explore wedding gift etiquette",
+        "source": "Pataaree",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkXxSOGNl7OgLmJf1ABghUVg2KxDBHi8eq_ORnncani4KPYwOgvK5jqzn4PJhnExgyRuemlfPJE7Bv4VhZWrd9OosHn1TPb28OZJbJ",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://pataaree.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "What to Give at an Indian Wedding: Gifts & Etiquette Guide",
+        "link": "https://www.google.com/goto?url=CAEShQEB6zswFdbvJm_U7CK8N53ufBI846tFUiR8sWwnUqVcs3dJ6721kMOPci4yJsVrFHOqxLOtaj5p-tZux_UvSb3Ig7RrcBr1KlzYgYJTQjvj2QOuYV0O2JpSy-3DqhfzlNAQQ4i7lbAHNG6lBXUygGSiFRXbSFpq4RcWyEN-5ciE4VftmIYG",
+        "snippet": "Why the extra dollar. Round numbers are considered incomplete — an ending. Adding one rupee, one dollar, one unit makes the number auspicious: it can't be evenl...",
+        "source": "Loveleen Sari Palace",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd9jM8NY9HHviEyoj-5neXRNCHcs9uqCuks-1dr7NqhBMiHj5fP0Ik3UwYfiUTaSXSoCo14-kuSQgIDnXxZB1DXv0YpqLqhnpmb60e",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://loveleensari.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Modern Wedding Gifting Guide (What to Give & What to Avoid) #twp #ytshorts",
+        "link": "https://www.google.com/goto?url=CAESYgHrOzAVSyh9Ei0qATUgN1ZojO-JyK5Hu48UDw0ol1hF6kRHpsUzo-84r3qTcxlRsEysbiWoYFAo_Ktlw_mtHA-4s6TkB3WQHLe8E-axpbshRf1cJ2uAbUzorT-hMgjwO6w3",
+        "snippet": "families still love the traditional gifts like gold but the couples today prefer practical thoughtful choices cash of course honeymoon funds or the concept of r",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQh_sxRwjw5UbS0wfJGksyXQtcDJBJN98pil08cnT3eDv6VrCwomPZCGyUAwpGgf3dGxtYtbxdiPClDS-KEtnyHytuaen3hRZM2wYAQkQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Indian Wedding Gift Etiquette 2026: Amount, Timing & Customs",
+        "link": "https://www.google.com/goto?url=CAESogEB6zswFbK35VCOuksbWrQKtmCde81GKl_mNIRj8B6yrwTFGGpAxHx5-NJ7S4FTZuKhtMMS7RcypkW3KjBB_sODgcYJh0tEPZXteBh_bNkoZfWAjvP36t7L85rLIhvfsW0XJZCk_zaBUZE9aMtA32_l-T7dIr0yQee2qewVRdirzlYSOKZ5ctEHCm93VZI6SYZok-SzbNQUkSTpyibsAHh4UJo",
+        "snippet": "Marriage Gifts: Cash vs Actual Gift — What Indians Prefer in 2026. Cash is still dominant at Indian weddings. Shagun envelopes, bank transfers, UPI. It's practi...",
+        "source": "Foundation Gift",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLLmuw3PFOghZI_99j-UQxRXQq5xpmt13JYq5mDBqM0sKh7RmG8SdHOOAnrvaz4EElviycPotVEXe5lOsurHlbvJo",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://foundationgift.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What is the appropriate cash amount to gift for a wedding in ...",
+      "link": "https://www.reddit.com/r/india/comments/dsy3jk/what_is_the_appropriate_cash_amount_to_gift_for_a/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFUtT67jAP9ulepEuHeFMQAwHQoXfHHHSzVZlCQ7GVPjYMZFEFZ3UbvIlmtpaUU85TIcUvTBy4NCgtrqvZiiScFvU69sx-ml8pptdW9ZtEAgXN3jyU_WfjBpLdre85Nj0FRsEHTQBzwqQ7GFS1rZhMcJ7OmcYGHdES1Gu5HecGr07_3X79f2eADaSa5Y4f8Nn-AtOGFE&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECB8QAQ&uoh=1",
+      "displayed_link": "20+ comments · 6 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "As the title says, I would like to get a ballpark figure on how much to gift my work colleague that is getting married in Kerala, India. Some info: he ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What's the correct Shagun amount 2100 or 2101 ...",
+            "link": "https://www.google.com/goto?url=CAESnAEB6zswFXJ4YsaHwHMYNYHdGxh7TzJ4UOl6rUqYiMbEGdJ1zOJsM-s-TCRlXLPOieoz2ocOrfVmyseohkOc1SrulH-GypuUjg5yH5T0m-kNMmaliVNTZqm52ZcLsSkYHr359vgVt8LdLj7n1ucetJAOvoaHNedGWGOEr5LiaT5gGOD2HZKbW3BhoogRDzO3wDen_tGV3P5AFk-3s2U",
+            "answer_count": 4,
+            "date": "7 Nov 2024"
+          },
+          {
+            "title": "How much to gift? And which ceremony to give it ...",
+            "link": "https://www.google.com/goto?url=CAESngEB6zswFVvaldWGVbXUL80WScJH-BHOdOiTqshMgvkaLiC2ONH8D8YtYQRdCvWW6OnCKculnT98ZMbIdrFoUyDU4gEf6hYZttqBc4QSvxhad6NY5_II71AbzFy3qCCOU0TBflaRbfA1R7_ZJ97vZPVgcp6N5xx1wfRP8mpLaxdYlUaukGAnk-I-sdP648tHPiOdHvVQtJATULwAFfR1kQ",
+            "answer_count": 27,
+            "date": "22 Apr 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "It's lies between 501-2100 rupees, upto max 1500 is enough, max 2100 should be enough, min is 501 is Normal cash indian wedding. considered ...",
+          "source_info_link": "https://www.reddit.com/r/india/comments/dsy3jk/what_is_the_appropriate_cash_amount_to_gift_for_a/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/india/comments/dsy3jk/what_is_the_appropriate_cash_amount_to_gift_for_a/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Findia%2Fcomments%2Fdsy3jk%2Fwhat_is_the_appropriate_cash_amount_to_gift_for_a%2F",
+      "source": "Reddit · r/india"
+    },
+    {
+      "position": 2,
+      "title": "The Ultimate Guide to Choosing the Right Indian Wedding ...",
+      "link": "https://www.sterluv.com/blogs/all-blogs/the-ultimate-guide-to-choosing-the-right-indian-wedding-gifts?srsltid\\u003dAfmBOopbYTFzG3pUvgEKnSaFewsrpAAcIvaiFO6YvOppoML7K3b3BIVM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3wEB6zswFau10mjSwXB7sW4UQRmHxTqCXbMYI4bPNjx6zCUWAh3co0TDCdn8yPly_eZkG8O291LsQ-W_KBfaRZtwEhrsyE-TYeA6ZQ44PYuNk3e5c-di2p586Dxd2Kdmp0eKFquavRf_44IpVsYrvZM6pXmSH43nbQUv-rHPKcYJVlqHKeyklZ31WEXjw0N-UjSEpTp0orJG-DKoK-Up1ZwStHC1yoSeLzgrt5-f4hRIPCJyUnIVmMqCjz_8cB4DhHHFv2sHRyP2OIZLhvniuYHMIRm5kcYa5Crfhs6K6P9Y&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.sterluv.com › All Blogs",
+      "favicon": "https://serpapi.com/searches/6a96b4a5f735810d24cf7563/images/xMKVqjkzAA7RPTPKMN8K4s0Imzm7rK1_kl0uUWO9Zvs.png",
+      "snippet": "Cash (Shagun): A practical choice often given in auspicious amounts ending in 1, such as ₹501 or ₹1,001. The amount of cash often ends in one, such as ₹101, ₹ ...",
+      "snippet_highlighted_words": [
+        "Shagun",
+        "amounts",
+        "amount"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cash (Shagun): A practical choice often given in auspicious amounts ending in 1, such as ₹501 or ₹1,001. The amount of cash often ends in one, such as ₹101, ₹ ...",
+          "source_info_link": "https://www.sterluv.com/blogs/all-blogs/the-ultimate-guide-to-choosing-the-right-indian-wedding-gifts?srsltid=AfmBOopbYTFzG3pUvgEKnSaFewsrpAAcIvaiFO6YvOppoML7K3b3BIVM",
+          "icon": "https://serpapi.com/searches/6a96b4a5f735810d24cf7563/images/xMKVqjkzAA7RPTPKMN8K4iuthrYjwze-FfwuZnbQY2w25Pinv1pYLGfd7ttnHIKB.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sterluv.com/blogs/all-blogs/the-ultimate-guide-to-choosing-the-right-indian-wedding-gifts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sterluv.com%2Fblogs%2Fall-blogs%2Fthe-ultimate-guide-to-choosing-the-right-indian-wedding-gifts",
+      "source": "Sterluv"
+    },
+    {
+      "position": 3,
+      "title": "In India, gifting money in a Shagun lifafa is a cherished ...",
+      "link": "https://www.facebook.com/Timesnow/posts/in-india-gifting-money-in-a-shagun-lifafa-is-a-cherished-tradition-during-weddin/1265619262276000/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwwEB6zswFV4XmKENKHpJHxSxzNP-neBTJUzl9Z02miGKGrkyvxAvqkXchdEgD8PlBzBMwom0z4fR2t7SZkgC3bELRbiiWxKA-mu3q82qS8vkX6lOt0EeVryz3mr8l2D5qw9n9iclMIuExIYAe_tyDGn9DzHQJvn7YpF5pNYtwaONTfMx2gsud_l06nDH2aE8AupXeyiZIthqaEDarZCE1sHOuwcPTHWV3zmkpx15NdqQTeqVmQJAwCG-AcMhbeTmWeA3Zu0&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECBwQAQ&uoh=1",
+      "displayed_link": "90+ reactions · 11 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "When you go somewhere like in a birthday party or at a wedding ceremony, you always add one rupee in a considerable amount (shagun). The money ...",
+      "snippet_highlighted_words": [
+        "one rupee in a considerable amount"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "When you go somewhere like in a birthday party or at a wedding ceremony, you always add one rupee in a considerable amount (shagun). The money ...",
+          "source_info_link": "https://www.facebook.com/Timesnow/posts/in-india-gifting-money-in-a-shagun-lifafa-is-a-cherished-tradition-during-weddin/1265619262276000/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/Timesnow/posts/in-india-gifting-money-in-a-shagun-lifafa-is-a-cherished-tradition-during-weddin/1265619262276000/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FTimesnow%2Fposts%2Fin-india-gifting-money-in-a-shagun-lifafa-is-a-cherished-tradition-during-weddin%2F1265619262276000%2F",
+      "source": "Facebook · TIMES NOW",
+      "read_more_link": "https://www.google.com/goto?url=CAESmAIB6zswFX1fPF0k5UIQPPfEKkF1MUkJyMWvoWMH4Wx8xIKgy-x-cyoz2_TOcFNgFELJiyUjZ1-PCTj9s3no5PvGoafNrm6qjZZ7iZU8LufncBvoohNhYxRJIy2t-zkT7weUvKqzwKgEQvkyple60XmpioTKEcLY41kG6FKAQX-aSRO0oKzczJXXoynZPKQXgBgWS3EWOoq9ULjqAHeHjtjdrFJP0Gdlzigdw6JTJLqOPmITSkVxuvgzbwwr7VnCF4Y90K9mkBMM_sSFNzQ8SSTBhAbBULAzjF4i-yV_nLc8FxePg5RlfxG0W2A-gtHMgaT2Kod3H7BAEFMvUDE8RknJe-jR7FBMf81lRFt0SpuH0c25cKifde6q"
+    },
+    {
+      "position": 4,
+      "title": "Wedding Gifts: Frequently Asked Questions",
+      "link": "https://confettigifts.in/pages/wedding-gifts-faqs?srsltid\\u003dAfmBOoohBKD6PNE4U2aTa_lzpoGeugz89Kwg3qbPg00XBR7v90f1h93w",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFex9dhi7MLCkHoQdPMm8scl3Mb6ZgEeHpVMiL3NG3EGb8Q4rvsY3OEbyrjLHS0UNtgA9vj2Po1B_DnHgOqfei1880t2uwNBYHh4n2cA7Ywz62MWCDLnCUEQfYrc5e51zEHWnGVYZPnvaFVPMl7NfdEZCXFKNqS6lTLqXsCNhbOAmouiy7boD3dM6ajS7k6I5AkhIoc9gEymK0vU3PMJTTm0Do4z2dA&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://confettigifts.in › pages › wedding-gifts-faqs",
+      "favicon": "https://serpapi.com/searches/6a96b4a5f735810d24cf7563/images/xMKVqjkzAA7RPTPKMN8K4vwpVd6rCyO9gn-0fFLmkR8.png",
+      "snippet": "Cash in shagun amounts (e.g., ₹1,001 or ₹5,001) is common. Cover your presence: ₹1,000–₹2,000 for distant friends, ₹3,000–₹5,000 for relatives, ₹10,000+ for ...",
+      "snippet_highlighted_words": [
+        "shagun amounts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cash in shagun amounts (e.g., ₹1,001 or ₹5,001) is common. Cover your presence: ₹1,000–₹2,000 for distant friends, ₹3,000–₹5,000 for relatives, ₹10,000+ for ...",
+          "source_info_link": "https://confettigifts.in/pages/wedding-gifts-faqs?srsltid=AfmBOoohBKD6PNE4U2aTa_lzpoGeugz89Kwg3qbPg00XBR7v90f1h93w",
+          "icon": "https://serpapi.com/searches/6a96b4a5f735810d24cf7563/images/xMKVqjkzAA7RPTPKMN8K4rilYMOMI31PzbUmbgoow0JXOfQjgI2thzJ1js5c5y9J.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://confettigifts.in/pages/wedding-gifts-faqs&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fconfettigifts.in%2Fpages%2Fwedding-gifts-faqs",
+      "source": "Confetti Gifts"
+    },
+    {
+      "position": 5,
+      "title": "Wedding Shagun — Everything Your Family Needs to Know",
+      "link": "https://thenyota.app/celebrations/wedding-shagun/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVvuSCyJlkgadAHB8Z4wJdXK2ZkBBw-WrHvpsVe53UvH-dj_-wjTYiPbvZn_MIBAYReo_JHnEZO-BtwZGe7ot2U7pza3delxR2tGPLutEZsa52L7gLzrV6i6Rid5gAcsBoHuUxOQ&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://thenyota.app › celebrations › wedding-shagun",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEz_________-Pn__________________P3____97e76rrHwk5b6nqD729z____-Ky_cAAvQBAzvAQ39FBv9ISf____3dXn_MjXuKzPiDhzrFCDvGyT-QET6X2LnanH8t7n-xcb1honiU1s7ST_CAAAAF3RSTlMAQq35_xCNgP0r______-I________0yziFlYAAAFKSURBVHgBbNIHgoIwEEDRaEaNCSVVIl28_x13Zgjbv1IfHQR2Okv4lTyfBHW5wr9dL4g3oNTvAG5C3BWSNtVXdVVTjbqLFrDaOu-cC6WYUoq1bMWDsMv56fp-GMZxnOZ5sjmnTj-EQmvmPJnFMT5XBSZlmxatBGDrlKeX7tyOACZaOy4aGOuMCLo7cEUcCurNItL0G_aMfEpG1HBgcgVfU86ZEOQWyjlHX9DYA0FXA2MqyKe0hFUDIGvCMPYFm7ng5lEpRF_wlXPZ07MSDt4x8vPY0blns2NfUG_JHti7d8PoD5ztF_Ye9Tt20dpkV8TQ97yvoRe4Sb7aLqYd-4FVmn1HKK_MxoANiKQVHxzU_rJhnZ_0olldvxigHqIFTpoZCXP9u5bAtfyBcdrMeGT3rhvYU3f-NDkFjemWQtTt10ettfoYcqLGmx0Ayqkpat5pKhcAAAAASUVORK5CYII.png",
+      "snippet": "Shagun is traditionally given in odd amounts like ₹101, ₹501, or ₹2,100. The extra ₹1 represents a continuing blessing and is never meant to be rounded off.",
+      "snippet_highlighted_words": [
+        "Shagun",
+        "amounts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shagun is traditionally given in odd amounts like ₹101, ₹501, or ₹2,100. The extra ₹1 represents a continuing blessing and is never meant to be rounded off.",
+          "source_info_link": "https://thenyota.app/celebrations/wedding-shagun/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEz_________-Pn__________________P3____97e76rrHwk5b6nqD729z____-Ky_cAAvQBAzvAQ39FBv9ISf____3dXn_MjXuKzPiDhzrFCDvGyT-QET6X2LnanH8t7n-xcb1honiU1s7ST_CAAAAF3RSTlMAQq35_xCNgP0r______-I________0yziFlYAAAFKSURBVHgBbNIHgoIwEEDRaEaNCSVVIl28_x13Zgjbv1IfHQR2Okv4lTyfBHW5wr9dL4g3oNTvAG5C3BWSNtVXdVVTjbqLFrDaOu-cC6WYUoq1bMWDsMv56fp-GMZxnOZ5sjmnTj-EQmvmPJnFMT5XBSZlmxatBGDrlKeX7tyOACZaOy4aGOuMCLo7cEUcCurNItL0G_aMfEpG1HBgcgVfU86ZEOQWyjlHX9DYA0FXA2MqyKe0hFUDIGvCMPYFm7ng5lEpRF_wlXPZ07MSDt4x8vPY0blns2NfUG_JHti7d8PoD5ztF_Ye9Tt20dpkV8TQ97yvoRe4Sb7aLqYd-4FVmn1HKK_MxoANiKQVHxzU_rJhnZ_0olldvxigHqIFTpoZCXP9u5bAtfyBcdrMeGT3rhvYU3f-NDkFjemWQtTt10ettfoYcqLGmx0Ayqkpat5pKhcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thenyota.app/celebrations/wedding-shagun/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthenyota.app%2Fcelebrations%2Fwedding-shagun%2F",
+      "source": "thenyota.app"
+    },
+    {
+      "position": 6,
+      "title": "How much should you spend on a wedding gift? Follow ...",
+      "link": "https://www.vogue.in/weddings/content/wedding-gift-etiquette-tips-how-to-choose-spend-registry-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFQ6ZA-eU4qQf7X-kkVkMqe3FL3zek7MaxiJ_K8x-d_QGJBpCT6Hsb9saKHulKXQ6ml6GntVMx3Sp6k8cAHn4fC1mM5vjSj1bcQgAcYSZmp5jetS2UddPcraKaiNCz9htwgxlA-pUBexP27raGYpqWJ0NoBVS06ENVhphvmcNyQsx2kdkLHRpzEPjJ92HyfEFokApXBbP50s&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.vogue.in › Weddings › Wedding Gift",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABFFBMVEX____8-P368Pz98_37___6-v778P36_fzr8P338P3s8vzx2PTUosmzh7WerK-esK6qqLDEl7Tu4Ojk9PGIm7zInrmshLW_nLmkp8rt7PTk1dNsb1AAAABCOBG2rIfy8OrMzbrCx7JKTTHa0r3ZvM8hFRolHxu_vrvDwK6ejF0vM02ZfqCJfkrQ39mslW9QSCPc2s5ycjYAAA62pYWJdl1lVSWalGvmxusAEADR29eemJ5RQS-gopDKuZ6ms8-lraA-MSqnp4kKGwDju-jT3P2Rjo14bTkAABvj3NZbTjvb3vOcjaq3oaDCvrcvJRjW0svUvsViZmFxY1u4lZ0eGwC7xfNvcnpXQ123qpkVDwAqJjt9akkJdYsvAAABBUlEQVR4AY3KA5ZDURBF0cpnbKe6Y9u2zfb859EvNs5S3bULniWgaIZhWE6wnbyQokVifocSqUyuUChV6u3UaHV6g9G0Q85sQcS3d-t28ja7w2nmYJ_LjejxHqbPD6cFEDF4eA6FzzBCMBrbDU38lMgmmPDuRtIP56WIpq3bOxO-wCzBXH5zhgvsBfJFoqXNWa5cIlQJ1nhyMPUYXJZvEG2So9W2XqE1TbBDDp-KukJGkUDsArDVGFzX6yOiHwbD3g2khwQtEBuJ4EbjCaJnOrMzt9A6R8TFUg03q68QEwW43UcAcVWHO30ifknu4fcPzjX3UPKLSrhbqtu6j7E_5j4yVni5f5v5HdiTIX-QAAAAAElFTkSuQmCC.png",
+      "date": "22 Oct 2019",
+      "snippet": "If you're a coworker or a distant friend, the minimum wedding gift amount you can get away with is $50 to $75 (between Rs 3,500 - 5,300). If ...",
+      "snippet_highlighted_words": [
+        "50 to $75"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you're a coworker or a distant friend, the minimum wedding gift amount you can get away with is $50 to $75 (between Rs 3,500 - 5,300). If ...",
+          "source_info_link": "https://www.vogue.in/weddings/content/wedding-gift-etiquette-tips-how-to-choose-spend-registry-guide",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABFFBMVEX____8-P368Pz98_37___6-v778P36_fzr8P338P3s8vzx2PTUosmzh7WerK-esK6qqLDEl7Tu4Ojk9PGIm7zInrmshLW_nLmkp8rt7PTk1dNsb1AAAABCOBG2rIfy8OrMzbrCx7JKTTHa0r3ZvM8hFRolHxu_vrvDwK6ejF0vM02ZfqCJfkrQ39mslW9QSCPc2s5ycjYAAA62pYWJdl1lVSWalGvmxusAEADR29eemJ5RQS-gopDKuZ6ms8-lraA-MSqnp4kKGwDju-jT3P2Rjo14bTkAABvj3NZbTjvb3vOcjaq3oaDCvrcvJRjW0svUvsViZmFxY1u4lZ0eGwC7xfNvcnpXQ123qpkVDwAqJjt9akkJdYsvAAABBUlEQVR4AY3KA5ZDURBF0cpnbKe6Y9u2zfb859EvNs5S3bULniWgaIZhWE6wnbyQokVifocSqUyuUChV6u3UaHV6g9G0Q85sQcS3d-t28ja7w2nmYJ_LjejxHqbPD6cFEDF4eA6FzzBCMBrbDU38lMgmmPDuRtIP56WIpq3bOxO-wCzBXH5zhgvsBfJFoqXNWa5cIlQJ1nhyMPUYXJZvEG2So9W2XqE1TbBDDp-KukJGkUDsArDVGFzX6yOiHwbD3g2khwQtEBuJ4EbjCaJnOrMzt9A6R8TFUg03q68QEwW43UcAcVWHO30ifknu4fcPzjX3UPKLSrhbqtu6j7E_5j4yVni5f5v5HdiTIX-QAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.vogue.in/weddings/content/wedding-gift-etiquette-tips-how-to-choose-spend-registry-guide&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.vogue.in%2Fweddings%2Fcontent%2Fwedding-gift-etiquette-tips-how-to-choose-spend-registry-guide",
+      "source": "Vogue India",
+      "read_more_link": "https://www.google.com/goto?url=CAES6QEB6zswFeAI-IKkQemOAbQoJ7bC9y0C2zrJBO5jRPaVe72Pkk8m_Uz4eBLsNYIaLmfHM10UnXxzOGdcLr70wpGKQFw9CqwP6nyt3w6-JnOlYN2yfcAYoCCt19w5kfboWiBZ4d47-ACCCZM2JsYN58311Ytd6SoGitZHKAPI7sPns8hfP46V1ULA2ct3kMbNfGEUuWbZNpHeb6yzLLPAYm2s1TizCM_VEPyfP8BK-1lvy3ssimAMaF6YQklfcLHBNrftINAfGcfxfVOXpPBtBu2xKTutZNWhKhvN5aBenA0cAPK_wOvZLTqVmQ"
+    },
+    {
+      "position": 7,
+      "title": "Why do Indians give Sagun odd amount money like Rs. 11 ...",
+      "link": "https://www.quora.com/Why-do-Indians-give-Sagun-odd-amount-money-like-Rs-11-21-51-or-101",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFd0kBYskBRiDkvx06B0pGXgj68XLTzE8fmXavMaGwSCvnTpk2w4sQOgvEV3sbdD3Hlwutq3f693S4ZcFTsV5TjRQ-F1481spa7Gj9I2zIuYVgI-NukQxRfSHIPyUBC4OlI3VPrNXcO3-jeMy6RFPcxyFlcgXYI_O8ACdS3-TlrDLCZghklcCPvooNOM&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECB4QAQ&uoh=1",
+      "displayed_link": "30+ answers · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+      "snippet": "Why do Indians give Sagun odd amount money like Rs. 11, 21, 51, or 101?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the appropriate amount to spend on a wedding ...",
+            "link": "https://www.google.com/goto?url=CAESoAIB6zswFX___5aqGfqXv3EjIETq1n9CFyRrhEMHRB4r1IC7sKVI1e0MTByCnUE3JMULWfzCBJLG2NVYipFhnuTzBGqvTJeDPC6-de5__3a7IuXYSAXjUtop8HrCv6fawJHXiUDDngeyFXIiHvB67ZHI2QpJBs415nHpbPSWoU_96-MOxXumwy6U9Yt-DNcCjL2kED5xy5trGfci55zA9m3FX94aslGEwSPX6XRqej2zMs4q3H_GVLxmvACxJAB-Q2JfOU4nvvllQeQTUZmHTjaQz196Rqpc6opagoOtHm2RKXX15I8-uskW_CrCoQ75xS28MFbl0DthSfCV9zn5OJ0FATcz2W0w67EHrWmGMD38tc1oMbw9hv480X-R6GV29iU",
+            "answer_count": 33,
+            "date": "14 Jun 2024"
+          },
+          {
+            "title": "What is the customary wedding gift amount (if ...",
+            "link": "https://www.google.com/goto?url=CAESlwEB6zswFSSFpw-fQ1QOjo6A8vRnrokI4SKdGGCVcItAP82ZE_2pwcilo7r1vfkNTI9hsvYW-z9hWw3DaWrbQJ6VntDWJWGR5dHk4KrM9COqWMfPdIPilZYQzc8dsobC_ymvfJEQqvVSXZDVKnuiRB42OHnpUXNebQV4clfPKTh9o0Y_Mrs8T1BJOaYnDezGDkl8Z1WWZ4-c",
+            "answer_count": 38,
+            "date": "24 May 2017"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "We usually gave Rs. 500 in a wedding as Shagun, since gifts are no longer the norm in weddings. shagun is given in such amount like 51, 101,501 ...",
+          "source_info_link": "https://www.quora.com/Why-do-Indians-give-Sagun-odd-amount-money-like-Rs-11-21-51-or-101",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/Why-do-Indians-give-Sagun-odd-amount-money-like-Rs-11-21-51-or-101&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.quora.com%2FWhy-do-Indians-give-Sagun-odd-amount-money-like-Rs-11-21-51-or-101",
+      "source": "Quora"
+    },
+    {
+      "position": 8,
+      "title": "Wedding Shagun Gifts: A Complete Guide Towards 2025",
+      "link": "https://angiehomes.co/blogs/press/wedding-shagun-gifts-a-complete-guide-towards-2025?srsltid\\u003dAfmBOorDkhGOsH86wjkAcHF2nVhReiSXasvT_U_1jAGAsfOrfcH1dQty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEB6zswFbXmuaB7VdlLPBObSB_sojfLXFInEPIURIkWHBr77A_ydLHsYkcp347QmCzZONwXfLtQeot79LL6mAHnD0NHqLHA5pT4Ao30g0cID7O9xjZl1CFPxMRc_-FMDwjhSunTa4f2NwD81UUt6y97s1_OOkIVsOgoOQsTss29iobDPfi6EWW8fL-MAvAOfkq3Q7uP7ghca5fFSNOGXZFtxoyAU-SnkNnQvOl6s3tqdJWkIGhQe0P_WeeMAiiA45dpn7SYPutubW7kp6xqFQ&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://angiehomes.co › Press",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAHlBMVEVHcEz_yxXzxQ3_yxX_ygf_2GP_zRr_6q3_4Yr_0kNgm9_uAAAAA3RSTlMAMAO8OaOXAAAAa0lEQVQoke2RsQ7EMAhDuYuN8f__cFGbSmmHrndDX4IC9mCkRLxEfB6IsYLCOl5M-G5iQfM9xBEg67gi5Nq7VLEKbcpqg-yqlLpaKFoZaRJ0n7ZhM-fQ8p45ZorO7sxcljPHlfg-8OsP-gs20pAEXig4s10AAAAASUVORK5CYII.png",
+      "date": "23 May 2025",
+      "snippet": "Usually put in envelopes, a Shagun is presented as cash. Modern Shaguns present a range of gifts combining custom with consideration. By 2025, ...",
+      "snippet_highlighted_words": [
+        "Shagun"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Usually put in envelopes, a Shagun is presented as cash. Modern Shaguns present a range of gifts combining custom with consideration. By 2025, ...",
+          "source_info_link": "https://angiehomes.co/blogs/press/wedding-shagun-gifts-a-complete-guide-towards-2025?srsltid=AfmBOorDkhGOsH86wjkAcHF2nVhReiSXasvT_U_1jAGAsfOrfcH1dQty",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAHlBMVEVHcEz_yxXzxQ3_yxX_ygf_2GP_zRr_6q3_4Yr_0kNgm9_uAAAAA3RSTlMAMAO8OaOXAAAAa0lEQVQoke2RsQ7EMAhDuYuN8f__cFGbSmmHrndDX4IC9mCkRLxEfB6IsYLCOl5M-G5iQfM9xBEg67gi5Nq7VLEKbcpqg-yqlLpaKFoZaRJ0n7ZhM-fQ8p45ZorO7sxcljPHlfg-8OsP-gs20pAEXig4s10AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://angiehomes.co/blogs/press/wedding-shagun-gifts-a-complete-guide-towards-2025&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fangiehomes.co%2Fblogs%2Fpress%2Fwedding-shagun-gifts-a-complete-guide-towards-2025",
+      "source": "Angie Homes",
+      "read_more_link": "https://www.google.com/goto?url=CAESqQIB6zswFU18wpuZ_m1nOlhFejOZuXk6GNhGMbebY_8revIOs_uhe6WyLg0nzujxbviMQM2tksqcNqQb-86aevOy6xTsf46y_M6rdTGMqFtxJFWfIiRbuZj07WnFujgLEa4KBwXC_BjpQj5UJzn3x7TWuCfozPz7cTdVs4KBB2Do33rqo-YJ1-VKFusc6tKbZHkB2N8_RaMCMdfyQZ45LF_N_3olVR3fh1qQjkRucZDwZwnY6otq8tmFZB2MMY-u3P9hZKzGyeQtFTKy1As6vWZyRupZtSj35hPiujpRQS6Ze9gWrm-FvRCsFK0MjLMNPziaHRQK-5FuW0kCuC74qAgzJifuGcCWXWtH4c8T0FBUV8CrKg1k8u7Y3ZkbeOcW5ZLVp2w2ViM30Ls"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Shagun amount for wedding in rupees",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Shagun+amount+for+wedding+in+rupees&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Shagun+amount+for+wedding+in+rupees"
+    },
+    {
+      "block_position": 1,
+      "query": "Shagun amount for wedding in india",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Shagun+amount+for+wedding+in+india&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Shagun+amount+for+wedding+in+india"
+    },
+    {
+      "block_position": 1,
+      "query": "Is 4100 a Shagun amount in rupees",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Is+4100+a+Shagun+amount+in+rupees&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Is+4100+a+Shagun+amount+in+rupees"
+    },
+    {
+      "block_position": 1,
+      "query": "Is 7100 a Shagun amount",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Is+7100+a+Shagun+amount&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Is+7100+a+Shagun+amount"
+    },
+    {
+      "block_position": 1,
+      "query": "Auspicious amount to give for wedding",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Auspicious+amount+to+give+for+wedding&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Auspicious+amount+to+give+for+wedding"
+    },
+    {
+      "block_position": 1,
+      "query": "Shagun amount 11000",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Shagun+amount+11000&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Shagun+amount+11000"
+    },
+    {
+      "block_position": 1,
+      "query": "Appropriate cash gift for Indian wedding",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Appropriate+cash+gift+for+Indian+wedding&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Appropriate+cash+gift+for+Indian+wedding"
+    },
+    {
+      "block_position": 1,
+      "query": "Is 5001 a Shagun amount",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Is+5001+a+Shagun+amount&sa=X&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Is+5001+a+Shagun+amount"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "What's the correct Shagun amount 2100 or 2101?",
+      "link": "https://www.google.com/goto?url=CAESnAEB6zswFXJ4YsaHwHMYNYHdGxh7TzJ4UOl6rUqYiMbEGdJ1zOJsM-s-TCRlXLPOieoz2ocOrfVmyseohkOc1SrulH-GypuUjg5yH5T0m-kNMmaliVNTZqm52ZcLsSkYHr359vgVt8LdLj7n1ucetJAOvoaHNedGWGOEr5LiaT5gGOD2HZKbW3BhoogRDzO3wDen_tGV3P5AFk-3s2U",
+      "date": "1 year ago",
+      "extensions": [
+        "r/DesiWeddings",
+        "4 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.google.com/goto?url=CAESfwHrOzAV1tkNt9FniqpO1Mtwf2u89KGPEV1kl6zpYo30brP4GVgoIJ1euEkBlA-4WCZmcInJ2MFEsaD1to_PqjgDvmXqG2YBuInM4Ox_Q7qdKx8NrQGAts2kA-oo9Fnq_WehlF2_54qBpDFyX_go17uYLa85aweu1hqUq7kTdT4",
+          "extensions": [
+            "Top answer",
+            "6 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.google.com/goto?url=CAESfwHrOzAVGp7JCSfknAasrCoY-sfflvkF0OAke1Mw-ng6oI1GHgwDIxVTYBhzMvVLiDdzJWGAc0P3s2KGGjIlrfLOc1wYl9mwQBAjLxyAFYVcjnN_zEDLbrWNbTlNpo5cagrKG-10CVryPUy7o7IMd2H4cQwSVHDUIpoFsLqp0Z4",
+          "extensions": [
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.google.com/goto?url=CAESpAEB6zswFR_Uacm2mMerbHPo3L_iKCaveKJMbSWde6xbSawE9W452kpTRmfX5Fg-IpF7hsyBjm-3Nr_11csk0uv08lHZBiUba2hJJ8dnhuqL3Qz73BtQobNBzT7UK-mBMmkgNcg4KpztDGnh3QmNbcoH6Xy2whZtSUmtNxUGhYfthVwnlcMbByNwHTD_pZgpGQ-RdvNxsXb_OQJsMfVbbev9F2f44g",
+          "extensions": [
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What is the appropriate amount to spend on a wedding gift in India if ...",
+      "link": "https://www.google.com/goto?url=CAESoAIB6zswFX___5aqGfqXv3EjIETq1n9CFyRrhEMHRB4r1IC7sKVI1e0MTByCnUE3JMULWfzCBJLG2NVYipFhnuTzBGqvTJeDPC6-de5__3a7IuXYSAXjUtop8HrCv6fawJHXiUDDngeyFXIiHvB67ZHI2QpJBs415nHpbPSWoU_96-MOxXumwy6U9Yt-DNcCjL2kED5xy5trGfci55zA9m3FX94aslGEwSPX6XRqej2zMs4q3H_GVLxmvACxJAB-Q2JfOU4nvvllQeQTUZmHTjaQz196Rqpc6opagoOtHm2RKXX15I8-uskW_CrCoQ75xS28MFbl0DthSfCV9zn5OJ0FATcz2W0w67EHrWmGMD38tc1oMbw9hv480X-R6GV29iU",
+      "date": "2 years ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.google.com/goto?url=CAESuQIB6zswFX1NuJx5iawUCJkYzCLMvjOAvfgHF8PRMWmFQMl4YTtBkWAP6rRzRTfyqDb3ZExLn3DpHDMn0w5n584jptPxln9DTs7_UunJy_7IVLuKuRYv6kB31xm2wxPfu_ZXdOrPlT3eSN7YonhKov0Ci11IPwl6IFOQBxbEGbvt5FdHiLKsA9fPtOxAH_OF-v1Trh6KcqAPYmKRAWW3w1InrcoDz45tr7woqNDoMzwf9v6A1-JmlklaZu0oTLu_No6PXVyVLlSGaeRA_IHybcvXiYNHj6yczgqOQ2dFLRB2xNOHVh70xPJF4S-Rf1d8qq-gKWWsKkv4MS4FYgL3SgHHfdXor9GwWuSUCNMRLQ_y9YgjMK5tKEn_cUzEWr3ws4ZhgLtp7gwbYhCmX7cIlIZQ6Eu-sJ9PpwJu",
+          "extensions": [
+            "Top answer",
+            "10 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.google.com/goto?url=CAESuQIB6zswFUjMsy7GpAkt5z5argP1h4Ym-hwYGkvAIPg0m99d-KeH_tJXKcZsYNHQytTJFXMwWCfZt9fwh4JhaNCGjgt8fL5Okd5Mzr9DP9CgjqoXNnIiuMqc7f0Ca2p9FcvVBnUyxgo2XIA-HlTAWDalMBrT09O-rPObJn2PM7Msw8Rga-YCPyRNi6cqln_tLs12nWjWFF31YLJVl376Lg89cIg5rozs5AHzp-JQRV2YbFFC8B04fi6IZl8fytJ1z2JUS2h9mhS-4rcsKz5WbyAA3sJO8HMM2GPzkFRC9PGlO1pOGh5czn7sZGSbedIvb97SmcVPEbFzWvdAx7hVtbySeXd-iT5W7CxSz-GX8UklBFSasxEJGxLuRO59wSjWFKhawh69aLs_qY8ZATqeV4cJPuT2MYpQDLXy",
+          "extensions": [
+            "7 months ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wedding gift amount in India?",
+      "link": "https://www.google.com/goto?url=CAESfwHrOzAVlSOolVA3Rtszx9QkOa7NHWdC75CKCq1XNcZuIk9-waNlqKa5I_St9EM99FPd3B6DEzB5WUqd3nnzvxZMRWMjmg8tfaiFsjDz9yd7Q0ki67NHyRhAz1SAV6Ny6UL_4Lx3Ov5q883Vo0UzmnQhjNqHcPRRcWeBj4i-KG4",
+      "date": "6 months ago",
+      "extensions": [
+        "Travel India 🇮🇳",
+        "8 comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.google.com/goto?url=CAESfwHrOzAVlSOolVA3Rtszx9QkOa7NHWdC75CKCq1XNcZuIk9-waNlqKa5I_St9EM99FPd3B6DEzB5WUqd3nnzvxZMRWMjmg8tfaiFsjDz9yd7Q0ki67NHyRhAz1SAV6Ny6UL_4Lx3Ov5q883Vo0UzmnQhjNqHcPRRcWeBj4i-KG4",
+          "extensions": [
+            "Top answer",
+            "3 votes",
+            "5 months ago"
+          ]
+        },
+        {
+          "link": "https://www.google.com/goto?url=CAESfwHrOzAVlSOolVA3Rtszx9QkOa7NHWdC75CKCq1XNcZuIk9-waNlqKa5I_St9EM99FPd3B6DEzB5WUqd3nnzvxZMRWMjmg8tfaiFsjDz9yd7Q0ki67NHyRhAz1SAV6Ny6UL_4Lx3Ov5q883Vo0UzmnQhjNqHcPRRcWeBj4i-KG4",
+          "extensions": [
+            "5 months ago"
+          ]
+        },
+        {
+          "link": "https://www.google.com/goto?url=CAESfwHrOzAVlSOolVA3Rtszx9QkOa7NHWdC75CKCq1XNcZuIk9-waNlqKa5I_St9EM99FPd3B6DEzB5WUqd3nnzvxZMRWMjmg8tfaiFsjDz9yd7Q0ki67NHyRhAz1SAV6Ny6UL_4Lx3Ov5q883Vo0UzmnQhjNqHcPRRcWeBj4i-KG4",
+          "extensions": [
+            "5 months ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=10&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=10&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=20&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=30&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=40&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=50&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=60&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=70&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=80&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=shagun+amount+for+wedding&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=prSWao7cL9bNp84Pp5qIiAo&start=90&sa=N&sstk=AS6-VmK39QTmQ1OsgVUVzrVOb3UHwl6-hzpv7PHTOoo-QSt-Us5LugrNAvmaiqcG2lt9JcINXUyQyEjnqCJF7dOiHPYQ2VbtUbPA1g&ved=2ahUKEwiOx5ewoc2WAxXW5skDHScNAqEQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=shagun+amount+for+wedding&start=90"
+    }
+  }
+}

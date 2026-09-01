@@ -1,0 +1,1253 @@
+{
+  "search_metadata": {
+    "id": "6a96b4e5f5c2f87e866cd310",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xkJhj1Q0C9E0H5GYVIZ2rmGfzfKUO_HWEQhNqjUak_Y/6a96b4e5f5c2f87e866cd310.json",
+    "markdown_endpoint": "https://serpapi.com/searches/xkJhj1Q0C9E0H5GYVIZ2rmGfzfKUO_HWEQhNqjUak_Y/6a96b4e5f5c2f87e866cd310.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/xkJhj1Q0C9E0H5GYVIZ2rmGfzfKUO_HWEQhNqjUak_Y/6a96b4e5f5c2f87e866cd310.json_with_pixel_position",
+    "created_at": "2026-09-01 11:20:05 UTC",
+    "processed_at": "2026-09-01 11:20:05 UTC",
+    "google_url": "https://www.google.com/search?q=engagement+shagun&oq=engagement+shagun&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/xkJhj1Q0C9E0H5GYVIZ2rmGfzfKUO_HWEQhNqjUak_Y/6a96b4e5f5c2f87e866cd310.html",
+    "total_time_taken": 11.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "engagement shagun",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "engagement shagun",
+    "total_results": 232,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.google.com/goto?url=CAESYAHrOzAV-zp-oaUXph-HMh59dI8Qn1SGPOmmk9DXCyx9XHRZch1K16vBPz0lujNVX11TCbJqd805nEVu1NpGf6fNuckW0D4UzZrJ_GStlCaBNPpZKxkqyiOoIbnrRCwjBA",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/j8MoA6WCC6dvq9YrqYpDgwKsby7324t2DF2k27Vq1Qk.jpeg",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3339503904072737079",
+      "title": "Shagun favours for the Bride to-be!! 😍✨ If you're looking ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVyJCHJmyxEry8talCKx-_ZT9Io1NGvef_pZbVoFs9agkg4oPI7JUsVlPExfWvvvmiKNQRR2W1iynbeI9lkaR9zMFh9kQWj4oPeiDvMowFg2HIbIMkwrQZhfJbxdJehg",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/ZEouSsqtwxvlhJ0mtCEhJUPJS8zsAIC1troj2WvujdQ.jpeg",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3462734900334457205",
+      "title": "An exquisite Engagement Trousseau for the bride in a peach theme!! 🧡💍, We  created beautiful arrangements for the bride's family based on the client's  detailed preferences. If you're interested in ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShwEB6zswFQ8UeR1WX0t0ZlynklXh9Ui9oEQs1mUrEDHHSHmop7ftndC5nnYbyTw6eQVGxUM6Mvy0pw-iOM1gMryQEzqRAyIgeoFYNYVzdgZeL1BerwycgtZmxFuibZHW1IvZ-cAuKm3ZmsqXSmiKEo9ztY6wUZFX4nfVfXsK-f6KRujojHmjzaI",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/tnXWJYUcgKbvY6uGctf22hEJP0vcNG1mA3rgo7szjkI.jpeg",
+      "original": "https://m.media-amazon.com/images/I/615irvwj2+L._AC_UF1000,1000_QL80_.jpg",
+      "title": "DELHI DEZIGNS Pack of 1 Designer shagun Cash Box/Jewellery box for Gifting  on Wedding/Engagement/Birthday/Roka/Festival/Return Gift with Laser Cut ...",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESzQEB6zswFf0xjrTenbTca8GBmI0ZgzguhHthQKsRi3_kKgXpOAR-ybLVG2r4EcNE4SJoysua6VTnqbt-BteShzqwDMaHGRAFE0i4XnySw4qr5JUt8UknNnkg-JSnp7k5PDhvvb5FBnUgTUJeyaiBfjivncGubT_0Oqkz0k1MpE4-gc6C0T10KIn8aeqeIkdQnIbaHWJL3wgsEVAdb5PZhKG4IV-e7yOAjUae-4XRPGuGX347IUjHosO9Ah1GFWb2tCYorbbtY7P_xc03u62G",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/uTKNc5lsexwwPk4KF2TYhLHuisnnh6z7Ln_4PBKSNRk.jpeg",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1159323132869800",
+      "title": "Engagement trousseau, beautifully crafted in shades of brown ...",
+      "source_name": "Facebook"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESqQEB6zswFS8K4G6bwRK6vKRD_kBVN2rdNbiUBwsnzviWcBz2SJw77P8oBmMl5rIkD8a3h4BaNTjzWt9gujt0Db3gzAvOLT5aSncw__fzWYpSC4FcwKF4nRIPr4Rk63Ju3TRld7kYjmNgdQvaHhvGfVM4BDgRYWyL89ojI9qgZ7rd11GBFXSuWWfp7dWDiN2zOkl8t-m8I1DG0jKjGKw_p7UbnbqLcrtMCSya",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/CUcTpnVmNfNhGuSOz8E7D0IKXXTCzXIpywwXHlRDRoc.jpeg",
+      "original": "https://crafterinaa.in/storage/image/products/4bba5453-3058-443f-ae1d-efecbaf38382.webp",
+      "title": "Luxury Shagun Cash Gift",
+      "source_name": "Crafterinaa"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESzQEB6zswFf0xjrTenbTca8GBmI0ZgzguhHthQKsRi3_kKgXpOAR-ybLVG2r4EcNE4SJoysua6VTnqbt-BteShzqwDMaHGRAFE0i4XnySw4qr5JUt8UknNnkg-JSnp7k5PDhvvb5FBnUgTUJeyaiBfjivncGubT_0Oqkz0k1MpE4-gc6C0T10KIn8aeqeIkdQnIbaHWJL3wgsEVAdb5PZhKG4IV-e7yOAjUae-4XRPGuGX347IUjHosO9Ah1GFWb2tCYorbbtY7P_xc03u62G",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/Ju62JJaPL-_Ul2hzktw5XuUaAuE-9JUeyLW4posbe7Q.jpeg",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1159323112869802",
+      "title": "Engagement trousseau, beautifully crafted in shades of brown ...",
+      "source_name": "Facebook"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESxAEB6zswFYQObuE8-6T77T-kWM9eEUwSuVu1OqW_UW_2iO9ZBIh2mtdhIuf0I9aNAZyMMv5JfNUhccVS6Y1NAZ06Uujoay8aRXKovgXqMLQNqIgA8ndrcWKvkuIpgd3NHhswa2c1HzUMKZRR6h-npJAfBz82WrQXsMWhn5jXNHqCPQrYPP9WgowlIz3YxFUHuFDucpnWcbPptphX2CUcdBymHD6aqFPVOkZcUHPwb5dHicGrk4V7P_72d5dUlLbRZuhpvNBG",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/S7Wsed2pMg3NPVhPn2i-OefcqZmAF5IPusxl2PAGLy0.jpeg",
+      "original": "https://4.imimg.com/data4/KS/XI/MY-8436837/marriage-shagun-item.jpg",
+      "title": "Marriage Shagun Item in New Delhi, Parth Crafts | ID ...",
+      "source_name": "IndiaMART"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVfURg-_Hk77VC2iQCatkBHtTk4vEpLzEYTRNVPK1awmBnaObETAX9IUIAl_pRWVbCzAIkFOTJRmYqbmzbz-BSh2HcgfcjnTJnRWvz_Pn6P4ybJ76g9aMTsbDhSQg2Bg",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/bZUCHiAyxlGdHU233dJhSjD1u5DNsFXMgcJhH_fmp44.jpeg",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3515434653312486618",
+      "title": "Shagun basket for engagement. , . , . , #engagementgift #engagmentdiy  #ringceremony #weddingpacking #weddingdiy #wedding #artandcraftvilla  #artistfromjaipur #artistoninstagram #craft #diy",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShAEB6zswFXhkZXfD2X29Ti6RAWKxIUAYGbZcr8KasUfJwtaWYyEX1Y92x9GCPKcKTcINS86G87BIK6cU3EBHIwPyEHunupdh3Vv-rIn-jPEyzeQ4cqQcGIu0uDnY6HBRDKAbRnM87bH2NCv1tCV5Yaw4X6KYwfiMkG7Mi30ZIPosumokh-0",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/GBc2beEcyaCmv07D7Di2CnbHs2JKtq_OHDb-MpPuFeM.jpeg",
+      "original": "https://www.theweddingcardstore.com/wp-content/uploads/2020/10/maxresdefault-e1601548403667.jpg",
+      "title": "Decorated-Engagement-Ring-Thali",
+      "source_name": "Wedding Card in Sonipat, invitation card, printing shop"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESyAEB6zswFQbueAidiY-qzG6YaHMjlEc0GrvbfxExWdkAH36gQaVeRDJCi2S0IcZ5teEOOz81to4VBTwqq4L6dxK-yd4-yC5rJ50iQ9bC65gQxQRUS80PzhK-sZMEtfKjmfypWXeCNRu6_qWPXLtbhN01B26OsE189g_Mqh12QSXBKKRcIXTDW1Y1RkqzdQ3fKc9qXMCem8t-7b87o1ZWXiT3WQw1Lvt5Yzp07_311P8wSg_TbTKh3AAWscMjV_TiLUqR741STtKxHg",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/PD83mrZdaEMXdFmjbwUAfnl0McZY1bnVctX1I91IeXU.jpeg",
+      "original": "https://queenscouture.in/cdn/shop/files/okay.jpg?v=1753747977&width=1946",
+      "title": "Earthy Grey Gown for Reception, Shagun, Engagement",
+      "source_name": "Queen's Couture"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESiwEB6zswFX2E26QnqfDdCdar8r3iiGacMnovzeLqlfccXmH58BsdHfTXj5fUHhsclKN_OAWsBkt2AF2IH7ZSt8p69Y8mkNirr-8b19BGRXFN3RgJ54qcfVA2uO0rPLI4odXvRlU9l6HOKgqtzLTcL5LQJgDZJjcSloR0HYJU54ZB2FIkripcWWjfl4Jc",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/RLlIoMVL_grMzHvUVVBAEHvPKkcNSgqtBl8EP3L4vm8.jpeg",
+      "original": "https://i.etsystatic.com/24921594/r/il/f88137/3806315038/il_570xN.3806315038_kd0t.jpg",
+      "title": "Buy Shagun Hamper, Trousseau Set for Bride, Daughter in Law ...",
+      "source_name": "Etsy"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESywEB6zswFTDu40D23Iilh1ozOvoBB8a7rFXOTW5soZMJGgS8v6RPN5MMsNyKiKRaf0D7gTf_TIsWWBO70UBGLbFUWyyOZqfcu0hRkDS7dfdRfY55NQFbC4UR9QjXBtfwtcmEvSuTYxiJfG3_vukHa8Oq8Esi-8bxcOpEh-QSH4IclQ48mYzwWXwbH5mJ8f_UbrG5gG8itrQhaWT2CDCNApjs92eVa3cz4y21fH53mlLXo5UAi5ISHPl7pBx8LLHeNaaLlp99lcVxYObzmw",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/qqK_v9wCQDqh4x-xa7XKJm1KSNIYnou7gwykrOp0pvM.jpeg",
+      "original": "https://image.wedmegood.com/resized-nw/700X/wp-content/uploads/2020/07/Roka-236.jpg",
+      "title": "A Whimsical Engagement Brunch With A Chic Lehenga! | WedMeGood",
+      "source_name": "WedMeGood"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDQ2Tm6upZ64eBt-X1znZYaDOz_yZc8h4iFrv90s7qUjGJY_ZyS9EZ2o&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3554031983229883205",
+      "title": "The most elegant engagement trousseau, beautifully crafted in shades of  brown and cream! 🤎🤍, [Engagement trousseau, bride to be, shagun favours  for bride, makeup & accessories, shagun trays, lehenga ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVkwmGK-1qoxLg6Vuwec5t1p9cV0CexDO2PwVM_6Q-w3aUTY8lzD1spPSEQl9ZWfFMOwPI_7lfkA4WVuRfOVZVDp1Oc1oFWvUpTgo_MC-sy7E5l_9Gk_2XdaBIUYo0yg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA_fzWV04dmvHB5drF62LV-KWwNvlwgmvQpAcKfDpyKR40aEVLBVcpiQ&s",
+      "original": "https://i.ytimg.com/vi/LzLQPTBpeP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ9FwBXkwXJSul9Za43rCNseLEhA",
+      "title": "Shagun / Shagan Ceremony - Silky Sakun",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESzQEB6zswFf0xjrTenbTca8GBmI0ZgzguhHthQKsRi3_kKgXpOAR-ybLVG2r4EcNE4SJoysua6VTnqbt-BteShzqwDMaHGRAFE0i4XnySw4qr5JUt8UknNnkg-JSnp7k5PDhvvb5FBnUgTUJeyaiBfjivncGubT_0Oqkz0k1MpE4-gc6C0T10KIn8aeqeIkdQnIbaHWJL3wgsEVAdb5PZhKG4IV-e7yOAjUae-4XRPGuGX347IUjHosO9Ah1GFWb2tCYorbbtY7P_xc03u62G",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEr2WSA59zaLWQrCeRZUZMfScxRm-FtlD7sETBuDcXwOIe8MNxLbt7_c&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1159323106203136",
+      "title": "Engagement trousseau, beautifully crafted in shades of brown ...",
+      "source_name": "Facebook"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAV7HA30D3vjfZucC4plFOeojOKjtzyn7Ulipumh7hHGZ__xwO1RfCJ1oeEKlcTzNtf_bpKm8nGN9wqO82WGJfV3CrUJKr21aiyCcKlfsttwBmZyQVfZUGu2ASOk15lzg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROH0kVEXi_YnSFyr4ABOKu1umvq5GLAr0JqPY-1ggeCBX-c5B5At7hxYk&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3360516181072593195",
+      "title": "Shagun Tray for a South Indian Bride 💜✨, Here's a quick tutorial on how we  curated this simple yet unique shagun tray in a few simple steps., - Our  DIY flower bunch is also very easy to make and is ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShwEB6zswFQ8UeR1WX0t0ZlynklXh9Ui9oEQs1mUrEDHHSHmop7ftndC5nnYbyTw6eQVGxUM6Mvy0pw-iOM1gMryQEzqRAyIgeoFYNYVzdgZeL1BerwycgtZmxFuibZHW1IvZ-cAuKm3ZmsqXSmiKEo9ztY6wUZFX4nfVfXsK-f6KRujojHmjzaI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIApkH3GTvLTYmpblySGMJFcw47ZwWWwxj9zlGqZ0RpYcqn-BcY2Yln-I&s",
+      "original": "https://m.media-amazon.com/images/I/61dBJKqH7aL.jpg",
+      "title": "DELHI DEZIGNS Pack of 1 Designer shagun Cash Box/Jewellery box for Gifting  on Wedding/Engagement/Birthday/Roka/Festival/Return Gift with Laser Cut ...",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESqQEB6zswFZ8njwyX4_Cnbo5WusIvpLIf-yFaOSUsPokVlCh224Yr-X968Bc3cxaSKlOjx_Z6Dia3tLEZixGe0ng88EasIISYIPh2vtTR02BBnhB6bYKh1xQuqKflEUhQ2_3hxaXsNrZHaJsQ32ObBAH8mYEaDnDwDZqPPdeCrT6xsOIYFhPAfX_iHYTNsiTeu_KEoPkYkvDwwP7lAqHT9K218fNVY3L1MCAX",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRq-3RfGgDbdM_c3BEITNQFS3IaGu-lWSja38qYHEZUxF44k3K0GBJz8&s",
+      "original": "https://crafterinaa.in/storage/image/products/a3d1160f-3c28-4047-af33-f6624dbdc34d.webp",
+      "title": "Luxury Shagun Cash Gift for Weddings, Engagements & Special ...",
+      "source_name": "Crafterinaa"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESzQEB6zswFf0xjrTenbTca8GBmI0ZgzguhHthQKsRi3_kKgXpOAR-ybLVG2r4EcNE4SJoysua6VTnqbt-BteShzqwDMaHGRAFE0i4XnySw4qr5JUt8UknNnkg-JSnp7k5PDhvvb5FBnUgTUJeyaiBfjivncGubT_0Oqkz0k1MpE4-gc6C0T10KIn8aeqeIkdQnIbaHWJL3wgsEVAdb5PZhKG4IV-e7yOAjUae-4XRPGuGX347IUjHosO9Ah1GFWb2tCYorbbtY7P_xc03u62G",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp38oVt9R_G-cGIbv97ZnPB0R2RD0cRurglqJfG9Btl0ZRgWv5iXKgRZA&s",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1159323119536468",
+      "title": "Engagement trousseau, beautifully crafted in shades of brown ...",
+      "source_name": "Facebook"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShwEB6zswFQ8UeR1WX0t0ZlynklXh9Ui9oEQs1mUrEDHHSHmop7ftndC5nnYbyTw6eQVGxUM6Mvy0pw-iOM1gMryQEzqRAyIgeoFYNYVzdgZeL1BerwycgtZmxFuibZHW1IvZ-cAuKm3ZmsqXSmiKEo9ztY6wUZFX4nfVfXsK-f6KRujojHmjzaI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSJXYa-IHYu-mZHt295cDd4EKWDfdLb3cLk7o3fWLNF4kSdl_5Adr3Uo&s",
+      "original": "https://m.media-amazon.com/images/I/61IJ7xyYJwL._AC_UF1000,1000_QL80_.jpg",
+      "title": "DELHI DEZIGNS Pack of 1 Designer shagun Cash Box/Jewellery box for Gifting  on Wedding/Engagement/Birthday/Roka/Festival/Return Gift with Laser Cut ...",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYAHrOzAV-zp-oaUXph-HMh59dI8Qn1SGPOmmk9DXCyx9XHRZch1K16vBPz0lujNVX11TCbJqd805nEVu1NpGf6fNuckW0D4UzZrJ_GStlCaBNPpZKxkqyiOoIbnrRCwjBA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGYwvRGaIp_v2FWRMo8dcjonHYw6uP-jw1LqgCUeVOXW9lAR1WFYRhrCY&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3339503904072908962",
+      "title": "Shagun favours for the Bride to-be!! 😍✨ If you're looking ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShwEB6zswFQ8UeR1WX0t0ZlynklXh9Ui9oEQs1mUrEDHHSHmop7ftndC5nnYbyTw6eQVGxUM6Mvy0pw-iOM1gMryQEzqRAyIgeoFYNYVzdgZeL1BerwycgtZmxFuibZHW1IvZ-cAuKm3ZmsqXSmiKEo9ztY6wUZFX4nfVfXsK-f6KRujojHmjzaI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUuMOkoDeyRusRgDqOB5jAx2-vt-BKpxoNWNZ3xipFRkilLOvI3wncDO8&s",
+      "original": "https://m.media-amazon.com/images/I/61cEAt15qPL._AC_UF350,350_QL80_.jpg",
+      "title": "DELHI DEZIGNS Pack of 1 Designer shagun Cash Box/Jewellery box for Gifting  on Wedding/Engagement/Birthday/Roka/Festival/Return Gift with Laser Cut ...",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdmtZtGpA5ZEYRh864WAxGGaEr74iZ13oZaEcF8r4rhaW0Pz3Vh1ovV4&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3954923304997802317",
+      "title": "The most elegant engagement trousseau, beautifully crafted ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShwEB6zswFQ8UeR1WX0t0ZlynklXh9Ui9oEQs1mUrEDHHSHmop7ftndC5nnYbyTw6eQVGxUM6Mvy0pw-iOM1gMryQEzqRAyIgeoFYNYVzdgZeL1BerwycgtZmxFuibZHW1IvZ-cAuKm3ZmsqXSmiKEo9ztY6wUZFX4nfVfXsK-f6KRujojHmjzaI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbj_35f2NGeFUgAfrLzX6Xiwyi42X29r1zuVb1Lsjm_8vf_xsuLD655A&s",
+      "original": "https://m.media-amazon.com/images/I/61bvdttPkjL._SY350_PKmb-play-button-overlay_.jpg",
+      "title": "DELHI DEZIGNS Pack of 1 Designer shagun Cash Box/Jewellery box for Gifting  on Wedding/Engagement/Birthday/Roka/Festival/Return Gift with Laser Cut ...",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKuYCD1Yj0h5fcMcT_B0qxqBi-yKg0HnWhkPahXQTaIWl9wtDB-EVxuM&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3968494230935074957",
+      "title": "The most elegant engagement trousseau, beautifully crafted ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzanqoVV-o1qSA7HbET6y1a8L6yvjva8Be0QIKFSnRJq028x-0EJyuYw&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3968485678237516744",
+      "title": "The most elegant engagement trousseau, beautifully crafted ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbfp74zsV3csgPMBq4EMxOqBu66t10_bDHB1UP_MkIOluHi5B6kIp-D4&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3972154350377801665",
+      "title": "The most elegant engagement trousseau, beautifully crafted ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVfURg-_Hk77VC2iQCatkBHtTk4vEpLzEYTRNVPK1awmBnaObETAX9IUIAl_pRWVbCzAIkFOTJRmYqbmzbz-BSh2HcgfcjnTJnRWvz_Pn6P4ybJ76g9aMTsbDhSQg2Bg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY2eDJtEcNqo3gU4goUWIAaIq0tXbfpWgXMP-mR_zGuo621gVv09ZAJ0&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3962138381380946499",
+      "title": "Shagun basket for engagement. . . #engagementgift ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVfURg-_Hk77VC2iQCatkBHtTk4vEpLzEYTRNVPK1awmBnaObETAX9IUIAl_pRWVbCzAIkFOTJRmYqbmzbz-BSh2HcgfcjnTJnRWvz_Pn6P4ybJ76g9aMTsbDhSQg2Bg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsJGVGD8BBxqhg-sivrNakAYqTg6imMNwCPSvPkKZYFpU47wkghSDtp1s&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3962200859824061884",
+      "title": "Shagun basket for engagement. . . #engagementgift ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3LjXLS0ZiZuAfJbOrQTCA75Ak4HFaBoYR8RSz7pDa8cJ2-slwJluM0A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3954929981859844210",
+      "title": "The most elegant engagement trousseau, beautifully crafted ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVyJCHJmyxEry8talCKx-_ZT9Io1NGvef_pZbVoFs9agkg4oPI7JUsVlPExfWvvvmiKNQRR2W1iynbeI9lkaR9zMFh9kQWj4oPeiDvMowFg2HIbIMkwrQZhfJbxdJehg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1lB4LPvFe7LGE9O3r8ORhB94atv43BaITdYVWw9eMuRIpEue91pkByM&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3921522381620760742",
+      "title": "An exquisite Engagement Trousseau for the bride in a peach ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVyJCHJmyxEry8talCKx-_ZT9Io1NGvef_pZbVoFs9agkg4oPI7JUsVlPExfWvvvmiKNQRR2W1iynbeI9lkaR9zMFh9kQWj4oPeiDvMowFg2HIbIMkwrQZhfJbxdJehg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyI_2DSyFjgB3RkWzZ9t8LRL2Ba5cVX3fogEZD2xn_xLhjFMA9ZyRB3BY&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3958405691852112816",
+      "title": "An exquisite Engagement Trousseau for the bride in a peach ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVfURg-_Hk77VC2iQCatkBHtTk4vEpLzEYTRNVPK1awmBnaObETAX9IUIAl_pRWVbCzAIkFOTJRmYqbmzbz-BSh2HcgfcjnTJnRWvz_Pn6P4ybJ76g9aMTsbDhSQg2Bg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcIqfuy9Rcvq7XFfz62IZ5TA-f3CRqTMIg7RLc5VxVHjMek-dALJxf8A&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3969002334520172708",
+      "title": "Shagun basket for engagement. . . #engagementgift ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVfURg-_Hk77VC2iQCatkBHtTk4vEpLzEYTRNVPK1awmBnaObETAX9IUIAl_pRWVbCzAIkFOTJRmYqbmzbz-BSh2HcgfcjnTJnRWvz_Pn6P4ybJ76g9aMTsbDhSQg2Bg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxE7uTBo78ZCrYLl4FRmres3TF5AXOK_KjjZPhzFZe4HBmtMJJET1COs&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3965905280336189266",
+      "title": "Shagun basket for engagement. . . #engagementgift ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVk5Mm-mjc6AryhyX1ZBO_DUVl6X8LCLp8g_J9iwufG9_fT5P73gELixZrMnnbb9nT3kKSlaFq0UXcT-i9ANZUTYHwtW15Bl09jBKKu4Do2jDl0xQEtg8iCYAAD4PtCQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzg4f8pEYUwHlexskzZkhEQtv4XEDsjhZGy_kAkpusyYJHW95eZdKFaY&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3966699803635371684",
+      "title": "The most elegant engagement trousseau, beautifully crafted ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVfURg-_Hk77VC2iQCatkBHtTk4vEpLzEYTRNVPK1awmBnaObETAX9IUIAl_pRWVbCzAIkFOTJRmYqbmzbz-BSh2HcgfcjnTJnRWvz_Pn6P4ybJ76g9aMTsbDhSQg2Bg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNXx2fckztE1VfzhwOJKYHpE7FsjKp2W6dV6U6UM5gCafK3Zq1EHoaGA&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3963019733049625322",
+      "title": "Shagun basket for engagement. . . #engagementgift ...",
+      "source_name": "Instagram"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Engagement Shagun Packing | Premium Wedding DIY Step ...",
+      "link": "https://www.youtube.com/watch?v=cYsN2zkdofw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL22pYHIFWDv7DNkOpGgX_bfP7T_CcdL9Ev7Jn2Irq-uzsuop70kn4tQ&s",
+      "channel": "Shaadi Box",
+      "duration": "3:56",
+      "platform": "YouTube",
+      "date": "29 Apr 2026"
+    },
+    {
+      "position": 2,
+      "title": "on Instagram: \"Easiest Shagun gifting idea for any occasion ...",
+      "link": "https://www.instagram.com/reel/DaNvDbKMpmi/?hl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYesUXN3Eg1OAH_9wN2jbFYPbItVoUBGgqQdA0PawsD2CSwBOClDd4w&s",
+      "channel": "Scrapbooks | Hampers | DIY | PR Crafts |",
+      "duration": "0:42",
+      "platform": "Instagram",
+      "date": "30 Jun 2026"
+    },
+    {
+      "position": 3,
+      "title": "Shagun Cash Hamper – A beautiful and creative way to ...",
+      "link": "https://www.instagram.com/reel/DZ6xlCVB34b/?hl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVhf8ilasUjSZYahgYyW8PUdBkSvMQCL6CLzke6X7kf4kcF29RWaejA&s",
+      "channel": "Anusha's Creations",
+      "duration": "0:25",
+      "platform": "Instagram",
+      "date": "22 Jun 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRZAdeTS8Ma6Tv0U2KP3UUp8TKZa3nzhOYRhQ"
+    },
+    {
+      "position": 4,
+      "title": "Super pretty 11 Shagun Hampers done for an engagement ...",
+      "link": "https://www.instagram.com/reel/DNYr8y_zd3p/?hl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXzfpXd-hFBRyQT7-an-3G-aUXuQODbpy6yDux_c1vTCMJRbKvQIIlw&s",
+      "channel": "Glam Shack",
+      "duration": "0:24",
+      "platform": "Instagram",
+      "date": "15 Aug 2025"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShEmwfLGpad-0XkXp9zbmsNADnXFnVyyZ6MjoA9IGnyBwtMbzc2b34UFw5Yix8HZzYMdi6ZzmWcMVLC-EMSXgO8L0ptTb1qIM_MA9QvKg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4Uo6Shsv5fnoEM572NdQcfV7zKYdPCTzt9ZRStC0IVFSBT1smnhvboJL7xPa-zIrmlgGNOBD9hrs0LnUOGFSoj_VCWj2-eA",
+      "source": "Meesho",
+      "title": "Engagement Shagun Nariyal Set For Ring Ceremony Wedding Function and Traditional Indian Rituals",
+      "price": "₹382",
+      "extracted_price": 382,
+      "original_price": "75% off₹1,499",
+      "extracted_original_price": 75,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "Mjdom3icdY5NctowAEan5-l0RhL-ge4IlkwA27VsGeOdsIRtkG3FGEi4RK-QkqQz6a6dznSba7SnKYtuu_6-N-99vsjq13AdLXl_dPFqwXUffhrM3aAa715114pD3lfiJ7TtkWHBkW1AC4CBbSELvOa856otKvH4o5RcqKqRwWYjO6fN_4N8q2peyH-7OTQHBjKHaAhsCEbItKynTuwfX-4Osnv4Lpvi-q1l07_fl7w4NC-FvnKPT3Ul3p70sf_Cnw8HJd8uhbpUzaVUF9l8bbk-bvI_77a4PU0m-9NNyLROHApidzThOFlJR5U-0yhTZeDVQgsyRhEeRTGDlqf8JMLmgqa0lJjMc6VvV2BEZF26bOo9rLFPKJs5DBI_qf3Am7aAJ_q43M1ghP02PdOWunDnbUsnRqqJm2x-9c58AOuYCSAQJOuzWjIlTM4SJ0hFROtsLtLbc5hiIHcl8-Is5CQ_xct-wxqlFyw0xVQfBMKGQP4gRwZKgOkzIK7eEmfpDZTL_k7iexIOSBefkz0n7IHXs5nAGHJCCI2pG1_bMkiXuMyNlfLTVUoRBUkWu-QkCAk90E-vzTf8vq1CRs_5VtUsHRuRk5FFTHbCIYuMEG9Vl20Q-xU9q7uoNjsWPt_vu81vMCZmHwXmtgzowfXr0yQvhA01t6IPe7r2jHb8EdrDIbKgBW1rYP8FoJ7bRQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Mjdom3icdY5NctowAEan5-l0RhL-ge4IlkwA27VsGeOdsIRtkG3FGEi4RK-QkqQz6a6dznSba7SnKYtuu_6-N-99vsjq13AdLXl_dPFqwXUffhrM3aAa715114pD3lfiJ7TtkWHBkW1AC4CBbSELvOa856otKvH4o5RcqKqRwWYjO6fN_4N8q2peyH-7OTQHBjKHaAhsCEbItKynTuwfX-4Osnv4Lpvi-q1l07_fl7w4NC-FvnKPT3Ul3p70sf_Cnw8HJd8uhbpUzaVUF9l8bbk-bvI_77a4PU0m-9NNyLROHApidzThOFlJR5U-0yhTZeDVQgsyRhEeRTGDlqf8JMLmgqa0lJjMc6VvV2BEZF26bOo9rLFPKJs5DBI_qf3Am7aAJ_q43M1ghP02PdOWunDnbUsnRqqJm2x-9c58AOuYCSAQJOuzWjIlTM4SJ0hFROtsLtLbc5hiIHcl8-Is5CQ_xct-wxqlFyw0xVQfBMKGQP4gRwZKgOkzIK7eEmfpDZTL_k7iexIOSBefkz0n7IHXs5nAGHJCCI2pG1_bMkiXuMyNlfLTVUoRBUkWu-QkCAk90E-vzTf8vq1CRs_5VtUsHRuRk5FFTHbCIYuMEG9Vl20Q-xU9q7uoNjsWPt_vu81vMCZmHwXmtgzowfXr0yQvhA01t6IPe7r2jHb8EdrDIbKgBW1rYP8FoJ7bRQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSL3wXxi8QGtv1D9PTxFELbpKK5vuX6XS8M2W5QS7K8ojywvCO94xaj8Ic3200x0t9Xfp6tEQM07mnHeedqUdH0yjo12TvjmO_nB79_OAtR",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4Uo6Shsv5fnoEM572NdQcfV7zKYdPCTzt9ZRStC0IVFSBT1smnhvboJL7xPa-zIrmlgGNOBD9hrs0LnUOGFSoj_VCWj2-eA",
+      "source": "Meesho",
+      "title": "Decorative Shagun Nariyal For Bride Groom Engagement Ring Ceremony and Wedding Traditions",
+      "price": "₹401",
+      "extracted_price": 401,
+      "original_price": "73% off₹1,499",
+      "extracted_original_price": 73,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "uSWn1XicHY9LkppAAIYr58mGbh5CdoPaKKNNeDSN7FpoBWkQEZThAlnmChNnJlWTXR5V2c41ktOEyvb7X_V_vvH8t771KWsv1nyzYnXrfpTvLSe_K17r5ph2SZunP1VFM2RpAnVDNaCuahLQXxPWMnHcj6qugxFpQAWKrkFFVYDxI-MsFXnFnd2ON7NjMtoUAyiGIQFFhRMANAMA-C0v2Z7_l38BSZnIkq6phiqDsUueaNpTk54fX04dbx6-82o_ektete_PGdt31cu-HnOPT2Wevj3Vl_YLe-46wd9ue3HLq1smbrz6emT1ZZf8ffdpflpOp93SdEldhzNP8isTkbKfriHuN9Xxisu4dQtQBgAPjBqML5ZqekhkH2QFk2wzKREOBrPCdOTQqJLIBrzK7n1qQH-wV9vAXq2lloWF0a4L0bgkU4MgVbEcT-MFyogkzr6FT3xhm7QE2SYQD3jhKZSegYMEDAr7HBZ4iQNPDkXaBge7iwFasdBrtvNMkKGACekJs-rrpkCQR1mToDt5Q3rMo_3gl2BwQvtK5uvWOwjhwoyFRJjuEAKPYkTmWCHU6_ECKQFI1Eiqoy1EYh2Z2CVxRRC6UCpoOOB-RVvkFfaBeMvIsewghEhKixRR0mfJwvPIDK88yahdembLAs0TeanGYtwg6cmh4-cyu3cPmBAUx9i6KoFsD2srDLdV8tyfm90f6Q6pre9ol6uFSnEgW-B24pQ08bSzPWGCo3_9ACa6DjWggYkm6_8AVR3qnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uSWn1XicHY9LkppAAIYr58mGbh5CdoPaKKNNeDSN7FpoBWkQEZThAlnmChNnJlWTXR5V2c41ktOEyvb7X_V_vvH8t771KWsv1nyzYnXrfpTvLSe_K17r5ph2SZunP1VFM2RpAnVDNaCuahLQXxPWMnHcj6qugxFpQAWKrkFFVYDxI-MsFXnFnd2ON7NjMtoUAyiGIQFFhRMANAMA-C0v2Z7_l38BSZnIkq6phiqDsUueaNpTk54fX04dbx6-82o_ektete_PGdt31cu-HnOPT2Wevj3Vl_YLe-46wd9ue3HLq1smbrz6emT1ZZf8ffdpflpOp93SdEldhzNP8isTkbKfriHuN9Xxisu4dQtQBgAPjBqML5ZqekhkH2QFk2wzKREOBrPCdOTQqJLIBrzK7n1qQH-wV9vAXq2lloWF0a4L0bgkU4MgVbEcT-MFyogkzr6FT3xhm7QE2SYQD3jhKZSegYMEDAr7HBZ4iQNPDkXaBge7iwFasdBrtvNMkKGACekJs-rrpkCQR1mToDt5Q3rMo_3gl2BwQvtK5uvWOwjhwoyFRJjuEAKPYkTmWCHU6_ECKQFI1Eiqoy1EYh2Z2CVxRRC6UCpoOOB-RVvkFfaBeMvIsewghEhKixRR0mfJwvPIDK88yahdembLAs0TeanGYtwg6cmh4-cyu3cPmBAUx9i6KoFsD2srDLdV8tyfm90f6Q6pre9ol6uFSnEgW-B24pQ08bSzPWGCo3_9ACa6DjWggYkm6_8AVR3qnQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8j6acxCWKbt2gIIMmZ_G6A9dQU_Hjh8q49zhhlP2KhX_T97zl1x1Bb-pWw8vblouFWnHB4BozKR9yGof96zu_JHDPpKrqy74PDA6k767RNavveEN1CfkM",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Premium Shagun Basket Set of 5 ? Perfect for Wedding Gift Packing, Engagement Hampers & Festive Use | Handmade Tray 25x25cm | 1-2kg | NBH35",
+      "price": "₹279",
+      "extracted_price": 279,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "NWxfdXicdYxLcpswAECn5-lGEhiT7mrzsxvACBBGO4xkwIhPMGCbS_QKqZN0Jt2105luc432NPWi267f5_OVF7_UnR8l_Wjq8X3S9t5G-mS6xcfyte0aNqR9wX5CSbpTJKgANENQhYoK5vJrmvSJaLKCPf7IecJEUXN3v-ed1qT_Sb4VVZLxf1xW4RzOFHmm3gGgyECG6Kljx8eXh4F3l--8zm5uxev-_TFPsqF-ydpb9_hUFeztqR37L8nzMAj-ds3Etaivubjy-muTtOM-_fPuoDen5fJ4Wnhh2xINA38iqx3JgzhaTdha2DjAim2QMTB15OpEIsC5t0XZpxWr_UCfbGttOYjGN0Z35rmiJlk5IpSJhStqtZ5HnE2irceQMOhqZE0OdMXLTA7DNoisfJmi9Bxpa5REYiCBDjhZaOlk2I4oUTiVKArvRkqIF0xMcCIwF9SlgG3dsCdehBOvJBeG6IaRfEGMFGJdh6zsR-eAaYD6TaQR4muOjyXjvJNiyd8SHOjksjOdjgc2iFEGcegY0SEP7rf0GNftA93SVs9TORbONt5ihAGhgWmcmGF4NuitAIlFcm4KL8RTehBVCEMQhbrk68SyLe8UV8y-vXu7yi82goaD8pXnPZ-P3f43-GjMet9VxpNpVOIQ7qA3iIe0o8thjcUCNv7pA5yrKlKgAueKpP4FBbzc_A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NWxfdXicdYxLcpswAECn5-lGEhiT7mrzsxvACBBGO4xkwIhPMGCbS_QKqZN0Jt2105luc432NPWi267f5_OVF7_UnR8l_Wjq8X3S9t5G-mS6xcfyte0aNqR9wX5CSbpTJKgANENQhYoK5vJrmvSJaLKCPf7IecJEUXN3v-ed1qT_Sb4VVZLxf1xW4RzOFHmm3gGgyECG6Kljx8eXh4F3l--8zm5uxev-_TFPsqF-ydpb9_hUFeztqR37L8nzMAj-ds3Etaivubjy-muTtOM-_fPuoDen5fJ4Wnhh2xINA38iqx3JgzhaTdha2DjAim2QMTB15OpEIsC5t0XZpxWr_UCfbGttOYjGN0Z35rmiJlk5IpSJhStqtZ5HnE2irceQMOhqZE0OdMXLTA7DNoisfJmi9Bxpa5REYiCBDjhZaOlk2I4oUTiVKArvRkqIF0xMcCIwF9SlgG3dsCdehBOvJBeG6IaRfEGMFGJdh6zsR-eAaYD6TaQR4muOjyXjvJNiyd8SHOjksjOdjgc2iFEGcegY0SEP7rf0GNftA93SVs9TORbONt5ihAGhgWmcmGF4NuitAIlFcm4KL8RTehBVCEMQhbrk68SyLe8UV8y-vXu7yi82goaD8pXnPZ-P3f43-GjMet9VxpNpVOIQ7qA3iIe0o8thjcUCNv7pA5yrKlKgAueKpP4FBbzc_A"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQiGKqn-mGBZOIG6YFEqHHuPSojIt5n-5ZgL30Qcf6hkaPcIHAsRxBsHUYoScqvQxvYDsNfDpxeao5FeGLTudHRphyP_BaGH6pLSwuvtj6y",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSU2MPMyZN15rXwdJvew-Rv6-V_8w3mhMKGPGvc2wQZnqH6XZFUI9VX1JAUrIij4PcJg01vu4sVW57WR03sfN3pfMzaKDc",
+      "source": "Pataaree",
+      "title": "Surkh Shagun Set",
+      "price": "₹58,000",
+      "extracted_price": 58000,
+      "immersive_product_page_token": "gqx0onicJc_LcpswGAXg6fN0IyFu6s4ERHCNbS5CNjuBsA0WGGOInbxAl32F1kk6k-56mek2r9E-Tel0_X_nnPk_Xovyl5lFjPd3rrOe8bYPlui9uygn-5e2O4gh70vxQzMANFWsQoSxqSFNN8yXnPdcHral-Ak1VRkFBiMCGKqqAsH3XcGFLJtisdkUnX3IxxaEdAyQCVUdIwh0QzG0r2XNt8X_swkgMhSAFVMxVNMYV9THTpw-PR-Horv_VjTbkdZF07897fh2aJ637b_YiCHSkaZqCh5Lga7qj3UpXh_bu_4zfxoGWbxet_JaNtedvBbNlwNv7zb5nzcfnKN3czN4VkDbNrFDELF0ljoXvk62WsJglFfzNnMv3K927myVgJRY3ow6ve-s76mcHnk1fwhQfu8DE3EgQFpRJQYSRCixo5WFYjjRAhBGqasdmSM0WuPOT4Q1B2SZEHpOSQ7EQ0jTanrKaiJz2SJai5YqGherqUdBai1YANPKUmMqogClIZMYceUSz-OwzWp4Wq88hTrJMkKpk8T-2a93NosnF974cA1wGKxCWyiERQ0ZXZ-I_dTLnNN5LRMmGAYZOfQR2dWZnRzGD_eiEnVK8UAf5l2IWuATa8lkyjNHsISliIbeauFO40QhQOwFYfSyy2_DkNrzWQhwG7AT9_bEyZGnpTKsMzBnlMEqj63ZIsENa6yKu9LmNpEcCsW_zZ8up27zG0yI1kcL_e7sklpWNIPBII95l94M01Ba8BCd30HDNBUd6tDQkfkXVeXraQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gqx0onicJc_LcpswGAXg6fN0IyFu6s4ERHCNbS5CNjuBsA0WGGOInbxAl32F1kk6k-56mek2r9E-Tel0_X_nnPk_Xovyl5lFjPd3rrOe8bYPlui9uygn-5e2O4gh70vxQzMANFWsQoSxqSFNN8yXnPdcHral-Ak1VRkFBiMCGKqqAsH3XcGFLJtisdkUnX3IxxaEdAyQCVUdIwh0QzG0r2XNt8X_swkgMhSAFVMxVNMYV9THTpw-PR-Horv_VjTbkdZF07897fh2aJ637b_YiCHSkaZqCh5Lga7qj3UpXh_bu_4zfxoGWbxet_JaNtedvBbNlwNv7zb5nzcfnKN3czN4VkDbNrFDELF0ljoXvk62WsJglFfzNnMv3K927myVgJRY3ow6ve-s76mcHnk1fwhQfu8DE3EgQFpRJQYSRCixo5WFYjjRAhBGqasdmSM0WuPOT4Q1B2SZEHpOSQ7EQ0jTanrKaiJz2SJai5YqGherqUdBai1YANPKUmMqogClIZMYceUSz-OwzWp4Wq88hTrJMkKpk8T-2a93NosnF974cA1wGKxCWyiERQ0ZXZ-I_dTLnNN5LRMmGAYZOfQR2dWZnRzGD_eiEnVK8UAf5l2IWuATa8lkyjNHsISliIbeauFO40QhQOwFYfSyy2_DkNrzWQhwG7AT9_bEyZGnpTKsMzBnlMEqj63ZIsENa6yKu9LmNpEcCsW_zZ8up27zG0yI1kcL_e7sklpWNIPBII95l94M01Ba8BCd30HDNBUd6tDQkfkXVeXraQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQC7GqX6pp7SJSjKY0uNDClzIlL-Lqr8FcG6Rse-GARFyHHpOgOCc-65gTTA-eiYHZalYxqz0e5msLC5Aa8_0qLSKsHdA50ys5h8nWOWPtlVgnU6pUkfLKJ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSULmNfWXiuj0uxgJlMs46pqu1p1ZsElpeMSgmm1ICMbDuzZ8FlpAdB0U7GM5o1k86jqoHW93qTAhw4w7UCJSZ1SpddiyOYhw-OTZUj-acY",
+      "source": "Madanji Meghraj Jewellers",
+      "title": "Shagun Ring 18k Yellow Gold Split Shank Diamond Ring",
+      "price": "₹1,28,267",
+      "extracted_price": 128267,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "8lrGhHicJZLNcpswFIWnz9ONkPjtLrYR2Ak4lhGy2QmEASMwxeBgv0RfoXWSzqS7_sx0m9don6Zkuv7OfOfcmfvpmha_zXjNeHdy7O0db7rVPbp1lsVN-dK0B9EnXSF-KQawTKAbSDMNCKEFLEN7SXjH5SF7w8jUkGIquqKaAKnAtJD2I0-5kEWdLne7tJ0dkkL8NHVTMSwTGcjUoTU6TOtbUfEs_Y81RUFQU6Cijn4LIUs3H1tx_Pz8sU_b8_e0zsZoldbd-2POs75-zprkrV0FOtSgjgBUNaCpEOjaY1WI18fm1H3hT30v09drJq9Ffc3lNa2_Hnhz2iV_3z3abTKdnpLJijZNOCMgwESm9mIbYe_MWfaQ1NilkKwolvesGva-E00p8BcB0PQty_er_c3gSUv1NtGFbsKC1hlgDrmPXAzTWq5pgKu7kfEy6hnzZxziSWiTM3eJHgfEExvhJaDBpPYLZvvbEPjuVi4iAqxJXHZbUeXnxCETvxKRJ0vEqyaIZXibOPk-DHM93eCBSFLFtEPxhSJGI1cwKwpwvuOVgoNqrnEwIFGHJaE-p1XT-m5-XLJQ98ouXO8x96cKXQYYiFCEAWtgxKKN54SFuJRnYYe5R3PguT6I1ooXjFvEBTeEHjpu57VwukPsqOeYRXCjhIgP883SWQQhHH2lwIwOeeISQmf-3XhTs2JHPi-xnaC5Fkk8eA4-xWU-WQULFqMJWQb5nNai85lG1zTXE5Y8Dcd29wfcYK1bL_XTg4Mruaexsurlx6SNpv2CyIlyWD98UAzThPr4hIaOzH805_lh",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8lrGhHicJZLNcpswFIWnz9ONkPjtLrYR2Ak4lhGy2QmEASMwxeBgv0RfoXWSzqS7_sx0m9don6Zkuv7OfOfcmfvpmha_zXjNeHdy7O0db7rVPbp1lsVN-dK0B9EnXSF-KQawTKAbSDMNCKEFLEN7SXjH5SF7w8jUkGIquqKaAKnAtJD2I0-5kEWdLne7tJ0dkkL8NHVTMSwTGcjUoTU6TOtbUfEs_Y81RUFQU6Cijn4LIUs3H1tx_Pz8sU_b8_e0zsZoldbd-2POs75-zprkrV0FOtSgjgBUNaCpEOjaY1WI18fm1H3hT30v09drJq9Ffc3lNa2_Hnhz2iV_3z3abTKdnpLJijZNOCMgwESm9mIbYe_MWfaQ1NilkKwolvesGva-E00p8BcB0PQty_er_c3gSUv1NtGFbsKC1hlgDrmPXAzTWq5pgKu7kfEy6hnzZxziSWiTM3eJHgfEExvhJaDBpPYLZvvbEPjuVi4iAqxJXHZbUeXnxCETvxKRJ0vEqyaIZXibOPk-DHM93eCBSFLFtEPxhSJGI1cwKwpwvuOVgoNqrnEwIFGHJaE-p1XT-m5-XLJQ98ouXO8x96cKXQYYiFCEAWtgxKKN54SFuJRnYYe5R3PguT6I1ooXjFvEBTeEHjpu57VwukPsqOeYRXCjhIgP883SWQQhHH2lwIwOeeISQmf-3XhTs2JHPi-xnaC5Fkk8eA4-xWU-WQULFqMJWQb5nNai85lG1zTXE5Y8Dcd29wfcYK1bL_XTg4Mruaexsurlx6SNpv2CyIlyWD98UAzThPr4hIaOzH805_lh"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDekxvf-rjAyWP_jPvoSL5NqWeYAIAnpAYMB8jPJ2UwXYzRj4sd9sZtkLILYmaSncECVOjAgpLmZjoFmwn-DwNX2UXX8lTppbSsUBtZIPw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+      "source": "amazon.in",
+      "title": "Engagement Envelope, Mehndi Shagun Envelope, Fabric, pack of (10)",
+      "price": "₹999",
+      "extracted_price": 999,
+      "immersive_product_page_token": "VpoPYHicbZLLcpswAEWn39MNCLBxdyHGOK6BAJYw2smSzMPiESwM5if6C6mTdCbd9THTbX6j_Zp6uu763LM4M_fThee_zF0UE3ly7GRNGhncax8dP785vDZtzToqc_ZjqgMVTKbKzDANTQVAnxqvlEgi6jRnj98zTpjIK-7v97yd1_T_xte8JCn_h3-qmqnpGjCvSDHMCdANw3xq2fHx5aHj7fkbr9LrtuSVfH_MSNpVL2lz9R6fypy9PTUn-Zk8d53gb5dUXPLqkokLr77UpDnt6Z93hV33t7fH3gpg06B5qEQq62Fs5HCTAV6uIIFDSZaioRod3ILd09EiBDDAHHzH7BqEc8vHBXYREhXf3I2sDA0cy5W_dRUXID0-LIAbD7oL6jO1PQuNtkRziwTxDFKHneOSrZkQzS5Wc77FXlQOE1esFIQCuXNMEALvwZt7VaSxtYc83Y-zgW2bAC8xRgVCJPYciGaYjlkZQlOlTniMqpW7RuEewVAPNQuhObOxai3hsu6vDXehg5R4YyUIpjI6GA4rcXLtb6GDBK7QBtryYGdUT4S3TbYhCBWEN86iZ4tF4CpyuQHCIkOdBzAcaSFKKEQROYLEKOmp5qpJIbydatlbsOh8lC0jlO1x_zwc2_1v5WZhyMg3YqjfOMas4TXuVLuV6DReT6XDsew_qFPTBBN1ok6nuvYXH6bdcA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VpoPYHicbZLLcpswAEWn39MNCLBxdyHGOK6BAJYw2smSzMPiESwM5if6C6mTdCbd9THTbX6j_Zp6uu763LM4M_fThee_zF0UE3ly7GRNGhncax8dP785vDZtzToqc_ZjqgMVTKbKzDANTQVAnxqvlEgi6jRnj98zTpjIK-7v97yd1_T_xte8JCn_h3-qmqnpGjCvSDHMCdANw3xq2fHx5aHj7fkbr9LrtuSVfH_MSNpVL2lz9R6fypy9PTUn-Zk8d53gb5dUXPLqkokLr77UpDnt6Z93hV33t7fH3gpg06B5qEQq62Fs5HCTAV6uIIFDSZaioRod3ILd09EiBDDAHHzH7BqEc8vHBXYREhXf3I2sDA0cy5W_dRUXID0-LIAbD7oL6jO1PQuNtkRziwTxDFKHneOSrZkQzS5Wc77FXlQOE1esFIQCuXNMEALvwZt7VaSxtYc83Y-zgW2bAC8xRgVCJPYciGaYjlkZQlOlTniMqpW7RuEewVAPNQuhObOxai3hsu6vDXehg5R4YyUIpjI6GA4rcXLtb6GDBK7QBtryYGdUT4S3TbYhCBWEN86iZ4tF4CpyuQHCIkOdBzAcaSFKKEQROYLEKOmp5qpJIbydatlbsOh8lC0jlO1x_zwc2_1v5WZhyMg3YqjfOMas4TXuVLuV6DReT6XDsew_qFPTBBN1ok6nuvYXH6bdcA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-8_Ji0BXFcMmP1Cls8HQK7CuKPaLsCmAdlQakM2uBZljVwMDPuzKfaeVWPOP86i4Oo6rk873FJIiNpntB2jD0cuyvgHoBQdRFl9RaZfOu",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4hS5KQ74135NIV7gSpRHEcA-FSw80nnO2HrOkt_HKvEquXvpAtLbPVBsoNERjkZs2OXcDS1miV7vv2t9yiuakYY3VTuDUPT0",
+      "source": "Flipkart",
+      "title": "Koogly Peacock Print Design Shagun Card For Wedding",
+      "price": "₹165",
+      "extracted_price": 165,
+      "original_price": "67% off₹499",
+      "extracted_original_price": 67,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "gGk0nXicHZLLctMwGEaH52EjyZYv7Nr6lkBsJFfyZWfLiu34EpE6qZuX4BUgBWZgB2WGLa8BT4PL7p85_5lvc95fZPvLKuOkmE6-m70p1ETeaq_9qL3qvqrDvjqKqa2eMESmhTBCEJqWrZs2Bl9FMRX9vl6oAXQDGLZlGgtG-nKYPxpZVH07ymi7lQdnL9rq56JqFsaGDrCOdGhA3TC-tUNRy__8CQFbs0wMMUCaaSLDNK3HQ3X34fO7ozw8fJdjvbwOcpxe3jVFfRw_1-pZMzW8DFoIAQ3jZ8u2H4e2-oFNQzeQDZG-IB1ryHxUp-lj8el47OXvS91f2vHS9Bc5ftkX6rQVf188ugdxc3MS14QpxR0KYoDdGLJZxDAoeXhddj2lQZWTlHelO88la6LItU-VP_k85ZlIm4j5tI1cGt8ixcnQGBtuPeSuGkoEzyHIzuFtB7hnnQtP3cfd5GdaOMvgmiQsPJNkCgqoVtmoqPTnoEgaL0U1lMEeJEOtUb5ekQ5uCeAr6s8GHVVW-muYDYoIJ5xjx72nA7-uEkoECNOI2efNrmk2aU4T1jC5q0g-Cj0Z4LFy8oENcyjTtSvcqedaeJP3aiOGkJME3IsOaznrUNHxJrvN-2rs-yxRWxlQRVCzI71ab-AKlpq3K4P1IJP6oeKhHyZ8L1g4CH96IHSVRv76liMPVF3lJWxuREApc8I3FNiKJHfFqvNcoa1w3hM9H_uWDmsv1bx94fQs3NGYOX1SOg0ukeeyQHya7w7bP-DKw1Mc4YTpVz62ldznR-geJn46LxXr7Dzcv1p6s5CxdGaauvYP2HH8tA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gGk0nXicHZLLctMwGEaH52EjyZYv7Nr6lkBsJFfyZWfLiu34EpE6qZuX4BUgBWZgB2WGLa8BT4PL7p85_5lvc95fZPvLKuOkmE6-m70p1ETeaq_9qL3qvqrDvjqKqa2eMESmhTBCEJqWrZs2Bl9FMRX9vl6oAXQDGLZlGgtG-nKYPxpZVH07ymi7lQdnL9rq56JqFsaGDrCOdGhA3TC-tUNRy__8CQFbs0wMMUCaaSLDNK3HQ3X34fO7ozw8fJdjvbwOcpxe3jVFfRw_1-pZMzW8DFoIAQ3jZ8u2H4e2-oFNQzeQDZG-IB1ryHxUp-lj8el47OXvS91f2vHS9Bc5ftkX6rQVf188ugdxc3MS14QpxR0KYoDdGLJZxDAoeXhddj2lQZWTlHelO88la6LItU-VP_k85ZlIm4j5tI1cGt8ixcnQGBtuPeSuGkoEzyHIzuFtB7hnnQtP3cfd5GdaOMvgmiQsPJNkCgqoVtmoqPTnoEgaL0U1lMEeJEOtUb5ekQ5uCeAr6s8GHVVW-muYDYoIJ5xjx72nA7-uEkoECNOI2efNrmk2aU4T1jC5q0g-Cj0Z4LFy8oENcyjTtSvcqedaeJP3aiOGkJME3IsOaznrUNHxJrvN-2rs-yxRWxlQRVCzI71ab-AKlpq3K4P1IJP6oeKhHyZ8L1g4CH96IHSVRv76liMPVF3lJWxuREApc8I3FNiKJHfFqvNcoa1w3hM9H_uWDmsv1bx94fQs3NGYOX1SOg0ukeeyQHya7w7bP-DKw1Mc4YTpVz62ldznR-geJn46LxXr7Dzcv1p6s5CxdGaauvYP2HH8tA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ40VXbmoCl8VEgQHJycoYkjKiK0zphm4CKfAc4agPShdfbzM5yGRS6wv-b2fD7D-FcDCmpa5ArQ53ehC8_9Kc12gngoOqXw43e_6txW2qh3iEbsRLgpYqiDQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4Uo6Shsv5fnoEM572NdQcfV7zKYdPCTzt9ZRStC0IVFSBT1smnhvboJL7xPa-zIrmlgGNOBD9hrs0LnUOGFSoj_VCWj2-eA",
+      "source": "Meesho",
+      "title": "Engagement/Shadi/Nikah/Sagai Ceremony Decorative thali Ring Holder Shagun Plate Wood Decorative Plat",
+      "price": "₹355",
+      "extracted_price": 355,
+      "original_price": "73% off₹1,299",
+      "extracted_original_price": 73,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "TLv-LHicdZJLcpswAECn5-kG8bGhuzh8EhJwEZb47GQkDBgBxcIQLpEruE7SmXTXz0y3uUZ7mnq67_q9t3uPZ1b-0rdhRMTRsZJ70ongo3LnrMur_WvXt3TIREl_AqADxdA1XdckWZOlBdAXrxkRpG53JT19LxihddmwdZ6z3myz_yRfS0527B__oemGsQQL6SJphro0JFl-6unh9PJpYP3DN9bsLipnjXh_KMhuaF523SU7PfGSvj11R_GZPA9Dzd7Ou_pcNueiPrPmS0u6Y579eVdZ7Xh9fRhXAeo6bEIpjLCCeSKvTXu_NdOEWe7aR3i_sW0rQIadRe1M5W7OUDt7VndHNi7K9rpgVqEg7A6h46IgChQMUg9Hfr5FGGEbV37sNmuE261ccN_SDiSmbSIZrdcUq3tcLOKZklCBHNsGpCFQadRZkSNmwg0L87Ta7EGOYggDWSSe5cfZjaeEtu8hGVQxqKe06TTq4DLgMMzi1QSlSd1GkxkrNKcVbKBiq8wsSt9Kb3zkiYinAMf1fRBNHFcrk1VpmcwUBpF4IBvcW0WmJrUfJzGUoYTTjWOP1LYDTxI3G7lekaktAwTnrKo5km5Vfw9ij9eAAntk9WrcVq6PHVBm861CTddJx-fp0Oe_pStbE-Fai5B65WhGx9p0AFYv8HG-XKWimY8fwFLX5QVYgOVSVf4CPa_dXA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TLv-LHicdZJLcpswAECn5-kG8bGhuzh8EhJwEZb47GQkDBgBxcIQLpEruE7SmXTXz0y3uUZ7mnq67_q9t3uPZ1b-0rdhRMTRsZJ70ongo3LnrMur_WvXt3TIREl_AqADxdA1XdckWZOlBdAXrxkRpG53JT19LxihddmwdZ6z3myz_yRfS0527B__oemGsQQL6SJphro0JFl-6unh9PJpYP3DN9bsLipnjXh_KMhuaF523SU7PfGSvj11R_GZPA9Dzd7Ou_pcNueiPrPmS0u6Y579eVdZ7Xh9fRhXAeo6bEIpjLCCeSKvTXu_NdOEWe7aR3i_sW0rQIadRe1M5W7OUDt7VndHNi7K9rpgVqEg7A6h46IgChQMUg9Hfr5FGGEbV37sNmuE261ccN_SDiSmbSIZrdcUq3tcLOKZklCBHNsGpCFQadRZkSNmwg0L87Ta7EGOYggDWSSe5cfZjaeEtu8hGVQxqKe06TTq4DLgMMzi1QSlSd1GkxkrNKcVbKBiq8wsSt9Kb3zkiYinAMf1fRBNHFcrk1VpmcwUBpF4IBvcW0WmJrUfJzGUoYTTjWOP1LYDTxI3G7lekaktAwTnrKo5km5Vfw9ij9eAAntk9WrcVq6PHVBm861CTddJx-fp0Oe_pStbE-Fai5B65WhGx9p0AFYv8HG-XKWimY8fwFLX5QVYgOVSVf4CPa_dXA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgGcCmMLcns00kwfPSqZuyZJP4cWmoRfwrj_aTvBAzANx5bvW0LCJ-3-NnhARf1uGPkuoOQYrJ6ogX5xoP_evxmxRBFSMVrHjDuzoAn9w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+      "source": "amazon.in",
+      "title": "Shagun Basket Set for Wedding Gift Packing – 5 Pieces – Handcrafted Decorative Packing Basket for Shagun, Engagement, Hampers,1kg–2kg Items – 25x25cm",
+      "price": "₹279",
+      "extracted_price": 279,
+      "immersive_product_page_token": "-n5-pnicbZLLkpNAAEXL73HTTUMC7ibhETGAvLqBXU_TAZLmIY8w5if8hTEzY9W4c8oqt_Mb-jVSrl3fe26dxf1y5dUv9TYkdDxbRrqn3eh_RB8sr7o5PXd9m09srPKXFVyhtQo1SUNIQkCG8JnRkYq2qPL7l5LTXFQN9w4H3ust-y_wvappwf-lPyGSVqqCkIygClZgvYZIeejz4f7p08T7zz94Uyzdmjfj26GkxdQ8Fd3C3T_UVf760J3Hr_RxmgR_vRbiWjXXUlx5862l3fnA_rw5Gu283Q7zxo-7DusBCEE3YAPGLNn0GbDxrW47GLgG22UiR64ek5JQEpgh2vgpMWcvKoGj-4oXuYRZJ0hRi1xJbP1aXIglPmWWPWEYpOGunJaNLTdyBeMUMDDc-U152CfZbo-1xBFaG9Wlx49BxuOShLiTOVFQtBM-I6c5RN1x8bLd2qwDIg6e7sphnXVpUso0yaL8JLZunCeRZBpMYJJcgtqJx30KzDE6qXMstN1tUnoZMkPaFIoXD5DUNvGXbRaX5zQyJzfOKFkcMAj2RsnkVLhJmgRSAHAWWeacm6bvgHEXSWJD79rKj4MLO4oa67nkHM2ZH1Pk1AGmem7HEYOE2O9DUCi5pA2-_3g39Iff4MZUxtBTSCzfWIrW8TaboNGP-HxZLiXHl3p-B9eqKi2vgOu1jP4COdjbmg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-n5-pnicbZLLkpNAAEXL73HTTUMC7ibhETGAvLqBXU_TAZLmIY8w5if8hTEzY9W4c8oqt_Mb-jVSrl3fe26dxf1y5dUv9TYkdDxbRrqn3eh_RB8sr7o5PXd9m09srPKXFVyhtQo1SUNIQkCG8JnRkYq2qPL7l5LTXFQN9w4H3ust-y_wvappwf-lPyGSVqqCkIygClZgvYZIeejz4f7p08T7zz94Uyzdmjfj26GkxdQ8Fd3C3T_UVf760J3Hr_RxmgR_vRbiWjXXUlx5862l3fnA_rw5Gu283Q7zxo-7DusBCEE3YAPGLNn0GbDxrW47GLgG22UiR64ek5JQEpgh2vgpMWcvKoGj-4oXuYRZJ0hRi1xJbP1aXIglPmWWPWEYpOGunJaNLTdyBeMUMDDc-U152CfZbo-1xBFaG9Wlx49BxuOShLiTOVFQtBM-I6c5RN1x8bLd2qwDIg6e7sphnXVpUso0yaL8JLZunCeRZBpMYJJcgtqJx30KzDE6qXMstN1tUnoZMkPaFIoXD5DUNvGXbRaX5zQyJzfOKFkcMAj2RsnkVLhJmgRSAHAWWeacm6bvgHEXSWJD79rKj4MLO4oa67nkHM2ZH1Pk1AGmem7HEYOE2O9DUCi5pA2-_3g39Iff4MZUxtBTSCzfWIrW8TaboNGP-HxZLiXHl3p-B9eqKi2vgOu1jP4COdjbmg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVSGW2CsfSg60BGmeOoExv1qzRBgC4FRlPaYrqdH4fwcPbeVekKZZE0ssd9mlf5JRclTOz56mhDKbjUclmzsTn5oJUGjycT-DfhUmNPlBnE8zXvgU6seFh1g",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEW14-Ts1QhM_avvzntr9wreTxqp1JBRiKOc5-gQJ9kKHuWAK7ZIzc37LlV_PHFPQuyWgxSmVBW6IHCWN2fCmFcRmRxGk",
+      "source": "Flipkart",
+      "title": "Koogly Yellow Printed Design Shagun Card for Wedding, Engagement,Birthday Envelopes (Pack of 10 Yellow)",
+      "price": "₹143",
+      "extracted_price": 143,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "PhvIPHicbZJJcptAAEUr58mGpkFI2QkzBVtYDd3NsGvRLUBqBkuggUvkCo5sp8rZZajK1tdIThNV1ln-eu_t_qeLqH5NV1HM-oNrp3es69ES3rr31Xz72u1aPuR9xX-ouqFDCIyZDjV1MjUmE_ias57Jtqj44_dSMC6rRtyv12Jntfn_i69VzQrxD_8EKlQg1KZQ1YFuwOuEs6cd3z--PAxid_4mmuLq1qLp3-9LVgzNS9Fdu8enuuJvT92h_8yeh0GKt0shL1VzKeVFNF9a1h3W-Z93G7s93tzsjyYiXUetUME2ApSG4R2Rt7lntitMvRXxzwSYjCrdQ-5mlBB5xMDHzOI03swhOyvnq7vO7a4OmwDy0d8jxXEzUJwiS9qLG7DkluMtcPmRQ7MLmmy58MoxsAMp3MAS2xQgvIXULlUMs4fQooDWXY0Bz0hM_RzKfRrvNV7r1UJOtdilG7QNY9HQdRQHI9oGXpx0y9DpLNxIiNRTgshsmyjlGCX2KYppsHL9FEVgSR3pJmOu5Z4M6bZP7mIdh5ZPsGuPeMNLnnA_bczBLnMtlUGSJqEaKjTDrnPkjoMWSu9hVZrs1FaIhGO-kTXZoGMsTYvVZBTeHHLp71b2oufA0ZkkKto4E4SeT_vd-rcyd_Q-utdjos1dfdaJNhuAvevpYbyeSiNjffwAjOlUnYAJMAwN_gUeKNyn",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PhvIPHicbZJJcptAAEUr58mGpkFI2QkzBVtYDd3NsGvRLUBqBkuggUvkCo5sp8rZZajK1tdIThNV1ln-eu_t_qeLqH5NV1HM-oNrp3es69ES3rr31Xz72u1aPuR9xX-ouqFDCIyZDjV1MjUmE_ias57Jtqj44_dSMC6rRtyv12Jntfn_i69VzQrxD_8EKlQg1KZQ1YFuwOuEs6cd3z--PAxid_4mmuLq1qLp3-9LVgzNS9Fdu8enuuJvT92h_8yeh0GKt0shL1VzKeVFNF9a1h3W-Z93G7s93tzsjyYiXUetUME2ApSG4R2Rt7lntitMvRXxzwSYjCrdQ-5mlBB5xMDHzOI03swhOyvnq7vO7a4OmwDy0d8jxXEzUJwiS9qLG7DkluMtcPmRQ7MLmmy58MoxsAMp3MAS2xQgvIXULlUMs4fQooDWXY0Bz0hM_RzKfRrvNV7r1UJOtdilG7QNY9HQdRQHI9oGXpx0y9DpLNxIiNRTgshsmyjlGCX2KYppsHL9FEVgSR3pJmOu5Z4M6bZP7mIdh5ZPsGuPeMNLnnA_bczBLnMtlUGSJqEaKjTDrnPkjoMWSu9hVZrs1FaIhGO-kTXZoGMsTYvVZBTeHHLp71b2oufA0ZkkKto4E4SeT_vd-rcyd_Q-utdjos1dfdaJNhuAvevpYbyeSiNjffwAjOlUnYAJMAwN_gUeKNyn"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShEmwfLGpad-0XkXp9zbmsNADnXFnVyyZ6MjoA9IGnyBwtMbzc2b34UFw5Yix8HZzYMdi6ZzmWcMVLC-EMSXgO8L0ptTb1qIM_MA9QvKg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4Uo6Shsv5fnoEM572NdQcfV7zKYdPCTzt9ZRStC0IVFSBT1smnhvboJL7xPa-zIrmlgGNOBD9hrs0LnUOGFSoj_VCWj2-eA",
+      "source": "Meesho",
+      "title": "Engagement Shagun Nariyal Set For Ring Ceremony Wedding Function and Traditional Indian Rituals",
+      "price": "₹382",
+      "extracted_price": 382,
+      "original_price": "75% off₹1,499",
+      "extracted_original_price": 75,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "mp3n7XicdY5LcptAAEQr58mG4TNAdpbEJ7IA8xs0sxsYJJBmAEsgLF0iV3BkO1XOLqlUZetrJKcJqco26-7Xrz9dy_qnkccZ7U-OhVe068M75dYJ6pv9a3do2VD0NfsBdN1UITB1FUBJUnQoQ-m1oD3l7bZmj9-rkjJeN2Ww2ZSHRVv8B_laC7ot_-WaoSmqrBmyIelAMmUNwqcDOz6-3A_l4fytbLZTV5RN__5Y0e3QvGy7iXt8EjV7e-pO_Wf6PAy8fLtu-bVurhW_ls2XlnanTfH73c5qx_n8OM7CtOvQIpISC92uUKdkCYGeo_kMmF0OrAuxZzhykZQLNvquLZiFKsxNHK0riLPuLsqISvZRMnEVUvgyq4GKuS9hSVuU2cMiXfgzkvW-59gE78EqsAmkCF8SoXmhGM_xLgUxRxdm7Xua2UFhmS6LQZQLPvhK1Uw7iApOcjuavDxhrr8p1kXvAbIPUiBTe1bjWhpjS6OZWEIPFTJKzQwlSCPc95MkVZBAbpJ9VFOnj2IeaoGlAip1Z98lc-q2SrhG89I6jjgl91ZV_P2_xutIjiREEscemW2HntS7icxn9KGtwzS6FDsu0ouPQ9GqnmIf8smBlemjvKRUjBc_6_BqjTQ2Pj8cD5tf0o2t9XEAT6NjC75LcxAO_L44kPmwjPgMtPH4AeiGIUMAgQ4V4w_PvNxd",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mp3n7XicdY5LcptAAEQr58mG4TNAdpbEJ7IA8xs0sxsYJJBmAEsgLF0iV3BkO1XOLqlUZetrJKcJqco26-7Xrz9dy_qnkccZ7U-OhVe068M75dYJ6pv9a3do2VD0NfsBdN1UITB1FUBJUnQoQ-m1oD3l7bZmj9-rkjJeN2Ww2ZSHRVv8B_laC7ot_-WaoSmqrBmyIelAMmUNwqcDOz6-3A_l4fytbLZTV5RN__5Y0e3QvGy7iXt8EjV7e-pO_Wf6PAy8fLtu-bVurhW_ls2XlnanTfH73c5qx_n8OM7CtOvQIpISC92uUKdkCYGeo_kMmF0OrAuxZzhykZQLNvquLZiFKsxNHK0riLPuLsqISvZRMnEVUvgyq4GKuS9hSVuU2cMiXfgzkvW-59gE78EqsAmkCF8SoXmhGM_xLgUxRxdm7Xua2UFhmS6LQZQLPvhK1Uw7iApOcjuavDxhrr8p1kXvAbIPUiBTe1bjWhpjS6OZWEIPFTJKzQwlSCPc95MkVZBAbpJ9VFOnj2IeaoGlAip1Z98lc-q2SrhG89I6jjgl91ZV_P2_xutIjiREEscemW2HntS7icxn9KGtwzS6FDsu0ouPQ9GqnmIf8smBlemjvKRUjBc_6_BqjTQ2Pj8cD5tf0o2t9XEAT6NjC75LcxAO_L44kPmwjPgMtPH4AeiGIUMAgQ4V4w_PvNxd"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8j6acxCWKbt2gIIMmZ_G6A9dQU_Hjh8q49zhhlP2KhX_T97zl1x1Bb-pWw8vblouFWnHB4BozKR9yGof96zu_JHDPpKrqy74PDA6k767RNavveEN1CfkM",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Premium Shagun Basket Set of 5 ? Perfect for Wedding Gift Packing, Engagement Hampers & Festive Use | Handmade Tray 25x25cm | 1-2kg | NBH35",
+      "price": "₹279",
+      "extracted_price": 279,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "I8sEmXicdctLcpswAIDh6Xm6kcBg0l2xwY8GESQkbHayAPMQj2BhbF-iV0idpDPprp3OdJtrtKdpFt12_X__52ta_LJ2JOLquHC2t7xTwZ3-aeEXH6uXrm-TQagi-Ql1_cbUoQk0Q4MWNC0wnbwIrrhs90Xy8CNPeSKLJvWzLO3nrfjP8q2o-T791ycWnELDnBjWDQDmBEyg9tgnh4fn-yHtz9_TZv9m67RR7w853w_N8757-x4e6yJ5feyO6gt_GgaZvl738lo011xe0-Zry7tjJv68K512nM0Oox3QrmNzDEizOnFNzsVcqKiuLtR1SbCRKAiTC5EuI453uWVrTjS1joFQQsa9V8kL0aiBqHG3kzdLMZdlDJTGN7gjEpfMZSypDTsOWRZHGO10G_tz28dLdNzCtbkDkMeuzClgK9E4RhglK0HzilMc7y6IebWq_Q0rRcSWxDG2IYEOrZUXSLyKG3dImW37Yb4llAW8omfqrA2kHXTSSBuB1YiARGKBzqLBMwrUmVHWp5Gl4wJ6PEpkAGCVlCwjDspQw1AYJicnF5OtRJvtBmsYsDhcuGPiuoEH1DLUpM1PbRFQfBGlrCkQerBZB2HpjW9-wSKqC6BQXBvjbonVBsZVEDydDn32G3x0DUV88zgu3FqWdAeDQd6LPp4Nayxt2JLxA5xalmZCE05N3foLHnTd4w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=I8sEmXicdctLcpswAIDh6Xm6kcBg0l2xwY8GESQkbHayAPMQj2BhbF-iV0idpDPprp3OdJtrtKdpFt12_X__52ta_LJ2JOLquHC2t7xTwZ3-aeEXH6uXrm-TQagi-Ql1_cbUoQk0Q4MWNC0wnbwIrrhs90Xy8CNPeSKLJvWzLO3nrfjP8q2o-T791ycWnELDnBjWDQDmBEyg9tgnh4fn-yHtz9_TZv9m67RR7w853w_N8757-x4e6yJ5feyO6gt_GgaZvl738lo011xe0-Zry7tjJv68K512nM0Oox3QrmNzDEizOnFNzsVcqKiuLtR1SbCRKAiTC5EuI453uWVrTjS1joFQQsa9V8kL0aiBqHG3kzdLMZdlDJTGN7gjEpfMZSypDTsOWRZHGO10G_tz28dLdNzCtbkDkMeuzClgK9E4RhglK0HzilMc7y6IebWq_Q0rRcSWxDG2IYEOrZUXSLyKG3dImW37Yb4llAW8omfqrA2kHXTSSBuB1YiARGKBzqLBMwrUmVHWp5Gl4wJ6PEpkAGCVlCwjDspQw1AYJicnF5OtRJvtBmsYsDhcuGPiuoEH1DLUpM1PbRFQfBGlrCkQerBZB2HpjW9-wSKqC6BQXBvjbonVBsZVEDydDn32G3x0DUV88zgu3FqWdAeDQd6LPp4Nayxt2JLxA5xalmZCE05N3foLHnTd4w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-8_Ji0BXFcMmP1Cls8HQK7CuKPaLsCmAdlQakM2uBZljVwMDPuzKfaeVWPOP86i4Oo6rk873FJIiNpntB2jD0cuyvgHoBQdRFl9RaZfOu",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4hS5KQ74135NIV7gSpRHEcA-FSw80nnO2HrOkt_HKvEquXvpAtLbPVBsoNERjkZs2OXcDS1miV7vv2t9yiuakYY3VTuDUPT0",
+      "source": "Flipkart",
+      "title": "Koogly Peacock Print Design Shagun Card For Wedding",
+      "price": "₹165",
+      "extracted_price": 165,
+      "original_price": "67% off₹499",
+      "extracted_original_price": 67,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "WfKz1XicHZLLbptAFIbV5-mGmWG4dBcHxkB8CQMz2GyqMYOBADbF4NtL9BVaO6mU7ppU6rav0T5NSXdH-s53LtL_-ZIWv4xVEIluP7aXE9F0_j26G8-Lm_K5abeyT7pCvmIAdQNiCAHQDVPVTaw8J6IT1TYbqKaomqKZhq4NGKpDob_kqZBVsUnn63XaWtukkD8HFRkYa6qCVagCDaia9r2oRZb-569QMZGhY4AViHQdarpuXFu5-_L0qU_b0490kw2tdbrp3u9ykfWbp6x503SEh4UGhArC-M0yzWtdyBesa6oGTQDVAakYQf3a7Luv4rHvq_T3JasuxeaSV5d0820rmv06-fvuarfJ7e0-GfmsabhFlaD0uADNenYmXsKwE9gdm1sVXz1QziLTDk6gX1VmHYdkKUBVCxIzvmhQysl6OsZu6GxPMWFY2NylFaFL5E3oGMwYJKMwrMqYNNOUVCOOaL8s8wdpxc2qyomIaCQJtSMbn-KI7ifhqAxCF4oztVMWw0Q5HFYRjrjTHDnyz1HZ7eXZw-mYt1M0awWXThDFOCLZkdUcLKCpRZa3p7xhAWEwLDtIWd6HtTL8iOsF2KLIkce4pojWxAre5lnS9qH0k4rn_sI98vMUT89eGNYM0YcRohFRpeJiTmbqFB67lVXd-2DWSrA9sEUcprWryKO7mI-9kEOiyFKSiB3zxKGUWbMJVczGj3bCLYmdIBfHlXeY23QTQq-fleCc2FVMQ89OSTz4MZoONwXj5PG4a9d_lBuCu2CuZvfFxxu3VhzB9XzHwN154c_uuo875_BhyJsBtSFnuobMf8yN-mI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WfKz1XicHZLLbptAFIbV5-mGmWG4dBcHxkB8CQMz2GyqMYOBADbF4NtL9BVaO6mU7ppU6rav0T5NSXdH-s53LtL_-ZIWv4xVEIluP7aXE9F0_j26G8-Lm_K5abeyT7pCvmIAdQNiCAHQDVPVTaw8J6IT1TYbqKaomqKZhq4NGKpDob_kqZBVsUnn63XaWtukkD8HFRkYa6qCVagCDaia9r2oRZb-569QMZGhY4AViHQdarpuXFu5-_L0qU_b0490kw2tdbrp3u9ykfWbp6x503SEh4UGhArC-M0yzWtdyBesa6oGTQDVAakYQf3a7Luv4rHvq_T3JasuxeaSV5d0820rmv06-fvuarfJ7e0-GfmsabhFlaD0uADNenYmXsKwE9gdm1sVXz1QziLTDk6gX1VmHYdkKUBVCxIzvmhQysl6OsZu6GxPMWFY2NylFaFL5E3oGMwYJKMwrMqYNNOUVCOOaL8s8wdpxc2qyomIaCQJtSMbn-KI7ifhqAxCF4oztVMWw0Q5HFYRjrjTHDnyz1HZ7eXZw-mYt1M0awWXThDFOCLZkdUcLKCpRZa3p7xhAWEwLDtIWd6HtTL8iOsF2KLIkce4pojWxAre5lnS9qH0k4rn_sI98vMUT89eGNYM0YcRohFRpeJiTmbqFB67lVXd-2DWSrA9sEUcprWryKO7mI-9kEOiyFKSiB3zxKGUWbMJVczGj3bCLYmdIBfHlXeY23QTQq-fleCc2FVMQ89OSTz4MZoONwXj5PG4a9d_lBuCu2CuZvfFxxu3VhzB9XzHwN154c_uuo875_BhyJsBtSFnuobMf8yN-mI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDekxvf-rjAyWP_jPvoSL5NqWeYAIAnpAYMB8jPJ2UwXYzRj4sd9sZtkLILYmaSncECVOjAgpLmZjoFmwn-DwNX2UXX8lTppbSsUBtZIPw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+      "source": "amazon.in",
+      "title": "Engagement Envelope, Mehndi Shagun Envelope, Fabric, pack of (10)",
+      "price": "₹999",
+      "extracted_price": 999,
+      "immersive_product_page_token": "0GTIY3icbZDLcpswAEWn39MN4mHj7kKMICbIkRAEe5OREQaMeNQIG_MT_YXUSTqT7vqY6Ta_0X5NPV13fe6Ze-d-OqfFL3MT3DN5cOzVLWslvtM8Z1lcla_tvuF9Igv-Y6qrQJ1MlZlhGhpQVX1qvCZMMtFkBX_8nqeMi6JOl9ttup83yf-Nr0XFsvQf_gk0U9M11bwgxTAnqm4Y5tOed48vH_t0f_qW1tklW6W1fN_lLOvrl6y9eI9PVcHfntqD_Mye-16kb-dMnIv6nItzWn9pWHvYJn_e7ezmeH3dHS0ctm00Jwp1sxMJ4ZA4eZ_M7ROyI4Jq7sYK9DaQV_QEZARQHdmmGmoCU3dxWFX5wKAVL-mNwUeEgyiR1LX8dJ7bmxH2Ec1Uf1yIgK7VUFg-HhGjjtElOzgPxDpGI4-XzswOYXS7Gq2Pm8of0moIlk7ecpcsfIoQAtYQKxySuiWJ3crNiLpNvKbEzZXAEX4USi-h4pDshEcc2PESDwisDxigO1oi4tuy8Z1soDtihaUBeAG8yL3sURYFK8vjquYS75DtuzyO1UGx80RfCRSvYqISJVpTBx45hNhXpEtVYbGhKXBIxktfFYZHhVYzfT2KkNwvABYzPQL8Bgs4weXlvRDu-PF56Pbb38oVNGSw1LO74uHqplJcFk3zLgTeGGPkyYfOPX4AU9NUJ2ACphNt9hcOc94d",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0GTIY3icbZDLcpswAEWn39MN4mHj7kKMICbIkRAEe5OREQaMeNQIG_MT_YXUSTqT7vqY6Ta_0X5NPV13fe6Ze-d-OqfFL3MT3DN5cOzVLWslvtM8Z1lcla_tvuF9Igv-Y6qrQJ1MlZlhGhpQVX1qvCZMMtFkBX_8nqeMi6JOl9ttup83yf-Nr0XFsvQf_gk0U9M11bwgxTAnqm4Y5tOed48vH_t0f_qW1tklW6W1fN_lLOvrl6y9eI9PVcHfntqD_Mye-16kb-dMnIv6nItzWn9pWHvYJn_e7ezmeH3dHS0ctm00Jwp1sxMJ4ZA4eZ_M7ROyI4Jq7sYK9DaQV_QEZARQHdmmGmoCU3dxWFX5wKAVL-mNwUeEgyiR1LX8dJ7bmxH2Ec1Uf1yIgK7VUFg-HhGjjtElOzgPxDpGI4-XzswOYXS7Gq2Pm8of0moIlk7ecpcsfIoQAtYQKxySuiWJ3crNiLpNvKbEzZXAEX4USi-h4pDshEcc2PESDwisDxigO1oi4tuy8Z1soDtihaUBeAG8yL3sURYFK8vjquYS75DtuzyO1UGx80RfCRSvYqISJVpTBx45hNhXpEtVYbGhKXBIxktfFYZHhVYzfT2KkNwvABYzPQL8Bgs4weXlvRDu-PF56Pbb38oVNGSw1LO74uHqplJcFk3zLgTeGGPkyYfOPX4AU9NUJ2ACphNt9hcOc94d"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ40VXbmoCl8VEgQHJycoYkjKiK0zphm4CKfAc4agPShdfbzM5yGRS6wv-b2fD7D-FcDCmpa5ArQ53ehC8_9Kc12gngoOqXw43e_6txW2qh3iEbsRLgpYqiDQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4Uo6Shsv5fnoEM572NdQcfV7zKYdPCTzt9ZRStC0IVFSBT1smnhvboJL7xPa-zIrmlgGNOBD9hrs0LnUOGFSoj_VCWj2-eA",
+      "source": "Meesho",
+      "title": "Engagement/Shadi/Nikah/Sagai Ceremony Decorative thali Ring Holder Shagun Plate Wood Decorative Plat",
+      "price": "₹355",
+      "extracted_price": 355,
+      "original_price": "73% off₹1,299",
+      "extracted_original_price": 73,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "TvS7znicdZBJcptAAEUr58mmGwSC7ITFIFu0zNRgNq4W3WJqBgOyMJfwFRzZTpWzy1CVra-RnCZU9ln_96v--49nlv9S9l5IhntTv9mSdnCuxStzl6_Kt7Zr6DEZcvoTQgWKqiIpigQESQAyVOS3hAyEN2lOn75njFCe12x3OLBu3ST_qXzNK5Kyf_kPSVHVJZTBDEnqYqkCQXjuaP_0endk3cM3VqczWrF6-NhnJD3Wr2k7156eq5y-P7f3w2fycjxy9n5O-Tmvzxk_s_pLQ9r7Q_LnQ6E3p4uL_qQ5QdvitQu8SfMINmRkop0HnBEHY-DzSxtb5WIb4us9bH0bxlFo4a1fbUZUxjwotDu0xnyL1TEsDRBPWROJKE9KanuGPtoCKvZWe0iiDWQFPgVmP9iVPrFyDKmoufsqI165gch3M6SDE-XzuWFr-bpxZIa6wAGFEVDX9pQ51MIW4lSY9w12iBtmxpiutSKs4l3CV5Ifwo5ZMYih5vl6POEAFzhqRg9myIG8cnzNIUHGXROL2zAVaDjg0AMjivjGtXTA_IzQ8PJBz5LFDUfRTeQKLsCxbxonahiODQbLF7hGxiZ3AndKCl5hMy5QqYueyY0kxLPjbFwHgHDkoBp1DkQ7x3kZ--7wG6wMafB2i_Q6v11tKmARvMz6AF5NkYOuhtveOn2CS0URZCjDpSyqfwGl8d0M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TvS7znicdZBJcptAAEUr58mmGwSC7ITFIFu0zNRgNq4W3WJqBgOyMJfwFRzZTpWzy1CVra-RnCZU9ln_96v--49nlv9S9l5IhntTv9mSdnCuxStzl6_Kt7Zr6DEZcvoTQgWKqiIpigQESQAyVOS3hAyEN2lOn75njFCe12x3OLBu3ST_qXzNK5Kyf_kPSVHVJZTBDEnqYqkCQXjuaP_0endk3cM3VqczWrF6-NhnJD3Wr2k7156eq5y-P7f3w2fycjxy9n5O-Tmvzxk_s_pLQ9r7Q_LnQ6E3p4uL_qQ5QdvitQu8SfMINmRkop0HnBEHY-DzSxtb5WIb4us9bH0bxlFo4a1fbUZUxjwotDu0xnyL1TEsDRBPWROJKE9KanuGPtoCKvZWe0iiDWQFPgVmP9iVPrFyDKmoufsqI165gch3M6SDE-XzuWFr-bpxZIa6wAGFEVDX9pQ51MIW4lSY9w12iBtmxpiutSKs4l3CV5Ifwo5ZMYih5vl6POEAFzhqRg9myIG8cnzNIUHGXROL2zAVaDjg0AMjivjGtXTA_IzQ8PJBz5LFDUfRTeQKLsCxbxonahiODQbLF7hGxiZ3AndKCl5hMy5QqYueyY0kxLPjbFwHgHDkoBp1DkQ7x3kZ--7wG6wMafB2i_Q6v11tKmARvMz6AF5NkYOuhtveOn2CS0URZCjDpSyqfwGl8d0M"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT7WyvhSdWj4cKlN7n8WarB6cUBM1R1O9vwH3bptnNpYdovaaf2-B1_jZzTqh-iRiIAdJe4K-xoft99Y7NU5Z2xNPNkoiobbz1hixrwbaCw40RvLHRN0DvyWw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTTzzmOLiUvEiyNZZ08z50ivu-bTizxgRvB-0QykP6PjXe8msgaaIZ1hCE_Jk5GHjzAPG2BrGfZL3QIn32puLuxy0U-dbR1wVY",
+      "source": "Shrungar Jewellers",
+      "title": "Shrungar Bridal Collection Precious Pagpan",
+      "price": "₹14,711.06",
+      "extracted_price": 14711.06,
+      "immersive_product_page_token": "4iGGbnicJZJLcptAAEQr58lmZvhnZ0mMhGJQQDAYdiOGnxgQFoOQuECWuUIi26lydvlUZetrJKcJrqx60a-6e9Gfrmn5W99tQypOSzO6pa1wP0jvl5vypnpujwfWJ6Jkv6BiIFnWdQnomqohRdV05TmhgvJDXrKfmgaBrsgqkCXFmAiIjB9FShkvm3STZelxcUhesSkG6MCAim5MrKYZ4FtZ0zz9byMoq0gHOlJVY_IlqGsPR9Z9frrv0-Ple9rkE1qnjXjbFTTvm6e8TV63SVOrKssIqDpQgWKoqvZQl-zloT2JL_Sx73n6cs35tWyuBb-mzdcDbU9Z8vfNR_Pems97a-YGbUsWHvAXsyyQCuGgYh01TuYDDBzMKhquO1a1XUqKLFy1FSGt5NbQYnfM9yv7YhMLUejMI8BrWsIT2TNBRwy3fpzZ_uyWVF5JeDAwVJxs2M5DMju59SAcPLOcpTc4DRttzjo_hLIL8LALPJPsOWVmfnZq6PucZZtFMrL9ehWRaAhMVtgwuWxCiJOGm_6iGFjlKdPOgWxhQStly_zZhx0sVu5IMmckkT-ag19he2satVsXt3FodAxhmSJ4joE4Bk0u4grvA8kEtGIbWtuTQmeHRODxWHGJjeLx5hyfrbvNcu0ThAGrGA6Dc5GsPC9YOLceMFo37KhVYTORLCXmJmA1uTASiXQZY3vkUbKKhIs8HJhCikI2oyh5PHfH7A-4wYrYbtTTsMQ13wc76Pb8PjnG837t8Rk8bId3UNOne0AVaqqk_wMIrfC_",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4iGGbnicJZJLcptAAEQr58lmZvhnZ0mMhGJQQDAYdiOGnxgQFoOQuECWuUIi26lydvlUZetrJKcJrqx60a-6e9Gfrmn5W99tQypOSzO6pa1wP0jvl5vypnpujwfWJ6Jkv6BiIFnWdQnomqohRdV05TmhgvJDXrKfmgaBrsgqkCXFmAiIjB9FShkvm3STZelxcUhesSkG6MCAim5MrKYZ4FtZ0zz9byMoq0gHOlJVY_IlqGsPR9Z9frrv0-Ple9rkE1qnjXjbFTTvm6e8TV63SVOrKssIqDpQgWKoqvZQl-zloT2JL_Sx73n6cs35tWyuBb-mzdcDbU9Z8vfNR_Pems97a-YGbUsWHvAXsyyQCuGgYh01TuYDDBzMKhquO1a1XUqKLFy1FSGt5NbQYnfM9yv7YhMLUejMI8BrWsIT2TNBRwy3fpzZ_uyWVF5JeDAwVJxs2M5DMju59SAcPLOcpTc4DRttzjo_hLIL8LALPJPsOWVmfnZq6PucZZtFMrL9ehWRaAhMVtgwuWxCiJOGm_6iGFjlKdPOgWxhQStly_zZhx0sVu5IMmckkT-ag19he2satVsXt3FodAxhmSJ4joE4Bk0u4grvA8kEtGIbWtuTQmeHRODxWHGJjeLx5hyfrbvNcu0ThAGrGA6Dc5GsPC9YOLceMFo37KhVYTORLCXmJmA1uTASiXQZY3vkUbKKhIs8HJhCikI2oyh5PHfH7A-4wYrYbtTTsMQ13wc76Pb8PjnG837t8Rk8bId3UNOne0AVaqqk_wMIrfC_"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTppeD7zLFz3HFbGGNmsH9lVj33Y5o_Zx-o93arszUIC9lpVT8nlO2Y57ZalE0s1_6N6DuyBL-6Ewy8NNAWCRnv2H_nBj4RFzK5NKyf3NCdjxjJPxiZyR5KvqHf",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQdbf8IRW2rMnVJ55widGsfS5tWPY6UgbN34G0O7EIWlz3RGSP_WTlMLvK0XygYWewiQoNdPEyeyWzpQpMp14yf2AIO",
+      "source": "Sujhal Jewels",
+      "title": "Gilded Eden",
+      "price": "₹14,700",
+      "extracted_price": 14700,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "u14MWnicHZLLctMwAEWH72Gjh19i19aWkzZRYseSYm0Y1XJjJ7IjEid9_AS_AGlhBnY8ZtjyG_A1ZFifcxdn5r4_1e2v6HYh9XBMk3Ki3ZDN8U06ay82X9xuaw7V0JqfEJMwwCFAfogi7MEQEe9LpQdtt6vW_CAQIwCI54PQ8zyCcBh8b2ptbNvXs7u7ehdvq7MWhYAQHwDoQR-QAEUo_Np2elX_xz8hxP6Zh34UYByG2AsBeN6Z_YdP7w717vFb3a_Oblf3w-t9o1eH_tPK_d9FyCO-T3wUBhGBEcRB-Ny15vezOw4f9cvhYOvfp5U9tf2psae6_7zV7nhX_X31nOyqq6tjdZlx50ScgyJmXGyUV8spYsjRUlItaIIW0l6KpWpkqu6ntKFFIiZ56nbZBjxWhXi4lRTUksSsTx5msWH1yCoNxVEg201FeT8TdlKuLS42TjGqcrUU27JXYIk33m2q1qxzWPSuyaziAuW9tKVfYHXF5bBmnF6LvpmoXk3ypeXGVkOBkieW0PuMs_lUNEBKE5RA3HCbH_gGNrfQtDLOkBQNqzuaThN7nVMyTJZmvRDkXcEbWvHGMuBmFeBDsYCtRj6rwLDnoumngsUmZRNO3Xj5JNZSXJYKKFp1pi2FmQt0juj8TC1gnqfbR87zuY7Fkefj5Sy9Ls4cmI2hkj801SjPecwmOSAuk3s93tCkwmNfWbaTwohckOs8HYRO_eM0MYkYuXRKHdZdNTCRvDzsd3d_wAX1h8XMW83btxfjDoy0CJs9hzdPy4zdDG_3o_s3MIwiFMAAnq9K_gEYT_eq",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=u14MWnicHZLLctMwAEWH72Gjh19i19aWkzZRYseSYm0Y1XJjJ7IjEid9_AS_AGlhBnY8ZtjyG_A1ZFifcxdn5r4_1e2v6HYh9XBMk3Ki3ZDN8U06ay82X9xuaw7V0JqfEJMwwCFAfogi7MEQEe9LpQdtt6vW_CAQIwCI54PQ8zyCcBh8b2ptbNvXs7u7ehdvq7MWhYAQHwDoQR-QAEUo_Np2elX_xz8hxP6Zh34UYByG2AsBeN6Z_YdP7w717vFb3a_Oblf3w-t9o1eH_tPK_d9FyCO-T3wUBhGBEcRB-Ny15vezOw4f9cvhYOvfp5U9tf2psae6_7zV7nhX_X31nOyqq6tjdZlx50ScgyJmXGyUV8spYsjRUlItaIIW0l6KpWpkqu6ntKFFIiZ56nbZBjxWhXi4lRTUksSsTx5msWH1yCoNxVEg201FeT8TdlKuLS42TjGqcrUU27JXYIk33m2q1qxzWPSuyaziAuW9tKVfYHXF5bBmnF6LvpmoXk3ypeXGVkOBkieW0PuMs_lUNEBKE5RA3HCbH_gGNrfQtDLOkBQNqzuaThN7nVMyTJZmvRDkXcEbWvHGMuBmFeBDsYCtRj6rwLDnoumngsUmZRNO3Xj5JNZSXJYKKFp1pi2FmQt0juj8TC1gnqfbR87zuY7Fkefj5Sy9Ls4cmI2hkj801SjPecwmOSAuk3s93tCkwmNfWbaTwohckOs8HYRO_eM0MYkYuXRKHdZdNTCRvDzsd3d_wAX1h8XMW83btxfjDoy0CJs9hzdPy4zdDG_3o_s3MIwiFMAAnq9K_gEYT_eq"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMaRargyao_AbYDkc05kQdbvwRBNx2jGahHcjZfFmALYyFSDEx_TuoZIFuwDRcz7BWuzfW1nCGY8eByQ45sn0yaxwC_U4Hz2OmAMBdGCxHb8jXi0dTdCZc",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjYECviHnEItxh3hlEnznS-CKBqjzIf0H5QEUbxfCjCbJ4PXYaYk5VyQ8Xdc8O-bCr6xa3B6EG7PA9XYPPggHYSgZJGcgObwqfiGWNp4c",
+      "source": "Sadia Hyderabadi Jewellery",
+      "title": "Shagufta Red Real Emerald Bridal Set",
+      "price": "₹26,249",
+      "extracted_price": 26249,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "5X2SqHicHZJNbptAAIXV83QzwzD8dBcbMI4NxMAMP5tozGCDGWNssI19gS57hdRJKqW7ppW6zTXa09Tp-ntPn_T0vlzy8rc2DyLWHUZmMmVNN7tDk5FX3lQvzW7D91lX8l9QVlSgAARVLEEs6xhJ2kvGOiY2y5L_1BUNYYihrMtQ0xWoaPprkTMuyjr3Fot8Z2yykr9qWFJVVYIAQqTJSNLh93LNlvl_-u6QlStDUEdAlwDWJfi44-3D83af704_8np5za7zuvvYFmy5r5-XzbX38Lgu-dtjc-i-sqf9XuRvl6W4lPWlEJe8_rZhzWGR_f3w2dyOh8P9eDAjTUMNHwQrAlLSYweIBZUwciMCmLCOfgRbP05PAW0sXnGXV8kxAL3lRMXWM9JVEumFH1JrFhHkngc9X_lttioaOrIWQcxjFzQ0WcOCGFzJQO-5o2I0JcKKQlG9cyqo5NS8Z3RwDMPBIo85np-pFSKnm4PCdk5w61ppSiLdCc5uGKwdiRi3A590DgVukVe3LDN5z8nsxEWGMikdEmgdU7O_iwQ958INnLXZB7YlZ2YxcekY5ySRg5DvqD2I50hsfCM9h6A9uhKeJpFvp3XheaFoiAl3WdUPkwq7kV0B3o9jb3QbUskC1y2siPRFZvs-MdypD_RmFrVsXFlmhsY4FVbvGD5MQ1Ekle64sT9gI5xQ2x8SMQNz0z8kcfbUt7vFH3Bj4S7w5OVdeX8zXgObUbVoCZyc45k76e5b-_gJqpomXb8EVQXp_wCIf-n4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5X2SqHicHZJNbptAAIXV83QzwzD8dBcbMI4NxMAMP5tozGCDGWNssI19gS57hdRJKqW7ppW6zTXa09Tp-ntPn_T0vlzy8rc2DyLWHUZmMmVNN7tDk5FX3lQvzW7D91lX8l9QVlSgAARVLEEs6xhJ2kvGOiY2y5L_1BUNYYihrMtQ0xWoaPprkTMuyjr3Fot8Z2yykr9qWFJVVYIAQqTJSNLh93LNlvl_-u6QlStDUEdAlwDWJfi44-3D83af704_8np5za7zuvvYFmy5r5-XzbX38Lgu-dtjc-i-sqf9XuRvl6W4lPWlEJe8_rZhzWGR_f3w2dyOh8P9eDAjTUMNHwQrAlLSYweIBZUwciMCmLCOfgRbP05PAW0sXnGXV8kxAL3lRMXWM9JVEumFH1JrFhHkngc9X_lttioaOrIWQcxjFzQ0WcOCGFzJQO-5o2I0JcKKQlG9cyqo5NS8Z3RwDMPBIo85np-pFSKnm4PCdk5w61ppSiLdCc5uGKwdiRi3A590DgVukVe3LDN5z8nsxEWGMikdEmgdU7O_iwQ958INnLXZB7YlZ2YxcekY5ySRg5DvqD2I50hsfCM9h6A9uhKeJpFvp3XheaFoiAl3WdUPkwq7kV0B3o9jb3QbUskC1y2siPRFZvs-MdypD_RmFrVsXFlmhsY4FVbvGD5MQ1Ekle64sT9gI5xQ2x8SMQNz0z8kcfbUt7vFH3Bj4S7w5OVdeX8zXgObUbVoCZyc45k76e5b-_gJqpomXb8EVQXp_wCIf-n4"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkCo-8sZvfG8l3CUYiCURAy-dBuvZF3SPCKTaWNfcAloTy6_5W7TdiKw07SXqnZoXjzpH1iJZyaXf_axJHV_tsTqQIyafFhb03HsqB1DQ40rCrPvm3ymoT",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4b8x5xsTmPFzkiO8AVuEbaQJJ83n7ogM2g6qcqJfFImAWngTfKikrat0LiVmxj3utdwC1coGs3j0t6YDPlyI-m2_9Ke1NljtDow",
+      "source": "RamyaNagendra Imitations",
+      "title": "Engagement set(bridal)",
+      "price": "₹26,999",
+      "extracted_price": 26999,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "bsm9dXicHZLLbptAFIbV5-lmhuE23dkxY4NtMOCZsdlEw8WGAAOx8SV-gS77Cq2TVEp3TSt1m9don6a0i7M55_s_6Uj_p2tW_DLjkIvuOLbWM9F2_gJNx14xKF_aXZMekq5If0IT6Qo0kGGaEAOgGpqBXhLRiarZFukPZECIFVVDJtSRAqBq6q95JtKqkJm32WS7UZP0mGFqyACGAnUTKRhgBeNvRS222f_zq6pATYUmNk0D9oOR8bhL95-f7w_Z7uF7Jrc9WWeye7_PxfYgn7ftvxQCWMO9TzMVHWuKocHHukjfHttj90U8HQ5V9nbdVtdCXvPqmsmvjWiPm-TPu4_WvX1zc7CHPm1bNgpAiNrSnQxOASAR41Gz5m3_H6Er4IzCZTSLUXSXVBVKx8zntO0yEqmicu9iGbC4Tkcei3J6yStWn1FIczCHbeQr7g2znHbJHD5jrHYB2WUyWPCS6XzkWiEhXrhq0ZyrDwmhpzmKaASJndT4gUpnQblTJyWzuKWtwwtpY0aoCyO_d1nJOBdzOFeDcQKyCRMBcbjHhqXHmONWrh2XqsIokcJqYL-POMOVL13h1sklKQkVl-pIL249W63BEqVS9F5XNqf4LlGC1VBbykh1gamFVeDNOfY4J50f2Ctv7CyZQkBapoTTc55MgoCO3FkAcOvzvbBLYiXI1qIqUFeXaupKJwhp2oTjswiXQ8joWSYTZxLV-BAz6-m8321-gwHRutBTt4vidmDXYCKYke8pnF5WvjvtbveT0wfYt0_RoQ4NHeG_0v_smg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bsm9dXicHZLLbptAFIbV5-lmhuE23dkxY4NtMOCZsdlEw8WGAAOx8SV-gS77Cq2TVEp3TSt1m9don6a0i7M55_s_6Uj_p2tW_DLjkIvuOLbWM9F2_gJNx14xKF_aXZMekq5If0IT6Qo0kGGaEAOgGpqBXhLRiarZFukPZECIFVVDJtSRAqBq6q95JtKqkJm32WS7UZP0mGFqyACGAnUTKRhgBeNvRS222f_zq6pATYUmNk0D9oOR8bhL95-f7w_Z7uF7Jrc9WWeye7_PxfYgn7ftvxQCWMO9TzMVHWuKocHHukjfHttj90U8HQ5V9nbdVtdCXvPqmsmvjWiPm-TPu4_WvX1zc7CHPm1bNgpAiNrSnQxOASAR41Gz5m3_H6Er4IzCZTSLUXSXVBVKx8zntO0yEqmicu9iGbC4Tkcei3J6yStWn1FIczCHbeQr7g2znHbJHD5jrHYB2WUyWPCS6XzkWiEhXrhq0ZyrDwmhpzmKaASJndT4gUpnQblTJyWzuKWtwwtpY0aoCyO_d1nJOBdzOFeDcQKyCRMBcbjHhqXHmONWrh2XqsIokcJqYL-POMOVL13h1sklKQkVl-pIL249W63BEqVS9F5XNqf4LlGC1VBbykh1gamFVeDNOfY4J50f2Ctv7CyZQkBapoTTc55MgoCO3FkAcOvzvbBLYiXI1qIqUFeXaupKJwhp2oTjswiXQ8joWSYTZxLV-BAz6-m8321-gwHRutBTt4vidmDXYCKYke8pnF5WvjvtbveT0wfYt0_RoQ4NHeG_0v_smg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTsaUjjaGTJj-dg2DuksRIApopAwLS75FJmkF_IX4UYu2SUV8LJGbs615fM9sgUySVp6EfKGLGk7FGLuvxnxWD5_4eY0rZw4wHhYe--E_o",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSE0KMNvacIy8OpheKXk-7YnG6GHMyK6E-24V8pyctiI3Yaq-g1zgutcfq89LTUaPjukuRbQpmfGdge19Hi5RpNyVwe93N5NkkFchQ",
+      "source": "Shagu's Jewellery",
+      "title": "Enthralling Emerald Dulhan Set [Click inside image for HD quality]",
+      "price": "₹14,200",
+      "extracted_price": 14200,
+      "immersive_product_page_token": "WZzOFHicbY3LcpswAEWn39ONJAw23YXwsOMgggwCa5MRIB6OeMRgG_sn-gupk3Qm3bVddJvfaL-mnum2q7s458z9fBbVr1myiviwd6z1Le8G_05ZOl519fDWbdtslw5V9hPpCppAHSGkQnWmadMpeEv5wGVbVNnTj1LwTFaN8PJcbM02_X_xrap5If5hqGqKCjT9MnCmqcoEwedt1j-9Pu7E9vhdNMVFrUUzfOxLXuya16K7ZE_PdZW9P3f74Qt_2e2keD8X8lw151KeRfO15d0-T_982Fjt4fq6Pxh-2HXUJGAl16PYMCuy8LCCtsUDqrlQPxBQHjOo19S090nE4mzOJszBThKyhftQtitTboOY9oTeqIGDR78eeqKwnDhymaADjJobJaSd4tk2wg2z8ImtEzT23CwXrGFI1JlHgNqJTVYltVykMdmIcLylEW6xglUcjpVb6wa27Zw7xE2dMsJzHFKEK9fEdyE1xgAaqxSmYwJtRihxaW3BsCZBYspTBuQjCVKAKVUDgHO8MTzXYYGgpUciiWgt55f_SQIAdGt8tMp0spY4XscEEUBZ4NiHzLZ9FwzzAEmDj23lh-SUbmQdxmSJzfLGl6XPImImtg0w6FB4cZOmPGLFAL7_Mvbb_De4stVh5U2Ku-r-alGDOafTsg_h8hT7eDnc9_PDJzidzZAGNTjVFP0v8aramg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WZzOFHicbY3LcpswAEWn39ONJAw23YXwsOMgggwCa5MRIB6OeMRgG_sn-gupk3Qm3bVddJvfaL-mnum2q7s458z9fBbVr1myiviwd6z1Le8G_05ZOl519fDWbdtslw5V9hPpCppAHSGkQnWmadMpeEv5wGVbVNnTj1LwTFaN8PJcbM02_X_xrap5If5hqGqKCjT9MnCmqcoEwedt1j-9Pu7E9vhdNMVFrUUzfOxLXuya16K7ZE_PdZW9P3f74Qt_2e2keD8X8lw151KeRfO15d0-T_982Fjt4fq6Pxh-2HXUJGAl16PYMCuy8LCCtsUDqrlQPxBQHjOo19S090nE4mzOJszBThKyhftQtitTboOY9oTeqIGDR78eeqKwnDhymaADjJobJaSd4tk2wg2z8ImtEzT23CwXrGFI1JlHgNqJTVYltVykMdmIcLylEW6xglUcjpVb6wa27Zw7xE2dMsJzHFKEK9fEdyE1xgAaqxSmYwJtRihxaW3BsCZBYspTBuQjCVKAKVUDgHO8MTzXYYGgpUciiWgt55f_SQIAdGt8tMp0spY4XscEEUBZ4NiHzLZ9FwzzAEmDj23lh-SUbmQdxmSJzfLGl6XPImImtg0w6FB4cZOmPGLFAL7_Mvbb_De4stVh5U2Ku-r-alGDOafTsg_h8hT7eDnc9_PDJzidzZAGNTjVFP0v8aramg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQiGKqn-mGBZOIG6YFEqHHuPSojIt5n-5ZgL30Qcf6hkaPcIHAsRxBsHUYoScqvQxvYDsNfDpxeao5FeGLTudHRphyP_BaGH6pLSwuvtj6y",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSU2MPMyZN15rXwdJvew-Rv6-V_8w3mhMKGPGvc2wQZnqH6XZFUI9VX1JAUrIij4PcJg01vu4sVW57WR03sfN3pfMzaKDc",
+      "source": "Pataaree",
+      "title": "Surkh Shagun Set",
+      "price": "₹58,000",
+      "extracted_price": 58000,
+      "immersive_product_page_token": "-2U7GnicJc1JcptAAAXQynmy6YExO8sCNEJo6G6JjatNI8BqEJJasswFsswVEtlOlbPLUJWtr5GcJkpl_d___-O5qH85twkX-hh4y5nodPweT4Oovlq_dLuNPOS6lj9MG0DHcA2IXdcxsWnZzksutFCbspY_oWmgi3DBBQEXGgaC4HtVCKnqtohWq2I33OSXFYwtF2AHGpaLIbBsZJtf60aUxf_YARDbCLjIQbbh2JcX43En95-et4di9_CtaMsLbYpWv91Xojy0z2X3r3bBEFvYNEzkXkaBZViPTS1fH7uj_iyeDgdVvJ5Lda7bc6XORftlI7rjKv_z5oO3HV9fH8aDmHYdGxKQUL-m_dyMaTZNemkRdGJsWIIYkXaBZZRQhqJUBYSTTc6zOaXOwy2aVDldowyRBQHqfsb9QXZXJcKvZgntrBTpJIUeFIEcLvHgOgpObcqzgaDGKYZyw7wKZwmczD2plkCZOQ_9W0B2sslGpA-PRQMfkl5tSTo5ZoHZiyb0i4CA-do8krbSIdJZ6G00Zf6K-eEi4mSRBz6X4B7P01xz6sY0cGcCxD1X7C5d62rJPRA2BJC7MMpxxQuPIYG7XZKOdcSlwbi2Ukju55jURA2ghF7PGsWSNtfZabyIgknKkA_kWvqcnqp8RAgdhjMC3C7mezFe-16Ox2amvD5VWZuy8ERBtSVUDQSAjHgmWYDSZJwcM5Q_nfa71W9w5Zs6iYzyfX1zNW7ASDC72lM47RdxONU3-9H9O2g7DrKgBW0Lu38BykHsVg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-2U7GnicJc1JcptAAAXQynmy6YExO8sCNEJo6G6JjatNI8BqEJJasswFsswVEtlOlbPLUJWtr5GcJkpl_d___-O5qH85twkX-hh4y5nodPweT4Oovlq_dLuNPOS6lj9MG0DHcA2IXdcxsWnZzksutFCbspY_oWmgi3DBBQEXGgaC4HtVCKnqtohWq2I33OSXFYwtF2AHGpaLIbBsZJtf60aUxf_YARDbCLjIQbbh2JcX43En95-et4di9_CtaMsLbYpWv91Xojy0z2X3r3bBEFvYNEzkXkaBZViPTS1fH7uj_iyeDgdVvJ5Lda7bc6XORftlI7rjKv_z5oO3HV9fH8aDmHYdGxKQUL-m_dyMaTZNemkRdGJsWIIYkXaBZZRQhqJUBYSTTc6zOaXOwy2aVDldowyRBQHqfsb9QXZXJcKvZgntrBTpJIUeFIEcLvHgOgpObcqzgaDGKYZyw7wKZwmczD2plkCZOQ_9W0B2sslGpA-PRQMfkl5tSTo5ZoHZiyb0i4CA-do8krbSIdJZ6G00Zf6K-eEi4mSRBz6X4B7P01xz6sY0cGcCxD1X7C5d62rJPRA2BJC7MMpxxQuPIYG7XZKOdcSlwbi2Ukju55jURA2ghF7PGsWSNtfZabyIgknKkA_kWvqcnqp8RAgdhjMC3C7mezFe-16Ox2amvD5VWZuy8ERBtSVUDQSAjHgmWYDSZJwcM5Q_nfa71W9w5Zs6iYzyfX1zNW7ASDC72lM47RdxONU3-9H9O2g7DrKgBW0Lu38BykHsVg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSnuS9XWsBWxMMFcJQ2rIYuOn7KEB9KfPo4eDm6MRs3g4lcx75IThXTRm388v5yQZXdtmYL0WYrON5RSSpzDlkDgmm8UDcaywFxet6-JZM",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS2zhUmyEUSAcU1eSGKONGMCGvrHhQbkdJHyhIBAklQpnkcKRRu7d9nqiMv_LdbUw2DwIkRO1HXRzTLbEgxTQhZ3n3CDrpM9l3PGPkmz4COOg",
+      "source": "Studio Iris India",
+      "title": "Shagun",
+      "price": "₹70,500",
+      "extracted_price": 70500,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "ZENCkXicHY5NcpswAIWn5-lG4keG7uIYYbAtG4HAZpOREUYUGWMb_4QLdNkrpE7SmXTXpjPd5hrtaep2_b33vff5kpe_rGWY8PboOosxb9pgpo_caXlTvTS7jThkbSl-QmCYQLMNW7d02zQQ0nvoJeMtV5uiFK8QIqRBwwY9Gxo6AgjCHzLnQpV1Pl2t8t1gk_2zWMaVop5hWIYJDcO0e_q3cs2L_D9_1TRkAc20TGRqCNjoOvi4E_uH5-0h391_z-viGl3ndft-L3lxqJ-L5lp7eFyX4u2xObZf-NPhoPK3S6EuZX2R6pLXXze8Oa6yP-8-OVvv9vbg9QPWNPGAgnCOZ5SZ0xSoUmC6n7jCJ9AfMU2SlNEdGcohrXxK1_S8rNrxOO4Hk8QCfK6iCFOfxH7JYUMDzR4vO7mNY1ULB85Ch7hpLAAZ9LXkY1oFrDgJNwZzEJuL2sfClVsKLcCAaFjSjHJlE1aJU7bG40hrV6ySXLj-MYT4-svr6FDoLIqjZb24J53c5ImvhTXuImAzgTfdQk_1rMtO2ZyBdCCboJOrKIqrxUcapiG4D7EfTdzUDzTBaSeOkSL9yI0nwk37QYJ1hv2FwNKNB3JA1QKmjnLDiGy4jr307M2nrh_FGgaiEjhhZ5kNKWUDMqbAboJkz70KO5numanyWgrUjnTEm7i-x7EKAn1yEpVnJA4tJwnx6TB7Ou93q9_gBpttODWKWXl3463BkMc9uWdw1M0DMmrv9sPTB9izLA1BBHtIt_8CX4Lo5Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZENCkXicHY5NcpswAIWn5-lG4keG7uIYYbAtG4HAZpOREUYUGWMb_4QLdNkrpE7SmXTXpjPd5hrtaep2_b33vff5kpe_rGWY8PboOosxb9pgpo_caXlTvTS7jThkbSl-QmCYQLMNW7d02zQQ0nvoJeMtV5uiFK8QIqRBwwY9Gxo6AgjCHzLnQpV1Pl2t8t1gk_2zWMaVop5hWIYJDcO0e_q3cs2L_D9_1TRkAc20TGRqCNjoOvi4E_uH5-0h391_z-viGl3ndft-L3lxqJ-L5lp7eFyX4u2xObZf-NPhoPK3S6EuZX2R6pLXXze8Oa6yP-8-OVvv9vbg9QPWNPGAgnCOZ5SZ0xSoUmC6n7jCJ9AfMU2SlNEdGcohrXxK1_S8rNrxOO4Hk8QCfK6iCFOfxH7JYUMDzR4vO7mNY1ULB85Ch7hpLAAZ9LXkY1oFrDgJNwZzEJuL2sfClVsKLcCAaFjSjHJlE1aJU7bG40hrV6ySXLj-MYT4-svr6FDoLIqjZb24J53c5ImvhTXuImAzgTfdQk_1rMtO2ZyBdCCboJOrKIqrxUcapiG4D7EfTdzUDzTBaSeOkSL9yI0nwk37QYJ1hv2FwNKNB3JA1QKmjnLDiGy4jr307M2nrh_FGgaiEjhhZ5kNKWUDMqbAboJkz70KO5numanyWgrUjnTEm7i-x7EKAn1yEpVnJA4tJwnx6TB7Ou93q9_gBpttODWKWXl3463BkMc9uWdw1M0DMmrv9sPTB9izLA1BBHtIt_8CX4Lo5Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSTwc8VVn_RMNwQjq9uAzjX8mMMb34W9gFgBW_7r7phaEol15ZbwkxPA8PFgX2EN1YDjijId7WZ_I39U6kfykqBK0ZgIOxR8NWnpTxNRywQdboyjDbZADDf",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ2D8cjufXytgiF_YKxtrP-b91ctI4wkcg54BmYB4fwMLIKkLrPabmXgwofEjiTHEfbUEiWkdw2YWxOcfePYMe-7FDhl0G8gJ6-JPz7",
+      "source": "Sri Anu Jewellers",
+      "title": "Peacock Ruby Emerald Nagas Work Bridal Necklace – Sri Anu",
+      "price": "₹53,220",
+      "extracted_price": 53220,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "vDcGqHicJZBJjptAAEWV82RTVczZuc3o2LgpoMDsMIWZylBtsA2-QJa5QuLujtTZZZCy7Wskp4mjrP_T1_v_4zWvfqlbP0qHk2VslikfvHvhvbWuZs0LP3T0mA0V_QkFADQkqKoqipogQVWWtZcsHVLWFRX9IQAFIUmEUFGAIspQUNTvZZ5SVrX5erfLD3qX3TBJUkUFqJKIFAQkDQCEvlb7tMj_x6omqIqqKYImAxFKECLt8UD7T88Px_wwfcvb4obu83Z425dpcWyfC579c4OirMiCqEgIqCqQNahqj_uKvj7y0_A5fToeWf56Ldi1aq8lu-btly7lp132580H48GZz4_OnRdyTnQMfKCRyO7g1hjnxBowrmfSSnBP2X41RtEZEMSm0CImJfwSBImO95Kf1zjOY5MnzWjjxrzLSOlj1IuJxdCGsXHb0HiDmEHN8rwOC0T2EBKrmLLgzl6GWh8Dfo7BOPf20iKBi4Y0A8iNsvYg42kEV9Qwu7WZobSldmA300pnVnZxBWqX7raltY_4xQ_KHiNyCepFG8Xm4Osu8BDcJbV7SK0MYIHLQVjaqVAit8FibpE-s5K5F7EmBPywMnCbNbRbR9JtlzkRnfYErMTMKu8TS5ywsUhSi1Xk4gh0dOK1tQgIMgFtqBmFY5nZGIe6u8RA417Up05jGpngSAlz202wGYOY1JuG336UHBokUwrx2ZvgfYAYTBrjaewPu99gZkqDv1YGDrVbt730yBrNWK134Z0DIW02xTuoqCqSoQwVWUR_AfkR7gY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vDcGqHicJZBJjptAAEWV82RTVczZuc3o2LgpoMDsMIWZylBtsA2-QJa5QuLujtTZZZCy7Wskp4mjrP_T1_v_4zWvfqlbP0qHk2VslikfvHvhvbWuZs0LP3T0mA0V_QkFADQkqKoqipogQVWWtZcsHVLWFRX9IQAFIUmEUFGAIspQUNTvZZ5SVrX5erfLD3qX3TBJUkUFqJKIFAQkDQCEvlb7tMj_x6omqIqqKYImAxFKECLt8UD7T88Px_wwfcvb4obu83Z425dpcWyfC579c4OirMiCqEgIqCqQNahqj_uKvj7y0_A5fToeWf56Ldi1aq8lu-btly7lp132580H48GZz4_OnRdyTnQMfKCRyO7g1hjnxBowrmfSSnBP2X41RtEZEMSm0CImJfwSBImO95Kf1zjOY5MnzWjjxrzLSOlj1IuJxdCGsXHb0HiDmEHN8rwOC0T2EBKrmLLgzl6GWh8Dfo7BOPf20iKBi4Y0A8iNsvYg42kEV9Qwu7WZobSldmA300pnVnZxBWqX7raltY_4xQ_KHiNyCepFG8Xm4Osu8BDcJbV7SK0MYIHLQVjaqVAit8FibpE-s5K5F7EmBPywMnCbNbRbR9JtlzkRnfYErMTMKu8TS5ywsUhSi1Xk4gh0dOK1tQgIMgFtqBmFY5nZGIe6u8RA417Up05jGpngSAlz202wGYOY1JuG336UHBokUwrx2ZvgfYAYTBrjaewPu99gZkqDv1YGDrVbt730yBrNWK134Z0DIW02xTuoqCqSoQwVWUR_AfkR7gY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQA-R_93T-5Rj7NGvsAlui1s1k9N9qLYG2Ak9WvYAKB6yP2-eSYqxTaFPzrUk5eDfO6lniayEucLFBcHWSfZu6Aif3WPBK7JTWPfel0BNWYZ33ikQF_V-Y2",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyyG1lO7qTAV5dYSuMX_fw6ngOl-dCg7lFZg1OEjwVHdlHWYr96joWUq6pxFSjpNLIuC20IdNxeoTisXQk5YD73A4QOUk68SE3",
+      "source": "Queen's Couture",
+      "title": "Earthy Grey Gown for Reception",
+      "price": "₹68,900",
+      "extracted_price": 68900,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "sJnmjnicNZJNctpAEIUr58lmekZ_k535EQaMZA3S6GcnZoQkNIgJFgS4RK6QYDtVzi52qrLNNZLTRJtsu7_X772q_nwt6l_Oahnn3XEyTu9y3QX3ZD7x65vmRe938iC6Wr5iYmNqURNbDkUUbGy_iLzL1a6s5RuAjYjjUGxZQDAiBoLXqsilqtvCX6-L_WgnavkTsA090qtt03FM07Ed8r3e5mXxf497B2IalBITTNKzzuNePnx5_ngo9ucfRVv27LZou_cPVV4e2udS97o3bBi2ZVNkYGzbjo0Mx3zc9plN2zIsbIJFHQqIUtN61Mfua_50OKji97VU17q9VupatN92uT6uxd93j-O9GA6PYhBEWvMRQ6GrDd-lbZZ4XdBIFZB-uhHgRd7A24K3aLLjMnFZjjIjSKrzKqpY0ZhzTzGd4U5n4Nb5mA7FRk5TkJm3BDfguvFD-cnj3OdDOEtSqUjJ0I9nc3apBgEp8YpnrQgHwyV4yQrUlCnu5rE-RERceDLDQZOavjsYyzG1xIVNM8LrEM90oPRItNqPNzen-FZc8rY8ByoL4m03Z0SzPv9ghfhCkpSEoMIUOcifOBBGJzMMs1nvmbAzbOWtxgnsSNj3yyZ8nqCgS2P3FGCl4pEX8VGJlnyKBFJnEc8ObOuqgGf3YVOxMIK1d4Z0OWYpZ9PEn8xCjl0kG-nG0akSt4xFI--OIaqD-CGfNu5YkKmZKXaKJ-qS8cFuQWZpAhkJtw1EE46KcAGi0eAR8XR62K__oBvX7Ja-3Wmg_e3bu4D7-EZtRrtoMAWQTVp-ANtxsAUW9I-A_wHBCPgH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sJnmjnicNZJNctpAEIUr58lmekZ_k535EQaMZA3S6GcnZoQkNIgJFgS4RK6QYDtVzi52qrLNNZLTRJtsu7_X772q_nwt6l_Oahnn3XEyTu9y3QX3ZD7x65vmRe938iC6Wr5iYmNqURNbDkUUbGy_iLzL1a6s5RuAjYjjUGxZQDAiBoLXqsilqtvCX6-L_WgnavkTsA090qtt03FM07Ed8r3e5mXxf497B2IalBITTNKzzuNePnx5_ngo9ucfRVv27LZou_cPVV4e2udS97o3bBi2ZVNkYGzbjo0Mx3zc9plN2zIsbIJFHQqIUtN61Mfua_50OKji97VU17q9VupatN92uT6uxd93j-O9GA6PYhBEWvMRQ6GrDd-lbZZ4XdBIFZB-uhHgRd7A24K3aLLjMnFZjjIjSKrzKqpY0ZhzTzGd4U5n4Nb5mA7FRk5TkJm3BDfguvFD-cnj3OdDOEtSqUjJ0I9nc3apBgEp8YpnrQgHwyV4yQrUlCnu5rE-RERceDLDQZOavjsYyzG1xIVNM8LrEM90oPRItNqPNzen-FZc8rY8ByoL4m03Z0SzPv9ghfhCkpSEoMIUOcifOBBGJzMMs1nvmbAzbOWtxgnsSNj3yyZ8nqCgS2P3FGCl4pEX8VGJlnyKBFJnEc8ObOuqgGf3YVOxMIK1d4Z0OWYpZ9PEn8xCjl0kG-nG0akSt4xFI--OIaqD-CGfNu5YkKmZKXaKJ-qS8cFuQWZpAhkJtw1EE46KcAGi0eAR8XR62K__oBvX7Ja-3Wmg_e3bu4D7-EZtRrtoMAWQTVp-ANtxsAUW9I-A_wHBCPgH"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZS_GbzyJIUpFq-vOqUb5T8rmefCpogoiIaVBfsg_-mX-Jdprx4XMOXmWFj8x5vy7yAvI23LSqys5KA09v9lNH4QkFKH1iUbr7K0KaQu4Zq_uid-VS-Ho_",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTRHvTRYKa0uFYuJ5FQnPZapv9BNUIBlsUqJ6140G0-bx-oNNZm9PCreHVX2M2q3xy27cKh6ugo6uU-wIlffOAltbaEQw-j",
+      "source": "AuGrav",
+      "title": "The Glamorous Ring For Engagement",
+      "price": "₹38,313",
+      "extracted_price": 38313,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "G3M69HicLZLJbtswAETR7-mFFEktvTnR4iWmLGqhzUugzZIiaoktO7Z_or_Q2kmB9NYF6LW_0X5NXbTnmXmYAeb9Oa9-6InP42HvWKu7uB-8BZo5bjWqX_tNl-3Socq-QwBUXUXYgBpRMSREQ8prGg-x7Ioq-2boOlRUiKGKgUE0rGH4tczjTFZt7q7X-cbs0r8UeAUQQyNYVTUIFUyA9rlq4iL_r6NrXsUIK7oBAIKqgbTLJtt-eHnc5Zvjl7wtrt4mb4e32zIudu1L0f_j6gTq0CAKwbpmEKJj_dJU2c9Lvx8-xs-7ncx_ngt5rtpzKc95-6mL-_06_f3mYm3S29t9euOFfR-ZDPio7AKb0symgjtyzeuDmJ_Ek9dkYq7QB-4YRw_1MbNSmLc3E98coZjLKl2WfdLSkKJ-vpI36whR4Sli4jrwFCnQDxr6yKAE_rgXoZSR7zwduYyCO06mPmfB6mE0MG7DaFk6qTKUYWBhGqwws6fLhHdKDEvucUpoPR0yxQZLRMPEpJ2vRJ4YF6cMCBw62WPSUNN1qOOfVkpm97u0tkkiBUtqWPoKnTOUua7FJn5Y0ohjFFrGOjpRkY3tSDjCT8wahKYNcjPqmDXMkge2SJD0AjD44Wm6j8FwFDBa5FbPuSyw13bHFAjXDcVYNIctY5Ol60yD6NoxqzObh4cyHTMWmvSOAaP3-Dae1LaVogkR0o6Dmt3kVgQDcO0-nivhEU7nnF13GdbqJBvmpM-H7Wb9C4xsMvguLhbV_WjSgHEcaeU2hLPT0qOz4X47fnoHNV2_3lCFmoqMPwCt9jk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=G3M69HicLZLJbtswAETR7-mFFEktvTnR4iWmLGqhzUugzZIiaoktO7Z_or_Q2kmB9NYF6LW_0X5NXbTnmXmYAeb9Oa9-6InP42HvWKu7uB-8BZo5bjWqX_tNl-3Socq-QwBUXUXYgBpRMSREQ8prGg-x7Ioq-2boOlRUiKGKgUE0rGH4tczjTFZt7q7X-cbs0r8UeAUQQyNYVTUIFUyA9rlq4iL_r6NrXsUIK7oBAIKqgbTLJtt-eHnc5Zvjl7wtrt4mb4e32zIudu1L0f_j6gTq0CAKwbpmEKJj_dJU2c9Lvx8-xs-7ncx_ngt5rtpzKc95-6mL-_06_f3mYm3S29t9euOFfR-ZDPio7AKb0symgjtyzeuDmJ_Ek9dkYq7QB-4YRw_1MbNSmLc3E98coZjLKl2WfdLSkKJ-vpI36whR4Sli4jrwFCnQDxr6yKAE_rgXoZSR7zwduYyCO06mPmfB6mE0MG7DaFk6qTKUYWBhGqwws6fLhHdKDEvucUpoPR0yxQZLRMPEpJ2vRJ4YF6cMCBw62WPSUNN1qOOfVkpm97u0tkkiBUtqWPoKnTOUua7FJn5Y0ohjFFrGOjpRkY3tSDjCT8wahKYNcjPqmDXMkge2SJD0AjD44Wm6j8FwFDBa5FbPuSyw13bHFAjXDcVYNIctY5Ol60yD6NoxqzObh4cyHTMWmvSOAaP3-Dae1LaVogkR0o6Dmt3kVgQDcO0-nivhEU7nnF13GdbqJBvmpM-H7Wb9C4xsMvguLhbV_WjSgHEcaeU2hLPT0qOz4X47fnoHNV2_3lCFmoqMPwCt9jk"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQC7GqX6pp7SJSjKY0uNDClzIlL-Lqr8FcG6Rse-GARFyHHpOgOCc-65gTTA-eiYHZalYxqz0e5msLC5Aa8_0qLSKsHdA50ys5h8nWOWPtlVgnU6pUkfLKJ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSULmNfWXiuj0uxgJlMs46pqu1p1ZsElpeMSgmm1ICMbDuzZ8FlpAdB0U7GM5o1k86jqoHW93qTAhw4w7UCJSZ1SpddiyOYhw-OTZUj-acY",
+      "source": "Madanji Meghraj Jewellers",
+      "title": "Shagun Ring 18k Yellow Gold Split Shank Diamond Ring",
+      "price": "₹1,28,267",
+      "extracted_price": 128267,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "SJiGAHicJZJLktowAEQr58lGH3-zGwZswwwilm3ZeJMSkkHGstGAYRgukSskMJOqZJdPVba5RnKakMqqF6_r9abfn6v6p7dIct4fwtH8nps-fovvwll903w2243ci76WP6ALfA84LrY9FyHkA9-1Pwvec71Z_cPYszH0oAMtD2ALeD62v6mKS1131Wy5rLbDjajld8_xoOt72MWeg_yrw_O_1C1fVf-xDSFGNkTQuvp9jH3Hu2zl7sPLw77aPn2tutW12lZd_3qn-GrfvayM-LduAQfZyMEAWTawLQQc-9LW8tfFHPqP_Hm_19Wv80qf6-6s9LnqPm24OSzFn1eX0Vbc3h7EIM6MYUMKElZu4kZdUyoBiZVmslvkfZsNgzQfNlbeBDwLVcRxjBNcBiwcPy7g4CFDUMeI3LNUb6agXFasATEj4xTokLIgmhYZmIaQiIY9UGYo7cxhziZJfIrtpJFtOaJpjJUiiEZJSAumB2nVmFOJaB-vSV6ty3mKbJBkRk_XcyRGwaAMzTQ-0VYEZB8XZio72fBU9aWW2SIlhSwmu6xQEcMxpE2ApgV5Eiwo-dUjGlPPtaZ5wbazYFAsQjknSJo4n9A8IE_VWpGU0Uka6eNsOIUymGjWUVKcaMpHxzbOdJ8UZp1mBMxy0yettElAND-Oi1k4SRkKgGxkkGdHJSJKsyG5p8C_-nd83AQjgcd2qcePolW3MteYnCZLAsqGZOqYa12ysMxmhVKLSDwfd9vlb3AT2H0ys1Zv63c34xZEnLlql8G7UxGTu_7dLnp8A13PQ871hK6D_b8gzfkT",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SJiGAHicJZJLktowAEQr58lGH3-zGwZswwwilm3ZeJMSkkHGstGAYRgukSskMJOqZJdPVba5RnKakMqqF6_r9abfn6v6p7dIct4fwtH8nps-fovvwll903w2243ci76WP6ALfA84LrY9FyHkA9-1Pwvec71Z_cPYszH0oAMtD2ALeD62v6mKS1131Wy5rLbDjajld8_xoOt72MWeg_yrw_O_1C1fVf-xDSFGNkTQuvp9jH3Hu2zl7sPLw77aPn2tutW12lZd_3qn-GrfvayM-LduAQfZyMEAWTawLQQc-9LW8tfFHPqP_Hm_19Wv80qf6-6s9LnqPm24OSzFn1eX0Vbc3h7EIM6MYUMKElZu4kZdUyoBiZVmslvkfZsNgzQfNlbeBDwLVcRxjBNcBiwcPy7g4CFDUMeI3LNUb6agXFasATEj4xTokLIgmhYZmIaQiIY9UGYo7cxhziZJfIrtpJFtOaJpjJUiiEZJSAumB2nVmFOJaB-vSV6ty3mKbJBkRk_XcyRGwaAMzTQ-0VYEZB8XZio72fBU9aWW2SIlhSwmu6xQEcMxpE2ApgV5Eiwo-dUjGlPPtaZ5wbazYFAsQjknSJo4n9A8IE_VWpGU0Uka6eNsOIUymGjWUVKcaMpHxzbOdJ8UZp1mBMxy0yettElAND-Oi1k4SRkKgGxkkGdHJSJKsyG5p8C_-nd83AQjgcd2qcePolW3MteYnCZLAsqGZOqYa12ysMxmhVKLSDwfd9vlb3AT2H0ys1Zv63c34xZEnLlql8G7UxGTu_7dLnp8A13PQ871hK6D_b8gzfkT"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT45GhvXxuJyrmelGnvT615hUSXqnRygmUzdMI_Q51V36mLdj1CtNcu52PODNXRs0Kczx48VYt44WUL2Gt1PN0yw-9e6GVPKWz9rmp10AVL0eE1RlvQfCd7kw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSz7LPXcxmHtT4rdTzWn0wzl9CVRFXp-axJlo5EWFWs5H-mDmsH5bJLAY0PPF-TI27aHe4Ua6QhEaduu9dRCeQoPN9gGg",
+      "source": "Aikeyah",
+      "title": "Shagun Ghagra",
+      "price": "₹1,65,500",
+      "extracted_price": 165500,
+      "immersive_product_page_token": "Fwu4GXicbZI7cptAAEAn50mzLOhDOktiEUhaiWVZEI0HsQgQC6wFyBIXSJkrOLKdGaeLU6T1NZLTxJM69Xuve1-uSf5rvHP9qD2ZxnYZydbZqAtznd8UL_JY8y5uc_6qqOMBHOmqMlQUXdMAGLzEURuJOs35w2uWRFzkVbLe75PjrI7_G3zPyyhN_tGfEEB9DFR1CHVlpMMx0PTHI28enu-65Hj5kVTpu1omVfuxyaK0q55T-Z49PJY5f3uUp_Zr9NR1Inm7puKaV9dMXJPqWx3J0z7-8-GzcWdNp501cTwp2YwAt5QaNS24NlsZKpPOOQhtB4VHlfGZmthxAg5XMBsSGuaksoe7issV5D4X8YVR0lOQEW7yZUzZJmJsQM3wtC3I3kfCDJGwCMAzBu0NRzbYUVsLoI4jRhw2Sy8UkdYp2DmqJh3x5CQ0uLtkSCMIL_FBUI8yc21gin2mbIta3QViQQr9khi2xIZsfM-D_mHSrMxYIb2lxvMJJLPMIQexDEteY5Pfeyg03J7fuz2qlhTVIUs1oqxgWIR4NQWtS5EkvkReUAMiJpsVYgErrcvWV0hiahfs44CfrWBt2pRBBHjBke-ds3hOiDfDSwJ06fhNZBXIiFVrEAq7co1W2_XCTg5i5lVkE_Zigf0V9EvU7xQbkyp-OjfH_W9wgwatu9bSTX57Y5VgHrFR1njKog8cvGhvm_n9J2U0HsPh-yqjoar_BYJh5GM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Fwu4GXicbZI7cptAAEAn50mzLOhDOktiEUhaiWVZEI0HsQgQC6wFyBIXSJkrOLKdGaeLU6T1NZLTxJM69Xuve1-uSf5rvHP9qD2ZxnYZydbZqAtznd8UL_JY8y5uc_6qqOMBHOmqMlQUXdMAGLzEURuJOs35w2uWRFzkVbLe75PjrI7_G3zPyyhN_tGfEEB9DFR1CHVlpMMx0PTHI28enu-65Hj5kVTpu1omVfuxyaK0q55T-Z49PJY5f3uUp_Zr9NR1Inm7puKaV9dMXJPqWx3J0z7-8-GzcWdNp501cTwp2YwAt5QaNS24NlsZKpPOOQhtB4VHlfGZmthxAg5XMBsSGuaksoe7issV5D4X8YVR0lOQEW7yZUzZJmJsQM3wtC3I3kfCDJGwCMAzBu0NRzbYUVsLoI4jRhw2Sy8UkdYp2DmqJh3x5CQ0uLtkSCMIL_FBUI8yc21gin2mbIta3QViQQr9khi2xIZsfM-D_mHSrMxYIb2lxvMJJLPMIQexDEteY5Pfeyg03J7fuz2qlhTVIUs1oqxgWIR4NQWtS5EkvkReUAMiJpsVYgErrcvWV0hiahfs44CfrWBt2pRBBHjBke-ds3hOiDfDSwJ06fhNZBXIiFVrEAq7co1W2_XCTg5i5lVkE_Zigf0V9EvU7xQbkyp-OjfH_W9wgwatu9bSTX57Y5VgHrFR1njKog8cvGhvm_n9J2U0HsPh-yqjoar_BYJh5GM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQV7emzJ7TAW3aPbZ5SaMvZtwmQfMATFTeKhsVLiE6kGZ_eCaO5w-E98UD4foVmxep_BcM0I8CSpeCdLS8ZY02FFdNElRVxDeXEXO82UcfIn0vqM13_wp3t",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRma5oUo0scBvT6gFTIAmXhXB6uYEx1QAWEhx5ggkF1Lr-xstrwQLmWyVpgYTqlceiwL-3IeZBt5urmbS3xTi3qg8LGyuY2MOuu",
+      "source": "CaratLane- A Tanishq Partner",
+      "title": "Lustre Solitaire Ring Diamond Engagement Ring",
+      "rating": 5.0,
+      "reviews": 4,
+      "price": "₹1,07,653",
+      "extracted_price": 107653,
+      "delivery": "Free delivery by Sun",
+      "immersive_product_page_token": "Gl8FU3icbZBNjts2AIXR83RDiqR-uhvbklzZkkaUSFraBDQpW7J-rLFlV2P0Dj1DPEmAdNekQLe5RnqSLjPINl281Yf3PeD9cS_rf-xtKuR49d18LYcxeUQrP64fmo_D6agvaqz1ZwvbxLKIaVoGwhbAhm19VHKU7XFf678hsOBrEAQAA2QhTDD5VJVSt3VfxrtdeVocVa0_GQSbhmUQhxjYNm1ggD_rTu7L7_SzSV7lDiIGsS2AMETYfjnp81fjcf7GNKADEDSwZQIAMTBN8_dHGi_e_D97_3QpT89_lf3-1d6V_fjzuZL7S_9-P3xf-rHx0tX6y8twHd_Kd5dLW36579t73d-r9l72H45yuO7Uvz_9517VfH5S84QNA19QkALnGPukZ7xwtTfkWwAbxaZLwo-E32aIGfkUdsFyi_ZjCEaRLqNOeg7JRYL1ZgZS2O4UCEzVBIvkEKRbV3PZcLTmVJTLIJVIEdYMjPvjmAJIGfz1JkTr5dwzIua5CZqNkThDudgTtuGFcsd5yioRoorHy-CacBqnbpSGtxmTXdCoPnApCgDzeK89NemFJ7fGcCmbIMqQ3oT-dFbNtKJ-lauFB4pueBKds8l4M9ENT7iYnjOBpxy1ftJRfwtbmPOHsYDUkIY7sq7AYePJHLRZIRyxQTQOQTVTKOpDEcQ5IJeUBVT6TpCJYa3ZYPLWOYhNJErhNJIXT9smvGlG5fYWXTK3XWaMJJkYfQ6GWhkkXHOnSniQR3476Uxfy85L5KEao2UbpBsa0Y1KvVtVM6grvSyWlLdh_vo14w-3FOhHybyTXwczuoyeY1GkvKcVgzkuBfwt6b1DtIgOyh_XIaIs9aNo6xWzd9P5tPsKHjwyprFVZ6eV23dreMvS0MQ4Xg0wOa4Sx05-gZZtGyY0oWVi8A24Hx2o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Gl8FU3icbZBNjts2AIXR83RDiqR-uhvbklzZkkaUSFraBDQpW7J-rLFlV2P0Dj1DPEmAdNekQLe5RnqSLjPINl281Yf3PeD9cS_rf-xtKuR49d18LYcxeUQrP64fmo_D6agvaqz1ZwvbxLKIaVoGwhbAhm19VHKU7XFf678hsOBrEAQAA2QhTDD5VJVSt3VfxrtdeVocVa0_GQSbhmUQhxjYNm1ggD_rTu7L7_SzSV7lDiIGsS2AMETYfjnp81fjcf7GNKADEDSwZQIAMTBN8_dHGi_e_D97_3QpT89_lf3-1d6V_fjzuZL7S_9-P3xf-rHx0tX6y8twHd_Kd5dLW36579t73d-r9l72H45yuO7Uvz_9517VfH5S84QNA19QkALnGPukZ7xwtTfkWwAbxaZLwo-E32aIGfkUdsFyi_ZjCEaRLqNOeg7JRYL1ZgZS2O4UCEzVBIvkEKRbV3PZcLTmVJTLIJVIEdYMjPvjmAJIGfz1JkTr5dwzIua5CZqNkThDudgTtuGFcsd5yioRoorHy-CacBqnbpSGtxmTXdCoPnApCgDzeK89NemFJ7fGcCmbIMqQ3oT-dFbNtKJ-lauFB4pueBKds8l4M9ENT7iYnjOBpxy1ftJRfwtbmPOHsYDUkIY7sq7AYePJHLRZIRyxQTQOQTVTKOpDEcQ5IJeUBVT6TpCJYa3ZYPLWOYhNJErhNJIXT9smvGlG5fYWXTK3XWaMJJkYfQ6GWhkkXHOnSniQR3476Uxfy85L5KEao2UbpBsa0Y1KvVtVM6grvSyWlLdh_vo14w-3FOhHybyTXwczuoyeY1GkvKcVgzkuBfwt6b1DtIgOyh_XIaIs9aNo6xWzd9P5tPsKHjwyprFVZ6eV23dreMvS0MQ4Xg0wOa4Sx05-gZZtGyY0oWVi8A24Hx2o"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSh9fI-t3o3rrE4QxmEKcKULO84JR_5-4lRekFT9iMd0RV6N4dzSIzObzgN9b4awInt6T_jslAHiIzpdSSqGiOjcBUrL7loUGDFEqb7ntsly75u4yLgwv-AEw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQyyG1lO7qTAV5dYSuMX_fw6ngOl-dCg7lFZg1OEjwVHdlHWYr96joWUq6pxFSjpNLIuC20IdNxeoTisXQk5YD73A4QOUk68SE3",
+      "source": "Queen's Couture",
+      "title": "Swarna Rajwada Lehenga for Reception & Shagun Navy Blue with Nakshi & Crystal Work",
+      "price": "₹98,900",
+      "extracted_price": 98900,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "y6ygpXicHZLNkppAAIQrz5MLM8Pwk9sqjsIqBHAG5TbMICIDsoou-hJ5hcTdTdXmlk2qcs1rJE8TKtfurq_70J9uefnLyuKEd-fpZD3nbRd-RPfToLyrXtvDXp5EV8of0AQIQt0yNMNEGCKsa6-Cd1zti8HVbQtjCwNkmpoBoWZr8G2bc6nKJg82m_zg7EUpfwITI2BhG0IDGgAhZFngW1nzIv_vvwEL6RbEWLd00wS2pqOngzx-fnk45YfL97wphmSdN93745YXp-alaP9TsY0RtqA-VA_TgK3b8KkecNg0dANiYNgW0AYmMJ7ac_eFP59OKv99K9StbG5bdcubr3venjfi77unyUGMx2cxCmnbMifSYiVh1nhnMWMgqsghr_F4MZE4isElckgyTwgMVftIk65nM7fjVxXzKr2yRl6oI2BALLCAruYTCqmz1sMliTNg9XO67iUjaoVUwqbpLHNkx1bMFxreBJN0Hk2ia7jy9svabxnyqmVtb7LVVl8n6hgr-xw50vVp-kAdf5SwEaVKerz29j71ae64j_EU3PtopOcsLZNVGi8mAMnZGtFZ0TGtVxL4SVarQJBRI7SWLWAfhcALRJLijNgBrwFIptgN0RpwjaTZlI0Xu20d7VJClQvjipVL6DVLVPXLXeQHE28c1-1GXtk9rYtLMrU5H4MH0burYOotGSSarCRJaL8Vsygads8jzW7D5MjdikwEcnGqPIdTdYkZoVlSdRFpN_5ujTOgDgJGu0F_zKB47o-HzR_tjuAuDsyuBfbAns1DFsA7tXP2dOQCIKt18QGYljUczQDDEeA_POz4mg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=y6ygpXicHZLNkppAAIQrz5MLM8Pwk9sqjsIqBHAG5TbMICIDsoou-hJ5hcTdTdXmlk2qcs1rJE8TKtfurq_70J9uefnLyuKEd-fpZD3nbRd-RPfToLyrXtvDXp5EV8of0AQIQt0yNMNEGCKsa6-Cd1zti8HVbQtjCwNkmpoBoWZr8G2bc6nKJg82m_zg7EUpfwITI2BhG0IDGgAhZFngW1nzIv_vvwEL6RbEWLd00wS2pqOngzx-fnk45YfL97wphmSdN93745YXp-alaP9TsY0RtqA-VA_TgK3b8KkecNg0dANiYNgW0AYmMJ7ac_eFP59OKv99K9StbG5bdcubr3venjfi77unyUGMx2cxCmnbMifSYiVh1nhnMWMgqsghr_F4MZE4isElckgyTwgMVftIk65nM7fjVxXzKr2yRl6oI2BALLCAruYTCqmz1sMliTNg9XO67iUjaoVUwqbpLHNkx1bMFxreBJN0Hk2ia7jy9svabxnyqmVtb7LVVl8n6hgr-xw50vVp-kAdf5SwEaVKerz29j71ae64j_EU3PtopOcsLZNVGi8mAMnZGtFZ0TGtVxL4SVarQJBRI7SWLWAfhcALRJLijNgBrwFIptgN0RpwjaTZlI0Xu20d7VJClQvjipVL6DVLVPXLXeQHE28c1-1GXtk9rYtLMrU5H4MH0burYOotGSSarCRJaL8Vsygads8jzW7D5MjdikwEcnGqPIdTdYkZoVlSdRFpN_5ujTOgDgJGu0F_zKB47o-HzR_tjuAuDsyuBfbAns1DFsA7tXP2dOQCIKt18QGYljUczQDDEeA_POz4mg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBtMRdCrMqeQ07xSybDrZ22xaJ74S8sPo2tfTlIPFNRkDuIhkkZXOuhKBSZ_VBMCnwqW574Pj-cuTZSc639fCQk7J_pjoQoI0Czf1c_MDBwOhdZjEAfBBc",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRjGdMpbbm0L4Q6OOAk_kQAEs2Z7WosDtjtleBBFbiEImq5-aOCtvQO_vwPvPBDraS1EeOD53Kuc32DEzBS7_UbVmWRI8RN",
+      "source": "qween.com",
+      "title": "Take a Bow Ring",
+      "price": "₹3,14,687",
+      "extracted_price": 314687,
+      "delivery": "Free next-day delivery",
+      "immersive_product_page_token": "aTrgYnicHZJNkppAAEYr58mGppu_7EalERSUBhpl19AoDA32IBr1AlnmChNnJlWTXX6qsp1rJKeJld1X9d7bfZ-vZf3bzKOUDUfHXs-ZHMIlnDmL-q55lf2OH4qh5j-BagGIFGhCC5oK0ExNeS3YwMRue6PIQoZuWopl6EA3AdJ180dVMi7qrlxsNmU_2RU3DapI01VFNQwEFICQCo1vdcu25X_8C-gKgpqGoG6ZKkCGBoD51PP948vDoezP38tue3Pbshve7yu2PXQvW3nrHp_amr89yePwhT0fDqJ8u27Fte6ulbiW3dcdk8dN8ffdJ_vBHY8P7ihMpKQTokSt3ETTwMs7L0xivmE2aIKUL8IEzGlbDTmuBJvgJaf2KXBOfXDbFFI3v1TpCjbnrOMBd7w0w6RjKSYRwBkBo0vR8VlmDzBvrXNAq5jcZ31hh5A1MvWFd84T4ZEUaL4gy8ixamKLyToRwofVNAR8ktoiKduhpvHITWA1jxqxK-AWBQmWkQ3EusUnMpUqV5WLDwQonAoGqtakjfAyIWecjtJYlXTd7GEek3Hc4WEF-HKt8jijpOZjgAplcEss_WSaHUpnaEIFd2Fz-uhTvM8FlWnsHf2G05C4q4XjxVTFCm84TpNTVUwJSSbBnCiWDNM9cxtsF9DVMoHvkwnBSRdAFlezNKmSnGYrvuKEpsCJxqAq2uL5tO83f5Q7rA3RwqjjfmZ37Rxc4sjXEVrMJAh3s9Ayww_AME31dihg6Ej5B64r6X0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=aTrgYnicHZJNkppAAEYr58mGppu_7EalERSUBhpl19AoDA32IBr1AlnmChNnJlWTXX6qsp1rJKeJld1X9d7bfZ-vZf3bzKOUDUfHXs-ZHMIlnDmL-q55lf2OH4qh5j-BagGIFGhCC5oK0ExNeS3YwMRue6PIQoZuWopl6EA3AdJ180dVMi7qrlxsNmU_2RU3DapI01VFNQwEFICQCo1vdcu25X_8C-gKgpqGoG6ZKkCGBoD51PP948vDoezP38tue3Pbshve7yu2PXQvW3nrHp_amr89yePwhT0fDqJ8u27Fte6ulbiW3dcdk8dN8ffdJ_vBHY8P7ihMpKQTokSt3ETTwMs7L0xivmE2aIKUL8IEzGlbDTmuBJvgJaf2KXBOfXDbFFI3v1TpCjbnrOMBd7w0w6RjKSYRwBkBo0vR8VlmDzBvrXNAq5jcZ31hh5A1MvWFd84T4ZEUaL4gy8ixamKLyToRwofVNAR8ktoiKduhpvHITWA1jxqxK-AWBQmWkQ3EusUnMpUqV5WLDwQonAoGqtakjfAyIWecjtJYlXTd7GEek3Hc4WEF-HKt8jijpOZjgAplcEss_WSaHUpnaEIFd2Fz-uhTvM8FlWnsHf2G05C4q4XjxVTFCm84TpNTVUwJSSbBnCiWDNM9cxtsF9DVMoHvkwnBSRdAFlezNKmSnGYrvuKEpsCJxqAq2uL5tO83f5Q7rA3RwqjjfmZ37Rxc4sjXEVrMJAh3s9Ayww_AME31dihg6Ej5B64r6X0"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How much shagun to give in a wedding?",
+      "type": "ai_overview",
+      "page_token": "XPOgB3icHdBRboIwAADQ7DJ-KhRwamKWqC3qhs5Ci_RngVZBaUudKODf7rJT7TRbdoD3876-5UmXP0_3oq7NdTIYNE3Tz6sql4c-r9QgvXaaD3gqZZbycjJ8HtovRz6Ft9VsflnNdsQYusBWqGAb67ViiHQMFJVYFpewhCCFxYU8YBvEIzcsG4_JzQr7jR0Tds3ODGJE3QSI96CsGffzVig0O-zzR3Be6wO0beqsACZtylXdMTWuEuDZBy3XW4LmCaVhUNoOO2NPWEYLMKqFw7bZn9ppVoWLpMtg0lEoCdVGUy3nqb9BmTKvCUEuBYWdxuMupEXEfePgJZNBKSwOPAwL7iZys0_2GGCLsshHjUBoF1j1MgJylrbVaUfwg5-lolDU2xjZcWneIp-1EWXHzEIqtNZR5BeYS3FjTe_I71On9_85_TiqemI-q_wX29KD3A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XPOgB3icHdBRboIwAADQ7DJ-KhRwamKWqC3qhs5Ci_RngVZBaUudKODf7rJT7TRbdoD3876-5UmXP0_3oq7NdTIYNE3Tz6sql4c-r9QgvXaaD3gqZZbycjJ8HtovRz6Ft9VsflnNdsQYusBWqGAb67ViiHQMFJVYFpewhCCFxYU8YBvEIzcsG4_JzQr7jR0Tds3ODGJE3QSI96CsGffzVig0O-zzR3Be6wO0beqsACZtylXdMTWuEuDZBy3XW4LmCaVhUNoOO2NPWEYLMKqFw7bZn9ppVoWLpMtg0lEoCdVGUy3nqb9BmTKvCUEuBYWdxuMupEXEfePgJZNBKSwOPAwL7iZys0_2GGCLsshHjUBoF1j1MgJylrbVaUfwg5-lolDU2xjZcWneIp-1EWXHzEIqtNZR5BeYS3FjTe_I71On9_85_TiqemI-q_wX29KD3A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzaGFndW4gdG8gZ2l2ZSBpbiBhIHdlZGRpbmc/IiwibGsiOiJHaUpvYjNjZ2JYVmphQ0J6YUdGbmRXNGdkRzhnWjJsMlpTQnBiaUIzWldSa2FXNW4iLCJicyI6ImM0WE5NUV9DSUJBRjRMamU1R0E2TU9oWmRUZjhBUVlYSFp3N1UzdUZHNkJKb2ZMM1JjSmtvcTczdm5jUDduQzZUZ25kOHJBWXJEYUx4emloNFNjaGU5U1lhQmpZR3lXUG9yWGZZV1Z3Zzdhem5JbmhNU0lIN0NsRUhLY1p5UnR0eUpHUFNoN0VQdjFUY0lGZFozV0o2MTVQbVJBNlBjLWNsWklvdHVrbmdUTTA1WW5PeDByZW0wSEpSbXctdWlWWXIxNCIsImlkIjoiZmNfOGJTV2F0dkdFWUxhcHRRUDNLR09pQWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBzaGFndW4gdG8gZ2l2ZSBpbiBhIHdlZGRpbmc%2FIiwibGsiOiJHaUpvYjNjZ2JYVmphQ0J6YUdGbmRXNGdkRzhnWjJsMlpTQnBiaUIzWldSa2FXNW4iLCJicyI6ImM0WE5NUV9DSUJBRjRMamU1R0E2TU9oWmRUZjhBUVlYSFp3N1UzdUZHNkJKb2ZMM1JjSmtvcTczdm5jUDduQzZUZ25kOHJBWXJEYUx4emloNFNjaGU5U1lhQmpZR3lXUG9yWGZZV1Z3Zzdhem5JbmhNU0lIN0NsRUhLY1p5UnR0eUpHUFNoN0VQdjFUY0lGZFozV0o2MTVQbVJBNlBjLWNsWklvdHVrbmdUTTA1WW5PeDByZW0wSEpSbXctdWlWWXIxNCIsImlkIjoiZmNfOGJTV2F0dkdFWUxhcHRRUDNLR09pQWtfNSJ9"
+    },
+    {
+      "question": "Which gift is best for engagement?",
+      "type": "ai_overview",
+      "page_token": "zk9L_3icHdDRbtowFIBh7WV6WZIAnYaEKgVwElq8-ST2bN9M4bgQyEnilqyE3PVd9lR7mlV7gV-f_o8_dGrrv1_eq773l8Vkcr1e749dd6SXe-yaSXm5tTjBkmhfYr14-PoQPh5wufmdxavXLBbSe7WGICd-wtoe8jwY-JptVeLPeU2RCEBAaP1uVKkOBg8RRHsN24KpwYXww8j5BZNhlOtj_13bQmia2whmJmKhCpXBtjLPP7dzTLe23NhcRzY1rVIvjc9Q8p1LeCKT8AmZj20KN5Vw2KvsZqi6ICPtplxgDU9cs0YEQ7UneAZNYIhmTjqGYZy75FvjpO-LNJawkSNv_XRT4cwQ10Z_igNli4RdHWNiF_RpEVFcDt1JSBjxTI0caZVLm9tazYV0WckotIpXwNTss33mgV8JcXfA9-X07v_P5a9D0y_8W3f8B5_6gls",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zk9L_3icHdDRbtowFIBh7WV6WZIAnYaEKgVwElq8-ST2bN9M4bgQyEnilqyE3PVd9lR7mlV7gV-f_o8_dGrrv1_eq773l8Vkcr1e749dd6SXe-yaSXm5tTjBkmhfYr14-PoQPh5wufmdxavXLBbSe7WGICd-wtoe8jwY-JptVeLPeU2RCEBAaP1uVKkOBg8RRHsN24KpwYXww8j5BZNhlOtj_13bQmia2whmJmKhCpXBtjLPP7dzTLe23NhcRzY1rVIvjc9Q8p1LeCKT8AmZj20KN5Vw2KvsZqi6ICPtplxgDU9cs0YEQ7UneAZNYIhmTjqGYZy75FvjpO-LNJawkSNv_XRT4cwQ10Z_igNli4RdHWNiF_RpEVFcDt1JSBjxTI0caZVLm9tazYV0WckotIpXwNTss33mgV8JcXfA9-X07v_P5a9D0y_8W3f8B5_6gls",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJXaGljaCBnaWZ0IGlzIGJlc3QgZm9yIGVuZ2FnZW1lbnQ/IiwibGsiOiJHaUYzYUdsamFDQm5hV1owSUdseklHSmxjM1FnWm05eUlHVnVaMkZuWlcxbGJuUSIsImJzIjoiYzRYTk1RX0NJQkFGNExqZTVHQTZNT2haZFRmOEFRWVhIWnc3VTN1Rkc2QkpvZkwzUmNKa29xNzN2bmNQN25DNlRnbmQ4ckFZckRhTHh6aWg0U2NoZTlTWWFCallHeVdQb3JYZllXVndnN2F6bkluaE1TSUg3Q2xFSEtjWnlSdHR5SkdQU2g3RVB2MVRjSUZkWjNXSjYxNVBtUkE2UGMtY2xaSW90dWtuZ1RNMDVZbk94MHJlbTBISlJtdy11aVZZcjE0IiwiaWQiOiJmY184YlNXYXR2R0VZTGFwdFFQM0tHT2lBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJXaGljaCBnaWZ0IGlzIGJlc3QgZm9yIGVuZ2FnZW1lbnQ%2FIiwibGsiOiJHaUYzYUdsamFDQm5hV1owSUdseklHSmxjM1FnWm05eUlHVnVaMkZuWlcxbGJuUSIsImJzIjoiYzRYTk1RX0NJQkFGNExqZTVHQTZNT2haZFRmOEFRWVhIWnc3VTN1Rkc2QkpvZkwzUmNKa29xNzN2bmNQN25DNlRnbmQ4ckFZckRhTHh6aWg0U2NoZTlTWWFCallHeVdQb3JYZllXVndnN2F6bkluaE1TSUg3Q2xFSEtjWnlSdHR5SkdQU2g3RVB2MVRjSUZkWjNXSjYxNVBtUkE2UGMtY2xaSW90dWtuZ1RNMDVZbk94MHJlbTBISlJtdy11aVZZcjE0IiwiaWQiOiJmY184YlNXYXR2R0VZTGFwdFFQM0tHT2lBa181In0%3D"
+    },
+    {
+      "question": "What is shagun before marriage?",
+      "type": "ai_overview",
+      "page_token": "IFHa5XicHdBdbpswAABg9TJ5bLATZVqkqCoJJmTC1I5_gJeJmB8HDHiLW0Leepedaqep1O8I3-c_cx26_08f2jl72y6X0zQ9N-PYmOpZjf2yuM2DWqrCmEuhuu3mxwa81GoXvEf-_k_kE26tOFCPhXiPefkmxenAZOnlQXxXkr7T3j0wwHsufmp68H-p1OgkNAFe-fEF2XUsqM56FxHZQZZGM4Eal6hs-UHXZGjWtAdJ2Yo865ApuG1ZcJvF8dURrolAdmYAH3mLDEYNICyXSZj3DJgTD8UmYeoep1ZUKZYXYwU70luVZrMamvksrEdaAivWrKSkmgP7KJjJzldvrgIwBFqtM4PTLKWQeiJnIZpKhEjsuSODxi_u45Vw-lCt6Xl3jxh0NhP6TUAbMihAIik8e9yVoQ2KXtTltKjVx261-P7c_a57t7V_x-YLj72EJw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IFHa5XicHdBdbpswAABg9TJ5bLATZVqkqCoJJmTC1I5_gJeJmB8HDHiLW0Leepedaqep1O8I3-c_cx26_08f2jl72y6X0zQ9N-PYmOpZjf2yuM2DWqrCmEuhuu3mxwa81GoXvEf-_k_kE26tOFCPhXiPefkmxenAZOnlQXxXkr7T3j0wwHsufmp68H-p1OgkNAFe-fEF2XUsqM56FxHZQZZGM4Eal6hs-UHXZGjWtAdJ2Yo865ApuG1ZcJvF8dURrolAdmYAH3mLDEYNICyXSZj3DJgTD8UmYeoep1ZUKZYXYwU70luVZrMamvksrEdaAivWrKSkmgP7KJjJzldvrgIwBFqtM4PTLKWQeiJnIZpKhEjsuSODxi_u45Vw-lCt6Xl3jxh0NhP6TUAbMihAIik8e9yVoQ2KXtTltKjVx261-P7c_a57t7V_x-YLj72EJw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHNoYWd1biBiZWZvcmUgbWFycmlhZ2U/IiwibGsiOiJHaDUzYUdGMElHbHpJSE5vWVdkMWJpQmlaV1p2Y21VZ2JXRnljbWxoWjJVIiwiYnMiOiJjNFhOTVFfQ0lCQUY0TGplNUdBNk1PaFpkVGY4QVFZWEhadzdVM3VGRzZCSm9mTDNSY0prb3E3M3ZuY1A3bkM2VGduZDhyQVlyRGFMeHppaDRTY2hlOVNZYUJqWUd5V1BvclhmWVdWd2c3YXpuSW5oTVNJSDdDbEVIS2NaeVJ0dHlKR1BTaDdFUHYxVGNJRmRaM1dKNjE1UG1SQTZQYy1jbFpJb3R1a25nVE0wNVluT3gwcmVtMEhKUm13LXVpVllyMTQiLCJpZCI6ImZjXzhiU1dhdHZHRVlMYXB0UVAzS0dPaUFrXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHNoYWd1biBiZWZvcmUgbWFycmlhZ2U%2FIiwibGsiOiJHaDUzYUdGMElHbHpJSE5vWVdkMWJpQmlaV1p2Y21VZ2JXRnljbWxoWjJVIiwiYnMiOiJjNFhOTVFfQ0lCQUY0TGplNUdBNk1PaFpkVGY4QVFZWEhadzdVM3VGRzZCSm9mTDNSY0prb3E3M3ZuY1A3bkM2VGduZDhyQVlyRGFMeHppaDRTY2hlOVNZYUJqWUd5V1BvclhmWVdWd2c3YXpuSW5oTVNJSDdDbEVIS2NaeVJ0dHlKR1BTaDdFUHYxVGNJRmRaM1dKNjE1UG1SQTZQYy1jbFpJb3R1a25nVE0wNVluT3gwcmVtMEhKUm13LXVpVllyMTQiLCJpZCI6ImZjXzhiU1dhdHZHRVlMYXB0UVAzS0dPaUFrXzUifQ%3D%3D"
+    },
+    {
+      "question": "What are shagun gifts?",
+      "type": "ai_overview",
+      "page_token": "YggcNXicHdBRboIwGADg7DI-CsXNBROzDBUQFMdPC6wvCxQE1iIoxGrfdpedaqfZsgt8D9_Xt2hO_OchrcexHxaaJqWcVl1XiXLKulbLhvuJaSwTIs8YX8yf5-jlyJabQVqrTloh6ft4DXpkmH3WikOu1zVBZkLtDqUolAUK71gRWdow5ptaQaMjID0wDlAkyAJHyh2GMDVsHxumWzqVBKO-BvyW0tgboRVbGltrLEIdYy9kRIyUU6dsvXkS9-nB3SqmPJ-2hb9vnygzEEl1uoq4OQa6vUsVYOCej534nPDxEyuPBMrO4lkV2apuCCrqwqUuxGL_nlo6iV9VpBdvGbEvTuNZ4Ab3Q0JxsqlXO0IewbbOhCO-R96Qt8ENn6girkj-XJgc2XU5m_yPLT-O7bjoL131C8UIeXs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YggcNXicHdBRboIwGADg7DI-CsXNBROzDBUQFMdPC6wvCxQE1iIoxGrfdpedaqfZsgt8D9_Xt2hO_OchrcexHxaaJqWcVl1XiXLKulbLhvuJaSwTIs8YX8yf5-jlyJabQVqrTloh6ft4DXpkmH3WikOu1zVBZkLtDqUolAUK71gRWdow5ptaQaMjID0wDlAkyAJHyh2GMDVsHxumWzqVBKO-BvyW0tgboRVbGltrLEIdYy9kRIyUU6dsvXkS9-nB3SqmPJ-2hb9vnygzEEl1uoq4OQa6vUsVYOCej534nPDxEyuPBMrO4lkV2apuCCrqwqUuxGL_nlo6iV9VpBdvGbEvTuNZ4Ab3Q0JxsqlXO0IewbbOhCO-R96Qt8ENn6girkj-XJgc2XU5m_yPLT-O7bjoL131C8UIeXs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzaGFndW4gZ2lmdHM/IiwibGsiOiJHaFIzYUdGMElHbHpJSE5vWVdkMWJpQm5hV1owY3ciLCJicyI6ImM0WE5NUV9DSUJBRjRMamU1R0E2TU9oWmRUZjhBUVlYSFp3N1UzdUZHNkJKb2ZMM1JjSmtvcTczdm5jUDduQzZUZ25kOHJBWXJEYUx4emloNFNjaGU5U1lhQmpZR3lXUG9yWGZZV1Z3Zzdhem5JbmhNU0lIN0NsRUhLY1p5UnR0eUpHUFNoN0VQdjFUY0lGZFozV0o2MTVQbVJBNlBjLWNsWklvdHVrbmdUTTA1WW5PeDByZW0wSEpSbXctdWlWWXIxNCIsImlkIjoiZmNfOGJTV2F0dkdFWUxhcHRRUDNLR09pQWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVVaG1TRlJ1VTNaWlltMW9hQzAzUTFGTmVIcG9ieTFxYzNodVUxTk5TMlptYTI5Q2R6WnJhMk5aWW1Od1YyZGpSbXN0WkhNelNuTklTa3BxTjAxa1gyNXhNR0ZHT1VOR1VHbEZjWGwyZWpaUmJYRnJhbDlwV0ZWQlFSSVhPR0pUVjJGMGRrZEZXVXhoY0hSUlVETkxSMDlwUVdzYUlrRkVjM0k1WmxOS2IwUnBha28zWm5BeFdWVnJiVEZyUTFNNVFteEVaMHBCZDFFIiwiZmN2IjoiMyIsImVpIjoiOGJTV2F0dkdFWUxhcHRRUDNLR09pQWsiLCJxYyI6IkNoRmxibWRoWjJWdFpXNTBJSE5vWVdkMWJoQUFmVEpKR1Q4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSBzaGFndW4gZ2lmdHM%2FIiwibGsiOiJHaFIzYUdGMElHbHpJSE5vWVdkMWJpQm5hV1owY3ciLCJicyI6ImM0WE5NUV9DSUJBRjRMamU1R0E2TU9oWmRUZjhBUVlYSFp3N1UzdUZHNkJKb2ZMM1JjSmtvcTczdm5jUDduQzZUZ25kOHJBWXJEYUx4emloNFNjaGU5U1lhQmpZR3lXUG9yWGZZV1Z3Zzdhem5JbmhNU0lIN0NsRUhLY1p5UnR0eUpHUFNoN0VQdjFUY0lGZFozV0o2MTVQbVJBNlBjLWNsWklvdHVrbmdUTTA1WW5PeDByZW0wSEpSbXctdWlWWXIxNCIsImlkIjoiZmNfOGJTV2F0dkdFWUxhcHRRUDNLR09pQWtfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Engagement shagun is a traditional exchange of auspicious gifts, sweets, and blessings between the bride's and groom's families to officially celebrate their new bond.",
+        "snippet_highlighted_words": [
+          "a traditional exchange of auspicious gifts, sweets, and blessings between the bride's and groom's families to officially celebrate their new bond"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Shagun Items"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Apparel: Traditional clothes like sarees, suits, or sherwanis for the couple and close family members."
+          },
+          {
+            "snippet": "Jewelry: Gold or silver ornaments gifted as a symbol of prosperity and welcome."
+          },
+          {
+            "snippet": "Sweets & Dry Fruits: Boxes of mithai, almonds, cashews, and pistachios arranged on platters."
+          },
+          {
+            "snippet": "Auspicious Tokens: Decorated coconuts (shagun nariyal) and stylized cash envelopes or boxes."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Packing and Presentation"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Decorative Trays: Families use ornate platters, wooden hampers, and mesh baskets to display the items attractively."
+          },
+          {
+            "snippet": "Theme Styling: Baskets are often matched in colors like red, gold, or pastel tones with net fabrics and floral accents."
+          },
+          {
+            "snippet": "Where to Shop: You can find ready-made decorative platters on Amazon.in or order handcrafted trousseau items from Pataaree.",
+            "snippet_links": [
+              {
+                "text": "Amazon.in",
+                "link": "https://www.google.com/goto?url=CAESiQEB6zswFT0dsMMdojLBpd7zJbmr05xr6emO550Saxx9mFBwqiiyzj2R-8dr_zuX7rafTC24MGCIdj3Y_ejGtyY3bFet3Ibo_j24GnkOWDZSHWIhLohvm2ZE1u2VWuCKMhUQJUI-GdyxLFQFcBdKY_eyI7tC-FG9lV5OxR1vzGKm3kscGu-86S-coQ"
+              },
+              {
+                "text": "Pataaree",
+                "link": "https://www.google.com/goto?url=CAESrwEB6zswFfytKIvSrqZ-NNDbs-LjC_oPrfsxUOD_t26J-ADnhSkGK61qHc3yUpBuwqzJcP60q0KRKLjUZaBJ-IBqthGkwyPBKG8H5i3rM_OjLYkSab8fs0iVkCq5_Mlc2_7OcFnursUPhDfajSM1Ul4wUxA-_qhJOkFs3e33wT7VreCzJwog4QVQonws934Ankqjy7aDfgjjZ7QNRV_fsLy3dR0IUiiDXPII3JBaDDiF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you planning for the bride's side or the groom's side?"
+          },
+          {
+            "snippet": "Do you need a checklist of items or DIY packing tips?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you plan the details."
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Shagun Trays For Engagement",
+      "link": "https://www.amazon.in/shagun-trays-for-engagement/s?k\\u003dshagun+trays+for+engagement",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFWPogTiOsu7s7aSXq4g_47sGLcVz4LsGsnPWiU385bGkg1Lkmtc0kZZbn95uoyd2F9mHKu2rb_XOou2B_HBV546reaKrzz3dR-LoVRGFdJgDFvCNT1G9jRrv7zGujqhxCeYPZ2uW_fZROML0lPqcgWkKKcGzVtG5uzNNJYdbQVdmok0MOQ&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://www.amazon.in › shagun-trays-for-engagement",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Premium Shagun Basket Set of 5 ? Perfect for Wedding Gift Packing, Engagement Hampers & Festive Use | Handmade Tray 25x25cm | 1-2kg | NBH35 ... Gladtogift MDF ...",
+      "snippet_highlighted_words": [
+        "Premium Shagun Basket Set of 5"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2
+          },
+          "extensions": [
+            "4.2",
+            "store rating (1.5K)",
+            "Free delivery"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Premium Shagun Basket Set of 5 ? Perfect for Wedding Gift Packing, Engagement Hampers & Festive Use | Handmade Tray 25x25cm | 1-2kg | NBH35 ... Gladtogift MDF ...",
+          "source_info_link": "https://www.amazon.in/shagun-trays-for-engagement/s?k=shagun+trays+for+engagement",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.in/shagun-trays-for-engagement/s?k=shagun+trays+for+engagement&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.in%2Fshagun-trays-for-engagement%2Fs%3Fk%3Dshagun%2Btrays%2Bfor%2Bengagement",
+      "source": "Amazon.in",
+      "read_more_link": "https://www.google.com/goto?url=CAESjwIB6zswFQrad6z_dwWa_wPlEqv-34zgtvSn_M68n2ZdyVZ6f6TmP6gj1FyyhrnjiL4AMacu82_JVRBhkh8HqLMgWzullUhifX_El-JZoj22f5nSLNYTcyGwMJQieV3X0bJJEpgT_BzJW67ocRoSanyukoVHTHs7n1kE3TUaDbtqUtzU6JeuT8YWR8gjDadTgBvVqm8x5WV6xQ2sWPSwyywoGyuDp_saNp3NciY5hbF3DZHFJG-H6cJ5PGf-dGWKpmb2Y-Kv2Z-s_TrtXnc11FQZ6ytiQdmlLpiSGIk49tE1hino8IZxbe_f1J-UbH_pvPvm-l_ph2Rj6V33yPCfa83jno0RKwtWMdW8LhYc91iN"
+    },
+    {
+      "position": 2,
+      "title": "Engagement Shagun Ka Saman",
+      "link": "https://www.instagram.com/popular/engagement-shagun-ka-saman/?hl\\u003den",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVh9ZXBF6SSudpdoGOWIOHhP49SuqAne_HYDDmH_MLCJOlfOB7XwOjIaGe7SO8dEHhLoaFZZ1qz9Z7eUQvc4AZUDfbGKLUVpVeFvF5yzABWhnJlgUk1aNbaKhf1xUtDBRHQ3kcaGIYt-bWDvTihiaCCPzZMOU99Q&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://www.instagram.com › popular › engagement-sh...",
+      "favicon": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/sLAlSNBL-yT7wnefx4kZ-PS_VUQ_Nbe4k9SrYVdClsQ.png",
+      "snippet": "Shagun ka saman, or auspicious gifts, are an integral part of Indian engagement ceremonies, symbolizing goodwill, blessings, and acceptance of the alliance",
+      "snippet_highlighted_words": [
+        "Shagun ka saman, or auspicious gifts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shagun ka saman, or auspicious gifts, are an integral part of Indian engagement ceremonies, symbolizing goodwill, blessings, and acceptance of the alliance",
+          "source_info_link": "https://www.instagram.com/popular/engagement-shagun-ka-saman/?hl=en",
+          "icon": "https://serpapi.com/searches/6a96b4e5f5c2f87e866cd310/images/sLAlSNBL-yT7wnefx4kZ-FosRGDUmbFAwLAYbPkYTbrHstPI3wY6OsTRVcQRMt3V.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/popular/engagement-shagun-ka-saman/?hl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fpopular%2Fengagement-shagun-ka-saman%2F%3Fhl%3Den",
+      "source": "Instagram"
+    },
+    {
+      "position": 3,
+      "title": "Discover 73 shagun and wedding taals ideas",
+      "link": "https://www.pinterest.com/ranikumaree/shagun/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVCEwYHK2PVNnrbJAdiflXzikigv0YeTY7qGxJp2MQUfTKtb2CZI3M6cU9WTvgGhWu70dIWquHkP1ckFp4RC9qeonuPYzSsGa6_QpyzrViDnOQomTSfCoJt2t3yWBmU3f2&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.pinterest.com › ranikumaree › shagun",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Discover 73 shagun and wedding taals ideas | wedding taals ideas, wedding fruit basket indian, desi wedding taals and more ...",
+      "snippet_highlighted_words": [
+        "shagun and wedding taals ideas"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover 73 shagun and wedding taals ideas | wedding taals ideas, wedding fruit basket indian, desi wedding taals and more ...",
+          "source_info_link": "https://www.pinterest.com/ranikumaree/shagun/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/ranikumaree/shagun/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Franikumaree%2Fshagun%2F",
+      "source": "Pinterest",
+      "read_more_link": "https://www.google.com/goto?url=CAESuQEB6zswFTBepRgkY6pUCtNlDKHSX04QHnjUjO_tND4YDSG0B1UMfrLjkFDYGc1Gz3hYwlgYhhVvaeBFIo40CVf8Zxlkg2Zc5CVTA3NCoTd0ihUWyjt7MgJr2VLuy91WuDZyXofndlc-WoerustAOyajUcSGXXw5AeZWRYRGVhsRjQk5m543lqRyfycNDlIOhIsV50sHO-ADrFZWfcyrhf-IvNtKzGlOdsOyU6c9vX-q6XTb5ix30naWjg"
+    },
+    {
+      "position": 4,
+      "title": "Buy Engagement Shagun Online In India",
+      "link": "https://www.etsy.com/in-en/market/engagement_shagun",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVBas0hJUZqvkrDu7LOm-j9Kt73g3HGTXv8H0Xwbe0JYYQPuJsuUOqES8W3iDYC52vIOZKiohohNvthm8R0s7VtLEgmeutJAhM9ArtrTICRbTO-qE3-keuwDBDs47eoEMidHEr7fxK&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECF4QAQ&uoh=1",
+      "displayed_link": "https://www.etsy.com › in-en › market › engagement_s...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXzZAP1ZAD1YgD1XgD3gz32fDL2dij2cSP4kFT1bSL____83M31XQD0VgD2eyz-6-L4kVv2agD2bAD80br80sP1WgD3i1f7zbr5qHz6sY76tZD7ybP-7uf7vp74lWP2dzT4nXD5r4b--PT5pnr2f0P2gkz1aBW6vmIYAAAAyElEQVR4AaXSRQKDQAxA0ZKgaabuuN7_hrhb7W8fjG_Wkxb7CKEf4gA3sqJqdaqi69BDMGjQlvt_gtjtiQ7HotOZLtfhgsSF6IbljOoEryVW3-3vY7zXCICPJ84jv56IpfXRrOYUlp0vdQYdTXU98ufR2lsBUYiz6LlR7C_9mc-JwnoNsb9aDB2UcGmfmJt3x6UTkq5787qErJPPPYSr2BK9RJli0QE7hOQcUFGQR3ky9NH2H2Hdw_dfSQ8lYMY2ZobV1_cvrpYBWw4RxEG5YpkAAAAASUVORK5CYII.png",
+      "snippet": "On Etsy, you can find a wide range of engagement shagun online in India, from one-of-a-kind handcrafted options to vintage treasures ready to be loved again.",
+      "snippet_highlighted_words": [
+        "engagement shagun online in India"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "store_rating": 128
+          },
+          "extensions": [
+            "4.5",
+            "store rating (128)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "On Etsy, you can find a wide range of engagement shagun online in India, from one-of-a-kind handcrafted options to vintage treasures ready to be loved again.",
+          "source_info_link": "https://www.etsy.com/in-en/market/engagement_shagun",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXzZAP1ZAD1YgD1XgD3gz32fDL2dij2cSP4kFT1bSL____83M31XQD0VgD2eyz-6-L4kVv2agD2bAD80br80sP1WgD3i1f7zbr5qHz6sY76tZD7ybP-7uf7vp74lWP2dzT4nXD5r4b--PT5pnr2f0P2gkz1aBW6vmIYAAAAyElEQVR4AaXSRQKDQAxA0ZKgaabuuN7_hrhb7W8fjG_Wkxb7CKEf4gA3sqJqdaqi69BDMGjQlvt_gtjtiQ7HotOZLtfhgsSF6IbljOoEryVW3-3vY7zXCICPJ84jv56IpfXRrOYUlp0vdQYdTXU98ufR2lsBUYiz6LlR7C_9mc-JwnoNsb9aDB2UcGmfmJt3x6UTkq5787qErJPPPYSr2BK9RJli0QE7hOQcUFGQR3ky9NH2H2Hdw_dfSQ8lYMY2ZobV1_cvrpYBWw4RxEG5YpkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.etsy.com/in-en/market/engagement_shagun&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.etsy.com%2Fin-en%2Fmarket%2Fengagement_shagun",
+      "source": "Etsy"
+    },
+    {
+      "position": 5,
+      "title": "Shagun Roka Ceremony Gifts for Groom",
+      "link": "https://www.pinterest.com/ideas/shagun-roka-ceremony-gifts-for-groom/949717830224/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFR0KVKmwZYu6MRMrjB2UFDXxBkc_Y6TAJcfX1rpYPcK9qm0FKHMF019bB7VsPB-HzK8mtjMIGlbkfLVqrIiEyC5ywGGUxEImdm5khoElr-BtSLjgod-28UOn6ZTBKxtBQOuKqydrYEWRnj_NWHOaRfYt1e6Mynxa1zL74CUq2ak6XS_1994&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.pinterest.com › Explore",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Find and save ideas about shagun roka ceremony gifts for groom. Engagement gift box for groom, Watch hamper Watch Hamper For Him",
+      "snippet_highlighted_words": [
+        "shagun roka ceremony gifts for groom"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find and save ideas about shagun roka ceremony gifts for groom. Engagement gift box for groom, Watch hamper Watch Hamper For Him",
+          "source_info_link": "https://www.pinterest.com/ideas/shagun-roka-ceremony-gifts-for-groom/949717830224/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/ideas/shagun-roka-ceremony-gifts-for-groom/949717830224/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fshagun-roka-ceremony-gifts-for-groom%2F949717830224%2F",
+      "source": "Pinterest"
+    },
+    {
+      "position": 6,
+      "title": "Shree Traders Engagement Tray for Gift, Shagun Platter ...",
+      "link": "https://www.flipkart.com/shree-traders-engagement-tray-gift-shagun-platter-wedding-ceremony-paper-wood-stoneware-decorative/p/itmd4eba6833cb7a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFV3IY32uu6fRSPoSW9FIWz5whPv0H3vQA0W9wd7wIBJbSP5xtvoQ1GDDnUkWBJ7M4e0IJXFr4uN5b2GVnSNqRU_ZdS_vgCJ8hJD3Ag4_l904QDj3-nOM4_AvbHuNdydxYjbdN8M1dnFdWFrzenISlu1l5n7qykXkkRKbxIDUik7_oDiQ3t76T_KYhjQpz_OCmcQoMJDSxUpIOxXXmILblB-ouzTgjSP0kA1eTEueznvTqMRl81Lg5gRuwCbzSrHW4pWA&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://www.flipkart.com › shree-traders-engagement-tr...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEX_5w3_6QD_7AD_6gD_8ADs2DK_tWWpo3f_7gDXx01FXKwALMIANb4AOL2gnX0AKMMLProWQrkAMcDgzkO0rG4APLsAM78AG8bRwlT54htsdpzu2i6YloP_9QAuTrPm0zsAOrxfbaHw2Qu4r2uspnSPkIiGiY5-g5JUZaY_V652fZfGul-Zl4JiWABYTwBSSgupmQfMwF2-rACCfVqnooaVj2pJQACmoXnizABeWDF7dUxzbD12agBqkMblAAAA8UlEQVR4AWIYHABQC1kkIAwEQXB944K7uzux_7-LCU7kSF1rtDEhBGcryriQkmdaRdV0wzRMJcMxy3ZcoFBMt5KSDqZcKVRrNCXrBXBGo1ZsknRjy4S-RptinLGxAwsL3ew_6vHGHks-RwCFqRXXdfpt5eeYwXBktcaT6cwBOV80lj-W11qFXq8HDmzZaCjfQ1nXMt03xurrkaEcTxuFQsG4N1YK7gD_nKMojLFmAVynzRhFKYiA1vKC0cFgUCdZ-ZgWWm82m-0uYZV-xTTt_eG4Pp3OF5zoHF2vV2vg-UEYBpGSnBuDqHcAUA6YAuiP3AAkchQGniK6OgAAAABJRU5ErkJggg.png",
+      "snippet": "Buy Shree Traders Engagement Tray for Gift, Shagun Platter for Wedding &amp; Ceremony Paper, Wood, Stoneware Decorative Platter for Rs. Pack of 6 74% OFF ₹1, ...",
+      "snippet_highlighted_words": [
+        "Buy Shree Traders Engagement Tray for Gift"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buy Shree Traders Engagement Tray for Gift, Shagun Platter for Wedding &amp; Ceremony Paper, Wood, Stoneware Decorative Platter for Rs. Pack of 6 74% OFF ₹1, ...",
+          "source_info_link": "https://www.flipkart.com/shree-traders-engagement-tray-gift-shagun-platter-wedding-ceremony-paper-wood-stoneware-decorative/p/itmd4eba6833cb7a",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAt1BMVEX_5w3_6QD_7AD_6gD_8ADs2DK_tWWpo3f_7gDXx01FXKwALMIANb4AOL2gnX0AKMMLProWQrkAMcDgzkO0rG4APLsAM78AG8bRwlT54htsdpzu2i6YloP_9QAuTrPm0zsAOrxfbaHw2Qu4r2uspnSPkIiGiY5-g5JUZaY_V652fZfGul-Zl4JiWABYTwBSSgupmQfMwF2-rACCfVqnooaVj2pJQACmoXnizABeWDF7dUxzbD12agBqkMblAAAA8UlEQVR4AWIYHABQC1kkIAwEQXB944K7uzux_7-LCU7kSF1rtDEhBGcryriQkmdaRdV0wzRMJcMxy3ZcoFBMt5KSDqZcKVRrNCXrBXBGo1ZsknRjy4S-RptinLGxAwsL3ew_6vHGHks-RwCFqRXXdfpt5eeYwXBktcaT6cwBOV80lj-W11qFXq8HDmzZaCjfQ1nXMt03xurrkaEcTxuFQsG4N1YK7gD_nKMojLFmAVynzRhFKYiA1vKC0cFgUCdZ-ZgWWm82m-0uYZV-xTTt_eG4Pp3OF5zoHF2vV2vg-UEYBpGSnBuDqHcAUA6YAuiP3AAkchQGniK6OgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.flipkart.com/shree-traders-engagement-tray-gift-shagun-platter-wedding-ceremony-paper-wood-stoneware-decorative/p/itmd4eba6833cb7a&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.flipkart.com%2Fshree-traders-engagement-tray-gift-shagun-platter-wedding-ceremony-paper-wood-stoneware-decorative%2Fp%2Fitmd4eba6833cb7a",
+      "source": "Flipkart"
+    },
+    {
+      "position": 7,
+      "title": "Shagun Gift Baskets",
+      "link": "https://www.pinterest.com/ideas/shagun-gift-baskets/948283235223/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAV4yA-Om2XL0J6uOqbHpnftRQ1BsKfUv1d7qdgA87YhoWmJ0vG9tsC-pqjxR_TLwftG4M_UdH569dtB6RiXnNljXQ7YooKsj3W_UHr9kSd8-SnFg35yFJaxe70ZrgEvRYdyM7Du7atjtU5rZuz6HfDJuVP3lk&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.pinterest.com › Explore › Gifts › Gift Basket",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Find and save ideas about shagun gift baskets. Engagement Hampers for the Perfect Wedding Gift | How to decorate engagement items, A Shagun isn't just an ...",
+      "snippet_highlighted_words": [
+        "shagun gift baskets"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find and save ideas about shagun gift baskets. Engagement Hampers for the Perfect Wedding Gift | How to decorate engagement items, A Shagun isn't just an ...",
+          "source_info_link": "https://www.pinterest.com/ideas/shagun-gift-baskets/948283235223/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/ideas/shagun-gift-baskets/948283235223/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fshagun-gift-baskets%2F948283235223%2F",
+      "source": "Pinterest"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Engagement Shagun Basket",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Engagement+Shagun+Basket&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Engagement+Shagun+Basket"
+    },
+    {
+      "block_position": 1,
+      "query": "Engagement Shagun for Groom",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Engagement+Shagun+for+Groom&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Engagement+Shagun+for+Groom"
+    },
+    {
+      "block_position": 1,
+      "query": "Engagement shagun ideas",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Engagement+shagun+ideas&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Engagement+shagun+ideas"
+    },
+    {
+      "block_position": 1,
+      "query": "Shagun gifts for groom",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Shagun+gifts+for+groom&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Shagun+gifts+for+groom"
+    },
+    {
+      "block_position": 1,
+      "query": "Shagun items list For bride",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Shagun+items+list+For+bride&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Shagun+items+list+For+bride"
+    },
+    {
+      "block_position": 1,
+      "query": "Engagement shagun for her",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Engagement+shagun+for+her&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Engagement+shagun+for+her"
+    },
+    {
+      "block_position": 1,
+      "query": "Engagement shagun amazon",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Engagement+shagun+amazon&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Engagement+shagun+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Engagement shagun diy",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&q=Engagement+shagun+diy&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Engagement+shagun+diy"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=engagement+shagun+nearby&shoprs=GAMqEWVuZ2FnZW1lbnQgc2hhZ3VuMgwIAxIGTmVhcmJ5GAJYg6kgYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAF6BAgYEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun+nearby"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=price+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAJ6BAgYEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=price+engagement+shagun"
+    },
+    {
+      "query": "Rings",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=rings+engagement+shagun&shoprs=GAkqEWVuZ2FnZW1lbnQgc2hhZ3VuMgkICRIFUmluZ3NgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAN6BAgYEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=rings+engagement+shagun"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=online+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAR6BAgYEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=online+engagement+shagun"
+    },
+    {
+      "query": "Invitations",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=invitations+engagement+shagun&shoprs=GAkqEWVuZ2FnZW1lbnQgc2hhZ3VuMg8ICRILSW52aXRhdGlvbnNgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAV6BAgYEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=invitations+engagement+shagun"
+    },
+    {
+      "query": "Gold",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=gold+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhQIARIER29sZDoKCOS8LhDlvC4wAFiDqSBgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAZ6BAgYEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=gold+engagement+shagun"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=reviews+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAd6BAgYEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=reviews+engagement+shagun"
+    },
+    {
+      "query": "Men's",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=men's+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhUIARIFTWVuJ3M6CgiAoz4QgaM-MAVYg6kgYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAh6BAgYEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=men%27s+engagement+shagun"
+    },
+    {
+      "query": "Wedding",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=wedding+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhgIARIHV2VkZGluZzoLCObQaxCtt4IBMABYg6kgYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAl6BAgYEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=wedding+engagement+shagun"
+    },
+    {
+      "query": "Lehengas",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=lehengas+engagement+shagun&shoprs=GAkqEWVuZ2FnZW1lbnQgc2hhZ3VuMgwICRIITGVoZW5nYXNgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAp6BAgYEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=lehengas+engagement+shagun"
+    },
+    {
+      "query": "Diamond",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=diamond+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhcIARIHRGlhbW9uZDoKCO28LhD0vC4wAFiDqSBgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAt6BAgYEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=diamond+engagement+shagun"
+    },
+    {
+      "query": "Dresses",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=dresses+engagement+shagun&shoprs=GAkqEWVuZ2FnZW1lbnQgc2hhZ3VuMgsICRIHRHJlc3Nlc2AB&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKAx6BAgYEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=dresses+engagement+shagun"
+    },
+    {
+      "query": "Boy",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=boy+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgcIEhIDQm95YAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKA16BAgYEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=boy+engagement+shagun"
+    },
+    {
+      "query": "Women's",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=women's+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhcIARIHV29tZW4nczoKCICjPhCCoz4wBViDqSBgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKA56BAgYEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=women%27s+engagement+shagun"
+    },
+    {
+      "query": "Necklaces",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=necklaces+engagement+shagun&shoprs=GAkqEWVuZ2FnZW1lbnQgc2hhZ3VuMg0ICRIJTmVja2xhY2VzYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKA96BAgYEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=necklaces+engagement+shagun"
+    },
+    {
+      "query": "Under ₹9,000",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=engagement+shagun+under+9000&shoprs=Eg0SCxEAAADAiMMAQhgBGAUqEWVuZ2FnZW1lbnQgc2hhZ3VuMicIBRIOVW5kZXIg4oK5OSwwMDAYAiINEgsRAAAAwIjDAEIYASoCGAFYg6kgYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBB6BAgYEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun+under+9000"
+    },
+    {
+      "query": "Solitaire",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=solitaire+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhsIARIJU29saXRhaXJlOgwIlIXGAxCnhsYDMABYg6kgYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBF6BAgYEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=solitaire+engagement+shagun"
+    },
+    {
+      "query": "Band",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=band+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhQIARIEQmFuZDoKCN-8LhDV4DwwAliDqSBgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBJ6BAgYEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=band+engagement+shagun"
+    },
+    {
+      "query": "Free",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=free+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMggIEhIERnJlZWAB&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBN6BAgYEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=free+engagement+shagun"
+    },
+    {
+      "query": "Jewellery",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=jewellery+engagement+shagun&shoprs=GAkqEWVuZ2FnZW1lbnQgc2hhZ3VuMg0ICRIJSmV3ZWxsZXJ5YAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBR6BAgYEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=jewellery+engagement+shagun"
+    },
+    {
+      "query": "Rent",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=rent+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMggIEhIEUmVudGAB&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBV6BAgYEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=rent+engagement+shagun"
+    },
+    {
+      "query": "Red",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=red+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhUIARIDUmVkOgwI2Iz1ARDnivUBMAtYg6kgYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBZ6BAgYEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=red+engagement+shagun"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=white+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1iDqSBgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBd6BAgYEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=white+engagement+shagun"
+    },
+    {
+      "query": "Man",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=man+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgcIEhIDTWFuYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBh6BAgYEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=man+engagement+shagun"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=buy+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBl6BAgYEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=buy+engagement+shagun"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=green+engagement+shagun&shoprs=GAEqEWVuZ2FnZW1lbnQgc2hhZ3VuMhcIARIFR3JlZW46DAjYjPUBEOiK9QEwC1iDqSBgAQ&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBp6BAgYEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=green+engagement+shagun"
+    },
+    {
+      "query": "Images",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=images+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgoIEhIGSW1hZ2VzYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBt6BAgYEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=images+engagement+shagun"
+    },
+    {
+      "query": "Female",
+      "link": "https://www.google.com/search?gl=in&hl=en&q=female+engagement+shagun&shoprs=GBIqEWVuZ2FnZW1lbnQgc2hhZ3VuMgoIEhIGRmVtYWxlYAE&sa=X&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQip4GKBx6BAgYEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=female+engagement+shagun"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=10&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8NMDegQIRRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=10&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAE",
+      "3": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=20&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAG",
+      "4": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=30&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAI",
+      "5": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=40&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAK",
+      "6": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=50&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAM",
+      "7": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=60&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAO",
+      "8": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=70&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAQ",
+      "9": "https://www.google.com/search?q=engagement+shagun&sca_esv=c894b1b53fb75601&gl=in&hl=en&sxsrf=APpeQnsXbBIxLyWJ_tEjfYv6Mp1qIebn_Q:1788261617294&ei=8bSWatvGEYLaptQP3KGOiAk&start=80&sa=N&sstk=AS6-VmKsd8ijGdZRE4zIveTvk69cubFFp7xbF5rJKLVNumfGtN-O2QD20PbJoPJjLciB7so4hjNHdDIH6shxZYECsDmbe3f0iXpP0w&ved=2ahUKEwibg9vToc2WAxUCrYkEHdyQA5EQ8tMDegQIRRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=engagement+shagun&start=80"
+    }
+  }
+}

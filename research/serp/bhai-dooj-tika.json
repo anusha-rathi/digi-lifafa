@@ -1,0 +1,480 @@
+{
+  "search_metadata": {
+    "id": "6a96b6115fda0b4225b0faf1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KaCRJ2otlfxX60Ql_TEi_u4EQMi5VN2SlbHIned-HZ8/6a96b6115fda0b4225b0faf1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KaCRJ2otlfxX60Ql_TEi_u4EQMi5VN2SlbHIned-HZ8/6a96b6115fda0b4225b0faf1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/KaCRJ2otlfxX60Ql_TEi_u4EQMi5VN2SlbHIned-HZ8/6a96b6115fda0b4225b0faf1.json_with_pixel_position",
+    "created_at": "2026-09-01 11:25:05 UTC",
+    "processed_at": "2026-09-01 11:25:05 UTC",
+    "google_url": "https://www.google.com/search?q=bhai+dooj+tika&oq=bhai+dooj+tika&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/KaCRJ2otlfxX60Ql_TEi_u4EQMi5VN2SlbHIned-HZ8/6a96b6115fda0b4225b0faf1.html",
+    "total_time_taken": 1.83
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "bhai dooj tika",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "bhai dooj tika",
+    "total_results": 137,
+    "time_taken_displayed": 0.75,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.google.com/goto?url=CAESoQEB6zswFZ_udKVAutr15IkGT00vvVp5iizJ5c7p5gWOSLNS9LLxWtsSiXor4U9TprF4X8WRGZQ77FTqVqtt-TXXfCkwoMGT3rtYyIB5aFljXnbm4EehMMcHUQFVYG4-hYwM4uRFmvczq0-zLfxQw05EDOO5orCOS2ClegT0QP9W6RLslFLS0L0dq-tg8ZXlorwZUbRKhh1FVLJcwiWEnQ9V3g",
+      "thumbnail": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/jP52iMKxA9mpY2W0olfc2rtHvjnll6-7Sm6qo265Nxg.png",
+      "original": "https://png.pngtree.com/png-clipart/20221017/original/pngtree-happy-bhai-dooj-greeting-text-and-tika-clipart-festival-of-india-png-image_8698937.png",
+      "title": "Happy Bhai Dooj Greeting Text And Tika Clipart Festival Of ...",
+      "source_name": "Pngtree"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAEShQEB6zswFXdjcyL_ym3iCIO60Q_dS7a5a62n8a0R8DtHwAGKEYhKMH0K1to_TuquM-SoVDzY0gGXE3sFyc4k9uQI7aAycT5jSms8R1zV9onccytJKY1pu_jSw7d4x4vEVxwEhOqWsekvGnjlGNzaWlZxlmVBGsoC0SIwfUjkDGoazHU8Q9E4",
+      "thumbnail": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/AjJ4WqT6haZJZFL2IfSEl653Gw8KhiP8nd8f6yGCZns.jpeg",
+      "original": "https://m.media-amazon.com/images/I/71A5p+0EegL.jpg",
+      "title": "BHAKTI 2 SHAKTI MAKING WORSHIP SPECIAL-Bhai Dooj Tika Plate Set With  Nariyal|Bhai Dooj Tilak With Coconut|Bhai Dooj Tikka With Gola|Bhau Beej ...",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESgQEB6zswFcAOUUrgKE8_Z2O1f2MbYBBLaLQg7gq48PRB2b2xFh8HtKU620X1SzThpjM_cff7yB6IV_o6ffI8_kXH5Moee3tOtrL3ej1zOIXbA4X32QygILyP_PSkB24aFV3knNF09NLe7w83Ai3d4HX5ZjHbuHoR_-woJz7xSDz4oss",
+      "thumbnail": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/lVWk_KfZGfidih0cbYEbkXkcjtBQlaw4DEUoyIcmb68.jpeg",
+      "original": "https://www.drikpanchang.com/images/events/bhai-dooj/3x/bhaiya_dooj_tilak.jpg",
+      "title": "2026 Bhai Dooj | Bhau Beej Date and Time for New Delhi, NCT ...",
+      "source_name": "Drik Panchang"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESkAEB6zswFTQFobTI8dUigCGpMbQfhJfzs_o9z7ZrG5KLfKwKcnIVI_Rmlz0MTw_t9lfrwhpMOkHGo0JGVU3P9nHMfwXwWlurSrRP1EXb5J8nXHvLwZfP5YeeI0Cr5NxayNHaAyNGHXnDNbh7SL_8IwBqtKrIfYCOq1sta1s0pl9AIKR-hfBnhgQmNwAb4vQJgMg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIljOtqzyisE5-iHlHftlO9qrLGlYjWG0cXpGYj9V0J4peTyeP79Ng65Q&s",
+      "original": "https://www.shutterstock.com/shutterstock/photos/1538929118/display_1500/stock-vector-happy-bhai-dooj-bhai-tika-hindu-festival-yellow-decorative-vector-illustration-1538929118.jpg",
+      "title": "Happy Bhai Dooj Bhai Tika Hindu",
+      "source_name": "Shutterstock"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESrgEB6zswFV3kuWgP6d7ciX4BPiYQQOeY0ypGgGT2UtWfi5o1Wd1IVe5yyOvLUlSzBJExj6TBSfjxN5cI7m7Sf9u1FtCcpR8kYtK7VDtCEZCtGHC1KUwonNXYpGjxUmrgOnbIcHX07lbQUU18_ReUv1MmvvqpWWAs23p9kM46R3X4pYy4DO9FABnz5GSG0CgA1ys2s2bNdcdOWMQ43P8FqoydwMKulIoVz9cVKUGHicY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-npoukcHv3YehRFk6RP2ZtfO_dmzMXqXxirR9L2Tjiux6Ek-Ml4F-1x8&s",
+      "original": "https://www.saugatonline.com/products_image/8ad836e056d2762510cce9174a43cb2e.jpg",
+      "title": "Bhai Dooj Tika Set - Pack of 4 Thread/Dora for Brother - Roli Chawal Pack  with Chocolate & Greeting Card",
+      "source_name": "Saugat Traders"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESfgHrOzAVMkQ01_-QUcH8wKNE486d-hSJQn77jw95F4NrqVdO5_qA7sOT7C2op7bj8Jfh7kj5rSEndcACtD-h2KH8CzEaR4Cpcs2Zy1uJpXuHpNUlJZv98ybgJcETwMvnOfvAKb8wectJzbRXAStygRXZNRLQy3iweGwBu0jPKQ",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkD-9lfs0iiNXzyWjfozPj83IzLvw4MLlHpN3WOer-4vCyVGsrPrben4&s",
+      "original": "https://m.media-amazon.com/images/I/81PTpSm4NAL.jpg",
+      "title": "MANTOUSS Bhai dooj gift set for brother/bhai dooj tika/bhai dooj tikka  set/bhai dooj tika chawal : Amazon.in: Grocery & Gourmet Foods",
+      "source_name": "Amazon.in"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESnwEB6zswFTKRBMA3_xZePHoTU-cP691oAnDPZpavYX3wzoxIptb_dKSKtVCGXEP5kpSm2ExFUTgiNqVcUhN37h4JWedQIMuAuFZb4DvwGWeAypEdwobG14AxmJbyZjUM3rmz3EFG7gPZwIoNH7BLRn_RAHQ-Zw5EaSo-y4EkKAaU-9qsD3HhMAywCnvg6-vqjqEjC9rNaZsmbTzRs4T1TyI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGlE29lskGmLdJtdALOfhzFeFlpofy037GtevBQBThp3nLrjsIgI1V5U&s",
+      "original": "https://akm-img-a-in.tosshub.com/sites/ichowk/fb_feed_images/story_image/202210/1820x1024_102522043530.jpg",
+      "title": "Bhai Dooj 2022: तिलक लगाने का क्या महत्व ...",
+      "source_name": "iChowk"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESpAEB6zswFdAR2GBJZZj07cf6mpfPHNCUVzWNUNia7YglC9R22U3Zo8uMu4Csh01wcTxsvDglSZZBb0LAMHn7qQI-c0ueOWdz3YuIbQhl-A8n_SVgrXxJtnsefrfA0xaVsdnxyrwncpW-Dj9v7nXb7yL-NsIs9VK4j3cBvTwDY14mUfs2KT_OlC1_TsLRKJTD8L6ZFXp9KNQMYoLit9SgUTcCa6HAlw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Axb0NHsijCP9cNK9KyDJJUyep6C9BOanvfyHM0Vqkr_ROkeTUled5OM7yA&s",
+      "original": "https://cdn.vectorstock.com/i/1000v/67/99/bhai-dooj-tika-celebration-yellow-background-vector-27526799.jpg",
+      "title": "bhai dooj tika celebration yellow background",
+      "source_name": "VectorStock"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESuQEB6zswFb_FRj9QLJ_ykkf4LH1mq3ZzaoWPbOYQDlBQ8D6q80uNEKqmMe20iJ-3C9Nz7qSR5rqAXTtBWJnuMBTYRdxIpPDiXQHt0GVPXzf-vXqU4Km71bcyuoAlwAFuNNuZxhf8pRxw-Wu_Q77U6jYs1vDiuz-QnEblVJiOXFumyonySw7VUGB8u5YsiR7yYN5H3UbKPeKhw7gnb-Bg17wlGdbTHXl7SZ3oPH_I52KxOVjncJXTuqYM_g",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmB9vk_TChV6TWv713s8evEpnfW8v8Zpzjaw2ghryW9WrpqRiR0PFW1I&s",
+      "original": "https://images.indianexpress.com/2018/11/tika-tilak-bhai-dooj-759.jpg",
+      "title": "Bhai Dooj 2018: Puja Vidhi, Tikka Muhurat, Time, Samagri ...",
+      "source_name": "The Indian Express"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Bhai Dooj Tilak Time 2025: भाई दूज पर तिलक लगाने का शुभ ...",
+      "link": "https://www.youtube.com/watch?v=7MndE5R6qKI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2e5RRrV9z6lvuOQGohO6DZnYTLUO0Dqmk2rTKIIMIBSRD3XJ8jUjLA&s",
+      "channel": "Boldsky",
+      "duration": "4:08",
+      "platform": "YouTube",
+      "date": "22 Oct 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRjIZYTKLO3qk--nVrXk1UrAL-qXgVP0i6qNA"
+    },
+    {
+      "position": 2,
+      "title": "Bhai Dooj Puja Vidhi 2025: भाई दूज पर तिलक कैसे करें,किस दिशा ...",
+      "link": "https://www.youtube.com/watch?v=OxKBtlVql94",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkiA7u3FJe2LOsehgzRnzzxK1rRIBc2VtOHxrT_n6ny2qBR7y0jn1gQ&s",
+      "channel": "Boldsky",
+      "duration": "3:07",
+      "platform": "YouTube",
+      "date": "22 Oct 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSr1RGRE6UQLe8kNqyEBIP3H6dKEJF8GlvXZA"
+    },
+    {
+      "position": 3,
+      "title": "Bhai Dooj 2024 Tilak Vidhi: भाई दूज पर तिलक कैसे करें, थाली में ...",
+      "link": "https://www.youtube.com/watch?v=q6_r0-GUbHU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiTld6empUivtEgBT5_xboYpNXVptRVOvJRr3tEXliuWFkYKC_NMUPHw&s",
+      "channel": "Boldsky",
+      "duration": "2:26",
+      "platform": "YouTube",
+      "date": "2 Nov 2024",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTWfWaeHAfEZBdQ5-J55fskTS2M19cVIIIkmw"
+    },
+    {
+      "position": 4,
+      "title": "Bhai Dooj 2025 : भाई दूज पर कब करें टीका, क्या है सबसे उत्तम ...",
+      "link": "https://www.youtube.com/watch?v=5-yZoTEfGnI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gI5cZ2I5eW_CC8x1LLNj9iB6HjU_fRIJDB2V122PnL-8x-JMfwGg_A&s",
+      "channel": "Asianetnews Hindi",
+      "duration": "1:44",
+      "platform": "YouTube",
+      "date": "22 Oct 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS2Zdv2CzD_wnDtEVKC3dibbZ_0tG9RlO8v6Q"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "भाई को तिलक किस उंगली से लगाना चाहिए?",
+      "type": "ai_overview",
+      "page_token": "CycDPnicHdFLjpswGABg9TKznGBIpk2kqGrCM5owg8E_4E3lRxI32GAFMgR2vUtP1Qv0Gq26_pbfz1_6R9v8_vRHDYPtN4vFOI7Pl6676NOz6MyC9VMrFoJpzZloNi-fX9DXs9gGN7Hff4hdRqwFHzt5q_1ij0hRro8no2dMaI515-EATO2gOw_XOwikpY2dWXEgUKWzJJbkRnY8WGHmQp8jQHmE9hDRuUJrWgINhaFxZuT9GF-GzFM-i2SKTYp5TG88lj0JligNaS9je5WaeiSU7EiWLveoxaCUbMMz1ZcH8VWCy8cdChxxl64qV6xOhjopoj4vESMkGVMn8KgT9qc23OWVBX5VioNCtbHLrNr1OEL9a1l7YpYB9lXEycEhzvAG7rqGMvMo2FG2B7fM0XCKEKmbfmLmOAHIkRioa4feqWspDdIrn9A7d754r5UesgYe_JFUuDoocENU5ygozSFhLgYSq8fx-m3KCGFJEwbCS1ZUBzOGMBOtJP_cAZSyTKuiLLBhIN9yZ3XNKvF0Fh9b7-l_4Pb72Qwbe-sufwE1Takk",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CycDPnicHdFLjpswGABg9TKznGBIpk2kqGrCM5owg8E_4E3lRxI32GAFMgR2vUtP1Qv0Gq26_pbfz1_6R9v8_vRHDYPtN4vFOI7Pl6676NOz6MyC9VMrFoJpzZloNi-fX9DXs9gGN7Hff4hdRqwFHzt5q_1ij0hRro8no2dMaI515-EATO2gOw_XOwikpY2dWXEgUKWzJJbkRnY8WGHmQp8jQHmE9hDRuUJrWgINhaFxZuT9GF-GzFM-i2SKTYp5TG88lj0JligNaS9je5WaeiSU7EiWLveoxaCUbMMz1ZcH8VWCy8cdChxxl64qV6xOhjopoj4vESMkGVMn8KgT9qc23OWVBX5VioNCtbHLrNr1OEL9a1l7YpYB9lXEycEhzvAG7rqGMvMo2FG2B7fM0XCKEKmbfmLmOAHIkRioa4feqWspDdIrn9A7d754r5UesgYe_JFUuDoocENU5ygozSFhLgYSq8fx-m3KCGFJEwbCS1ZUBzOGMBOtJP_cAZSyTKuiLLBhIN9yZ3XNKvF0Fh9b7-l_4Pb72Qwbe-sufwE1Takk",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpK3gpL7gpIgg4KSV4KWLIOCkpOCkv+CksuCklSDgpJXgpL/gpLgg4KSJ4KSC4KSX4KSy4KWAIOCkuOClhyDgpLLgpJfgpL7gpKjgpL4g4KSa4KS+4KS54KS/4KSPPyIsImxrIjoiYzVPS2U3Qms3WU1sLXg0czZWQjRzR1RxZzZYZFFHckpneVg3SHl6WkJPU0R4VUNjSFVCVzU0TWxUUS1XVEFmSkxHMEE4bmM4V05xdUFGWTNIV3pDQ2lBSjVNOENjM2FDdGZVREFBIiwiYnMiOiJjN1dST3dyQ1FCQ0cyWFlyNjYwOGcySWQ4UXhxSmVvTnZFSzBNYUppdFFoaUpiTVNCRFZZU0d5MDhDSnpGR2RuOEVFTWlFV2FaRjdfOThfdTZydlNQWVE5d2hVaEtpTllkRlA2QWNJTjRVUTUxM3lTVWpSQkdDRXNmY2VGbEtmb3htV2VXeklocGlfbEswNHVMRnNFbGI3cEZtdWhOMHAzTXNRUEFRT3M2TTdvaHJRTVJRZU9MdWpJTGtFM0o3MHNOeU1ORzdPQUJxS2cwakQxNzQyVHYtRDZxSFRyOHg2MjNGM0w5SmlPTGZZMGV4UmN6SVR3MlJHX3ZBdHVtMllSWUIwclBmQmdGNzJrYjdhVjk5bEpRYnIyOVZoZW43Vk5HWDd3RC1PcmlRQXlaNm1aNmlfTEhFNUpQUUEiLCJpZCI6ImZjX0VyYVdhdWEtRFpiSGtkVVB4cTIwMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpK3gpL7gpIgg4KSV4KWLIOCkpOCkv%2BCksuCklSDgpJXgpL%2FgpLgg4KSJ4KSC4KSX4KSy4KWAIOCkuOClhyDgpLLgpJfgpL7gpKjgpL4g4KSa4KS%2B4KS54KS%2F4KSPPyIsImxrIjoiYzVPS2U3Qms3WU1sLXg0czZWQjRzR1RxZzZYZFFHckpneVg3SHl6WkJPU0R4VUNjSFVCVzU0TWxUUS1XVEFmSkxHMEE4bmM4V05xdUFGWTNIV3pDQ2lBSjVNOENjM2FDdGZVREFBIiwiYnMiOiJjN1dST3dyQ1FCQ0cyWFlyNjYwOGcySWQ4UXhxSmVvTnZFSzBNYUppdFFoaUpiTVNCRFZZU0d5MDhDSnpGR2RuOEVFTWlFV2FaRjdfOThfdTZydlNQWVE5d2hVaEtpTllkRlA2QWNJTjRVUTUxM3lTVWpSQkdDRXNmY2VGbEtmb3htV2VXeklocGlfbEswNHVMRnNFbGI3cEZtdWhOMHAzTXNRUEFRT3M2TTdvaHJRTVJRZU9MdWpJTGtFM0o3MHNOeU1ORzdPQUJxS2cwakQxNzQyVHYtRDZxSFRyOHg2MjNGM0w5SmlPTGZZMGV4UmN6SVR3MlJHX3ZBdHVtMllSWUIwclBmQmdGNzJrYjdhVjk5bEpRYnIyOVZoZW43Vk5HWDd3RC1PcmlRQXlaNm1aNmlfTEhFNUpQUUEiLCJpZCI6ImZjX0VyYVdhdWEtRFpiSGtkVVB4cTIwMkFFXzUifQ%3D%3D"
+    },
+    {
+      "question": "तिलक लगाने का शुभ मुहूर्त कौन सा है?",
+      "type": "ai_overview",
+      "page_token": "npz1mHicHdFfkpowHADg6WX2cU1gscUZp9PVoLArDPnzC-SlAwFFEwQrq-Bb79Lb9AY9TTu9wvf9_GWPZ_Pn0-9mGPrrYja73-_Ph6472PpZd-2suE5nPdOFtWWhzWL-eY6_7vWSXMLV6iN8TUXfw5oihv1L0fZrLZttsTWPWPjbHeknZa1JROeqtvOkPSBh4jm0wwuQ6gom4ELGKX1YW5MxEq13kaBwvI6G2qauNFGRcBWxrTqyR9ApV3XCvIzxWm1kRpsks0V9hl67r10lg6hEkWU8oMpp3vUmjkpobikEc4YiWWIfUlmtmPDRu7QZNZ2nHHzSPFrxM1DuKI9BbED6u9zgsMRfnHgNb7n0bS16t5pwxggMu8BywPHAhUb81CTpKUeCBKQSNi9PxAE5uBWiD9jAqEmId2h8k5kZqfAmNYYZzaIGnADnDBPZRmHhUBDbZtydvk2pEEVoAqLd0FOWTMDQxImdKFQ3jvw2ATgym7t19k8giFEtyNNe35bu0_-k5fd9Oyz6H93hL2Y0nh8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=npz1mHicHdFfkpowHADg6WX2cU1gscUZp9PVoLArDPnzC-SlAwFFEwQrq-Bb79Lb9AY9TTu9wvf9_GWPZ_Pn0-9mGPrrYja73-_Ph6472PpZd-2suE5nPdOFtWWhzWL-eY6_7vWSXMLV6iN8TUXfw5oihv1L0fZrLZttsTWPWPjbHeknZa1JROeqtvOkPSBh4jm0wwuQ6gom4ELGKX1YW5MxEq13kaBwvI6G2qauNFGRcBWxrTqyR9ApV3XCvIzxWm1kRpsks0V9hl67r10lg6hEkWU8oMpp3vUmjkpobikEc4YiWWIfUlmtmPDRu7QZNZ2nHHzSPFrxM1DuKI9BbED6u9zgsMRfnHgNb7n0bS16t5pwxggMu8BywPHAhUb81CTpKUeCBKQSNi9PxAE5uBWiD9jAqEmId2h8k5kZqfAmNYYZzaIGnADnDBPZRmHhUBDbZtydvk2pEEVoAqLd0FOWTMDQxImdKFQ3jvw2ATgym7t19k8giFEtyNNe35bu0_-k5fd9Oyz6H93hL2Y0nh8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpKTgpL/gpLLgpJUg4KSy4KSX4KS+4KSo4KWHIOCkleCkviDgpLbgpYHgpK0g4KSu4KWB4KS54KWC4KSw4KWN4KSkIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiYzVOeWVMQmt5WU1sLXg4czJmUmd5VlFGSUg2d1pNT0RKU3NlTEcySGNQWUJxVzBQbGpZLVdMSVd5Rm9IWnUxOHNMUUpwR3hwTDFBekFBIiwiYnMiOiJjN1dST3dyQ1FCQ0cyWFlyNjYwOGcySWQ4UXhxSmVvTnZFSzBNYUppdFFoaUpiTVNCRFZZU0d5MDhDSnpGR2RuOEVFTWlFV2FaRjdfOThfdTZydlNQWVE5d2hVaEtpTllkRlA2QWNJTjRVUTUxM3lTVWpSQkdDRXNmY2VGbEtmb3htV2VXeklocGlfbEswNHVMRnNFbGI3cEZtdWhOMHAzTXNRUEFRT3M2TTdvaHJRTVJRZU9MdWpJTGtFM0o3MHNOeU1ORzdPQUJxS2cwakQxNzQyVHYtRDZxSFRyOHg2MjNGM0w5SmlPTGZZMGV4UmN6SVR3MlJHX3ZBdHVtMllSWUIwclBmQmdGNzJrYjdhVjk5bEpRYnIyOVZoZW43Vk5HWDd3RC1PcmlRQXlaNm1aNmlfTEhFNUpQUUEiLCJpZCI6ImZjX0VyYVdhdWEtRFpiSGtkVVB4cTIwMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpKTgpL%2FgpLLgpJUg4KSy4KSX4KS%2B4KSo4KWHIOCkleCkviDgpLbgpYHgpK0g4KSu4KWB4KS54KWC4KSw4KWN4KSkIOCkleCljOCkqCDgpLjgpL4g4KS54KWIPyIsImxrIjoiYzVOeWVMQmt5WU1sLXg4czJmUmd5VlFGSUg2d1pNT0RKU3NlTEcySGNQWUJxVzBQbGpZLVdMSVd5Rm9IWnUxOHNMUUpwR3hwTDFBekFBIiwiYnMiOiJjN1dST3dyQ1FCQ0cyWFlyNjYwOGcySWQ4UXhxSmVvTnZFSzBNYUppdFFoaUpiTVNCRFZZU0d5MDhDSnpGR2RuOEVFTWlFV2FaRjdfOThfdTZydlNQWVE5d2hVaEtpTllkRlA2QWNJTjRVUTUxM3lTVWpSQkdDRXNmY2VGbEtmb3htV2VXeklocGlfbEswNHVMRnNFbGI3cEZtdWhOMHAzTXNRUEFRT3M2TTdvaHJRTVJRZU9MdWpJTGtFM0o3MHNOeU1ORzdPQUJxS2cwakQxNzQyVHYtRDZxSFRyOHg2MjNGM0w5SmlPTGZZMGV4UmN6SVR3MlJHX3ZBdHVtMllSWUIwclBmQmdGNzJrYjdhVjk5bEpRYnIyOVZoZW43Vk5HWDd3RC1PcmlRQXlaNm1aNmlfTEhFNUpQUUEiLCJpZCI6ImZjX0VyYVdhdWEtRFpiSGtkVVB4cTIwMkFFXzUifQ%3D%3D"
+    },
+    {
+      "question": "भाई दूज में क्या नहीं करना चाहिए?",
+      "type": "ai_overview",
+      "page_token": "cbzdGHicHdHNspowGIDh6c2c5RGC2uqM06lKaNKBI4EvGDadEFAk4ceKIuzOvfRuege9mp7p4t09u_f9t7k0-u-nP2Xfd7f1bDYMw-u5bc-meFVtPZO3sVEzJY3JpNLr5eel_fWkNu6V7HZ3sg2h6_ieWVEduIHJaZ6Efdx0J2GtDmC6XYQw4hpzaeF5wLkTY2YEPJsIeB1NwTx2tlcBq2fgUJFN5hCjjnLUL_lEd3KiQ-4oS-6pnRh3UjVxMvAH8RGrSi6M7v1aLOSecd_urr4nnATIPLCZlePtnSXM40AHVdGD0DCCYVhpbDEovcxNf4SQImWnWia05sbMiyOlUH8ZowYDt3IiqtIE1fbG0OJNolUHtvGZZ19izB9FbLxc5yI3qzZCFAtE78cJJrYvXRHZIUz5JeMpzRr8ANxVADwARo7sSEuOsP1h3KSmRCLG4Xv59KtvYwggicaucsgiNcyK8YpIrQYGzBQVS984s33dTtw9j0WTLgJPvZzUY-O8_J-0-Xmq-3X3qz3_AxPQnz8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cbzdGHicHdHNspowGIDh6c2c5RGC2uqM06lKaNKBI4EvGDadEFAk4ceKIuzOvfRuege9mp7p4t09u_f9t7k0-u-nP2Xfd7f1bDYMw-u5bc-meFVtPZO3sVEzJY3JpNLr5eel_fWkNu6V7HZ3sg2h6_ieWVEduIHJaZ6Efdx0J2GtDmC6XYQw4hpzaeF5wLkTY2YEPJsIeB1NwTx2tlcBq2fgUJFN5hCjjnLUL_lEd3KiQ-4oS-6pnRh3UjVxMvAH8RGrSi6M7v1aLOSecd_urr4nnATIPLCZlePtnSXM40AHVdGD0DCCYVhpbDEovcxNf4SQImWnWia05sbMiyOlUH8ZowYDt3IiqtIE1fbG0OJNolUHtvGZZ19izB9FbLxc5yI3qzZCFAtE78cJJrYvXRHZIUz5JeMpzRr8ANxVADwARo7sSEuOsP1h3KSmRCLG4Xv59KtvYwggicaucsgiNcyK8YpIrQYGzBQVS984s33dTtw9j0WTLgJPvZzUY-O8_J-0-Xmq-3X3qz3_AxPQnz8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpK3gpL7gpIgg4KSm4KWC4KScIOCkruClh+CkgiDgpJXgpY3gpK/gpL4g4KSo4KS54KWA4KSCIOCkleCksOCkqOCkviDgpJrgpL7gpLngpL/gpI8/IiwibGsiOiJjeldNb1EyQVFCQUUtMEJSRkFXUk4yQUlDa09RZS1UTkFfWU10REtsY0h5Q205M1piTk9oZ200MHRtakhFdHFDRG14QUtXakJKblRHSmtKR2p2V18wVldyejZ6MXhOR0Q1aGMiLCJicyI6ImM3V1JPd3JDUUJDRzJYWXI2NjA4ZzJJZDhReHFKZW9OdkVLME1hSml0UWhpSmJNU0JEVllTR3kwOENKekZHZG44RUVNaUVXYVpGN185OF91NnJ2U1BZUTl3aFVoS2lOWWRGUDZBY0lONFVRNTEzeVNValJCR0NFc2ZjZUZsS2ZveG1XZVd6SWhwaV9sSzA0dUxGc0VsYjdwRm11aE4wcDNNc1FQQVFPczZNN29oclFNUlFlT0x1aklMa0UzSjcwc055TU5HN09BQnFLZzBqRDE3NDJUdi1ENnFIVHI4eDYyM0YzTDlKaU9MZlkwZXhSY3pJVHcyUkdfdkF0dW0yWVJZQjByUGZCZ0Y3MmtiN2FWOTlsSlFicjI5VmhlbjdWTkdYN3dELU9yaVFBeVo2bVo2aV9MSEU1SlBRQSIsImlkIjoiZmNfRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpK3gpL7gpIgg4KSm4KWC4KScIOCkruClh%2BCkgiDgpJXgpY3gpK%2FgpL4g4KSo4KS54KWA4KSCIOCkleCksOCkqOCkviDgpJrgpL7gpLngpL%2FgpI8%2FIiwibGsiOiJjeldNb1EyQVFCQUUtMEJSRkFXUk4yQUlDa09RZS1UTkFfWU10REtsY0h5Q205M1piTk9oZ200MHRtakhFdHFDRG14QUtXakJKblRHSmtKR2p2V18wVldyejZ6MXhOR0Q1aGMiLCJicyI6ImM3V1JPd3JDUUJDRzJYWXI2NjA4ZzJJZDhReHFKZW9OdkVLME1hSml0UWhpSmJNU0JEVllTR3kwOENKekZHZG44RUVNaUVXYVpGN185OF91NnJ2U1BZUTl3aFVoS2lOWWRGUDZBY0lONFVRNTEzeVNValJCR0NFc2ZjZUZsS2ZveG1XZVd6SWhwaV9sSzA0dUxGc0VsYjdwRm11aE4wcDNNc1FQQVFPczZNN29oclFNUlFlT0x1aklMa0UzSjcwc055TU5HN09BQnFLZzBqRDE3NDJUdi1ENnFIVHI4eDYyM0YzTDlKaU9MZlkwZXhSY3pJVHcyUkdfdkF0dW0yWVJZQjByUGZCZ0Y3MmtiN2FWOTlsSlFicjI5VmhlbjdWTkdYN3dELU9yaVFBeVo2bVo2aV9MSEU1SlBRQSIsImlkIjoiZmNfRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUVfNSJ9"
+    },
+    {
+      "question": "भैया दूज की पूजा के लिए क्या सामग्री चाहिए?",
+      "type": "ai_overview",
+      "page_token": "zhhHI3icHZHfbtowHEal7V16WWxC2EBCU5PagbQ2jWP_kvhmMg4QyN-WrIHc7V32VHuaoT3A-XT0nd9_qlNT_v3ytej77rKcTIZheDy27bHaP9q2npjLrbETa6pqZ2y5nH-b4x8HuyKXwffbwY9U18GzQJIWvq4WrwzTtaGdH8ucZ9K7RtXTyJI8UUBQFuOEpdSPUM5ymrmM2BuT4WyXineTuMEOQ7evXeAj_-ClxlqFOEI6tLi9JkHHJOkyUetBBrrblVhpcnQsrRA_ixd75kzApt-SEieqavKSYyPDuRw9emd_WQcgqQpIHa7Ys9cmQYi2weLz7hm_QsG1kxvA3x12wnWORSanizeL7pbYAwX6gze8MhKGhPRb5eM3XrpS1bTfl72XoVAbXMzESPVeua5aR2i3FoNRVBgMGXdypSC8aMhHPs1jQReKNZ6QTnuTBM5bCltFAbGRdgbIwNR1nTWeLyl_yVNBrNikIg0LmFJ8_5AkdbgxUwFqXVzZ-ekWKWU2JSXW2bi6EieBeADo-m5oEUUjmxlCSUw0iqdua5v7Rm0fDvZz5Tz8j7v6eaj7ZffRHv8BzEmtpg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zhhHI3icHZHfbtowHEal7V16WWxC2EBCU5PagbQ2jWP_kvhmMg4QyN-WrIHc7V32VHuaoT3A-XT0nd9_qlNT_v3ytej77rKcTIZheDy27bHaP9q2npjLrbETa6pqZ2y5nH-b4x8HuyKXwffbwY9U18GzQJIWvq4WrwzTtaGdH8ucZ9K7RtXTyJI8UUBQFuOEpdSPUM5ymrmM2BuT4WyXineTuMEOQ7evXeAj_-ClxlqFOEI6tLi9JkHHJOkyUetBBrrblVhpcnQsrRA_ixd75kzApt-SEieqavKSYyPDuRw9emd_WQcgqQpIHa7Ys9cmQYi2weLz7hm_QsG1kxvA3x12wnWORSanizeL7pbYAwX6gze8MhKGhPRb5eM3XrpS1bTfl72XoVAbXMzESPVeua5aR2i3FoNRVBgMGXdypSC8aMhHPs1jQReKNZ6QTnuTBM5bCltFAbGRdgbIwNR1nTWeLyl_yVNBrNikIg0LmFJ8_5AkdbgxUwFqXVzZ-ekWKWU2JSXW2bi6EieBeADo-m5oEUUjmxlCSUw0iqdua5v7Rm0fDvZz5Tz8j7v6eaj7ZffRHv8BzEmtpg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpK3gpYjgpK/gpL4g4KSm4KWC4KScIOCkleClgCDgpKrgpYLgpJzgpL4g4KSV4KWHIOCksuCkv+CkjyDgpJXgpY3gpK/gpL4g4KS44KS+4KSu4KSX4KWN4KSw4KWAIOCkmuCkvuCkueCkv+Ckjz8iLCJsayI6IkdqUGdwSzNncFlqZ3BLX2dwTDRnNEtTbTRLV0M0S1NjSU9Da2xlQ2xnQ0RncExqZ3BMN2dwSzdncEpmZ3BZM2dwTERncFlBIiwiYnMiOiJjN1dST3dyQ1FCQ0cyWFlyNjYwOGcySWQ4UXhxSmVvTnZFSzBNYUppdFFoaUpiTVNCRFZZU0d5MDhDSnpGR2RuOEVFTWlFV2FaRjdfOThfdTZydlNQWVE5d2hVaEtpTllkRlA2QWNJTjRVUTUxM3lTVWpSQkdDRXNmY2VGbEtmb3htV2VXeklocGlfbEswNHVMRnNFbGI3cEZtdWhOMHAzTXNRUEFRT3M2TTdvaHJRTVJRZU9MdWpJTGtFM0o3MHNOeU1ORzdPQUJxS2cwakQxNzQyVHYtRDZxSFRyOHg2MjNGM0w5SmlPTGZZMGV4UmN6SVR3MlJHX3ZBdHVtMllSWUIwclBmQmdGNzJrYjdhVjk5bEpRYnIyOVZoZW43Vk5HWDd3RC1PcmlRQXlaNm1aNmlfTEhFNUpQUUEiLCJpZCI6ImZjX0VyYVdhdWEtRFpiSGtkVVB4cTIwMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk5UUmFNM1paU0Roc1IzbFlla1ZhTTE5aVpIUk9lREJYWlVWRk1URjNXRGwxZEZwb2VuTnpNMjFvVVV4dlRWQk5ZazVQVlZaQ1ZuVTVSVGRvVEZsaGFrNUxXRTQyU1dKSU1VbzVOa28xZURkcVJsQkdUV3BQUW5GM2R4SVhSWEpoVjJGMVlTMUVXbUpJYTJSVlVIaHhNakF5UVVVYUlrRkVjM0k1WmxGaFQzQjJXRFJhYUU1SldXWnZibUZ3YUhkeVkwMW5RWFZZTTFFIiwiZmN2IjoiMyIsImVpIjoiRXJhV2F1YS1EWmJIa2RVUHhxMjAyQUUiLCJxYyI6IkNnNWlhR0ZwSUdSdmIyb2dkR2xyWVJBamZZSnlBei1pQVFKb2FRIiwicXVlc3Rpb24iOiLgpK3gpYjgpK%2FgpL4g4KSm4KWC4KScIOCkleClgCDgpKrgpYLgpJzgpL4g4KSV4KWHIOCksuCkv%2BCkjyDgpJXgpY3gpK%2FgpL4g4KS44KS%2B4KSu4KSX4KWN4KSw4KWAIOCkmuCkvuCkueCkv%2BCkjz8iLCJsayI6IkdqUGdwSzNncFlqZ3BLX2dwTDRnNEtTbTRLV0M0S1NjSU9Da2xlQ2xnQ0RncExqZ3BMN2dwSzdncEpmZ3BZM2dwTERncFlBIiwiYnMiOiJjN1dST3dyQ1FCQ0cyWFlyNjYwOGcySWQ4UXhxSmVvTnZFSzBNYUppdFFoaUpiTVNCRFZZU0d5MDhDSnpGR2RuOEVFTWlFV2FaRjdfOThfdTZydlNQWVE5d2hVaEtpTllkRlA2QWNJTjRVUTUxM3lTVWpSQkdDRXNmY2VGbEtmb3htV2VXeklocGlfbEswNHVMRnNFbGI3cEZtdWhOMHAzTXNRUEFRT3M2TTdvaHJRTVJRZU9MdWpJTGtFM0o3MHNOeU1ORzdPQUJxS2cwakQxNzQyVHYtRDZxSFRyOHg2MjNGM0w5SmlPTGZZMGV4UmN6SVR3MlJHX3ZBdHVtMllSWUIwclBmQmdGNzJrYjdhVjk5bEpRYnIyOVZoZW43Vk5HWDd3RC1PcmlRQXlaNm1aNmlfTEhFNUpQUUEiLCJpZCI6ImZjX0VyYVdhdWEtRFpiSGtkVVB4cTIwMkFFXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "a7vIN3iczVbbcqJIGH6AfY7lZhIBjzFV1FR32yq6RtvoJHpDAWKDioSDonO37zJPNU-zzSmBLGQqc7G1fxX2gf_Y_X98_v3jYB33P_9QzCB48e95PgzDGnUcejBqumPzqn896vzWOfiebn41D5Jx5OhBso7c9Sw1ON2XBM6wJOypT-pJve2tteF-s5xd3LpQB5iLzSVFU31jx7xfdj6v8Oxn_2ejxxY1v2YclQGsrdYDdY4vR-t5WasLYrc25VWb6YD_TjChgAIMEGADE1iiQ0t33wnCkSIieTuUxnjbCpNAcqI2rvRGSRwSMcXYuheulckDmzwk79kRkUrjUX7hJ4M8ALGJjMtrrJKkhH66wtWKoDqjpBSarnrv35QKHhSzgHQCZhiQzEsuFnNi5gyjDZioTQkwenfApFSuzpqZwwUY7p2s2GpZOo_HbO73lkAG_IayfhV4zWODyFu6qccTz4_aGC26goOvu1UI-obbXLrazILu2mm6Y69-dkeA1zWmd3DUjbFRTEX4Gq_FutgSuo3O3U0MId1_xZCfx9ACPcjQb9Dhjtb-qkExQw-rQi49XhSVWnqFZqpadh84cxedKc00IHm7gqw7oq4Wot3caaOdkNi-xjVCAMPcSWcemftS9CRu3kYaxY7Foml-kRRM4TyXfU6mJfURUKgbgWaWF2ZwpUXFojs0T1JO6g2LfpmqyfALk_Nxm7FS832qDOkFK5gULq_yO7nAvbcMZDnaxTIYAIwIAnOMQfQxAwQn6jC1ZeiBxaCkDKuRuz6ln_k6vFUBPkDYa9AMJu-6Po-W4aQzvnbaqoy2qPX9YR48ymO01q7ebhaWo8Oxtc9RjP6_glBCQP2UgKJ-KYMQ_DWEGAHRjwgomacENEoJqBpC8xhC_yagWfK-QEDvITTKQ8hPIFRBQJ-EEP4QQiQ7jTIIoX26ykNoVAmhhIByEDInpEhAJOc-JaBXCP0WAcm_RUAxooxkKLLRaUcrWakPxrSnu8aTXd95C3fcVNqN61L53nZn4S9ZaWsH97a6Odwo1uYe1kfBdXOjsA3n3thwrqSZqvVl4zi7L4G1Vzn74DmSoHY6aL-Yyk8XQbTbpHHStwIrtx9eNqfZob042bJ_24Davjs0vYFrr76Zt41-bz4IKIvaDU938Npsn4LzxFpP5sG204LP9XMLwXCIz2p3-dQG80nX6S2Wj-Ezaegde_biTDtktToNpzsbmNiiK_Vl3332pi_i9rkN4sR8idQt9O2iBOf1HWd7usSSalLwQMATBTpAK0DYXxeCHPaE7Gmz3oCcr6uK4Z8l_a7b1ESt1dhqnVZbEDmbBtcXqSly_tGTxH8ALlE2Hg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=a7vIN3iczVbbcqJIGH6AfY7lZhIBjzFV1FR32yq6RtvoJHpDAWKDioSDonO37zJPNU-zzSmBLGQqc7G1fxX2gf_Y_X98_v3jYB33P_9QzCB48e95PgzDGnUcejBqumPzqn896vzWOfiebn41D5Jx5OhBso7c9Sw1ON2XBM6wJOypT-pJve2tteF-s5xd3LpQB5iLzSVFU31jx7xfdj6v8Oxn_2ejxxY1v2YclQGsrdYDdY4vR-t5WasLYrc25VWb6YD_TjChgAIMEGADE1iiQ0t33wnCkSIieTuUxnjbCpNAcqI2rvRGSRwSMcXYuheulckDmzwk79kRkUrjUX7hJ4M8ALGJjMtrrJKkhH66wtWKoDqjpBSarnrv35QKHhSzgHQCZhiQzEsuFnNi5gyjDZioTQkwenfApFSuzpqZwwUY7p2s2GpZOo_HbO73lkAG_IayfhV4zWODyFu6qccTz4_aGC26goOvu1UI-obbXLrazILu2mm6Y69-dkeA1zWmd3DUjbFRTEX4Gq_FutgSuo3O3U0MId1_xZCfx9ACPcjQb9Dhjtb-qkExQw-rQi49XhSVWnqFZqpadh84cxedKc00IHm7gqw7oq4Wot3caaOdkNi-xjVCAMPcSWcemftS9CRu3kYaxY7Foml-kRRM4TyXfU6mJfURUKgbgWaWF2ZwpUXFojs0T1JO6g2LfpmqyfALk_Nxm7FS832qDOkFK5gULq_yO7nAvbcMZDnaxTIYAIwIAnOMQfQxAwQn6jC1ZeiBxaCkDKuRuz6ln_k6vFUBPkDYa9AMJu-6Po-W4aQzvnbaqoy2qPX9YR48ymO01q7ebhaWo8Oxtc9RjP6_glBCQP2UgKJ-KYMQ_DWEGAHRjwgomacENEoJqBpC8xhC_yagWfK-QEDvITTKQ8hPIFRBQJ-EEP4QQiQ7jTIIoX26ykNoVAmhhIByEDInpEhAJOc-JaBXCP0WAcm_RUAxooxkKLLRaUcrWakPxrSnu8aTXd95C3fcVNqN61L53nZn4S9ZaWsH97a6Odwo1uYe1kfBdXOjsA3n3thwrqSZqvVl4zi7L4G1Vzn74DmSoHY6aL-Yyk8XQbTbpHHStwIrtx9eNqfZob042bJ_24Davjs0vYFrr76Zt41-bz4IKIvaDU938Npsn4LzxFpP5sG204LP9XMLwXCIz2p3-dQG80nX6S2Wj-Ezaegde_biTDtktToNpzsbmNiiK_Vl3332pi_i9rkN4sR8idQt9O2iBOf1HWd7usSSalLwQMATBTpAK0DYXxeCHPaE7Gmz3oCcr6uK4Z8l_a7b1ESt1dhqnVZbEDmbBtcXqSly_tGTxH8ALlE2Hg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bhai Dooj Tika",
+      "link": "https://www.amazon.in/dooj-tika/s?k\\u003dbhai+dooj+tika",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVnpthmhZupz3VTSburRNbTlNjzlFMGbtvbFgE11B0qYQiX7og0d31systdBiP8zjzKXLfjjYJOD9tbnkvdvOpc-quszjscnxkMeUzSsO_iY7nY29ZL5CnQNAT_U90aFaFdfRMSJI&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.in › dooj-tika › k=bhai+dooj+tika",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Bhai Dooj Tikka for Brother- Designer Glass Pack of Roli, Rice Chawal, Chandan Mishri for Sweet Bhaiya & Personal Message. Options: 5 sizes",
+      "snippet_highlighted_words": [
+        "Bhai Dooj Tikka for Brother"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2
+          },
+          "extensions": [
+            "4.2",
+            "store rating (1.5K)",
+            "Free delivery"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bhai Dooj Tikka for Brother- Designer Glass Pack of Roli, Rice Chawal, Chandan Mishri for Sweet Bhaiya & Personal Message. Options: 5 sizes",
+          "source_info_link": "https://www.amazon.in/dooj-tika/s?k=bhai+dooj+tika",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.in/dooj-tika/s?k=bhai+dooj+tika&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.amazon.in%2Fdooj-tika%2Fs%3Fk%3Dbhai%2Bdooj%2Btika",
+      "source": "Amazon.in"
+    },
+    {
+      "position": 2,
+      "title": "भाई दूज - विकिपीडिया",
+      "link": "https://translate.google.com/translate?u=https://en.wikipedia.org/wiki/Bhai_Dooj&hl=hi&sl=en&tl=hi&client=srp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFfC8dbGRl2L18hdBoGFwoN3GleDnIYelmCCErVvZjL-74t9tR89qS9zDQexvwU5ANMifQK6L1d0KTjt4Jw3B_kjbe9ehculozFFnzsLxsmuEThEBj3gF6mbEA7tfldf8NTFc_7V1AgRLqnSrPUNSGBgWR9Sm813SzZzOmAz5MMOuMWqUqbZklTTDqTn51pKWBgUnl9Z8BjMk-DoWmnH3NcU&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Bhai_Dooj",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+      "snippet": "यह दिवाली या तिहार और होली के त्योहारों के दौरान मनाया जाता है। भाई दूज भाई-बहन के रिश्ते ...Read more",
+      "snippet_highlighted_words": [
+        "भाई दूज"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "यह दिवाली या तिहार और होली के त्योहारों के दौरान मनाया जाता है। भाई दूज भाई-बहन के रिश्ते ...",
+          "source_info_link": "https://translate.google.com/translate?u=https://en.wikipedia.org/wiki/Bhai_Dooj&hl=hi&sl=en&tl=hi&client=srp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://translate.google.com/translate?u=https://en.wikipedia.org/wiki/Bhai_Dooj&hl=hi&sl=en&tl=hi&client=srp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftranslate.google.com%2Ftranslate%3Fu%3Dhttps%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBhai_Dooj%26hl%3Dhi%26sl%3Den%26tl%3Dhi%26client%3Dsrp",
+      "source": "Wikipedia",
+      "read_more_link": "https://www.google.com/goto?url=CAESngQB6zswFT7bFxv7CETRzuHNG0fi22KHszDcVSr3OIrJS2PCheV8_DnrHiSd3wfTHZbbR7WKOPE-P4YQtY6bHs6OjMS_c4g2j_i8eGR2wq0xPCvwd4h8bSN_f4LmY2Hr1gen0iwnYxvsMN8Z0uNNmDVsgR1XDZBLnUOby58VF_SREBAMpB-YYD-1vT6XUtfMe0wuOUg8Rq4c0wQV2DeONxGI-9Sy9vKSG1fOYbH8rGwONU3obna1ETvpcitMrjXnJ4KC_YLRakTNjToV3UgQOzSgVpKgjA43Otabc6nl2q-S8hQU5vOJvqtcPrwZMnEG-SmE5XFkIY5cIZAZJdIdWPP1vcspsW4zDrW2iw4jrl2HPXW-dDk4wn7vFmspT5wKXKTcQqL0vewpsaOP-pD-uiJebDk4XQzqOrL6eQdx-UssuG-S3wyLar20BsurXfyAXEHOTmFUvgg9wIeA6ntIdtRjEEOlsnVvXQmiw5Cp1sEPl5e3fKPar9ajkRvIXc8pnR8QwTNAYYSMC6q-W6hIF6svBS6hDMhe92CtTtP_WjfQV6osIgFz-llxybBakPav5bJbckLAO46z-ic3Mi-A7U0eApLyCV1Znnk7LcSTe-Emo9_4L05Gf2dVRJLklcj54CYASRZT4qfeq36EeveY9pw14aF93fTspI7po7YI6ihnJiguFrWb3rHsDBEEWrhnq4g6zBCWiHE9XEWeqE6FEA"
+    },
+    {
+      "position": 3,
+      "title": "Bhai Dooj 2025: भाई दूज पर किस उंगली से करें भाई का तिलक? ...",
+      "link": "https://www.aajtak.in/religion/news/story/bhai-dooj-2025-shubh-muhurt-right-finger-tilak-puja-vidhi-upay-tvisu-dskc-2364131-2025-10-22",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFc3bRuQqszJdMdpMP-evJKuU8gO7vJk_TR_A7IOjDNHsewFtY7mGZ0Z3-tRTWBt76pDvW2Oy-Dp6RbbknYKONp2JhRhbLEKTnrzmwhTbCmzhYpwo0v9a0oTRkx0YMAGhz9SFOLcqstcvgLN3fvltSFWpUtc0vg8T8WCz3kPz9ym0SxCoA_kdhT0AjgfsauupldCMqV9gVo6CJmvOusc0Ey5S0-JVJXKsZNAp2oQh-N-R9HMd7JT0Rj1KQA&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQFnoECDUQAQ&uoh=1",
+      "displayed_link": "https://www.aajtak.in › news › story",
+      "favicon": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/sYvPG9tFFCTaiRtH42qMc958-AHaYJHEP5k8naEk7pQ.png",
+      "date": "22 Oct 2025",
+      "snippet": "Bhai Dooj 2025: भाई दूज पर ज्यादातर बहनें अनामिका उंगली यानी रिंग फिंगर से भाई का ...",
+      "snippet_highlighted_words": [
+        "अनामिका उंगली"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bhai Dooj 2025: भाई दूज पर ज्यादातर बहनें अनामिका उंगली यानी रिंग फिंगर से भाई का ...",
+          "source_info_link": "https://www.aajtak.in/religion/news/story/bhai-dooj-2025-shubh-muhurt-right-finger-tilak-puja-vidhi-upay-tvisu-dskc-2364131-2025-10-22",
+          "icon": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/sYvPG9tFFCTaiRtH42qMc3uJs-HCIN_RFShbElnuJayM1IjyY_bhizJfv1NBewYP.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.aajtak.in/religion/news/story/bhai-dooj-2025-shubh-muhurt-right-finger-tilak-puja-vidhi-upay-tvisu-dskc-2364131-2025-10-22&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.aajtak.in%2Freligion%2Fnews%2Fstory%2Fbhai-dooj-2025-shubh-muhurt-right-finger-tilak-puja-vidhi-upay-tvisu-dskc-2364131-2025-10-22",
+      "source": "AajTak"
+    },
+    {
+      "position": 4,
+      "title": "Bhai Dooj 2025 पर तिलक लगाने का शुभ समय, सही समय और ...",
+      "link": "https://www.google.com/goto?url=CAESYwHrOzAVG9lcemNS9CaUHUFqjfCUh5CktEa5bk6P781DwAxzMmYFf_yOA1U11resn9eDkwLjlbOJjSuZfUkd8JU3J2FKFIwf7R9cq7z26OjYV2I0jNxMyHIV6SgrcAWXUJ-rtA",
+      "displayed_link": "11.8K+ views · 10 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/XjoCBF1S8Kw/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nbSho-4x8tC-PHl8sD-suVYWd6tA",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "इस वीडियो में हम आपको बताएंगे भाई दूज का शुभ मुहूर्त, तिलक का समय, पूजा विधि और ...",
+      "duration": "2:37",
+      "about_this_result": {
+        "source": {
+          "description": "इस वीडियो में हम आपको बताएंगे भाई दूज का शुभ मुहूर्त, तिलक का समय, पूजा विधि और ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVG9lcemNS9CaUHUFqjfCUh5CktEa5bk6P781DwAxzMmYFf_yOA1U11resn9eDkwLjlbOJjSuZfUkd8JU3J2FKFIwf7R9cq7z26OjYV2I0jNxMyHIV6SgrcAWXUJ-rtA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVG9lcemNS9CaUHUFqjfCUh5CktEa5bk6P781DwAxzMmYFf_yOA1U11resn9eDkwLjlbOJjSuZfUkd8JU3J2FKFIwf7R9cq7z26OjYV2I0jNxMyHIV6SgrcAWXUJ-rtA",
+      "source": "YouTube · GoodReturns"
+    },
+    {
+      "position": 5,
+      "title": "Bhai Dooj 2025: भाई दूज आज, नोट कर लें तिलक शुभ मुहूर्त, ...",
+      "link": "https://www.livehindustan.com/astrology/bhai-dooj-2025-tilak-shubh-muhurat-mantra-vidhi-upay-know-everything-here-201761179930763.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFYpGR_Q8FRcOdk2tcdwirSO3BeX7XGemxFC3oCdYWv1OxLCw-dBK106L5YyvI71OrNlVYlZidLmU6cF9oDZE8UPK_daGD2BNpuDh0q5uzDRisMRjLwEbYOIdYCfsWMym0dMoUwgXqS9RyZJhzDrPhjcyMy-45SDEHn3lcaMItWA7YeFEei-Ogz_rDRkoJL5i8T6qgLwUrSZDUikLjdIEGf2l2M2fgJdpxc0Mcw0-6SvRMG3w5L373T0KhQ&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://www.livehindustan.com › b...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEXEICzGGijFDh-8ABKqNTyvGiXBABHFEiLGHSqrAAynRkyyi4zHxcXo7e3z-fjNwsK0e36lLzawAADDABKlNj2mVlq2oaLn5-fq7e3q6-v____Pysu-oaPM0NDo6unDABa-ABDn1trRiInGQErWe4Dsy87c29vWl52-AAXy3t3KYGTalJnWoKHBKDfCFSPu0dDmtLbRgYXfv8DVf4bFOkHISlPOb3XAt7jq9vLMWGHALDrl39y0d3r4__-uCxu0ABWsiImjZmmnJi6tguG5AAABfElEQVR4AV3S12LCIBSAYXJSgwu3QrBmN7Pi3tv3f6hCnfG__RI2eqWB_lUwcBHlK2oYjFK5UiW1eqPZagPWik_rdBu9KiXMNLmM9L8b3eZD9QFhzLQIoxLv1e07OgNKKXE9HyE_-Llj-4GhRUlkYACwIfYThf03ZFFcdNLs1xvawhl9oBsXhy4jNc7HoqgnOSQTbE8JcaMgmM0RBHlcCMTMqQ1g21jYyzz6EkmKxSJVRe-r7ZOlZo_U7_zR6rFPu8qmjliuJxhPFno89CR-P3FlMkNsiCuKIACEveW8AneEHmO22Kx3xSLMJ9m8qGd8j--IG4zpEjOAGec8MfCSl7U7amXyj6mIpWVDLR4fjujRKXxDL44D3jeeCOeawggg49xcjvhzStUxNC1CKRLGlKuojl7hC6OUmj8Q6yOFXYzeMlamVLLj__WM_BMrDJRaXBWePl6gdg2VKiMFLW9K5b8K6fXTlB5XTGL9-LBcRacRWpf4Y75nUDjm9vAHWzs1pnYSYtsAAAAASUVORK5CYII.png",
+      "date": "23 Oct 2025",
+      "snippet": "Bhai Dooj 2025: पंच पर्व दीपावली का पांचवा त्योहार भाई दूज होता है। ंच पर्व दीपावली का पांचवा त्योहार भाई दूज होता है।",
+      "snippet_highlighted_words": [
+        "Bhai Dooj",
+        "भाई दूज",
+        "भाई दूज"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 32678
+          },
+          "extensions": [
+            "4.5(32,678)",
+            "Free",
+            "Android",
+            "Reference"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bhai Dooj 2025: पंच पर्व दीपावली का पांचवा त्योहार भाई दूज होता है। ंच पर्व दीपावली का पांचवा त्योहार भाई दूज होता है।",
+          "source_info_link": "https://www.livehindustan.com/astrology/bhai-dooj-2025-tilak-shubh-muhurat-mantra-vidhi-upay-know-everything-here-201761179930763.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEXEICzGGijFDh-8ABKqNTyvGiXBABHFEiLGHSqrAAynRkyyi4zHxcXo7e3z-fjNwsK0e36lLzawAADDABKlNj2mVlq2oaLn5-fq7e3q6-v____Pysu-oaPM0NDo6unDABa-ABDn1trRiInGQErWe4Dsy87c29vWl52-AAXy3t3KYGTalJnWoKHBKDfCFSPu0dDmtLbRgYXfv8DVf4bFOkHISlPOb3XAt7jq9vLMWGHALDrl39y0d3r4__-uCxu0ABWsiImjZmmnJi6tguG5AAABfElEQVR4AV3S12LCIBSAYXJSgwu3QrBmN7Pi3tv3f6hCnfG__RI2eqWB_lUwcBHlK2oYjFK5UiW1eqPZagPWik_rdBu9KiXMNLmM9L8b3eZD9QFhzLQIoxLv1e07OgNKKXE9HyE_-Llj-4GhRUlkYACwIfYThf03ZFFcdNLs1xvawhl9oBsXhy4jNc7HoqgnOSQTbE8JcaMgmM0RBHlcCMTMqQ1g21jYyzz6EkmKxSJVRe-r7ZOlZo_U7_zR6rFPu8qmjliuJxhPFno89CR-P3FlMkNsiCuKIACEveW8AneEHmO22Kx3xSLMJ9m8qGd8j--IG4zpEjOAGec8MfCSl7U7amXyj6mIpWVDLR4fjujRKXxDL44D3jeeCOeawggg49xcjvhzStUxNC1CKRLGlKuojl7hC6OUmj8Q6yOFXYzeMlamVLLj__WM_BMrDJRaXBWePl6gdg2VKiMFLW9K5b8K6fXTlB5XTGL9-LBcRacRWpf4Y75nUDjm9vAHWzs1pnYSYtsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.livehindustan.com/astrology/bhai-dooj-2025-tilak-shubh-muhurat-mantra-vidhi-upay-know-everything-here-201761179930763.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.livehindustan.com%2Fastrology%2Fbhai-dooj-2025-tilak-shubh-muhurat-mantra-vidhi-upay-know-everything-here-201761179930763.html",
+      "source": "Hindustan"
+    },
+    {
+      "position": 6,
+      "title": "2026 Bhai Dooj date and Tika time New Delhi, NCT, India",
+      "link": "https://www.drikpanchang.com/festivals/bhai-dooj/bhai-dooj-date-time.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFcAOUUrgKE8_Z2O1f2MbYBBLaLQg7gq48PRB2b2xFh8HtKU620X1SzThpjM_cff7yB6IV_o6ffI8_kXH5Moee3tOtrL3ej1zOIXbA4X32QygILyP_PSkB24aFV3knNF09NLe7w83Ai3d4HX5ZjHbuHoR_-woJz7xSDz4oss&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://www.drikpanchang.com › festivals › bhai-dooj-da...",
+      "favicon": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/sYvPG9tFFCTaiRtH42qMcyMgI4OUjs7VNwJ9E1YaVfQ.png",
+      "snippet": "Dooj 11th November 2026 Wednesday. Bhai Dooj is celebrated on the Shukla Paksha Dwitiya Tithi of the Kartika month.",
+      "snippet_highlighted_words": [
+        "11th November 2026 Wednesday"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dooj 11th November 2026 Wednesday. Bhai Dooj is celebrated on the Shukla Paksha Dwitiya Tithi of the Kartika month.",
+          "source_info_link": "https://www.drikpanchang.com/festivals/bhai-dooj/bhai-dooj-date-time.html",
+          "icon": "https://serpapi.com/searches/6a96b6115fda0b4225b0faf1/images/sYvPG9tFFCTaiRtH42qMc0hh8pkWPcp5ISurWcH45uCmfntzgO5VaWzPxV2gN9B7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.drikpanchang.com/festivals/bhai-dooj/bhai-dooj-date-time.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.drikpanchang.com%2Ffestivals%2Fbhai-dooj%2Fbhai-dooj-date-time.html",
+      "source": "Drik Panchang"
+    },
+    {
+      "position": 7,
+      "title": "Bhai Dooj Shubh Muhurat 2025: भाई दूज का शुभ मुहूर्त क्या ...",
+      "link": "https://www.indiatv.in/religion/festivals-bhai-dooj-shubh-muhurat-2025-bhai-ko-tilak-lagane-timing-in-india-2025-10-22-1170840",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFaDyUhwYVHTyqGzzNAotPHxuf8htMUSyUzrNThfkLH2DPrtzs9ynGFpGZeWEcNnGNsabLmm-h1GP_WVvvvx_B46h6Fdyq-3UBs4oISDHxApv_Owaxq0pxwzuyrLlab35f-ldpy_ngmqGavxdj0unoX4xGUeFbSnfRcu-V1Uxq_6RgwkkG83inExwoWONDvDVaymgHyIITC4jDsyxpxvmyobLLOPR4KotttzAzPL9kjrDhg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.indiatv.in › religion",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEXcWQHcWQDcVwDcWADbUgDfaSzidUPruqTq39vc0svw29DcdEHcWwDaTgDhnH7m2NDfml7t1bvSlGvWVADXbTL-9u_bfVXv0cbio3n-0Xj_6rjdkFbn0sjUbj3cYxnUaCjJtabNajTVr6DVqYLxmCHokmbPvrTll3PvzbXhhVngbivoqYzbUQDw5drt6OXTnYrBaD7awrP54dDvwqX9___Yi2XfrpfomHLts5HmlmbpoXTSfVLOqZTbnoPr0MDkn3zKc0AChCbFAAAA60lEQVR4Ad2QA7ZDMRBAJ5PUbl5q-9nm_jf1bWygdw7GgvuDIFL4B8pqdYJ_VlHKGs1Wu4N_dez2-oPhaDzg9MNFAMlzGUpiMp3NF8vVGl-giDXGJEaAbjbb3f5wPJ33l_3mjetNVm4qA01v603dMEzLNnRdvMjSubnOzekBbm3D89uBPxiI8Gr4hiT8MIoTN4o0wNTbZdzJA6O1k71cNrhIUVY2Uk1BoF27ENdpXtozr18IYXAvfV0KAbCjP7Vt9P2ifdtQ2b9sVhV-XAmbwKsYZwy053wOnJIvP2C1zZNNXnzkme8vonDvPAKb5RmJ5cSwxgAAAABJRU5ErkJggg.png",
+      "date": "22 Oct 2025",
+      "snippet": "भाई को टीका करने की विधि (Bhai Dooj Kaise Manate Hai) · भाई दूज के दिन बहनें प्रातःकाल स्नान ...",
+      "snippet_highlighted_words": [
+        "भाई को टीका करने की विध"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "भाई को टीका करने की विधि (Bhai Dooj Kaise Manate Hai) · भाई दूज के दिन बहनें प्रातःकाल स्नान ...",
+          "source_info_link": "https://www.indiatv.in/religion/festivals-bhai-dooj-shubh-muhurat-2025-bhai-ko-tilak-lagane-timing-in-india-2025-10-22-1170840",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEXcWQHcWQDcVwDcWADbUgDfaSzidUPruqTq39vc0svw29DcdEHcWwDaTgDhnH7m2NDfml7t1bvSlGvWVADXbTL-9u_bfVXv0cbio3n-0Xj_6rjdkFbn0sjUbj3cYxnUaCjJtabNajTVr6DVqYLxmCHokmbPvrTll3PvzbXhhVngbivoqYzbUQDw5drt6OXTnYrBaD7awrP54dDvwqX9___Yi2XfrpfomHLts5HmlmbpoXTSfVLOqZTbnoPr0MDkn3zKc0AChCbFAAAA60lEQVR4Ad2QA7ZDMRBAJ5PUbl5q-9nm_jf1bWygdw7GgvuDIFL4B8pqdYJ_VlHKGs1Wu4N_dez2-oPhaDzg9MNFAMlzGUpiMp3NF8vVGl-giDXGJEaAbjbb3f5wPJ33l_3mjetNVm4qA01v603dMEzLNnRdvMjSubnOzekBbm3D89uBPxiI8Gr4hiT8MIoTN4o0wNTbZdzJA6O1k71cNrhIUVY2Uk1BoF27ENdpXtozr18IYXAvfV0KAbCjP7Vt9P2ifdtQ2b9sVhV-XAmbwKsYZwy053wOnJIvP2C1zZNNXnzkme8vonDvPAKb5RmJ5cSwxgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.indiatv.in/religion/festivals-bhai-dooj-shubh-muhurat-2025-bhai-ko-tilak-lagane-timing-in-india-2025-10-22-1170840&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.indiatv.in%2Freligion%2Ffestivals-bhai-dooj-shubh-muhurat-2025-bhai-ko-tilak-lagane-timing-in-india-2025-10-22-1170840",
+      "source": "India TV Hindi",
+      "read_more_link": "https://www.google.com/goto?url=CAESgAMB6zswFYosH9s0ez6eD5tyP456I6B3Y7nwsmgr4vEcOvMBRlPrCedVvvyS83mKlEGZKGStSOR3NSQEQ2G_cBcP5oBVstHcgatp5dACp-VsEkB3Yx8k4q1hXxnk4S_R0m7-Kqokw0v0A1ke_sLajQzNQ-7Za8-AlJwzLssXJcIud90f3dOHpO6aZAF8poXDY7QYP1feZ_ERPMWuJeUIp7jZMXTvNT2DsbP9dV04wmCCE2AVtyTaswhRGmttUolpvA-HLcwNeXEqJ9ORrW7StF_8Rm4akezS8_AVoT6LAqWp-OGwZr0OZri-eElTWRPvPqVzm_IMjzc0KAQwUcIness0re_kzhl04XJvU6P79ii1Z6EMG7h8Fksh1v7nGskQVyfo9z__xsVcT1H1ixlJmr0gfk3kocsIuvMQKw26XaGiiHrhQFVzb1YQR_67nYrFiYtDyKrSg6VfdOWgc60VLyNXFa04IIRv_hM5wCLQb3xRuubhaI_tt9PSbFV6N3ppG4Y"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bhai dooj tika 2022",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+dooj+tika+2022&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAgqEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+dooj+tika+2022"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai dooj tikka online flipkart",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+dooj+tikka+online+flipkart&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+dooj+tikka+online+flipkart"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai dooj kya hota hai",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+dooj+kya+hota+hai&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+dooj+kya+hota+hai"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai Dooj Date",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+Dooj+Date&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+Dooj+Date"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai Dooj kaise manate hain",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+Dooj+kaise+manate+hain&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+Dooj+kaise+manate+hain"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai dooj paragraph in hindi",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+dooj+paragraph+in+hindi&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAgtEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+dooj+paragraph+in+hindi"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai dooj tikka online amazon",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+dooj+tikka+online+amazon&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+dooj+tikka+online+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Bhai dooj hindi quotes",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&hl=en&gl=in&q=Bhai+dooj+hindi+quotes&sa=X&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Bhai+dooj+hindi+quotes"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=10&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8NMDegQIKBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=10&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAE",
+      "3": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=20&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAG",
+      "4": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=30&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAI",
+      "5": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=40&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAK",
+      "6": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=50&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAM",
+      "7": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=60&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAO",
+      "8": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=70&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAQ",
+      "9": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=80&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAS",
+      "10": "https://www.google.com/search?q=bhai+dooj+tika&sca_esv=c894b1b53fb75601&hl=en&gl=in&ei=EraWaua-DZbHkdUPxq202AE&start=90&sa=N&sstk=AS6-VmJGRznwVN4aAlBz0d934Q32u30T5iLBp9TwLQ9YKyeMLPHGb1WBbPXTaugYBRC70aSqsrEJqEcHow0Qe3F9LBjk1m0f4iHeMg&ved=2ahUKEwjmj77dos2WAxWWY6QEHcYWDRsQ8tMDegQIKBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=bhai+dooj+tika&start=90"
+    }
+  }
+}

@@ -1,0 +1,1061 @@
+{
+  "search_metadata": {
+    "id": "6a96b4bdcbcccf3f8c477297",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/h0RX-i-qb_87aosh0F1kL9geU_Bh6sLHNeSnLVKTM6s/6a96b4bdcbcccf3f8c477297.json",
+    "markdown_endpoint": "https://serpapi.com/searches/h0RX-i-qb_87aosh0F1kL9geU_Bh6sLHNeSnLVKTM6s/6a96b4bdcbcccf3f8c477297.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/h0RX-i-qb_87aosh0F1kL9geU_Bh6sLHNeSnLVKTM6s/6a96b4bdcbcccf3f8c477297.json_with_pixel_position",
+    "created_at": "2026-09-01 11:19:25 UTC",
+    "processed_at": "2026-09-01 11:19:25 UTC",
+    "google_url": "https://www.google.com/search?q=baby+shower+gift+india&oq=baby+shower+gift+india&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/h0RX-i-qb_87aosh0F1kL9geU_Bh6sLHNeSnLVKTM6s/6a96b4bdcbcccf3f8c477297.html",
+    "total_time_taken": 2.97
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "baby shower gift india",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "baby shower gift india",
+    "total_results": 204,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRzbdAyEVwIhalXX-Wtsq9b13VKJcRmXz4AF6LZKrpnwa6ermQXcW2VJaLqX4vpwfZPozWAq8Xsy_eH7CipncVEVSzzbAANKP-jOl9nsn-h2CjgdxDnNy8GcQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Baby Record Book | Newborn Journal For Boys And Girls To Cherish Memories And Milestones (Ideal Gift For Expecting Parents And Baby Shower)",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": "₹199",
+      "extracted_price": 199,
+      "immersive_product_page_token": "w9iPGHicbZLJjptIAEA139NqiaJYzNwam8U0FKbKLObSKqowYApMbLyh_MP8QuRORkqOmdHMNb-R-ZI5Zjnn_PT0Lu-Pe9n8e_FJSs9utCgKv10tV5fls1s9RR-Hw56f2NjwvwwD6AaU5ZmmK7KsyzNd-8joSMW-avi7z3VJuWj6Mtxuy8Niz35tfGo6WpU_8d9AmwEF6lDRFQglIM1UoL0e-PGrvJq_aIoBVAh1FUqqoUNNB_rbFQ4XL79mH96cysPtn4IWt4djvb-Uh4eq2Y4PTc8b-qEavvfevXYN__I6nMd7Xb0_nUT55V6Je9Pfa3Ev-z_3dDhv2X-__W-d2Xx-YPMoHoZkgSXS2Qna2WGU4B2z6xz1Zl0I26Pt4Ptpe2MLlJc78xzbSUMsfAqypyudWoAzdCnkQMlkAxCA1MDiXdqqEKdHuWi9PIzxRHYijkByZo4EEumapJbaxwtMN6LuCmscNzuRoq6-5k7-TICnlGvvee2aKw4xQenQUxltmdPeCjEIlH733eHCJzbRzOz55NmpxetY5PPcRjGRgOAt9qmjngOQNxjmbdR6lE25spGNjLvcSmz7xDobMmkPCgf0xLleeBxJbGdmbCeGzbqCa1GpRJhaSCQFJ0LGjqXEAK-DKU9iUPtYQgF1gM_ceigT7mJp3Kbt8pa2NSpi3pQCjdQZItQLdyMjPxbWLU1n18TZX_xkP3K3Nrk8blHmOeGaL1jLpsLx0gzEEoW5S9w8ps6R2JAHMeA1b2uMHa9ZO2NEEhOSeFzmko2dxjOxi25hmhOSGn2YoSVvx2g9BdcIYljI17aQxrBsh57JBnx_PR62X6UnWx1JqM13pvaobqCWB0e1IIcady-PXVXeHqPfgT6byRpQtR_LfgPVXxsn",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=w9iPGHicbZLJjptIAEA139NqiaJYzNwam8U0FKbKLObSKqowYApMbLyh_MP8QuRORkqOmdHMNb-R-ZI5Zjnn_PT0Lu-Pe9n8e_FJSs9utCgKv10tV5fls1s9RR-Hw56f2NjwvwwD6AaU5ZmmK7KsyzNd-8joSMW-avi7z3VJuWj6Mtxuy8Niz35tfGo6WpU_8d9AmwEF6lDRFQglIM1UoL0e-PGrvJq_aIoBVAh1FUqqoUNNB_rbFQ4XL79mH96cysPtn4IWt4djvb-Uh4eq2Y4PTc8b-qEavvfevXYN__I6nMd7Xb0_nUT55V6Je9Pfa3Ev-z_3dDhv2X-__W-d2Xx-YPMoHoZkgSXS2Qna2WGU4B2z6xz1Zl0I26Pt4Ptpe2MLlJc78xzbSUMsfAqypyudWoAzdCnkQMlkAxCA1MDiXdqqEKdHuWi9PIzxRHYijkByZo4EEumapJbaxwtMN6LuCmscNzuRoq6-5k7-TICnlGvvee2aKw4xQenQUxltmdPeCjEIlH733eHCJzbRzOz55NmpxetY5PPcRjGRgOAt9qmjngOQNxjmbdR6lE25spGNjLvcSmz7xDobMmkPCgf0xLleeBxJbGdmbCeGzbqCa1GpRJhaSCQFJ0LGjqXEAK-DKU9iUPtYQgF1gM_ceigT7mJp3Kbt8pa2NSpi3pQCjdQZItQLdyMjPxbWLU1n18TZX_xkP3K3Nrk8blHmOeGaL1jLpsLx0gzEEoW5S9w8ps6R2JAHMeA1b2uMHa9ZO2NEEhOSeFzmko2dxjOxi25hmhOSGn2YoSVvx2g9BdcIYljI17aQxrBsh57JBnx_PR62X6UnWx1JqM13pvaobqCWB0e1IIcady-PXVXeHqPfgT6byRpQtR_LfgPVXxsn"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWxBTNatEFG6Wmm_LG597wJGJap7Vj5Dwr_pGqP0_KrFOlXGuYHR3wRfukovaW2CKcSwaIrijzGr90RQ8iwafaqsPo3aAVovHA67tmNIbzpevL-b5vgqPzIQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "MOM CARE New Born Baby Kit Combo Set (11 Pieces) | Newborn Baby Gift Set 0–3 Months | Cotton Baby Clothes Set | New Born Baby Essentials for Boys &",
+      "price": "₹999",
+      "extracted_price": 999,
+      "immersive_product_page_token": "ctaHAXicdZDNbptAAITV54kq7fJjoLc4Zv0TszZrdom5YXaBNb_BGIxfoq8QOUml9NhW7TWv0T5Nrd57mMPM6DvMfL4I-atfbvywm7mT3W6Zrefrfn4_S27dt7qp-DFqJf8BDcPSoabpqqqZEBjq1b5FYRvmVSL507dUhDyXpVjFsWgmVfQf5KsswkT867-PDNMAlm5olmVaqqqMTPjc8MPT6-NRNMPPXbgbbg5p1YvmJpFxeyNLLsPXpL6yT8-F5O_Pddde0uTleMzF-yXJL7K8pPlFlF-qsO7i6M-HvV31d3eHfuzSumYTAjYZmgWIhU52ug-opmxmaY1LbGNv7LgZDJaMjITPeo7GBc1RSyha4ZLsV4wtov1C8wt-9BB2CLIgu8o7zwfhtx0t8D6Y1mp0TR1gDwLRASuwc3LiUpYGGASeB_CU52lNWYBDhfXMXpzYmVQ7pQ5oBosIWGucbXs3y3QxWzxuIDsz_zR4CqwChlOsLEa-ry8dDx0xQ7Y3QBDt3T7MkLMtKtVTx2sP5Z1b1AUDQCUlIQS0kmSodijvMMClM4VHB1ihnXL1uuNh-xDMKSVym50aaucuB_lyM-VjSirpUnKO9vn1B_NMEVYcfwF31NJwGQQiS-OIjRtSsJWY4NJ1X06HJv4NbpHeblZaF9aTbtna3r3ZxJh39sfmoQlUxmTyCRqmqYygPjJ1aPwF_6rfBg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ctaHAXicdZDNbptAAITV54kq7fJjoLc4Zv0TszZrdom5YXaBNb_BGIxfoq8QOUml9NhW7TWv0T5Nrd57mMPM6DvMfL4I-atfbvywm7mT3W6Zrefrfn4_S27dt7qp-DFqJf8BDcPSoabpqqqZEBjq1b5FYRvmVSL507dUhDyXpVjFsWgmVfQf5KsswkT867-PDNMAlm5olmVaqqqMTPjc8MPT6-NRNMPPXbgbbg5p1YvmJpFxeyNLLsPXpL6yT8-F5O_Pddde0uTleMzF-yXJL7K8pPlFlF-qsO7i6M-HvV31d3eHfuzSumYTAjYZmgWIhU52ug-opmxmaY1LbGNv7LgZDJaMjITPeo7GBc1RSyha4ZLsV4wtov1C8wt-9BB2CLIgu8o7zwfhtx0t8D6Y1mp0TR1gDwLRASuwc3LiUpYGGASeB_CU52lNWYBDhfXMXpzYmVQ7pQ5oBosIWGucbXs3y3QxWzxuIDsz_zR4CqwChlOsLEa-ry8dDx0xQ7Y3QBDt3T7MkLMtKtVTx2sP5Z1b1AUDQCUlIQS0kmSodijvMMClM4VHB1ihnXL1uuNh-xDMKSVym50aaucuB_lyM-VjSirpUnKO9vn1B_NMEVYcfwF31NJwGQQiS-OIjRtSsJWY4NJ1X06HJv4NbpHeblZaF9aTbtna3r3ZxJh39sfmoQlUxmTyCRqmqYygPjJ1aPwF_6rfBg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSX8_Pa55N_PRkVj5NUl93TrHy5tI2vRIUmCYaW39-aOfOiAWlnqSD2U9wGvBCU2-bmyjXXzU0tdPsQVgMzxjFYQxkNmul9cKizXg51TJU",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT7tE0o7iueSEB5yKWjPN12tfTDoaLlatfNnMZ8qP_B4PXxaP75lpXr8f5HAG0U1gNLKPuutztgpkaMVILKXU_yN4f47EJm",
+      "source": "thedottedi.in",
+      "title": "Baby Arrival Gift Hamper For Boy",
+      "price": "₹3,500",
+      "extracted_price": 3500,
+      "immersive_product_page_token": "IkmSHHicdYtLbptAAEDV82TDDMGG7oIxBMdgz8AMnx0wGIa_MQ6YS_QKkZNUSpdt1W57jfY0jbrv4i2ent6na8p_jlvHix7vkRbH23Jv7kfz4T67Q29d37JzMnD2HUAFyqIIbqEii4okvit4S6IhqtqMs6eveRqxijfp7nBIe61N_rN84XWUpf_6NyDJS1kBiizAJVwuFsvl4rlnp6fX4zntLz_iKL7cnPJ2TPubjB-GG94wHr1m3fv79Fxz9uu5exyuefZyPlfpr2tWXXlzzatr2nxuo-7xkPz5UKzbcbU6jSoiXUc1LDhQQtaaAgdu_NAntxbcNPG60y1i3QYe1ew6NHERtrjuMILDihlAcPx8eqdzDMlkhq3iqpwZpENQ5wab7TycmU6EnGC32rE6LCk0hRCCh0jXDaJnIp5ZvjM2OhEptt1kCDUaEBpCBuwmrrDk-taMXNrEXgBiQSdBUQ1IIBcC7T1bgX0EK05ddY_EDnmNXlKvc22Ce3x_NzkeNSNjolGhX2xSrT09uOAmmVw_Fx2RWZa7KUNjKEijo6SgXqzlddJYcJ0z0dVtP_BDkxDMg3LqybpCTKi2jsFUgluOCJ6ToqoJpTicy4kB9cgExSUXwB0x12jZIdeYrJhMR4ReplN_-C3c6dLg7CQztL2HreToE1CVYTz6qYrdtJCb7fgRLGUZLoC0kCUg_wV0Dt9G",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IkmSHHicdYtLbptAAEDV82TDDMGG7oIxBMdgz8AMnx0wGIa_MQ6YS_QKkZNUSpdt1W57jfY0jbrv4i2ent6na8p_jlvHix7vkRbH23Jv7kfz4T67Q29d37JzMnD2HUAFyqIIbqEii4okvit4S6IhqtqMs6eveRqxijfp7nBIe61N_rN84XWUpf_6NyDJS1kBiizAJVwuFsvl4rlnp6fX4zntLz_iKL7cnPJ2TPubjB-GG94wHr1m3fv79Fxz9uu5exyuefZyPlfpr2tWXXlzzatr2nxuo-7xkPz5UKzbcbU6jSoiXUc1LDhQQtaaAgdu_NAntxbcNPG60y1i3QYe1ew6NHERtrjuMILDihlAcPx8eqdzDMlkhq3iqpwZpENQ5wab7TycmU6EnGC32rE6LCk0hRCCh0jXDaJnIp5ZvjM2OhEptt1kCDUaEBpCBuwmrrDk-taMXNrEXgBiQSdBUQ1IIBcC7T1bgX0EK05ddY_EDnmNXlKvc22Ce3x_NzkeNSNjolGhX2xSrT09uOAmmVw_Fx2RWZa7KUNjKEijo6SgXqzlddJYcJ0z0dVtP_BDkxDMg3LqybpCTKi2jsFUgluOCJ6ToqoJpTicy4kB9cgExSUXwB0x12jZIdeYrJhMR4ReplN_-C3c6dLg7CQztL2HreToE1CVYTz6qYrdtJCb7fgRLGUZLoC0kCUg_wV0Dt9G"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqsh4bZsFn17IPD-xvtTIVvsSiU6sBQc0udyC5NxgyC49V6xqzHEI2zQ1mM-MQ4xCd-RXI9D_AZvS_42LasJn_-M0ScVeHQhSEq0-EC_Hy",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "CraftVatika Baby shower Haldi Kumkum Return Gifts in Bulk Festive Decor, Pasupu Haldi Bottle Mom To Be Cutout, Thamboolam Return Gifts for Wedding",
+      "price": "₹398",
+      "extracted_price": 398,
+      "immersive_product_page_token": "8MfJUHicdctLcpswAIDh6XmyEdgyuLuCAePYcnhIwuwAybzEwxgb40v0Chkn6Uy6bDvtNtdoT9NM993-_3yfbzz_Naw9Gp2XziKO1-WD_TDY98v0k_Padg07JX3OfkgAyABOZ5I6AdJcUmQ4UV6TqI9Ek-bs8VvGIybymm_3e94tmuQ_5GteRSn_97-_F1lRZShPFQABUCay8tSx4-PL4cS78WccxePdMWsG3t2l-b6_y2uWRy9p-24fn6qcvT215_6Wpc-nk-Bvt1Tc8vqWiRuvvzRRe94nfz4URjPo-nHQHNy2ZOECjyajayHKLbgOJK3wZVHGuvQQj5KOjLbaFTvIKneMKenjSVaSIDt7FopcK9RdX6MbqzXiAsGtgRY-SEZa2teEhNAvLytHZsuwMPcOYJOQ9r0rI0ywiTzagmjh3vOlPbigj8JyRZCfbWhgrhDdSNiCBC9QuSvRhQqhJ8blmgThkZtEd4PM969kyuoG-AHxIoIoI8IkRTbjZSlTYzqiamWh0gbJddcjGVJihYJRZIS1MfVKcXBAu4mW4REL4mwNk2yN3jcyNvFNFOyC0MbYzXflpcOGcBgQa89iGnab3MHuNSlEhXFvudbccYR9RUBEvq9ZqEZ1jM2K0PkhMYTtOM-XY7f_DT6ZsPe20A4RvV9Dz7xI2rwfDgHXXJ8Xar0ePkqKqsozCc5UKKl_AQu13zw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=8MfJUHicdctLcpswAIDh6XmyEdgyuLuCAePYcnhIwuwAybzEwxgb40v0Chkn6Uy6bDvtNtdoT9NM993-_3yfbzz_Naw9Gp2XziKO1-WD_TDY98v0k_Padg07JX3OfkgAyABOZ5I6AdJcUmQ4UV6TqI9Ek-bs8VvGIybymm_3e94tmuQ_5GteRSn_97-_F1lRZShPFQABUCay8tSx4-PL4cS78WccxePdMWsG3t2l-b6_y2uWRy9p-24fn6qcvT215_6Wpc-nk-Bvt1Tc8vqWiRuvvzRRe94nfz4URjPo-nHQHNy2ZOECjyajayHKLbgOJK3wZVHGuvQQj5KOjLbaFTvIKneMKenjSVaSIDt7FopcK9RdX6MbqzXiAsGtgRY-SEZa2teEhNAvLytHZsuwMPcOYJOQ9r0rI0ywiTzagmjh3vOlPbigj8JyRZCfbWhgrhDdSNiCBC9QuSvRhQqhJ8blmgThkZtEd4PM969kyuoG-AHxIoIoI8IkRTbjZSlTYzqiamWh0gbJddcjGVJihYJRZIS1MfVKcXBAu4mW4REL4mwNk2yN3jcyNvFNFOyC0MbYzXflpcOGcBgQa89iGnab3MHuNSlEhXFvudbccYR9RUBEvq9ZqEZ1jM2K0PkhMYTtOM-XY7f_DT6ZsPe20A4RvV9Dz7xI2rwfDgHXXJ8Xar0ePkqKqsozCc5UKKl_AQu13zw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfnsrES8IJjMQlxUlPiq0Eqlv2-uT2dlrM3t8bzT6KAt2RoE4N12V6Qz717VH60yEV9vBZIjptEWbkAVHQTLmGYzf3Qpy6L8B0s0g-E9aEyVxXa65_zcDx",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSyqDaVITcJGkL5rBuF--yp7QICFYXAb1CUeO951gdNV8-6a_HyxR87n_oqkzV7G_YHtinNR_mROqGBOWpIauOteeC40d95SQ",
+      "source": "Baby Jalebi",
+      "title": "Baby Jalebi - The Grand Gift Box - Roadster- Baby Shower Gifts - Newborn Essential Gifts",
+      "price": "₹16,995",
+      "extracted_price": 16995,
+      "immersive_product_page_token": "Byepbnicdc5LbptAAIBh9TzZMEzAuLsQGAPBY_OY4bEbGMzDYyAYjJNL9AqRk1RKl1XVbnON9jTNotuuf33S_-VS1L9mN4jYyfKMLHP3W3s723dWeeO99UPHp3ys-Q-gwAWUFyrUVEmW4bV6LUtvORuZ6MqaP32vCsZF3Rab3a4YjC7_D_lWH1hZ_OtwCaQFhEsNSotrdSGrsvQ88OPT6_1UDA8_M5Y9XB2rbi6Gq7LejVd1y2v2WvYf-On5UPP35_40XqryZZpE8X4pxaVuL5W4FO3XjvWnXf7nU2N28-3tcdY90vfU8KWAYJCazl0Y0zqPkRWGnpxEo-pRf8UtamSyBzMJuxlZxn7jiPxA91GDmjT075PGp17L10njTHTliLXgcwCJkhJ0pEBEOdWHvOUTRh-OCpbGzpY-2nBD-oRZ6W32KE5RnBr-SpxCxPsgvlGCQ4WInG5Ck9tpWJ1YixQW47Mb4Z7I4MjiCoWR8IsDAgTpNhX-mNPlNmo-_s0eBYRK2d4DGenpOsIts2w5BnibUZySRiAqCVLQfg4QnpI2JXwFTAZ1w6w4DBGOkzi1CfHrZH8eiCk8Lgk3WHGd-F3tEf8xb8SBWggH0DF9A6sJcKyNuZd9o2qCFitrE6gFWj943sv5OOx-SzdIGYONYqc4unOVAJ2Bvhzn-7jQ_bBotNadP4OFpskqUFRNAdpfwwDeZQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Byepbnicdc5LbptAAIBh9TzZMEzAuLsQGAPBY_OY4bEbGMzDYyAYjJNL9AqRk1RKl1XVbnON9jTNotuuf33S_-VS1L9mN4jYyfKMLHP3W3s723dWeeO99UPHp3ys-Q-gwAWUFyrUVEmW4bV6LUtvORuZ6MqaP32vCsZF3Rab3a4YjC7_D_lWH1hZ_OtwCaQFhEsNSotrdSGrsvQ88OPT6_1UDA8_M5Y9XB2rbi6Gq7LejVd1y2v2WvYf-On5UPP35_40XqryZZpE8X4pxaVuL5W4FO3XjvWnXf7nU2N28-3tcdY90vfU8KWAYJCazl0Y0zqPkRWGnpxEo-pRf8UtamSyBzMJuxlZxn7jiPxA91GDmjT075PGp17L10njTHTliLXgcwCJkhJ0pEBEOdWHvOUTRh-OCpbGzpY-2nBD-oRZ6W32KE5RnBr-SpxCxPsgvlGCQ4WInG5Ck9tpWJ1YixQW47Mb4Z7I4MjiCoWR8IsDAgTpNhX-mNPlNmo-_s0eBYRK2d4DGenpOsIts2w5BnibUZySRiAqCVLQfg4QnpI2JXwFTAZ1w6w4DBGOkzi1CfHrZH8eiCk8Lgk3WHGd-F3tEf8xb8SBWggH0DF9A6sJcKyNuZd9o2qCFitrE6gFWj943sv5OOx-SzdIGYONYqc4unOVAJ2Bvhzn-7jQ_bBotNadP4OFpskqUFRNAdpfwwDeZQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUG8Yox_bhNukWrFNTFDS03G4fGPgKGo5OFd83FMq-W6oKFxmnuTzvgrIXiNJhfJqYWRi6S1rZbf-_WWRnsBsXZnOgAZjCUx8HtCaKmll8NcHG6l4L8ggS",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "TinyLane - Curated for you! Bamboo Cotton Newborn Baby Products Gift Set (13 Pcs), Essential Clothing Gift Kit For Infants Of 0-3 Years, Swaddles,",
+      "price": "₹2,199",
+      "extracted_price": 2199,
+      "immersive_product_page_token": "-NBrTnicbY1LbptAAEDV82TDzxi6swNjQwwJn5kBNtXAjPkNn2JssC_RK0ROUildtlK7zTXa0zRSt92-p6f35crKX9MuwOS09Yw03dUP1sNk3W3zlffaDx09ZmNJf-iKIku6pC8VRdU1TdSXwmtGRsK7vKSP3wtGKC9bdr_fs8Hosv8X38qG5OyfXuqKJCuaqiq6JAuiqAna00APjy-fj2w4_0xJer45FN3Ehpu83I83ZUtL8pL37-3jU1PSt6f-NF6L_Pl45OztmvNr2V4LfmXt1470p33250NldtPt7WFae7DvkeELQSnWgTk3CSzk6FLAcGMfMAc4EPrY2fpbbIox2rgEY9vKWjDQKj6nRq1k2-LehXAmYS5kvK8w5jaSRpiBpHRqIIUXMIRifcGmP9DQF1yJc6eyBUe0gQvAGpp9mxhw9qLepW2tuIAb7z85qejZk5OLj9GeoeKIuG9keDTTRlRDWHQMj-uwtqYszKZIsCdsUAtevCmQUeRItHIiekyr1YKhRPIqYPnYJsyEi0SKRYaBRUFxZBXdIQntWN1LbmNjp0lis6ByCNwojhILQr-M63mAJveowHfBhq6h35Ue9C9ZxRuIgEkNxBEHhJq5mMD5lGBfJXXvQ4hM551D73k-DPvfwgosxuBeWSgna8MXioq7dl6250NlqMT_JN7Vq4_iUtMkVVyomioqfwEeDOA1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-NBrTnicbY1LbptAAEDV82TDzxi6swNjQwwJn5kBNtXAjPkNn2JssC_RK0ROUildtlK7zTXa0zRSt92-p6f35crKX9MuwOS09Yw03dUP1sNk3W3zlffaDx09ZmNJf-iKIku6pC8VRdU1TdSXwmtGRsK7vKSP3wtGKC9bdr_fs8Hosv8X38qG5OyfXuqKJCuaqiq6JAuiqAna00APjy-fj2w4_0xJer45FN3Ehpu83I83ZUtL8pL37-3jU1PSt6f-NF6L_Pl45OztmvNr2V4LfmXt1470p33250NldtPt7WFae7DvkeELQSnWgTk3CSzk6FLAcGMfMAc4EPrY2fpbbIox2rgEY9vKWjDQKj6nRq1k2-LehXAmYS5kvK8w5jaSRpiBpHRqIIUXMIRifcGmP9DQF1yJc6eyBUe0gQvAGpp9mxhw9qLepW2tuIAb7z85qejZk5OLj9GeoeKIuG9keDTTRlRDWHQMj-uwtqYszKZIsCdsUAtevCmQUeRItHIiekyr1YKhRPIqYPnYJsyEi0SKRYaBRUFxZBXdIQntWN1LbmNjp0lis6ByCNwojhILQr-M63mAJveowHfBhq6h35Ue9C9ZxRuIgEkNxBEHhJq5mMD5lGBfJXXvQ4hM551D73k-DPvfwgosxuBeWSgna8MXioq7dl6250NlqMT_JN7Vq4_iUtMkVVyomioqfwEeDOA1"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDSXiGzHxK3r365aJhwctVij6s6qC3P4mSVc8mIzCY3l2waPTpaoEgjt6gDLvlkj3Ek4RgmZuRd6LCd7aQLR_h7R79wY5luIvcqV6ifpySlVjtEB8vAfw7CQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRjc_ZGOw_aICNAS430tOcXlpjvK6cwVk-Oenb6tRrjtcqzdrrCPXNbDmQumzp4fGU9v2ai462FB12JOfjDAUlXd57seUvUP2I",
+      "source": "FirstCry India",
+      "title": "Mamas Care - Jungle Safari - 100% Cotton Interlock theme based Gift Set - (10+3) in Pink color with 3 Teether & Rattles - Pack of 13 Pc - Girls & Boys",
+      "price": "₹1,295.28",
+      "extracted_price": 1295.28,
+      "original_price": "28% off₹1,799",
+      "extracted_original_price": 28,
+      "immersive_product_page_token": "g41IB3icbcxLcpswAIDh6XmykXjZ7s4PwHaMCMISNpuOQDIv8SjGBvsSvULGSTqTLtuZdptrtKdpFl12_c_3f7mJ7Fe_8QN2XnqLKNoUD6uHfnW_TKbea9PW_BR3Gf-hw_HYUBQVAl0F-miiQ-M1Zh2TdZLxx--pYFxmlXAPB9Eu6vj_4ltWskT8y4o6UlV9BMbKBIDJZASNp5YfH18-n0R7-Rmx6HJ3TOtetHdJdujusopn7CVp3u3jU5nxt6fm3N3S5Pl0kuLtlshbVt1SeRPV15o150P850Nu1v18fuxnHmkausDAzznZ0LUWE3SmstbokofE5I5TJgpS0iKusLE1NZ1CutvauPCKVBFVOMMqPRLpAQKQT4I1JZCyvYouLrHUIEj6bc6RAyRxaWqEinONQAM4rTVsrwGqrC4K1moIkRtbTRMsOYuI9f6UKFjimb9LgFPuewZTFu1WF7GVVy5Rh-FUETlykJyVSLUKoqRLn0w0QbQelWEjglBhEmehmXY0oDkC4SmyB3sfDDUqm224M3VHyoNHoCbmoHeDYYgsZDvKCpgpV7cW2u134YoQnO2LoSWm9DiQG9_mM4LrzCP4GueyJCXPiYX7oBy0UDWvmGCNlfqRVeshBvKKaeh63vNwbA-_wdTSO9_VdO28sqWuGUFdDaPqcswXBsOf4H0x_QhH47FiQN0YG1D7C-723gY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=g41IB3icbcxLcpswAIDh6XmykXjZ7s4PwHaMCMISNpuOQDIv8SjGBvsSvULGSTqTLtuZdptrtKdpFl12_c_3f7mJ7Fe_8QN2XnqLKNoUD6uHfnW_TKbea9PW_BR3Gf-hw_HYUBQVAl0F-miiQ-M1Zh2TdZLxx--pYFxmlXAPB9Eu6vj_4ltWskT8y4o6UlV9BMbKBIDJZASNp5YfH18-n0R7-Rmx6HJ3TOtetHdJdujusopn7CVp3u3jU5nxt6fm3N3S5Pl0kuLtlshbVt1SeRPV15o150P850Nu1v18fuxnHmkausDAzznZ0LUWE3SmstbokofE5I5TJgpS0iKusLE1NZ1CutvauPCKVBFVOMMqPRLpAQKQT4I1JZCyvYouLrHUIEj6bc6RAyRxaWqEinONQAM4rTVsrwGqrC4K1moIkRtbTRMsOYuI9f6UKFjimb9LgFPuewZTFu1WF7GVVy5Rh-FUETlykJyVSLUKoqRLn0w0QbQelWEjglBhEmehmXY0oDkC4SmyB3sfDDUqm224M3VHyoNHoCbmoHeDYYgsZDvKCpgpV7cW2u134YoQnO2LoSWm9DiQG9_mM4LrzCP4GueyJCXPiYX7oBy0UDWvmGCNlfqRVeshBvKKaeh63vNwbA-_wdTSO9_VdO28sqWuGUFdDaPqcswXBsOf4H0x_QhH47FiQN0YG1D7C-723gY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdqlGvmkyKpu3hsBBocpGLOAC-_eh1estsPg_HVirbkq2xOXSo_lp-9T4kB1ItWhDK1j0eLaLn8xBKd9wKl5W8KnYGetJgxm3iXsRgCqc4-Fks5mDjWEOS",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Toy Imagine Tummy Time Water Mat for Babies | Sensory Play Gym for 6-12 Months | Newborn Baby Essentials | Water-Filled Activity Mat | Baby Gifts |",
+      "price": "₹229",
+      "extracted_price": 229,
+      "immersive_product_page_token": "cNuXv3icbY5LbptAAEDV82TD33Z3JjAGx4EwMAPMpgKGzwAGAthgXyJXiJykUrpspXaba7SnqaVuu356eu_pkrJf0871o6PhaHG8qx7Mh8m8M_K18971LT0kI6M_FGkpC9JClHlRUlaCKAniexKNUd3mjD5_L9KI1qxJ7SxLe61N_m98Y_soT_9hQeZEZcELC1GQhIW0XHH8S0-H57fHQ9qffsZRfLoZinZK-5ucZeMNayiL3vLu6j6_7Bn9eOmO46XIXw-HOv245PWFNZeivqTN1zbqjlny51Opt9Pt7TCpDuo6rEHO3c-Wh4shQhQQ0B1dvTDjJjmTsyrHnOx4tYo8vt4khnOmviPbG4thDDzbg9nOAyDVVy6teBnpnWNxMEvQMIZ4ywheCzgoHgiqRhzkMirh1vMgcg1I3I2lJEZ-8vYE3uOC4dq6t7U6uMYed4Fq2F7hJ_qoIEA4X19ZUMRV2FDbCtpzrNGWeCaP9NqE_DZyER1JqfJ2UEywJLNfYiURCy2s6mHnqVNYhXJ0hpytb_2wpJ27mR9dAG4dweLChjgpAB058bJeUNEDVhAGxEQIsrCa-2vDoVy9czdURbBlDoLnpKz32MCTX9EjBdvAr67f4lZMwQoRvZrdgBzvRTiT6XUe-uw3twby6NqSLB3NTS1Lit8286I5DaWmRPALf1etP_OL5VJQeFlZKrz0F8fT30c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cNuXv3icbY5LbptAAEDV82TD33Z3JjAGx4EwMAPMpgKGzwAGAthgXyJXiJykUrpspXaba7SnqaVuu356eu_pkrJf0871o6PhaHG8qx7Mh8m8M_K18971LT0kI6M_FGkpC9JClHlRUlaCKAniexKNUd3mjD5_L9KI1qxJ7SxLe61N_m98Y_soT_9hQeZEZcELC1GQhIW0XHH8S0-H57fHQ9qffsZRfLoZinZK-5ucZeMNayiL3vLu6j6_7Bn9eOmO46XIXw-HOv245PWFNZeivqTN1zbqjlny51Opt9Pt7TCpDuo6rEHO3c-Wh4shQhQQ0B1dvTDjJjmTsyrHnOx4tYo8vt4khnOmviPbG4thDDzbg9nOAyDVVy6teBnpnWNxMEvQMIZ4ywheCzgoHgiqRhzkMirh1vMgcg1I3I2lJEZ-8vYE3uOC4dq6t7U6uMYed4Fq2F7hJ_qoIEA4X19ZUMRV2FDbCtpzrNGWeCaP9NqE_DZyER1JqfJ2UEywJLNfYiURCy2s6mHnqVNYhXJ0hpytb_2wpJ27mR9dAG4dweLChjgpAB058bJeUNEDVhAGxEQIsrCa-2vDoVy9czdURbBlDoLnpKz32MCTX9EjBdvAr67f4lZMwQoRvZrdgBzvRTiT6XUe-uw3twby6NqSLB3NTS1Lit8286I5DaWmRPALf1etP_OL5VJQeFlZKrz0F8fT30c"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeUnJxWvMeFD-SAU82ZfXO-h_UE5q8hSy6CUlGpodr2JcFo2GFfN75GIw7-nYLF1oxuUZNqsAAFuKiYxfbNIsbSja5rn_8cgi7bgx1pw7r",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT7tE0o7iueSEB5yKWjPN12tfTDoaLlatfNnMZ8qP_B4PXxaP75lpXr8f5HAG0U1gNLKPuutztgpkaMVILKXU_yN4f47EJm",
+      "source": "thedottedi.in",
+      "title": "Pamper Me Baby Hamper",
+      "price": "₹3,750",
+      "extracted_price": 3750,
+      "immersive_product_page_token": "XIU3b3icdY9LbptAAEDV82TDzADG3cUGHDcEe4AZbDYVMBgGhk8wxsAlegXLSSqly6pqt7lGe5pm0W3XT09P78s14b_OluuH_R3Wo8gqtuvteX1_l97i16at2SnuOPsBkIIgAipSkSzDuaahOXyNwy4UdcrZ5XuWhEzwKtkcDkmr1_F_lG-8DNPkH5cBhDMNQnkmzzWgzuaa-tSy4-Xl8ZS0488ojMabY1afk_Ym5YfuhleMhy9p8y5fnkrO3p6avrtm6fPpJJK3ayquvLpm4ppUX-uw6Q_xnw-5UZ-Xy-N5gUnTUN2R3N2DjIk8RlAb_SXIsUersACy74mKroZsQ23FKQwYIZskd0EWe0QhZZBjYO7cct5HQoM21QBGMYp8iuMiQwyadaAHg19-Ujxh8sA3t2yUJMvbj061OHmQtTtor-KVUvm6gNQUneVrkztlQQRMJzBNmBjs4JM5ZNT2AuOIHIlIDILBXe3HcFpUbDLRZikpD6bZUbDQHZgp2FtMftkMu4kZMaR7h9hr7CttlC8qAh1kUYr3Pt0SDh6p0EZSdFKi0x5XtDUyhjzT3u13wZoQh--LoSWGwEwSlrtiC-LUHBNninNRElJMIaGnB0qDIM_cxKjfiwMKaPD-41gbovQEPw_H9vBbujWVzt3IityvV0KRVb-uhlk1HnNdDZ3P4L64_QhmmgZVoKiaCuS_0W_d5Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XIU3b3icdY9LbptAAEDV82TDzADG3cUGHDcEe4AZbDYVMBgGhk8wxsAlegXLSSqly6pqt7lGe5pm0W3XT09P78s14b_OluuH_R3Wo8gqtuvteX1_l97i16at2SnuOPsBkIIgAipSkSzDuaahOXyNwy4UdcrZ5XuWhEzwKtkcDkmr1_F_lG-8DNPkH5cBhDMNQnkmzzWgzuaa-tSy4-Xl8ZS0488ojMabY1afk_Ym5YfuhleMhy9p8y5fnkrO3p6avrtm6fPpJJK3ayquvLpm4ppUX-uw6Q_xnw-5UZ-Xy-N5gUnTUN2R3N2DjIk8RlAb_SXIsUersACy74mKroZsQ23FKQwYIZskd0EWe0QhZZBjYO7cct5HQoM21QBGMYp8iuMiQwyadaAHg19-Ujxh8sA3t2yUJMvbj061OHmQtTtor-KVUvm6gNQUneVrkztlQQRMJzBNmBjs4JM5ZNT2AuOIHIlIDILBXe3HcFpUbDLRZikpD6bZUbDQHZgp2FtMftkMu4kZMaR7h9hr7CttlC8qAh1kUYr3Pt0SDh6p0EZSdFKi0x5XtDUyhjzT3u13wZoQh--LoSWGwEwSlrtiC-LUHBNninNRElJMIaGnB0qDIM_cxKjfiwMKaPD-41gbovQEPw_H9vBbujWVzt3IityvV0KRVb-uhlk1HnNdDZ3P4L64_QhmmgZVoKiaCuS_0W_d5Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOwDnDMAXv5URzG97NqxjWa_XqOkqQCJR9ROGtFrs3fFrzzBOamu-tzdw5wxUZZhFWdweMb1qzr33dPLlH9bulKn2PQ2wYOm5msIBf7pO9S1IGYARoUpfZiQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_V2UQdcBLwDfc93rqMjm9bc79vLTszUeZNRy2Nm6UA2sMdtljvjLu0tRJLV2s4F_L1isESPkaHfLsINpZxu3WtZduSgdC",
+      "source": "Zepto",
+      "title": "Baby Record Book Newborn Journal for Boys and Girls (Ideal Gift for Expecting Parents, Baby Shower)",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": "₹229",
+      "extracted_price": 229,
+      "immersive_product_page_token": "I6Jup3icdZBNjqNGAIWV8_SG4tdk1wYK7DZgCoqya9MqKAyYaswYbDDKHXKFkXsm0mQ5GiXbucbkJFnGiyyT9fee3tP3672o_xw3MWFXL7KzbNNsV9tx9eKVz9GX7nzil3yo-Teg65Kua4qsAV3RDROYEviSs4GJU1nzj1-rgnFRt0V4OBRn-5T_T-X3-o2Vxb98oSyAYeo6eFDdUAxDXryfef9D3lqvumoCTVEMTZE003gEgPHLFoX263-zzx8uxfn2R8ay21Nfncbi_FTWh-GpbnnNPpfdY-_j-1vNv7931-FelZ8uF1F8v5fiXrf3StyL9rcT666H_K-f_nauuWWdcyvCXZfaSIpTLNHjXs1Jf2NJek2IuLDEmfczRASKMIUmph7dZRYYY7If0qPwkQfD2K6UJG0mTsoR2-tlBk0WvJVTtgtk6og6IDAJ8ULCLWcR6ccC5jeW8hWb17u4SS-Fx9UUVDN3-5E2plXsltdM7rqgfXwCyN_E4CWXByt1JpC43CNEW8XOOvQJUgp7P--bk8ST9cEHZhDNsMZuNWbSEBZwOfi4w7nbwYRML5GEdOqAzb7p59AFBCuRFDp0y70qZC4H1O0HTrTJT5CKpS7mXnDMsQDIE29pU115Ug6UrD9ESalQgLp8F2yCGLAohXYm6CZp92PUdILjwKI4UgMIpfzhI5ijkbjTw6c27GR6yAFt093yECh0SneB7YtAx84KcCEajiUZzc0Qzc6Nk8liUhNDhfsY8Io3FULuuk7cIYrTpRLjYUUliNx6vURecAsJxYVjKgyWN7_NFeaKpmjgwNwGIEesE5gecbJEn6b-fPghPUNtiENVU68rV2iqTk7tZLS3_mjrDL2Cl-b5Z2AsFrIONH2hA_UfMW8bgw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=I6Jup3icdZBNjqNGAIWV8_SG4tdk1wYK7DZgCoqya9MqKAyYaswYbDDKHXKFkXsm0mQ5GiXbucbkJFnGiyyT9fee3tP3672o_xw3MWFXL7KzbNNsV9tx9eKVz9GX7nzil3yo-Teg65Kua4qsAV3RDROYEviSs4GJU1nzj1-rgnFRt0V4OBRn-5T_T-X3-o2Vxb98oSyAYeo6eFDdUAxDXryfef9D3lqvumoCTVEMTZE003gEgPHLFoX263-zzx8uxfn2R8ay21Nfncbi_FTWh-GpbnnNPpfdY-_j-1vNv7931-FelZ8uF1F8v5fiXrf3StyL9rcT666H_K-f_nauuWWdcyvCXZfaSIpTLNHjXs1Jf2NJek2IuLDEmfczRASKMIUmph7dZRYYY7If0qPwkQfD2K6UJG0mTsoR2-tlBk0WvJVTtgtk6og6IDAJ8ULCLWcR6ccC5jeW8hWb17u4SS-Fx9UUVDN3-5E2plXsltdM7rqgfXwCyN_E4CWXByt1JpC43CNEW8XOOvQJUgp7P--bk8ST9cEHZhDNsMZuNWbSEBZwOfi4w7nbwYRML5GEdOqAzb7p59AFBCuRFDp0y70qZC4H1O0HTrTJT5CKpS7mXnDMsQDIE29pU115Ug6UrD9ESalQgLp8F2yCGLAohXYm6CZp92PUdILjwKI4UgMIpfzhI5ijkbjTw6c27GR6yAFt093yECh0SneB7YtAx84KcCEajiUZzc0Qzc6Nk8liUhNDhfsY8Io3FULuuk7cIYrTpRLjYUUliNx6vURecAsJxYVjKgyWN7_NFeaKpmjgwNwGIEesE5gecbJEn6b-fPghPUNtiENVU68rV2iqTk7tZLS3_mjrDL2Cl-b5Z2AsFrIONH2hA_UfMW8bgw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRzbdAyEVwIhalXX-Wtsq9b13VKJcRmXz4AF6LZKrpnwa6ermQXcW2VJaLqX4vpwfZPozWAq8Xsy_eH7CipncVEVSzzbAANKP-jOl9nsn-h2CjgdxDnNy8GcQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Baby Record Book | Newborn Journal For Boys And Girls To Cherish Memories And Milestones (Ideal Gift For Expecting Parents And Baby Shower)",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": "₹199",
+      "extracted_price": 199,
+      "immersive_product_page_token": "opAYYnicbZJLkqM2AEAr5-mNhMCY7IwxxrQNlkASZjMlED8DNm3Lxu6aO-QKU-6ZVE2WSSrZzjUmJ8kyXVnP-tWrt3m_PIrm73EdcXH1sJNl63a72o6rZ6-a4a_D6SgvuWrkH5YFTQtp2nRi6ppmalNz8jUXSnTHqpGffq8LIbvmUIRlWZycY_5j47emF1XxP_4TTqZQRybSTR0hAMHUgJO3kzx_17bzDxPdggZCpoGAYZloYkLz45aEzocfsy8vl-J0_ysT2f3pXB_H4vRUNaV6ag6yEV-q4b336a1v5Le34aoedfX5cumKb4-qezSHR909isOvRzFcy_yfn_5dXPP5_JTPMR0G5hAQ9YMdc0Jzx9c2mq_EsgMSqHbjpiqGlmBepWfO7F4c7JHv3WeKbJqAbim4q0UJ8SOY2hs01CGbgtShN06tku4ZwH23Dh0ZCzCQjFZj2qYpBreeclJmHuMMqBNp633E3TEF3S7u_BecUJ240uW9kZAGsgwxD_fDM-4Ngjusxy1jQruV8hVrGUqjmAfruB14DiALlnIbuLWPX1d3huR80992Ask6dBiJk8F7b9Z8H6x4YiMB6oNsjVfmtoo70t7xALAF1ujeV5vetQlPX4TmdjSRNW0DnsLdLWO2HSyCC6auKBymqGu7a6qcHNo7jGb3nAUoagkMOusqD3KRxvK8A8THLbxFTrBjaPDJcrDJ3ncCL1WCHzXGJIt5Z0SscyLU9aSfjhQwbc3PkYvkhkJZy7YmZOk38VLhiNkoomqVApcsG98mXnAPeRqHcTqIO1AMMRgtYModqsKkxtKd6am7Q7iV9ufb-VR-BzPXUFGop4eK9pnX4GQsC2wx7aVNjiVtnsfqZ2hOp9oEGpP3Za3_AAyIGTk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=opAYYnicbZJLkqM2AEAr5-mNhMCY7IwxxrQNlkASZjMlED8DNm3Lxu6aO-QKU-6ZVE2WSSrZzjUmJ8kyXVnP-tWrt3m_PIrm73EdcXH1sJNl63a72o6rZ6-a4a_D6SgvuWrkH5YFTQtp2nRi6ppmalNz8jUXSnTHqpGffq8LIbvmUIRlWZycY_5j47emF1XxP_4TTqZQRybSTR0hAMHUgJO3kzx_17bzDxPdggZCpoGAYZloYkLz45aEzocfsy8vl-J0_ysT2f3pXB_H4vRUNaV6ag6yEV-q4b336a1v5Le34aoedfX5cumKb4-qezSHR909isOvRzFcy_yfn_5dXPP5_JTPMR0G5hAQ9YMdc0Jzx9c2mq_EsgMSqHbjpiqGlmBepWfO7F4c7JHv3WeKbJqAbim4q0UJ8SOY2hs01CGbgtShN06tku4ZwH23Dh0ZCzCQjFZj2qYpBreeclJmHuMMqBNp633E3TEF3S7u_BecUJ240uW9kZAGsgwxD_fDM-4Ngjusxy1jQruV8hVrGUqjmAfruB14DiALlnIbuLWPX1d3huR80992Ask6dBiJk8F7b9Z8H6x4YiMB6oNsjVfmtoo70t7xALAF1ujeV5vetQlPX4TmdjSRNW0DnsLdLWO2HSyCC6auKBymqGu7a6qcHNo7jGb3nAUoagkMOusqD3KRxvK8A8THLbxFTrBjaPDJcrDJ3ncCL1WCHzXGJIt5Z0SscyLU9aSfjhQwbc3PkYvkhkJZy7YmZOk38VLhiNkoomqVApcsG98mXnAPeRqHcTqIO1AMMRgtYModqsKkxtKd6am7Q7iV9ufb-VR-BzPXUFGop4eK9pnX4GQsC2wx7aVNjiVtnsfqZ2hOp9oEGpP3Za3_AAyIGTk"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqsh4bZsFn17IPD-xvtTIVvsSiU6sBQc0udyC5NxgyC49V6xqzHEI2zQ1mM-MQ4xCd-RXI9D_AZvS_42LasJn_-M0ScVeHQhSEq0-EC_Hy",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "CraftVatika Baby shower Haldi Kumkum Return Gifts in Bulk Festive Decor, Pasupu Haldi Bottle Mom To Be Cutout, Thamboolam Return Gifts for Wedding",
+      "price": "₹398",
+      "extracted_price": 398,
+      "immersive_product_page_token": "lniKw3icdY5LbptAAEDV82QzM3iC010wH5sANuDhM7uB4T98YuOQcIlcIXKSSumyrdptrtGeplH33b6nJ73Hc1b9miw_ZHdrV00Sq9ltdtPmZl1cu2_DoeendKz4DwgAAnhxCZcSgFdQRliS31I2MtEXFX_6VmaMi6rLtnmeHdQ-_U_ytWpZkf3z3z8IkpcIo4UMMACyhOTnAz8-vd6essPDz4QlDxfHsp-yw0VR5eNF1fGKvRbDR_v03Fb8_Xm4G89l8XI6iez9XIhz1Z1Lcc66Lz0b7vL0z6da66fV6jgpLhmGQPWAD6jndo7qExFmjTaRkPZpyK2tNixo5G19w8Rh7eh2FAhiQBi0JSOBafkS3aTtQrIJbx21rOkKiqSJFxnhW2929H03xHbAmdPRONSVMOk2KI0GM92bEUXY9Rp7TAPd2KNxYQeiZFCMXJgGr83JFopihfYDA15LGj5nQi-pyn1_Doi9jnEwO5hDGlJQMsfAwAEj9dWS7Q0vjJDe-CpXfNLfs1rEXrBBQVTGVtBIfG3jAA4rqi0npsETA_psA1Px63KrlVza604UR3RDiFfFzf2BaMLlQFi-wRXi9ZVLvDmtRUtqxU5bbH98z9na3BFJv02QiHiLdy7i-wgqJZ1e7o-H_De41vHobxe0K0ibrCs3mvLMvQrQbRP1OalupuIzlJdLdAnx5RLDq790kd7-",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lniKw3icdY5LbptAAEDV82QzM3iC010wH5sANuDhM7uB4T98YuOQcIlcIXKSSumyrdptrtGeplH33b6nJ73Hc1b9miw_ZHdrV00Sq9ltdtPmZl1cu2_DoeendKz4DwgAAnhxCZcSgFdQRliS31I2MtEXFX_6VmaMi6rLtnmeHdQ-_U_ytWpZkf3z3z8IkpcIo4UMMACyhOTnAz8-vd6essPDz4QlDxfHsp-yw0VR5eNF1fGKvRbDR_v03Fb8_Xm4G89l8XI6iez9XIhz1Z1Lcc66Lz0b7vL0z6da66fV6jgpLhmGQPWAD6jndo7qExFmjTaRkPZpyK2tNixo5G19w8Rh7eh2FAhiQBi0JSOBafkS3aTtQrIJbx21rOkKiqSJFxnhW2929H03xHbAmdPRONSVMOk2KI0GM92bEUXY9Rp7TAPd2KNxYQeiZFCMXJgGr83JFopihfYDA15LGj5nQi-pyn1_Doi9jnEwO5hDGlJQMsfAwAEj9dWS7Q0vjJDe-CpXfNLfs1rEXrBBQVTGVtBIfG3jAA4rqi0npsETA_psA1Px63KrlVza604UR3RDiFfFzf2BaMLlQFi-wRXi9ZVLvDmtRUtqxU5bbH98z9na3BFJv02QiHiLdy7i-wgqJZ1e7o-H_De41vHobxe0K0ibrCs3mvLMvQrQbRP1OalupuIzlJdLdAnx5RLDq790kd7-"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOwDnDMAXv5URzG97NqxjWa_XqOkqQCJR9ROGtFrs3fFrzzBOamu-tzdw5wxUZZhFWdweMb1qzr33dPLlH9bulKn2PQ2wYOm5msIBf7pO9S1IGYARoUpfZiQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_V2UQdcBLwDfc93rqMjm9bc79vLTszUeZNRy2Nm6UA2sMdtljvjLu0tRJLV2s4F_L1isESPkaHfLsINpZxu3WtZduSgdC",
+      "source": "Zepto",
+      "title": "Baby Record Book Newborn Journal for Boys and Girls (Ideal Gift for Expecting Parents, Baby Shower)",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": "₹229",
+      "extracted_price": 229,
+      "immersive_product_page_token": "dX5-unicdZDLjptIAEU139MbCgyY2TXmZcemTBXP2rSgClPVPBtjt23lH-YXInd6pM4yipJtfiP5klmOI2U5sz736Ej3r2spvj2vcZIfvcAqinW9XW6fl--86j54G8aeHegk2BegaZKmqYqsAk3RdAMYEnij-ZQ3fSXYh8-8zFkjuhLuduVo9fR_lE-izavyN58rc6AbmgZuVNMVXZfnLyPb_5C3iwdtZgBVUXRVkVRDvw2A_n6LoPXw3-z16VCO569FXpzv9rx_Lse7SuymO9Exkb9Ww6334aUV7PvLcJyuvPp4ODTl92vVXEV35c217P7u8-G4oz__-Mc-0sVipIsgGobYQlJo88cgNRcbwO3QDaagdXx0Ibnv-Vl0aaR1oma48bXYtc9lQ1WaZucwOhHcDFkSGRmx4yxpzB109ycUcrCJESctymkSZygCZuhyEUtTiuUJZvLsORCS6qe8DlJuQadZ-7UvspAEWAIL7PEjCpHLbENjCtsmzSot7BMI43sQ1k0bdLwjIeE4dWapxLLEMd9Bj_freEWgvZSRMuSF7UDoOXWZgE0U-wTLJI2SQUBvNRZyBmKLkbydnqgLTBSpy9zyB99bXZjM4M09BnE1yy7-FAgQBo2BqEt82oIj9JhHLQo2krHeCHAIPb_LahCwx-CMauTdHJI4DOILqVGEfOj4T6ztL8ljNEW2M2GH29AF_frXZ3J2KjryWLp8Rzsk8gTZRAZ1Jk1mKmcqdil2FLaJAOOs5gi5KxG6U4BjU8HRtCSSg1yxMpHnn2Fye-RCNqXjjDjiUQFiJ1IG-9Y_h3WsUActQ8VUPp724-6HdO-oE4bquDmfrOND-TTIszhthRiTS7zHuO2rP4E-n8saULW5Kkv_Avv3Gmc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dX5-unicdZDLjptIAEU139MbCgyY2TXmZcemTBXP2rSgClPVPBtjt23lH-YXInd6pM4yipJtfiP5klmOI2U5sz736Ej3r2spvj2vcZIfvcAqinW9XW6fl--86j54G8aeHegk2BegaZKmqYqsAk3RdAMYEnij-ZQ3fSXYh8-8zFkjuhLuduVo9fR_lE-izavyN58rc6AbmgZuVNMVXZfnLyPb_5C3iwdtZgBVUXRVkVRDvw2A_n6LoPXw3-z16VCO569FXpzv9rx_Lse7SuymO9Exkb9Ww6334aUV7PvLcJyuvPp4ODTl92vVXEV35c217P7u8-G4oz__-Mc-0sVipIsgGobYQlJo88cgNRcbwO3QDaagdXx0Ibnv-Vl0aaR1oma48bXYtc9lQ1WaZucwOhHcDFkSGRmx4yxpzB109ycUcrCJESctymkSZygCZuhyEUtTiuUJZvLsORCS6qe8DlJuQadZ-7UvspAEWAIL7PEjCpHLbENjCtsmzSot7BMI43sQ1k0bdLwjIeE4dWapxLLEMd9Bj_freEWgvZSRMuSF7UDoOXWZgE0U-wTLJI2SQUBvNRZyBmKLkbydnqgLTBSpy9zyB99bXZjM4M09BnE1yy7-FAgQBo2BqEt82oIj9JhHLQo2krHeCHAIPb_LahCwx-CMauTdHJI4DOILqVGEfOj4T6ztL8ljNEW2M2GH29AF_frXZ3J2KjryWLp8Rzsk8gTZRAZ1Jk1mKmcqdil2FLaJAOOs5gi5KxG6U4BjU8HRtCSSg1yxMpHnn2Fye-RCNqXjjDjiUQFiJ1IG-9Y_h3WsUActQ8VUPp724-6HdO-oE4bquDmfrOND-TTIszhthRiTS7zHuO2rP4E-n8saULW5Kkv_Avv3Gmc"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSL3bMHTcFtwbzqPc73ODM1DOn7s5uiF8728dIaJlrrhYdJK5_Jt5OfZBp_rpxHtcLVKaG3MtpS9d8uZLjYz80hby4IQR-yFu0ZEwl5kkS2mGMBcolzOk5M6w",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+      "source": "amazon.in",
+      "title": "MOM CARE Baby Diaper Storage Organizer Nappies Bag For Mother Stylish Storage Bag For All Newborn Baby Products Nursery Basket -Pink, Non woven",
+      "price": "₹643",
+      "extracted_price": 643,
+      "immersive_product_page_token": "djLP0HicbY5LbptAAEDV82TDDB9DdyaA7dTYATwzwG6Y4WfGQDEOmEvkCpaTVEqXqdRuc432NI267vrpPb3Ha1r-GtYBoQ9Lz0qSdXW_uh9WX5b53Httu4afWF_yN21myLIK5Zmmy_pMVxTjldGeiiYv-eWtSCkXZZ1usyztrIb9V_heHmie_qM_gApVTVZ0CSiqqkHdgPCp48fLy9dT2p1_JjQ53xyLZki7m7zM-puy5iV9ydsP9_J0KPn7U_vQX4v8-XQS6fs1F9eyvhbimtbfGto-ZOzPp73dDLe3x8H0UNtiy5cCIEZGjj0SjcqkAfi4OXsI0BBEQwyww0WruThSvSmCrIogJwaKJWEFC1zzXSRvRD4x0mvePkY7C6sEi8E9SyoJ76ad_NGq3BEvIkgcJ6L2uMcwLrhlYhKAzCX92ZX8ZQgHkDptQUWRUWEqW2yGicSzpDZrFxtLF2CE9_zAwg0idh8Sp9jyJYNsP1eYcExmi4AvizG17u4R4OcE4VNqG10oiYIgx6O18JiYwzUW2JW5oNgIUaWGETIOH88xc3hnF1zeOZswCuMVQn4ZVWOHbOFxSayDBTeR35Qe8ie2Fwd0EPEOiWqz0AEGKxjKZuaDtsFEBAiO0AvxLfKex2OX_ZbmjtoHW81iyVTRWsITyfFYzS1QdOPU7RTZ-wxmug41oGq6CsFfQgnfTA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=djLP0HicbY5LbptAAEDV82TDDB9DdyaA7dTYATwzwG6Y4WfGQDEOmEvkCpaTVEqXqdRuc432NI267vrpPb3Ha1r-GtYBoQ9Lz0qSdXW_uh9WX5b53Httu4afWF_yN21myLIK5Zmmy_pMVxTjldGeiiYv-eWtSCkXZZ1usyztrIb9V_heHmie_qM_gApVTVZ0CSiqqkHdgPCp48fLy9dT2p1_JjQ53xyLZki7m7zM-puy5iV9ydsP9_J0KPn7U_vQX4v8-XQS6fs1F9eyvhbimtbfGto-ZOzPp73dDLe3x8H0UNtiy5cCIEZGjj0SjcqkAfi4OXsI0BBEQwyww0WruThSvSmCrIogJwaKJWEFC1zzXSRvRD4x0mvePkY7C6sEi8E9SyoJ76ad_NGq3BEvIkgcJ6L2uMcwLrhlYhKAzCX92ZX8ZQgHkDptQUWRUWEqW2yGicSzpDZrFxtLF2CE9_zAwg0idh8Sp9jyJYNsP1eYcExmi4AvizG17u4R4OcE4VNqG10oiYIgx6O18JiYwzUW2JW5oNgIUaWGETIOH88xc3hnF1zeOZswCuMVQn4ZVWOHbOFxSayDBTeR35Qe8ie2Fwd0EPEOiWqz0AEGKxjKZuaDtsFEBAiO0AvxLfKex2OX_ZbmjtoHW81iyVTRWsITyfFYzS1QdOPU7RTZ-wxmug41oGq6CsFfQgnfTA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFB8hURtxxGJu4GuDyE2hr-ZTRWZ60T_oEZJdblkYcYUO3CEJSc_nwHoR6STLmTPP9v3BHegWpRJJpDAOZ51cAyvFJ2mcpubR9Um4DyXBFLSs2dFAIiMMMkw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRjc_ZGOw_aICNAS430tOcXlpjvK6cwVk-Oenb6tRrjtcqzdrrCPXNbDmQumzp4fGU9v2ai462FB12JOfjDAUlXd57seUvUP2I",
+      "source": "FirstCry India",
+      "title": "Moms Home Organic Cotton Baby Shower Gift Set - 5 Piece Multicolor Combo with Soft Diapers and Napkins",
+      "price": "₹695.42",
+      "extracted_price": 695.42,
+      "original_price": "42% off₹1,199",
+      "extracted_original_price": 42,
+      "immersive_product_page_token": "2YHiLHicdZI7cptAAEAn53EDi5BEOssIJCyB-Sy_JgPsigV2AQPidwlfwSPbmXHKJJO0vkZymjjpU7zqzevewwVnP4eD7UX9zpTj-FDc7e-G_e0uvTZf66ZC56TL0Hee51fLhcDxwgpIgF-tAS--JlEX0SrN0ONXgiNEsxIbpxNu5Cr5T_IlY1GK__lvS269FFfSWgALThL_Ij01qH18uT_jZvoRR_F01ZJqwM1Vmp26q6xEWfSS1u_t4xPL0NtT3XcXkj6fzxS_XVJ6ycoLoRdcfq6iuj8lvz_k22q4uWmHjQnr2pUtznaDKcl1GnOhYzF9EQCdWbmyC3nSRgzJHqtHS9icLRUCR9DDGFLVBe0UwfF4hCI7Ml7QFan21KKzOK3xmEQP3n6I8nTGUDy4nt7brtY5PpqQQKPA5h0v13qXkV7fETUBqHRmcxELG4J4Sm3QtWFBtj5wl6ETGrqi1Akk43FHa0NGfeLVcuwVog2l2uaCSadSG6qKEZTabHKJYPvW3vPGygFkxk7BGY670EsiYJUwA4ptwtCNzhez52i945NDNGsb7GvCliDBUXQ_8MM9hFYWFGMDt9REHD3YKtpAq8pMaM1JThkskI9AMAW5do-4asTuetId1FhFqDiwu8XbYUDD89g2p1_ctSJ2tiE2x2mU-0_4vgYL12dZ1niz29o2q9KP7yeswZIXl2sRcH8Aj6TjXQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2YHiLHicdZI7cptAAEAn53EDi5BEOssIJCyB-Sy_JgPsigV2AQPidwlfwSPbmXHKJJO0vkZymjjpU7zqzevewwVnP4eD7UX9zpTj-FDc7e-G_e0uvTZf66ZC56TL0Hee51fLhcDxwgpIgF-tAS--JlEX0SrN0ONXgiNEsxIbpxNu5Cr5T_IlY1GK__lvS269FFfSWgALThL_Ij01qH18uT_jZvoRR_F01ZJqwM1Vmp26q6xEWfSS1u_t4xPL0NtT3XcXkj6fzxS_XVJ6ycoLoRdcfq6iuj8lvz_k22q4uWmHjQnr2pUtznaDKcl1GnOhYzF9EQCdWbmyC3nSRgzJHqtHS9icLRUCR9DDGFLVBe0UwfF4hCI7Ml7QFan21KKzOK3xmEQP3n6I8nTGUDy4nt7brtY5PpqQQKPA5h0v13qXkV7fETUBqHRmcxELG4J4Sm3QtWFBtj5wl6ETGrqi1Akk43FHa0NGfeLVcuwVog2l2uaCSadSG6qKEZTabHKJYPvW3vPGygFkxk7BGY670EsiYJUwA4ptwtCNzhez52i945NDNGsb7GvCliDBUXQ_8MM9hFYWFGMDt9REHD3YKtpAq8pMaM1JThkskI9AMAW5do-4asTuetId1FhFqDiwu8XbYUDD89g2p1_ctSJ2tiE2x2mU-0_4vgYL12dZ1niz29o2q9KP7yeswZIXl2sRcH8Aj6TjXQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWxBTNatEFG6Wmm_LG597wJGJap7Vj5Dwr_pGqP0_KrFOlXGuYHR3wRfukovaW2CKcSwaIrijzGr90RQ8iwafaqsPo3aAVovHA67tmNIbzpevL-b5vgqPzIQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "MOM CARE New Born Baby Kit Combo Set (11 Pieces) | Newborn Baby Gift Set 0–3 Months | Cotton Baby Clothes Set | New Born Baby Essentials for Boys &",
+      "price": "₹999",
+      "extracted_price": 999,
+      "immersive_product_page_token": "poQVznicdZDLbptAAEXV78lmYIyB7kIwtomxy8Dw2g0Mj4HhYYyNzU_0FyInqZQu26rd5jfar6nVfZdHV0e6Op-vKfs1bhyfnFa2Hseb6tP607h-XOX39lvXt_SYDIz-EGRZlYTZTIJwpghAhjd8S8hAeJsz-vStSAnlrEl3WZb2epv8R_nKapKn__bvc1mRgSrJM1VVVAjFuSI89_Tw9Lo_pv3lZ0ziy92haMe0v8tZNtyxhjLymnc39-m5ZvT9uTsN1yJ_OR55-n7N-ZU114Jf0-ZLS7pTlvz5UC7a8eHhMGo27jpPR8AJinEXbBvCBBjWhRhDuo1rCuIg6v1FN9gYNQGIFlbVju5knHa6Vu5c6kYc2ZaYXyJOedp4k-8aDvFDyTe0hnpmgQE3SVCElqHtvcma6FLoA-BxC5o7F69Fx9iWiW8CImhjVN5DbxUhJJ59BAR9W0uALD094mpJOMr80shw5e3DCfVIaCH1CtMF5gWVWudByizfXGLejYmfDLGP-pB3c4fTDXUEx5220Cq3LJ6MC6rO0IVrGAseigCNIp9LLtSW1oSiRUGha2yDMIjWGCMWVuceL7hNAd84S6ph1LJbiykpeY0rCRM8nj3Rk5A4cLKQGhsYmaPf_oicWVV4se2X86HPfoN7Qxqc3SxqclzHK2YHY5baqifuq6DNMHsc84-CrCjiXJDmiiSofwEK_uEK",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=poQVznicdZDLbptAAEXV78lmYIyB7kIwtomxy8Dw2g0Mj4HhYYyNzU_0FyInqZQu26rd5jfar6nVfZdHV0e6Op-vKfs1bhyfnFa2Hseb6tP607h-XOX39lvXt_SYDIz-EGRZlYTZTIJwpghAhjd8S8hAeJsz-vStSAnlrEl3WZb2epv8R_nKapKn__bvc1mRgSrJM1VVVAjFuSI89_Tw9Lo_pv3lZ0ziy92haMe0v8tZNtyxhjLymnc39-m5ZvT9uTsN1yJ_OR55-n7N-ZU114Jf0-ZLS7pTlvz5UC7a8eHhMGo27jpPR8AJinEXbBvCBBjWhRhDuo1rCuIg6v1FN9gYNQGIFlbVju5knHa6Vu5c6kYc2ZaYXyJOedp4k-8aDvFDyTe0hnpmgQE3SVCElqHtvcma6FLoA-BxC5o7F69Fx9iWiW8CImhjVN5DbxUhJJ59BAR9W0uALD094mpJOMr80shw5e3DCfVIaCH1CtMF5gWVWudByizfXGLejYmfDLGP-pB3c4fTDXUEx5220Cq3LJ6MC6rO0IVrGAseigCNIp9LLtSW1oSiRUGha2yDMIjWGCMWVuceL7hNAd84S6ph1LJbiykpeY0rCRM8nj3Rk5A4cLKQGhsYmaPf_oicWVV4se2X86HPfoN7Qxqc3SxqclzHK2YHY5baqifuq6DNMHsc84-CrCjiXJDmiiSofwEK_uEK"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJSJ58w_Z2WG4B6fOC2MY_hljQxa6EWXi9YnypHr7ps_SvT64QvJhRmCFXypmeqM2FtT79Mt3_2jZTzMnZ8vQEyTXZi0cDiCWhqv84M6lSzlTkXgaplxNR",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Littlu - Newborn Baby Gifts | Baby Shower Gifts | Newborn Baby Essentials | Eco Friendly | Premium Baby Products | Pack of 6",
+      "price": "₹1,836",
+      "extracted_price": 1836,
+      "immersive_product_page_token": "sjYC8HicdctLctMwAIDh4Tzd-J2EXVM_EpPYyLb80IaRLcWWLT_qKImTS3CFTtoyU5bAwLbXgNPQYc_m3_zzfb5S9uu0CRN8XAEzzzfNx_XH0_rDqrwFL8PYk0MhGPkha4uFosiSrGuaNtP0ma4ZLwUWmPclIw_fKooJZx31dzs6mn3xH_KVtbik__532VgYqqTPFOWthmrM9PnjSPYPz_cHOp5_5jg_3-yr_kTHm5LtxA3rCMPP5fBmHx5bRl4fh6O4VuXT4cDp67XkV9ZdK36l3ZceD8dd8eddbfWnu7v9aQngMMRmIEV21cRylXoRqorE1opQtrHCHZTyFa6rKUxiI4xcKVdti9ZIwGSx8RxZBA33oSVQpuwvxFz6iVkB0lawiNwQNKXIreqwrWMvlKYIx_3k2wvJsz2VJK6Wqu49TWRIeaFEDtoWaVUHid2m0tAhix-TFAmvQ1PcIIAc1EcqOYfJ0AfQXYc2h7BGR2i7gDj6mVh263X2BUmBD2J3SVrRYdlFSPKMWCU1NpcV7qwLsWQvaQjwk0zKImLFJs8y3ottmimFoh-tiqiR7aVZitYQBixrphFaHBCJb0KHLGHQMwCDS1HzFkJxhxsuYqc4FzEUWBqsPLUDWnsakG8FbeIVAE_Tftz9lm5tXYS-Pm7Pk3n8RO8HRYvTlrExucT7MGz78r08m88VQ9aNua5IfwFs4eG0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sjYC8HicdctLctMwAIDh4Tzd-J2EXVM_EpPYyLb80IaRLcWWLT_qKImTS3CFTtoyU5bAwLbXgNPQYc_m3_zzfb5S9uu0CRN8XAEzzzfNx_XH0_rDqrwFL8PYk0MhGPkha4uFosiSrGuaNtP0ma4ZLwUWmPclIw_fKooJZx31dzs6mn3xH_KVtbik__532VgYqqTPFOWthmrM9PnjSPYPz_cHOp5_5jg_3-yr_kTHm5LtxA3rCMPP5fBmHx5bRl4fh6O4VuXT4cDp67XkV9ZdK36l3ZceD8dd8eddbfWnu7v9aQngMMRmIEV21cRylXoRqorE1opQtrHCHZTyFa6rKUxiI4xcKVdti9ZIwGSx8RxZBA33oSVQpuwvxFz6iVkB0lawiNwQNKXIreqwrWMvlKYIx_3k2wvJsz2VJK6Wqu49TWRIeaFEDtoWaVUHid2m0tAhix-TFAmvQ1PcIIAc1EcqOYfJ0AfQXYc2h7BGR2i7gDj6mVh263X2BUmBD2J3SVrRYdlFSPKMWCU1NpcV7qwLsWQvaQjwk0zKImLFJs8y3ottmimFoh-tiqiR7aVZitYQBixrphFaHBCJb0KHLGHQMwCDS1HzFkJxhxsuYqc4FzEUWBqsPLUDWnsakG8FbeIVAE_Tftz9lm5tXYS-Pm7Pk3n8RO8HRYvTlrExucT7MGz78r08m88VQ9aNua5IfwFs4eG0"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDSXiGzHxK3r365aJhwctVij6s6qC3P4mSVc8mIzCY3l2waPTpaoEgjt6gDLvlkj3Ek4RgmZuRd6LCd7aQLR_h7R79wY5luIvcqV6ifpySlVjtEB8vAfw7CQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRjc_ZGOw_aICNAS430tOcXlpjvK6cwVk-Oenb6tRrjtcqzdrrCPXNbDmQumzp4fGU9v2ai462FB12JOfjDAUlXd57seUvUP2I",
+      "source": "FirstCry India",
+      "title": "Mamas Care - Jungle Safari - 100% Cotton Interlock theme based Gift Set - (10+3) in Pink color with 3 Teether & Rattles - Pack of 13 Pc - Girls & Boys",
+      "price": "₹1,295.28",
+      "extracted_price": 1295.28,
+      "original_price": "28% off₹1,799",
+      "extracted_original_price": 28,
+      "immersive_product_page_token": "u_QO9HicbZBNbptAAEbV82QzgMGmO9v82BSTAPNj2AEzZoDBUIwN4RK9QuQkldJlK7XbXKM9Tb3osutP70nv-3Jlxa_BDUly2fhGmrrVw_Zh2H7a5Ev_re0aes76gv5QpcVCk2VFAqoC1LmuStpblvSJaPKCPn3nLKGiOLL7w4F1RpP9n_hW1EnO_s2yMlcUdQ4Wsg6Ars8l7bmjp6fXz2fWPf5Mk_Tx7sSbgXV3eXHo74ojLZLXvL2xT891Qd-f20t_5fnL-SzY-zUX1-J45eLKjl-bpL0csj8fSrMZ1uvTsPJR22IjAKFwelqZM4yCBsNszErLvMetA-tghBUfwnpQdljUGd7OIsidGPSbnRwDv45diPV9hPU6sfuLh_kqOMYElsEUiOVEbEvQahh3EjcS5JBUZKpLMAlMp4xgsPYIbinwbCYcNyzpYwiDDZbiKUVeRSz9TLFnh7bYuagFO4W23nEFqLXsmakSvIlHYgns3jwuckSE9IihAKOJY1r6swwISJUVTmAGmFhV0Ly5bX5ODD5zSYBw5RUQYtklkeptGuASPjM5VaDl7aN9vEUoKKJq7JApfAqEG9p0dbun8FEwZaWoEdAlVHI_sfk6tYTlV57m7c0xxd6eEWl3SxN0eBlP3eE3WFpqH95rRpZOVXIEeCI5HqulIfFunDo4U_yP0nyxkDVJ1RaqLP0FmQLf6Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=u_QO9HicbZBNbptAAEbV82QzgMGmO9v82BSTAPNj2AEzZoDBUIwN4RK9QuQkldJlK7XbXKM9Tb3osutP70nv-3Jlxa_BDUly2fhGmrrVw_Zh2H7a5Ev_re0aes76gv5QpcVCk2VFAqoC1LmuStpblvSJaPKCPn3nLKGiOLL7w4F1RpP9n_hW1EnO_s2yMlcUdQ4Wsg6Ars8l7bmjp6fXz2fWPf5Mk_Tx7sSbgXV3eXHo74ojLZLXvL2xT891Qd-f20t_5fnL-SzY-zUX1-J45eLKjl-bpL0csj8fSrMZ1uvTsPJR22IjAKFwelqZM4yCBsNszErLvMetA-tghBUfwnpQdljUGd7OIsidGPSbnRwDv45diPV9hPU6sfuLh_kqOMYElsEUiOVEbEvQahh3EjcS5JBUZKpLMAlMp4xgsPYIbinwbCYcNyzpYwiDDZbiKUVeRSz9TLFnh7bYuagFO4W23nEFqLXsmakSvIlHYgns3jwuckSE9IihAKOJY1r6swwISJUVTmAGmFhV0Ly5bX5ODD5zSYBw5RUQYtklkeptGuASPjM5VaDl7aN9vEUoKKJq7JApfAqEG9p0dbun8FEwZaWoEdAlVHI_sfk6tYTlV57m7c0xxd6eEWl3SxN0eBlP3eE3WFpqH95rRpZOVXIEeCI5HqulIfFunDo4U_yP0nyxkDVJ1RaqLP0FmQLf6Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS7L_-UUBwoUioAORzreqNRoFy2WOoKcyvcnYkWFWOxh5W9lFpiXetmK1FN2lP2quuV01vlTCzSvyDGiEt3voAH-QSnCkoSALS7ClaNv--nlC1XnbSwlqDUIA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "A.T.U.N. (ALL THINGS UBER NICE) Premium Newborn Baby Gift Set (13 Pieces) | 100% Cotton Baby Clothing Set | 0-3 Months | Baby Shower and Welcome Gift",
+      "price": "₹1,099",
+      "extracted_price": 1099,
+      "immersive_product_page_token": "onkc8nicddJLcpswAMbx6XmykRD40V0c8IMYOcKSsNkJxMuIRzA22JfoFTxO0pl02em021yjPU296Lbr7__bfV-uUfarW649cZwTMwiW-dPiqVs8zpN78l43lTyEbSZ_QKTrEA6GaAANpI_QGIHReyhaoaokk5fvaSSkyspoFcdRY1bhf8i3rBBJ9G_X0a0Y6gBpEOhgPBzAwUsj95e350PUnH4GIjjd7dOqi5q7JIvbu6yUmXhL6hu-vBSZ_Hipj-01TV4PBxV9XBN1zcprqq5R-bUS9TEO_3zaWVX38LDvJoTVNTddQC136YO-kFpokE2q-2Z6cLg8ygJDeoJGyKyW8DGJLB67pvLw3H72c0W9HNtixouAukAoX2zOi5NE9RLP6xMH_WEDeiSAPVtz-eAC6WEL91QlWlByESq7cDzccOqfJHcptlwjmCads5t0smAdQa6gha82QDJm8cbP2ybaqYaatuOyFjDkc7kGhsfrvWCSrbxtL_KxQa0x8QpbCCrjLQoNx-p7f9ZjribQPzuGY2JzZfIGl-6jVxhrB-GjD3ONaH1lpRLRKd5sN_6CMTfb5n3DLEUkUMv1TE6YW2WEuedwpwpG1Z7N0pRNXduj00cJpoTDsBWAm3KOi5s1CHnt9038G9xPjXa9GphhcM5FCfjZS3if35swbfpzQ3VEPsPhaKTdTjEYGRr8CyQU4No",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=onkc8nicddJLcpswAMbx6XmykRD40V0c8IMYOcKSsNkJxMuIRzA22JfoFTxO0pl02em021yjPU296Lbr7__bfV-uUfarW649cZwTMwiW-dPiqVs8zpN78l43lTyEbSZ_QKTrEA6GaAANpI_QGIHReyhaoaokk5fvaSSkyspoFcdRY1bhf8i3rBBJ9G_X0a0Y6gBpEOhgPBzAwUsj95e350PUnH4GIjjd7dOqi5q7JIvbu6yUmXhL6hu-vBSZ_Hipj-01TV4PBxV9XBN1zcprqq5R-bUS9TEO_3zaWVX38LDvJoTVNTddQC136YO-kFpokE2q-2Z6cLg8ygJDeoJGyKyW8DGJLB67pvLw3H72c0W9HNtixouAukAoX2zOi5NE9RLP6xMH_WEDeiSAPVtz-eAC6WEL91QlWlByESq7cDzccOqfJHcptlwjmCads5t0smAdQa6gha82QDJm8cbP2ybaqYaatuOyFjDkc7kGhsfrvWCSrbxtL_KxQa0x8QpbCCrjLQoNx-p7f9ZjribQPzuGY2JzZfIGl-6jVxhrB-GjD3ONaH1lpRLRKd5sN_6CMTfb5n3DLEUkUMv1TE6YW2WEuedwpwpG1Z7N0pRNXduj00cJpoTDsBWAm3KOi5s1CHnt9038G9xPjXa9GphhcM5FCfjZS3if35swbfpzQ3VEPsPhaKTdTjEYGRr8CyQU4No"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJI1wvEUL4D_5IgquNQeHBqxuOeqB4YZ7KPVj8f9nhf3qdV1JjJ04H4ZaUUScZBud-kC4wYq-NsbbQ2QaDfsBfew8RZH4v4MhLBQGggslm_OQI_eDvd0yyrg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8Ga1T65e8aViYTKoSXGkiQXHDlMPubeKprtw1b9NpJ5eNupqAW_lH4HPLb8DSjS-yqUsWberax8EJwl_D7t6jEm7hrrtWOw",
+      "source": "Myntra",
+      "title": "Moms Home Infants 6-Pcs Avocado Printed Organic Cotton Baby Shower Gift Hamper(0-3M) by Myntra",
+      "price": "₹895",
+      "extracted_price": 895,
+      "immersive_product_page_token": "0zCRg3icbctLbptAAIBh9TzZMDxs6C424EcMNo8ZHptqYDCMGcwEsMFcIlewnKRSumyldptrtKdppG67_X99T7eM_uo3XoDPS0dPkk25W-361cMyv3feeFOTU9pR8kNVNUGQJHU6BdpEkIGoyG8p7jCrc0qu34sME0aP2Xa_zxq9Tv8vvtEK59m_LSuSqE4FWVCViQIkZarJzw1pr6-Pp6y5_Exwcrlri7rPmruc7rs7eiQUv-b8w16fK0ren_m5uxX5y-nEsvdbzm70eCvYLTt-rTE_79M_nw5G3c_nbT9zIOdIdwUP5WMQzg5wAeRoNAYiucZ20V9iCtoYzLYRLIoAKjzVZyYJ4sAvlRgbK4AX9nKDSimp1rrDuLk1eJgwEpKQn5KD3WOAGh-sHyPGD1bprjyxC9MAjlFgY9_o9LjKpYitL34FrMxwBwvxIRQLiAPXiENS-oBfQqFoLLNoLXMGPKbt7IAs42A9ZIEyR8DUP_oJ-0gnEtn5QFu61WB6C23ERi6SMB99hhpYdQXR4w2CoEwqEyKEDALNKDbNQ1IC1xdlCS6QbxRE8k07jMJ4BaFLo3JooMEcIrCNtyAz6NbUge6YHlgFge041bBzmCVhqB1tnawRWkeJZG4cwB5iOMzj_mVom_1v4d5UOm-rNNZl0M9fskcuyiisKG2CEbWeV9X5ZzBVVXEClImqiMJfRzLgRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0zCRg3icbctLbptAAIBh9TzZMDxs6C424EcMNo8ZHptqYDCMGcwEsMFcIlewnKRSumyldptrtKdppG67_X99T7eM_uo3XoDPS0dPkk25W-361cMyv3feeFOTU9pR8kNVNUGQJHU6BdpEkIGoyG8p7jCrc0qu34sME0aP2Xa_zxq9Tv8vvtEK59m_LSuSqE4FWVCViQIkZarJzw1pr6-Pp6y5_Exwcrlri7rPmruc7rs7eiQUv-b8w16fK0ren_m5uxX5y-nEsvdbzm70eCvYLTt-rTE_79M_nw5G3c_nbT9zIOdIdwUP5WMQzg5wAeRoNAYiucZ20V9iCtoYzLYRLIoAKjzVZyYJ4sAvlRgbK4AX9nKDSimp1rrDuLk1eJgwEpKQn5KD3WOAGh-sHyPGD1bprjyxC9MAjlFgY9_o9LjKpYitL34FrMxwBwvxIRQLiAPXiENS-oBfQqFoLLNoLXMGPKbt7IAs42A9ZIEyR8DUP_oJ-0gnEtn5QFu61WB6C23ERi6SMB99hhpYdQXR4w2CoEwqEyKEDALNKDbNQ1IC1xdlCS6QbxRE8k07jMJ4BaFLo3JooMEcIrCNtyAz6NbUge6YHlgFge041bBzmCVhqB1tnawRWkeJZG4cwB5iOMzj_mVom_1v4d5UOm-rNNZl0M9fskcuyiisKG2CEbWeV9X5ZzBVVXEClImqiMJfRzLgRw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUG8Yox_bhNukWrFNTFDS03G4fGPgKGo5OFd83FMq-W6oKFxmnuTzvgrIXiNJhfJqYWRi6S1rZbf-_WWRnsBsXZnOgAZjCUx8HtCaKmll8NcHG6l4L8ggS",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "TinyLane - Curated for you! Bamboo Cotton Newborn Baby Products Gift Set (13 Pcs), Essential Clothing Gift Kit For Infants Of 0-3 Years, Swaddles,",
+      "price": "₹2,199",
+      "extracted_price": 2199,
+      "immersive_product_page_token": "jKmVGXicbcvNjppAAADg9Hn2wvAn9CYKuoqjDDDg3IAZYGAAF1HUl-grbNzdJttjm7TXvkb7NG3Sa89fvk93xn-Mrh8l56U3T1O33j3uxsf1sph674e-o6ds4PSbqaqKbMrmRFV10zCAOZHes2RIRFdw-vy1ZAkVvGXbPGf9vMv-P77wJinYP56Yqqyohq6rpqxIABiS8dLT4_Pb04n11-9pkl4fjmU3sv6h4PnwwFvKk7fi8Pc-vzSc_nw5nId7WbyeToL9vBfiztt7Ke6s_dwlh3Oe_f5Q2d04mx1HywsPBzxHki88KVwcFa-hJ98pI-pMJRqpIMJwk2EoYSHWmbA0ZIORCKeGy5KgGu5QrfENhhUMoUoFPEdzYiW31Yo4tHTj6dW7gp4GookWeLe_CSlY0gHamhYJQ8USsWFF7NAh_RbbyqbWNFKhWXKz7BQQncbWgCq0TutSRxysM1y2UIHEb4kImvrKarBE8l6JbxDEUjcw-7JORNmGPpilFXqKGtKjyDlCpdz59SXAPhjwgrQwXm2Yg7e0Lhdes9r5MnLdyNxiYQK7pErgwHgfk8cwRHxfX_rQFh6VhOsvqBWijnshumWVaEJgzbNoL0FRhjCmPcQWCCrLdgMrYHiqUQXbZHy9HPv8lzR1tMHfqqQtwiZdci8ec-aZWH6q4y4P-XosPoKJYcg60HRDA-Yf2Evelg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jKmVGXicbcvNjppAAADg9Hn2wvAn9CYKuoqjDDDg3IAZYGAAF1HUl-grbNzdJttjm7TXvkb7NG3Sa89fvk93xn-Mrh8l56U3T1O33j3uxsf1sph674e-o6ds4PSbqaqKbMrmRFV10zCAOZHes2RIRFdw-vy1ZAkVvGXbPGf9vMv-P77wJinYP56Yqqyohq6rpqxIABiS8dLT4_Pb04n11-9pkl4fjmU3sv6h4PnwwFvKk7fi8Pc-vzSc_nw5nId7WbyeToL9vBfiztt7Ke6s_dwlh3Oe_f5Q2d04mx1HywsPBzxHki88KVwcFa-hJ98pI-pMJRqpIMJwk2EoYSHWmbA0ZIORCKeGy5KgGu5QrfENhhUMoUoFPEdzYiW31Yo4tHTj6dW7gp4GookWeLe_CSlY0gHamhYJQ8USsWFF7NAh_RbbyqbWNFKhWXKz7BQQncbWgCq0TutSRxysM1y2UIHEb4kImvrKarBE8l6JbxDEUjcw-7JORNmGPpilFXqKGtKjyDlCpdz59SXAPhjwgrQwXm2Yg7e0Lhdes9r5MnLdyNxiYQK7pErgwHgfk8cwRHxfX_rQFh6VhOsvqBWijnshumWVaEJgzbNoL0FRhjCmPcQWCCrLdgMrYHiqUQXbZHy9HPv8lzR1tMHfqqQtwiZdci8ec-aZWH6q4y4P-XosPoKJYcg60HRDA-Yf2Evelg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSX8_Pa55N_PRkVj5NUl93TrHy5tI2vRIUmCYaW39-aOfOiAWlnqSD2U9wGvBCU2-bmyjXXzU0tdPsQVgMzxjFYQxkNmul9cKizXg51TJU",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT7tE0o7iueSEB5yKWjPN12tfTDoaLlatfNnMZ8qP_B4PXxaP75lpXr8f5HAG0U1gNLKPuutztgpkaMVILKXU_yN4f47EJm",
+      "source": "thedottedi.in",
+      "title": "Baby Arrival Gift Hamper For Boy",
+      "price": "₹3,500",
+      "extracted_price": 3500,
+      "immersive_product_page_token": "1CeybXicdY9NbptAAEbV82TDDAZDd7GBYGIg_MwA3lQDg2EMGIwxYC7RK1hOUildtlW7zTXa09TqvsunT--T3udryn4Nay8gve4ocbwunlZPw-pRz-6dt6at6SnpGP0BoAwlngczKEu8LPA3BG8J6UhZZ4xevuUpoSXbp_Z2m7ZKnfxH-coqkqX_9u9AkOaSDGSJg3M4F8X5XHxu6fHyejil7flnTOLz3TGvh7S9y9i2u2N7yshr1tzcy3PF6Ptz03fXPHs5ncr0_ZqVV7a_5uU13X-pSdNvkz8fdmo9LJfHYeGgpsGKy3loVM0g6xLgeoQvZ2a5iNZBrniB-5jobk25cRMUsymquiei5lOAViN-wAuk4mOKpC5-sPgYUw6hrHOKpreCQiCwFqiOB4Q3rY1zjApridX8kIS4MYF2iAsQxgEGxDfW_s4YiNYsY8ZBv6C2V3HD2s9mUSFb6S43rR1uEs1QHGgCBLCO-fvz7a8hyBURb5zNSjjfGqI0EPogVCesygs3aAobL9oIaiLRN_0G0pFMro5LWsQAG7ZPR6sAZcwbzJzKyva1XM0p72tWGIWbFUIui4qxRWrpUK5cew90gdyaOcidkl1ZoQCEqDAUAiXODS0vBu7Bha6OVLPDWtOnurZAzst4bLe_uXtN6DxbaM3zqPSf0kMDZzisGGuDCR89r6qzj2AuSVAEgigJkPsLw0bg8Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1CeybXicdY9NbptAAEbV82TDDAZDd7GBYGIg_MwA3lQDg2EMGIwxYC7RK1hOUildtlW7zTXa09TqvsunT--T3udryn4Nay8gve4ocbwunlZPw-pRz-6dt6at6SnpGP0BoAwlngczKEu8LPA3BG8J6UhZZ4xevuUpoSXbp_Z2m7ZKnfxH-coqkqX_9u9AkOaSDGSJg3M4F8X5XHxu6fHyejil7flnTOLz3TGvh7S9y9i2u2N7yshr1tzcy3PF6Ptz03fXPHs5ncr0_ZqVV7a_5uU13X-pSdNvkz8fdmo9LJfHYeGgpsGKy3loVM0g6xLgeoQvZ2a5iNZBrniB-5jobk25cRMUsymquiei5lOAViN-wAuk4mOKpC5-sPgYUw6hrHOKpreCQiCwFqiOB4Q3rY1zjApridX8kIS4MYF2iAsQxgEGxDfW_s4YiNYsY8ZBv6C2V3HD2s9mUSFb6S43rR1uEs1QHGgCBLCO-fvz7a8hyBURb5zNSjjfGqI0EPogVCesygs3aAobL9oIaiLRN_0G0pFMro5LWsQAG7ZPR6sAZcwbzJzKyva1XM0p72tWGIWbFUIui4qxRWrpUK5cew90gdyaOcidkl1ZoQCEqDAUAiXODS0vBu7Bha6OVLPDWtOnurZAzst4bLe_uXtN6DxbaM3zqPSf0kMDZzisGGuDCR89r6qzj2AuSVAEgigJkPsLw0bg8Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUDvI5fRn0zFAM1P4gttRM2T-BFD4-g5ayG43HTYRAtoiqZGR5EUAP6G4UcPYlfJN0xWKlJBW5L6DlPphszzoS8QamCgKR-DZyabumVjKbBDMSouz_JilxaA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "GLO Mama Cherished Beginnings Baby Shower Gift Hamper | Pregnancy Care Essentials for Moms | Stretch Mark Oil Roll On, Anti Nausea Candle, Nip Balm/",
+      "price": "₹3,199",
+      "extracted_price": 3199,
+      "immersive_product_page_token": "cyEovXicbcxLkpNAAIDh8jyzaSAQcDd5AIlpMt3QvDYW0AQ6NI8ASQiX8AqpZMaqcalVup1r6GnUcuv6r-__dEvZj_PG9qKTiRZxvCmeVk_n1Qcze0SvTVvTY9Iz-m0qqYoiq4I0lTVB0xRBEF-TqI94nTF6_ZqnEeWsSre7Xdou6uT_4gsroyz9lyVBUBVhMpUlRZuoYKJp0r2l3fXlcEzby_c4ii8PXV6f0_YhY7v-gVWURS9Z88de7yWjb_fm1N_y7Pl45OnbLeM3Vt1yfkurz3XUnHbJr3f7ZX2ez7vzDJGmcRcYOGYhOqAffKB50NDmDm82ia_XeJyNtp8NgbeSEK-HhOuts7d4ANa9D2iduK7kigMMzWbiAiTHuqugIixg2RNa4hIVvYJFbe4aVpSWlolFy47H9SYWkBRxunaW1jzhVA4AGhNSjMTPT8jrYVrNOlqEKHStPuDFBDLBIZUlJ-JyjPlahKQxyV4_oJEX1IPnyGuOuMLbeGltoZAzV8R5YqDRMkMDltnFqfLO-ftd5KdwDOHWtKLAg4CS0E8NfvT4bB-W63aZU8nRLT_wwxUhmAXF0JIlRxTwjW3QGcE1QwSPyZ6XxBZ822xEi-Rl4AdyvIcyktY7augtBviwNeiBoOeha3c_waMu9_ZWbuFlWJw-podGnLh-yVjrjW5n22WdvRemqioqgqyosgh-A7KO4mY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cyEovXicbcxLkpNAAIDh8jyzaSAQcDd5AIlpMt3QvDYW0AQ6NI8ASQiX8AqpZMaqcalVup1r6GnUcuv6r-__dEvZj_PG9qKTiRZxvCmeVk_n1Qcze0SvTVvTY9Iz-m0qqYoiq4I0lTVB0xRBEF-TqI94nTF6_ZqnEeWsSre7Xdou6uT_4gsroyz9lyVBUBVhMpUlRZuoYKJp0r2l3fXlcEzby_c4ii8PXV6f0_YhY7v-gVWURS9Z88de7yWjb_fm1N_y7Pl45OnbLeM3Vt1yfkurz3XUnHbJr3f7ZX2ez7vzDJGmcRcYOGYhOqAffKB50NDmDm82ia_XeJyNtp8NgbeSEK-HhOuts7d4ANa9D2iduK7kigMMzWbiAiTHuqugIixg2RNa4hIVvYJFbe4aVpSWlolFy47H9SYWkBRxunaW1jzhVA4AGhNSjMTPT8jrYVrNOlqEKHStPuDFBDLBIZUlJ-JyjPlahKQxyV4_oJEX1IPnyGuOuMLbeGltoZAzV8R5YqDRMkMDltnFqfLO-ftd5KdwDOHWtKLAg4CS0E8NfvT4bB-W63aZU8nRLT_wwxUhmAXF0JIlRxTwjW3QGcE1QwSPyZ6XxBZ822xEi-Rl4AdyvIcyktY7augtBviwNeiBoOeha3c_waMu9_ZWbuFlWJw-podGnLh-yVjrjW5n22WdvRemqioqgqyosgh-A7KO4mY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQNiDvSM9SfbZElJWmaa2zY5DOEPmxvdVKXijzy34-ZAtgT9LhjaE1NxKDWc62_RqXK5BdIRDpiw--0BoQwRfwUmLrYlnQmWKFn5pOfKjXCz-ZDKpWswoMq",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8Ga1T65e8aViYTKoSXGkiQXHDlMPubeKprtw1b9NpJ5eNupqAW_lH4HPLb8DSjS-yqUsWberax8EJwl_D7t6jEm7hrrtWOw",
+      "source": "Myntra",
+      "title": "TIDY SLEEP Infants Pure Cotton Baby Gift Box (Newborn) by Myntra",
+      "price": "₹2,299",
+      "extracted_price": 2299,
+      "immersive_product_page_token": "KtiLI3icbZHLbptAAEXV78lmhoeNu4sDGBNMwmMGPJsKmDGMGR7B2GD_RH_BcpJK6bKt2m1-o_2aWl13e8890pXu5wvjvwYniJKD5elp6pSPy8dheW_lt95b2zV0n_Wcfp9MNRVImgaABqEyncpg8pYlfSKanNPzt4IlVPCaPWw2rNOb7P_GV14lOfuHf0BJU64RmGhTRZ0pqgQU-bmju_Pr0551x59pkh5vdkUzsO4m55v-hteUJ695e5XPzxWn78_tob8U-ct-L9j7JRcXXl8KcWH1lyZpD5vsz4et0Qx3d7th7qG2xboPAlQAaoqQWOXIDDvODNoTMR-QTG0S2pjVdpCas-1aLionXA7UEmVQGSOO2sNappyCAbomXlE0czME713z9kiM8UhNc_CxLa-gz7E1N1cn4hDJVVyBxqDsJymCFbv28cK0U3Mur0MzyCIc4gWJM2yTlWi3SQV3mSWwC4val5aKg8g-gET1JGPwq75FBn2kkSmtBCYhKORUv-635kYQYtutvYHpbpyadsQQEdmiObpxJj1ENAikDDIhjGjrkyhCKsG5ahRUDk03XsdkiZDP1-XYIUN4FAgnWNA58hvuIf-UbUWFQAnThXC8itaxjEMq_C7U_XuvtF1fmjUeGE90eBl33eY3uDXVPnhQu9Vx1A-f2FMrKTiuOO-iE94FQdXkH-FU06QJVCfa9fO_t-rf0w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KtiLI3icbZHLbptAAEXV78lmhoeNu4sDGBNMwmMGPJsKmDGMGR7B2GD_RH_BcpJK6bKt2m1-o_2aWl13e8890pXu5wvjvwYniJKD5elp6pSPy8dheW_lt95b2zV0n_Wcfp9MNRVImgaABqEyncpg8pYlfSKanNPzt4IlVPCaPWw2rNOb7P_GV14lOfuHf0BJU64RmGhTRZ0pqgQU-bmju_Pr0551x59pkh5vdkUzsO4m55v-hteUJ695e5XPzxWn78_tob8U-ct-L9j7JRcXXl8KcWH1lyZpD5vsz4et0Qx3d7th7qG2xboPAlQAaoqQWOXIDDvODNoTMR-QTG0S2pjVdpCas-1aLionXA7UEmVQGSOO2sNappyCAbomXlE0czME713z9kiM8UhNc_CxLa-gz7E1N1cn4hDJVVyBxqDsJymCFbv28cK0U3Mur0MzyCIc4gWJM2yTlWi3SQV3mSWwC4val5aKg8g-gET1JGPwq75FBn2kkSmtBCYhKORUv-635kYQYtutvYHpbpyadsQQEdmiObpxJj1ENAikDDIhjGjrkyhCKsG5ahRUDk03XsdkiZDP1-XYIUN4FAgnWNA58hvuIf-UbUWFQAnThXC8itaxjEMq_C7U_XuvtF1fmjUeGE90eBl33eY3uDXVPnhQu9Vx1A-f2FMrKTiuOO-iE94FQdXkH-FU06QJVCfa9fO_t-rf0w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYoEn2jzwcepEhpICnb0l0imzyROGZthmCwISc4xpS_w0KAvWxya9_ldnIw0NXZOCinmWjayZqDFT60CHbwjp6YGAh1uhUbGX7MIL3Z6k",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQFnRGc9gC3HFfYnhw83V6ai0TZ_jmjGGzZdElzJli74b5Rx_QiuakUs8yIXXsIFVknyFJMq16SppVy0Ih7jkwid804RWFVzkPnijD-srCU5g",
+      "source": "Giftacrossindia.com",
+      "title": "Johnson and Johnson Baby Care Daily Use Big Hamper",
+      "price": "₹2,499",
+      "extracted_price": 2499,
+      "immersive_product_page_token": "qI5xeHicbY9LbptAAEDV82TD4MHB3YUAdlwDYWAGPJsKM3zGDJ8ANp9L9AqRk1RKl63UbnON9jSN1G3X773F-3JJ-K9h5wXReePqh8OuuL-7H-4-bbIb97Vpa3aKe85-LJYShBBIYAFXElBUqKqvcdRHos44e_yeJxETvEqcNE1avY7_X3zjZZQl_7C8VKAEVnC5vF6-W9eKoj61rHt8eTgl7fTzEB2mqy6vh6S9ynjaX_GK8egla97bx6eSs7en5txf8uz5dBLJ2yUTF15dcnFJqq911JzT-M-Ho1EPt7fdoLm4aYiOJN8AmHhAtzlw_Mpc01nTHTOGrMwB2jDtIAHuL8TCNy0ZGz3wfDTufAuyNRjthenZUlMww86tTaPQI9kjsHUsnTlWudWJYIAENAyBqUV4a3iVre0J8b1CqXCg2FisWlp2MjNtgU20t2QxYdBsXRnBQ4k41lFBZJsGIVoEophw2JS0WNUxoXoUihSRm54Sc06KDlKMYRxsPTbnOMbNjoJcxLPWk5IBu1jpxBg9L0RjsoZzVKD0UDaSP9OzXeaejfFg5Oz90Q73Ib3DGPF9MbbYEC6TxM5bMw2jmrsYzfFRlDik1K20ySbuRMscRsWqS47Mt3TqEHk7xUE9uO7z2LXpb-nGVHrPUVprGvXz5-ShkSEJS87bYCad55V19hFcq6q8BMpSVWTpL2a94Cc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qI5xeHicbY9LbptAAEDV82TD4MHB3YUAdlwDYWAGPJsKM3zGDJ8ANp9L9AqRk1RKl63UbnON9jSN1G3X773F-3JJ-K9h5wXReePqh8OuuL-7H-4-bbIb97Vpa3aKe85-LJYShBBIYAFXElBUqKqvcdRHos44e_yeJxETvEqcNE1avY7_X3zjZZQl_7C8VKAEVnC5vF6-W9eKoj61rHt8eTgl7fTzEB2mqy6vh6S9ynjaX_GK8egla97bx6eSs7en5txf8uz5dBLJ2yUTF15dcnFJqq911JzT-M-Ho1EPt7fdoLm4aYiOJN8AmHhAtzlw_Mpc01nTHTOGrMwB2jDtIAHuL8TCNy0ZGz3wfDTufAuyNRjthenZUlMww86tTaPQI9kjsHUsnTlWudWJYIAENAyBqUV4a3iVre0J8b1CqXCg2FisWlp2MjNtgU20t2QxYdBsXRnBQ4k41lFBZJsGIVoEophw2JS0WNUxoXoUihSRm54Sc06KDlKMYRxsPTbnOMbNjoJcxLPWk5IBu1jpxBg9L0RjsoZzVKD0UDaSP9OzXeaejfFg5Oz90Q73Ib3DGPF9MbbYEC6TxM5bMw2jmrsYzfFRlDik1K20ySbuRMscRsWqS47Mt3TqEHk7xUE9uO7z2LXpb-nGVHrPUVprGvXz5-ShkSEJS87bYCad55V19hFcq6q8BMpSVWTpL2a94Cc"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQA88oBSIciSgjE0h-8k9Yjwiw1zfcANMqKHM8sow82s4KXj3yopMP0676LcvPQEslWPV9JWPeeDivjfCtrJr-rlt9j92jF445-dl4h-4IhUVGN-pgTnjcCLg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "GLO Mama Ultimate Baby Shower Gift Hamper for Mom-To-Be | 7+ Pampering Essentials: Roll on Stretch Mark Oil, Caramel Popcorn Nip Balm, Pain Relief",
+      "price": "₹4,199",
+      "extracted_price": 4199,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "D74LvXicdctLcpswAADQ6XmykfjZdBfCNzHYfCRhdoD4CIQhGBvbl-gVMk7SmXTZdtptrtGepp3uu37zPl0L9nNehSQ92r6eZat242xm58Gubv23YezpIZ8Y_Q4VVVAlUYZLICqSugQKAG95OqW8rxh9-loXKeVsV6zLshj1Pv9P-cK6tCr--TdZUmRRlYSFqCykxUJWoPA80v3T6-OhGM8_sjQ73-zrfi7Gm4qV0w3bUZa-VsPf-_TcMfr-PByna129HA68eL9W_Mp215pfi93nPh2OZf77Q2P0893dftZ8NAxYD0DY3G9yQm2XUBQLge_Z3r170Y6hjk_YTLhnYpSJiRIIpkQM1XEt6IbQOUe2d8iwZhcIX9Yxd3Cb9NgyYR61UxjRDRKGJAWO6AtqRxoTbvngY6JK1JjEbUP7FRrMLcnPOeEojLSRmD50YUIKq04Iwdu88Tao86cipueUBHPaen2K-8mNuBY0uRTcgQs2DSEycUdIYoR8WKPYPflx0kV8sFI9OQaE6rg7aRTMEm0xzHZ1n7d7YY0cOYm1AbXmJjIk4AM4GjUVI9OLt3HiIBSwbXsakcF9CvgqtKiGgp75KLjkDe-wEWgors_EzkFIXLC2TlqgB22oV2J44TW-YIvOL6f9WP4Ct6Y8hWsp2VWoy2zmx3NZ-CoWHtu4LxF7mKuPcLFcCgqUlaUM1T_qquAM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=D74LvXicdctLcpswAADQ6XmykfjZdBfCNzHYfCRhdoD4CIQhGBvbl-gVMk7SmXTZdtptrtGepp3uu37zPl0L9nNehSQ92r6eZat242xm58Gubv23YezpIZ8Y_Q4VVVAlUYZLICqSugQKAG95OqW8rxh9-loXKeVsV6zLshj1Pv9P-cK6tCr--TdZUmRRlYSFqCykxUJWoPA80v3T6-OhGM8_sjQ73-zrfi7Gm4qV0w3bUZa-VsPf-_TcMfr-PByna129HA68eL9W_Mp215pfi93nPh2OZf77Q2P0893dftZ8NAxYD0DY3G9yQm2XUBQLge_Z3r170Y6hjk_YTLhnYpSJiRIIpkQM1XEt6IbQOUe2d8iwZhcIX9Yxd3Cb9NgyYR61UxjRDRKGJAWO6AtqRxoTbvngY6JK1JjEbUP7FRrMLcnPOeEojLSRmD50YUIKq04Iwdu88Tao86cipueUBHPaen2K-8mNuBY0uRTcgQs2DSEycUdIYoR8WKPYPflx0kV8sFI9OQaE6rg7aRTMEm0xzHZ1n7d7YY0cOYm1AbXmJjIk4AM4GjUVI9OLt3HiIBSwbXsakcF9CvgqtKiGgp75KLjkDe-wEWgors_EzkFIXLC2TlqgB22oV2J44TW-YIvOL6f9WP4Ct6Y8hWsp2VWoy2zmx3NZ-CoWHtu4LxF7mKuPcLFcCgqUlaUM1T_qquAM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStGHKyr2BX-Bbl_Zn3H-NvhHEg6bO5PmR5TIDiAZ7XXntLBczOZ80MoPYI_jDRW5cXFQGoJa1cw0TIPTITHI3GBd3igIATQ56hN0ZN0Hf6NMWbqY1JNrRQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSyqDaVITcJGkL5rBuF--yp7QICFYXAb1CUeO951gdNV8-6a_HyxR87n_oqkzV7G_YHtinNR_mROqGBOWpIauOteeC40d95SQ",
+      "source": "Baby Jalebi",
+      "title": "Baby Jalebi - The Grand Gift Box - Roadster- Baby Shower Gifts - Newborn Essential Gifts",
+      "price": "₹16,995",
+      "extracted_price": 16995,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "83pHa3icdc5NbptAAIZh9TzZDGCw6S6YP1ODwwCDzaYamDGMGX4M2BBfoleInKRSuqyqdptrtKepF912_X2v9Hy5UvZrXAcxPtu-nqbr8mH1MK4-2fm9_9Z2DTllAyM_BFmaS-JckRYKEEVppsxE8JbhAfMmZ-Tpe0Ex4aymm_2ednqT_Sf5xiqc03-7pApgLknqQgLzmTIXFRE8d6R_ej2eaPf4M8Xp411fNCPt7nK2H-5YTRh-zdtb_PRcMfL-3J6Ha5G_nE6cvl9zfmX1teBXWn9tcHveZ38-HIxmXC77UfOjtkU6BEHIJzfiY2wmUlhrmmclenY77UqvTC9IgGERkgM3AxGZxHQmWpsMWyPIlsLJs-ExQFoZgGgWGFB3dahAna89ia-8WnMIEAoiaH16iQY_9nASrkY_1Lwd4uc4UsfAIpW_hUv34E9BWBhh5U7YNo20NpOUJ4VbOTotE-jXzozajpGWk4svmkWrwY6RauOYhDietkhEfRATAZaTHZmqQsv2mPKFhC0zQKVzDCLHgoD3SCiklHOLANi5dn4zOVWwzQeKiGMURApNb7vbJqsogmxXTl1kcJ8Avr45tQg2zI_gJTvwKhITEFYq3BiFRyq52yBHJjrZkNgd3Ro1KFanyH-Z-m7_G9yb8hBs5M59nPTzZ3psxRnaVox18eWmDqom_yjMFwtREWRlIYvgL9yc4aM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=83pHa3icdc5NbptAAIZh9TzZDGCw6S6YP1ODwwCDzaYamDGMGX4M2BBfoleInKRSuqyqdptrtKepF912_X2v9Hy5UvZrXAcxPtu-nqbr8mH1MK4-2fm9_9Z2DTllAyM_BFmaS-JckRYKEEVppsxE8JbhAfMmZ-Tpe0Ex4aymm_2ednqT_Sf5xiqc03-7pApgLknqQgLzmTIXFRE8d6R_ej2eaPf4M8Xp411fNCPt7nK2H-5YTRh-zdtb_PRcMfL-3J6Ha5G_nE6cvl9zfmX1teBXWn9tcHveZ38-HIxmXC77UfOjtkU6BEHIJzfiY2wmUlhrmmclenY77UqvTC9IgGERkgM3AxGZxHQmWpsMWyPIlsLJs-ExQFoZgGgWGFB3dahAna89ia-8WnMIEAoiaH16iQY_9nASrkY_1Lwd4uc4UsfAIpW_hUv34E9BWBhh5U7YNo20NpOUJ4VbOTotE-jXzozajpGWk4svmkWrwY6RauOYhDietkhEfRATAZaTHZmqQsv2mPKFhC0zQKVzDCLHgoD3SCiklHOLANi5dn4zOVWwzQeKiGMURApNb7vbJqsogmxXTl1kcJ8Avr45tQg2zI_gJTvwKhITEFYq3BiFRyq52yBHJjrZkNgd3Ro1KFanyH-Z-m7_G9yb8hBs5M59nPTzZ3psxRnaVox18eWmDqom_yjMFwtREWRlIYvgL9yc4aM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeUnJxWvMeFD-SAU82ZfXO-h_UE5q8hSy6CUlGpodr2JcFo2GFfN75GIw7-nYLF1oxuUZNqsAAFuKiYxfbNIsbSja5rn_8cgi7bgx1pw7r",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT7tE0o7iueSEB5yKWjPN12tfTDoaLlatfNnMZ8qP_B4PXxaP75lpXr8f5HAG0U1gNLKPuutztgpkaMVILKXU_yN4f47EJm",
+      "source": "thedottedi.in",
+      "title": "Pamper Me Baby Hamper",
+      "price": "₹3,750",
+      "extracted_price": 3750,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "fJUmFnicdcs7cptAAADQyXncsLsIQTpj8RGGlUHsAtsBy08gwICEpEv4Ch7ZzoxTZjJJ62skp0mKtKnfvKdrVv2c7W0QH013lSR2_bB-mNf3ZnHrvvdDxw_pVPHvAC0QREBCEhJFqMgyUuB7Gk9x0xUVf_5WZjFvqjbb5Hk2rLr0P-VrtY-L7J-LAMKlDKG4FBUZSEtFll4GPj6_PR6y4fwjiZPzzVh2czbcFFU-3VQtr-K3ov-bn1_2Ff946Y_TtSxeD4cm-7gWzbVqr2VzzdovXdwf8_T3p53WzXd346y6pO_pyhN8s9Sc2joQ4BmcYpOFBfRqLGDdolHtAmaUtmMsdhuiT6muOk6gnX1qTU59WjPNO-KVKjhIDfkdGB3IrVSYWGy64jZYiww2J9dnUaIp2AHM3u5HhAM-x4Ynpah5sMP1yaFNzy-YbMl4cpDOfJQKPmIT0bCB2_680ZjKampHoVVvfVb7ghVG0ML0wkMXNcfoDB6Tlu4SSi--b4kb0o8JUO7d1opoqGrY5HqEIugYBQjaUowRP8WQ2ThQdtHFEwi1ZlxjopUc-ToOo5CtCfGqqD4NRGtcLjT21uAq8brKJd4l3TV7sqc4BbTJfL4gqPRoWOb0ggffZK4bKAEV-Mzm19M45L-EW30xbTciawuyT8zKDec8cxUKH-uwy0l1PxefwVKWoQQWkrwAyh_u397H",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fJUmFnicdcs7cptAAADQyXncsLsIQTpj8RGGlUHsAtsBy08gwICEpEv4Ch7ZzoxTZjJJ62skp0mKtKnfvKdrVv2c7W0QH013lSR2_bB-mNf3ZnHrvvdDxw_pVPHvAC0QREBCEhJFqMgyUuB7Gk9x0xUVf_5WZjFvqjbb5Hk2rLr0P-VrtY-L7J-LAMKlDKG4FBUZSEtFll4GPj6_PR6y4fwjiZPzzVh2czbcFFU-3VQtr-K3ov-bn1_2Ff946Y_TtSxeD4cm-7gWzbVqr2VzzdovXdwf8_T3p53WzXd346y6pO_pyhN8s9Sc2joQ4BmcYpOFBfRqLGDdolHtAmaUtmMsdhuiT6muOk6gnX1qTU59WjPNO-KVKjhIDfkdGB3IrVSYWGy64jZYiww2J9dnUaIp2AHM3u5HhAM-x4Ynpah5sMP1yaFNzy-YbMl4cpDOfJQKPmIT0bCB2_680ZjKampHoVVvfVb7ghVG0ML0wkMXNcfoDB6Tlu4SSi--b4kb0o8JUO7d1opoqGrY5HqEIugYBQjaUowRP8WQ2ThQdtHFEwi1ZlxjopUc-ToOo5CtCfGqqD4NRGtcLjT21uAq8brKJd4l3TV7sqc4BbTJfL4gqPRoWOb0ggffZK4bKAEV-Mzm19M45L-EW30xbTciawuyT8zKDec8cxUKH-uwy0l1PxefwVKWoQQWkrwAyh_u397H"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJW3WCOB7E1HOu-GlZnXjtdJNxf1Dm86Ldn_rQabkgE098S-ZIa7sLA7MKblt6dqrhY3hRn7qJN8BgsPmKO7csyCteUCFPqAlZWGHmPHjMXHHw2mr80OvA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSdBn4R2lZgJKKgZUvItXoK_x05UZzvQsnBdKBprI96WQWpX1ymNqE9ntL_KLJJmGoh9LafZwofQ6RBa6h6RiVnUm5z6bY",
+      "source": "Mulberro",
+      "title": "10-Piece New Parent Gift Hamper | Baby & Parents | Mulberro",
+      "price": "₹3,999",
+      "extracted_price": 3999,
+      "immersive_product_page_token": "khiECHicbY7LcpswAEWn35ONBAhwd7EB4wfYYCQwm45AGGTEIxg_wk_0FzJO0pl02XbabX6j_Zp6uu7iru6cM-fzNeO_zstNSE-2ZyTJslzP1ufZws7vvbe2a9gx7Tn7riEkAw3KSB-piqIqqiS_pbSnosk5e_pWZJQJXmer3S7rjCb9P_GVVzTP_t0_oIYAkKWRqo10VZNVDer6c8cOT68Px6x7_JnQ5PHuUDTnrLvL-a6_4zXj9DVvb_DTc8XZ-3N76q9F_nI8iuz9mosrr6-FuGb1l4a2p13658PebM6TyeE89nDbEsMHwbRHaWCVuCpRWnnQF-12Y_uQgZgQE4096bILg3JYEt9xpDOIAVu7drygkaApmQunvh8ciQ1uLcJgigrXbmNnT9YuhrcpFwqg7Fse9AZ_EkFziMnITLBoHECkOLBguheBP-QKkVviiLkZG2xFrPLilmSR3LykYkevGilhTY6xEa8SMIfYED2JCIwtC7im27v78SQTI7IdrKnLAViZcUiDdKCYIIfMpHQCT4FdNCuLrX0oCseYr6nlbm9tvjttFSqEbRZMDiw32kbxDGOfb8tLh03hMSCWmykbY7_hHvaHW29FzH6R1eMQ21aVWGSKDbYMSXEIw6LAEjq60Rh63svl0O1-g3sL9ZsV6pzHi3H6lD20kkKiivMuHMhhs6ma_CPUdF1SIVJ1JIG_KNPeEw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=khiECHicbY7LcpswAEWn35ONBAhwd7EB4wfYYCQwm45AGGTEIxg_wk_0FzJO0pl02XbabX6j_Zp6uu7iru6cM-fzNeO_zstNSE-2ZyTJslzP1ufZws7vvbe2a9gx7Tn7riEkAw3KSB-piqIqqiS_pbSnosk5e_pWZJQJXmer3S7rjCb9P_GVVzTP_t0_oIYAkKWRqo10VZNVDer6c8cOT68Px6x7_JnQ5PHuUDTnrLvL-a6_4zXj9DVvb_DTc8XZ-3N76q9F_nI8iuz9mosrr6-FuGb1l4a2p13658PebM6TyeE89nDbEsMHwbRHaWCVuCpRWnnQF-12Y_uQgZgQE4096bILg3JYEt9xpDOIAVu7drygkaApmQunvh8ciQ1uLcJgigrXbmNnT9YuhrcpFwqg7Fse9AZ_EkFziMnITLBoHECkOLBguheBP-QKkVviiLkZG2xFrPLilmSR3LykYkevGilhTY6xEa8SMIfYED2JCIwtC7im27v78SQTI7IdrKnLAViZcUiDdKCYIIfMpHQCT4FdNCuLrX0oCseYr6nlbm9tvjttFSqEbRZMDiw32kbxDGOfb8tLh03hMSCWmykbY7_hHvaHW29FzH6R1eMQ21aVWGSKDbYMSXEIw6LAEjq60Rh63svl0O1-g3sL9ZsV6pzHi3H6lD20kkKiivMuHMhhs6ma_CPUdF1SIVJ1JIG_KNPeEw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmM-7sntv4obFhKRb4fG070jUBpqXPikIogRiPENFzVvlKHdx1ckyyPF7UPRMICFCUQafGA5n4sYg0-XEek6mbQ-OfdO_pNSBk63vy2qatUfP5IqL-_ECA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8Ga1T65e8aViYTKoSXGkiQXHDlMPubeKprtw1b9NpJ5eNupqAW_lH4HPLb8DSjS-yqUsWberax8EJwl_D7t6jEm7hrrtWOw",
+      "source": "Myntra",
+      "title": "Little Surprise Box Pack of 18 Infant Gift Hamper Box Set (Newborn) by Myntra",
+      "price": "₹4,302",
+      "extracted_price": 4302,
+      "original_price": "34% off₹6,500",
+      "extracted_original_price": 34,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "MoZDMnicbctLcpswAIDh6XmykQDb0J0dsDF-RWBJhp2QZCCIRzGOgUvkChkn6Uy6bGfaba7RnqaZ6bbr__8erzL7dVkHlD24yI7jdX63vLssV24yRW91U4kzbzPxw9QNbTwZ6aamWYYBTGsyeeOsZapKMvH0PZVMqKyUu-NRNnbF_y--ZQVL5L9sWRMLaPp4AsDHYegmtJ4bcXp6_XKWTf8zZnF_c0qri2xukuzY3mSlyNhrUn_Yp-ciE-_P9UN7TZOX81nJ92uirll5TdVVll8rVj8c-Z9P9051ub09XWYI1zWxfRBQS_m0bRiOhgB7bpB7TqDqHaeejcB8FFDPQZSgPcF9pFRIFx2Kcb1CxTzcltGSFSHcOZt2jYW2ddUqBt5wAHAhi8gJNG-5zwUgC6OlZAl8UvfErT0CTYiwofnzWe_D9EL07XlbWI3AQCN0NGNKHWiuGuJYi9hWDsMt2pZeFmBFNpBDRsUxHLxClELxnPfiw8jDRpMBzEmeRkFhtLGa2xs7pTHtmrDcrpnudRHuxtKdMXqPemlzgzqhRqlhcH0KnFTo-_n2EB6iJcZ-FuZdgx2FBFDrYCFm2K8yhP2B36uCuDPkl4mOtXZBymm_V8LjA4LhHg_84K8ISCOMXrpTc_wNpvNRG-zGNo-HnJWADDQhXT61Ydp0Q7M3dPQZTkxTG8PR2Bxp8C8pXN8p",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MoZDMnicbctLcpswAIDh6XmykQDb0J0dsDF-RWBJhp2QZCCIRzGOgUvkChkn6Uy6bGfaba7RnqaZ6bbr__8erzL7dVkHlD24yI7jdX63vLssV24yRW91U4kzbzPxw9QNbTwZ6aamWYYBTGsyeeOsZapKMvH0PZVMqKyUu-NRNnbF_y--ZQVL5L9sWRMLaPp4AsDHYegmtJ4bcXp6_XKWTf8zZnF_c0qri2xukuzY3mSlyNhrUn_Yp-ciE-_P9UN7TZOX81nJ92uirll5TdVVll8rVj8c-Z9P9051ub09XWYI1zWxfRBQS_m0bRiOhgB7bpB7TqDqHaeejcB8FFDPQZSgPcF9pFRIFx2Kcb1CxTzcltGSFSHcOZt2jYW2ddUqBt5wAHAhi8gJNG-5zwUgC6OlZAl8UvfErT0CTYiwofnzWe_D9EL07XlbWI3AQCN0NGNKHWiuGuJYi9hWDsMt2pZeFmBFNpBDRsUxHLxClELxnPfiw8jDRpMBzEmeRkFhtLGa2xs7pTHtmrDcrpnudRHuxtKdMXqPemlzgzqhRqlhcH0KnFTo-_n2EB6iJcZ-FuZdgx2FBFDrYCFm2K8yhP2B36uCuDPkl4mOtXZBymm_V8LjA4LhHg_84K8ISCOMXrpTc_wNpvNRG-zGNo-HnJWADDQhXT61Ydp0Q7M3dPQZTkxTG8PR2Bxp8C8pXN8p"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What gift is given for a baby shower in India?",
+      "type": "ai_overview",
+      "page_token": "6FLTuXicHdBbjtowFABQdTPzOdgYpgIJVQMkAUo8iuPrPH6qxCYJsfMQuEPqv26ha5hVzWpadQdH5_eHufb688ufxtrxvp7NHo_Hcz0Mtbk8y6GbFfdfvZzJwpiykHr98vUFf6vkxnuX291NbiMYR7FniAfUqI79BMLOmXtFCjcZ1T4kXEWhh5ZhjCvlBOO98t-86QBEhCleLeLDifDEQ2zPDMybotQWGM9vKqkt7fC2QJPO9cpljokIj-7MXx0kx-li6EBbg84xPuR9c4g9mHIkmhzsoPipSgJjy35YMqDfuTGB7KbmAtox_5SUgt6ZlzvYq1SiDNO-XoRYtNBFJE7pnM_rRZSOSaxXSzE_7UqfLctkFRSCdTyxrdcown2aZml-BGDXTE838EykkDnHgdoCG64RMCdb0wH2M8Ah4US1b4AeoTsu2D9qTMAWnO2A5waip0q-b8jT_-vNj6qz6_E21H8BIWSMfg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6FLTuXicHdBbjtowFABQdTPzOdgYpgIJVQMkAUo8iuPrPH6qxCYJsfMQuEPqv26ha5hVzWpadQdH5_eHufb688ufxtrxvp7NHo_Hcz0Mtbk8y6GbFfdfvZzJwpiykHr98vUFf6vkxnuX291NbiMYR7FniAfUqI79BMLOmXtFCjcZ1T4kXEWhh5ZhjCvlBOO98t-86QBEhCleLeLDifDEQ2zPDMybotQWGM9vKqkt7fC2QJPO9cpljokIj-7MXx0kx-li6EBbg84xPuR9c4g9mHIkmhzsoPipSgJjy35YMqDfuTGB7KbmAtox_5SUgt6ZlzvYq1SiDNO-XoRYtNBFJE7pnM_rRZSOSaxXSzE_7UqfLctkFRSCdTyxrdcown2aZml-BGDXTE838EykkDnHgdoCG64RMCdb0wH2M8Ah4US1b4AeoTsu2D9qTMAWnO2A5waip0q-b8jT_-vNj6qz6_E21H8BIWSMfg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBnaWZ0IGlzIGdpdmVuIGZvciBhIGJhYnkgc2hvd2VyIGluIEluZGlhPyIsImxrIjoiYzVQU0xzOUlMRkZJejB3clVjZ3NCdEpscVhrS2FmbEZDa21KU1pVS3hSbjU1YWxGQ3BsNVFKU1NtUWdBIiwiYnMiOiJjLU9LNTlJTHowZ3NVVWpQVEN0UnlDd0cwbVdwZVFwcC1VVUtpUXBKaVVtVkNzVVotZVdwUlFxWmVRcWVlU21aaWZaR3VsTGE1ZGgxb0tuUEJLbm44dWN5QkZ1UVdKU3FVSklCeFBrRkNvWUdDa21weFJBamlqRXRzemVTa3BLQXFVTXlFNnljSzVCTERXd2cwT3BFaGJ6TTVGU0lTN0NZb2k2bFdrNk1TcTVJTGkyRWtjV2xtU1dKU1RtNGpkV1cwaXduVnJVQUl3QSIsImlkIjoiZmNfd0xTV2F2SFFEYmJMa1BJUHdJS0hnQVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBnaWZ0IGlzIGdpdmVuIGZvciBhIGJhYnkgc2hvd2VyIGluIEluZGlhPyIsImxrIjoiYzVQU0xzOUlMRkZJejB3clVjZ3NCdEpscVhrS2FmbEZDa21KU1pVS3hSbjU1YWxGQ3BsNVFKU1NtUWdBIiwiYnMiOiJjLU9LNTlJTHowZ3NVVWpQVEN0UnlDd0cwbVdwZVFwcC1VVUtpUXBKaVVtVkNzVVotZVdwUlFxWmVRcWVlU21aaWZaR3VsTGE1ZGgxb0tuUEJLbm44dWN5QkZ1UVdKU3FVSklCeFBrRkNvWUdDa21weFJBamlqRXRzemVTa3BLQXFVTXlFNnljSzVCTERXd2cwT3BFaGJ6TTVGU0lTN0NZb2k2bFdrNk1TcTVJTGkyRWtjV2xtU1dKU1RtNGpkV1cwaXduVnJVQUl3QSIsImlkIjoiZmNfd0xTV2F2SFFEYmJMa1BJUHdJS0hnQVFfNSJ9"
+    },
+    {
+      "question": "What are the top 10 best gifts for a baby shower?",
+      "type": "ai_overview",
+      "page_token": "u16b8XicHdBBjpswFABQ9TKznEAI0yZSVJUBQ9PgkT_-NvGmCqYJGQw4BBHCrlfoGXqqnqZqb_D0fv42l7b-8-FXNQz2tlks7vf787nrzubHs-6axfH2aPVCH40pjrrevHx8cT-f9DYadfDa64ChtSIEJxNlJDkhWa2AiS8DONU1y9xAJmavyXnFvCDhZP0olyJKBUw6h6moVV_G7kMkVYoRnYVrx9QpV3vUnsTyHYRyaW52PFSrLBfAWhMfOXFoQxspKUnDw1LnkY8zsRwhV1JlOgJSIM7M_eSzxm-LVjR0iY-SGwVyCtOGXjGHAc2OULH29bwLBDERk3TksfIxXu_SJa5kDSk44qYS24savTc5KUjsDVGNUVV6nND8kKuviHA51FOPkWGlY_ZZXAYI3YUhzPrdNCL2rwfHDYsaXhWv9vDP5tlvQOhFzRWkOTrInk563HpP_6-330_NsLF9d_4LJvmLtA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=u16b8XicHdBBjpswFABQ9TKznEAI0yZSVJUBQ9PgkT_-NvGmCqYJGQw4BBHCrlfoGXqqnqZqb_D0fv42l7b-8-FXNQz2tlks7vf787nrzubHs-6axfH2aPVCH40pjrrevHx8cT-f9DYadfDa64ChtSIEJxNlJDkhWa2AiS8DONU1y9xAJmavyXnFvCDhZP0olyJKBUw6h6moVV_G7kMkVYoRnYVrx9QpV3vUnsTyHYRyaW52PFSrLBfAWhMfOXFoQxspKUnDw1LnkY8zsRwhV1JlOgJSIM7M_eSzxm-LVjR0iY-SGwVyCtOGXjGHAc2OULH29bwLBDERk3TksfIxXu_SJa5kDSk44qYS24savTc5KUjsDVGNUVV6nND8kKuviHA51FOPkWGlY_ZZXAYI3YUhzPrdNCL2rwfHDYsaXhWv9vDP5tlvQOhFzRWkOTrInk563HpP_6-330_NsLF9d_4LJvmLtA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBiZXN0IGdpZnRzIGZvciBhIGJhYnkgc2hvd2VyPyIsImxrIjoiR2hoMGIzQWdNVEFnWW1GaWVTQnphRzkzWlhJZ1oybG1kSE0iLCJicyI6ImMtT0s1OUlMejBnc1VValBUQ3RSeUN3RzBtV3BlUXBwLVVVS2lRcEppVW1WQ3NVWi1lV3BSUXFaZVFxZWVTbVppZlpHdWxMYTVkaDFvS25QQktubjh1Y3lCRnVRV0pTcVVKSUJ4UGtGQ29ZR0NrbXB4UkFqaWpFdHN6ZVNrcEtBcVVNeUU2eWNLNUJMRFd3ZzBPcEVoYnpNNUZTSVM3Q1lvaTZsV2s2TVNxNUlMaTJFa2NXbG1TV0pTVG00amRXVzBpd25WclVBSXdBIiwiaWQiOiJmY193TFNXYXZIUURiYkxrUElQd0lLSGdBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBiZXN0IGdpZnRzIGZvciBhIGJhYnkgc2hvd2VyPyIsImxrIjoiR2hoMGIzQWdNVEFnWW1GaWVTQnphRzkzWlhJZ1oybG1kSE0iLCJicyI6ImMtT0s1OUlMejBnc1VValBUQ3RSeUN3RzBtV3BlUXBwLVVVS2lRcEppVW1WQ3NVWi1lV3BSUXFaZVFxZWVTbVppZlpHdWxMYTVkaDFvS25QQktubjh1Y3lCRnVRV0pTcVVKSUJ4UGtGQ29ZR0NrbXB4UkFqaWpFdHN6ZVNrcEtBcVVNeUU2eWNLNUJMRFd3ZzBPcEVoYnpNNUZTSVM3Q1lvaTZsV2s2TVNxNUlMaTJFa2NXbG1TV0pTVG00amRXVzBpd25WclVBSXdBIiwiaWQiOiJmY193TFNXYXZIUURiYkxrUElQd0lLSGdBUV81In0%3D"
+    },
+    {
+      "question": "What is a nice gift for a baby shower?",
+      "type": "ai_overview",
+      "page_token": "AR2IpXicHdBRboIwGADg7DI-Cgx108QsQ0GpgKH0p9iXBQqK0AoiAvq2u-xUO82SfUf4vn_E-VL-vnR529a3haL0fT8-VdVJZGNeSSW-PS5c4bEQSczLxextpn0c-dK828bqahs-1HW4xiqxDMOJ8JUKNFArxX6BMNZQ6UeG6evu4wDa2XtiJ5CsJdAKKvMog-ne3bJ7IjC4phckutGkrzUi4OosDO9kjdpEZ6orct0JWeitPUmsecGt90e2ZvuEhEW6FYirbEeiT5WpeLqnqIxp_ziIsCObQQOq9nQzvxGayyzkk9Sa9wxQkMjB5KVG3UKYDrBdvBmc9FU7goW6IKp1M091YnnRIWI2AD4fyqEBU_ipKpxgkxqAq7MP-MkLIUF4dmyxiQNtzCRrMhPlUHorDOXT10SP1ekU_NGRd0t99P-5_DrKdlE31ekP6mKDLA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AR2IpXicHdBRboIwGADg7DI-Cgx108QsQ0GpgKH0p9iXBQqK0AoiAvq2u-xUO82SfUf4vn_E-VL-vnR529a3haL0fT8-VdVJZGNeSSW-PS5c4bEQSczLxextpn0c-dK828bqahs-1HW4xiqxDMOJ8JUKNFArxX6BMNZQ6UeG6evu4wDa2XtiJ5CsJdAKKvMog-ne3bJ7IjC4phckutGkrzUi4OosDO9kjdpEZ6orct0JWeitPUmsecGt90e2ZvuEhEW6FYirbEeiT5WpeLqnqIxp_ziIsCObQQOq9nQzvxGayyzkk9Sa9wxQkMjB5KVG3UKYDrBdvBmc9FU7goW6IKp1M091YnnRIWI2AD4fyqEBU_ipKpxgkxqAq7MP-MkLIUF4dmyxiQNtzCRrMhPlUHorDOXT10SP1ekU_NGRd0t99P-5_DrKdlE31ekP6mKDLA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIG5pY2UgZ2lmdCBmb3IgYSBiYWJ5IHNob3dlcj8iLCJsayI6IkdpVjNhR0YwSUdseklHRWdibWxqWlNCbmFXWjBJR1p2Y2lCaElHSmhZbmtnYzJodmQyVnkiLCJicyI6ImMtT0s1OUlMejBnc1VValBUQ3RSeUN3RzBtV3BlUXBwLVVVS2lRcEppVW1WQ3NVWi1lV3BSUXFaZVFxZWVTbVppZlpHdWxMYTVkaDFvS25QQktubjh1Y3lCRnVRV0pTcVVKSUJ4UGtGQ29ZR0NrbXB4UkFqaWpFdHN6ZVNrcEtBcVVNeUU2eWNLNUJMRFd3ZzBPcEVoYnpNNUZTSVM3Q1lvaTZsV2s2TVNxNUlMaTJFa2NXbG1TV0pTVG00amRXVzBpd25WclVBSXdBIiwiaWQiOiJmY193TFNXYXZIUURiYkxrUElQd0lLSGdBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIG5pY2UgZ2lmdCBmb3IgYSBiYWJ5IHNob3dlcj8iLCJsayI6IkdpVjNhR0YwSUdseklHRWdibWxqWlNCbmFXWjBJR1p2Y2lCaElHSmhZbmtnYzJodmQyVnkiLCJicyI6ImMtT0s1OUlMejBnc1VValBUQ3RSeUN3RzBtV3BlUXBwLVVVS2lRcEppVW1WQ3NVWi1lV3BSUXFaZVFxZWVTbVppZlpHdWxMYTVkaDFvS25QQktubjh1Y3lCRnVRV0pTcVVKSUJ4UGtGQ29ZR0NrbXB4UkFqaWpFdHN6ZVNrcEtBcVVNeUU2eWNLNUJMRFd3ZzBPcEVoYnpNNUZTSVM3Q1lvaTZsV2s2TVNxNUlMaTJFa2NXbG1TV0pTVG00amRXVzBpd25WclVBSXdBIiwiaWQiOiJmY193TFNXYXZIUURiYkxrUElQd0lLSGdBUV81In0%3D"
+    },
+    {
+      "question": "What is a suitable gift for a baby shower?",
+      "type": "ai_overview",
+      "page_token": "Ro_TtnicHdBNUoMwGIDh8TIuLaFSpTMdRyyhdErGAF8CbJw0KaUlQOyPCDvv4qk8jY7rd_W8X9_60NY_Nx_V5WLO88mk7_u7fdft9e5Ods1EnIdWTqTQeitkPZ89zNBTKRf-NfRe3kOPgjFsGVsJAyS4W1PkvpIsHwkzmWAqKTI8SjBBgipbaRIIIJ6wtWDoEcnGNQWj_dbHpUjjROlK5HWVct9Meett4pYROT4jZveD4mYluLNKpmsq6kuXMDWLrM9XwvA6su5t4js1cLakkA_xijkJr162ACMEGIqxiiK8tna8yjM7HxRIh1jKomjfF7joib3uIqwdgTXK03DIj7r1KzVN8Z8kK0KA-JDXnyfwNVWW3iSB8iDuDhTiUR51A9wJuPaalLsm0q4QQWjxVbzZLf_aSK6Ss5LS21J-LKa3_z8Xb2VzmZtTt_8Fgr-Cow",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ro_TtnicHdBNUoMwGIDh8TIuLaFSpTMdRyyhdErGAF8CbJw0KaUlQOyPCDvv4qk8jY7rd_W8X9_60NY_Nx_V5WLO88mk7_u7fdft9e5Ods1EnIdWTqTQeitkPZ89zNBTKRf-NfRe3kOPgjFsGVsJAyS4W1PkvpIsHwkzmWAqKTI8SjBBgipbaRIIIJ6wtWDoEcnGNQWj_dbHpUjjROlK5HWVct9Meett4pYROT4jZveD4mYluLNKpmsq6kuXMDWLrM9XwvA6su5t4js1cLakkA_xijkJr162ACMEGIqxiiK8tna8yjM7HxRIh1jKomjfF7joib3uIqwdgTXK03DIj7r1KzVN8Z8kK0KA-JDXnyfwNVWW3iSB8iDuDhTiUR51A9wJuPaalLsm0q4QQWjxVbzZLf_aSK6Ss5LS21J-LKa3_z8Xb2VzmZtTt_8Fgr-Cow",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHN1aXRhYmxlIGdpZnQgZm9yIGEgYmFieSBzaG93ZXI/IiwibGsiOiJHaWwzYUdGMElHbHpJR0VnYzNWcGRHRmliR1VnWjJsbWRDQm1iM0lnWVNCaVlXSjVJSE5vYjNkbGNnIiwiYnMiOiJjLU9LNTlJTHowZ3NVVWpQVEN0UnlDd0cwbVdwZVFwcC1VVUtpUXBKaVVtVkNzVVotZVdwUlFxWmVRcWVlU21aaWZaR3VsTGE1ZGgxb0tuUEJLbm44dWN5QkZ1UVdKU3FVSklCeFBrRkNvWUdDa21weFJBamlqRXRzemVTa3BLQXFVTXlFNnljSzVCTERXd2cwT3BFaGJ6TTVGU0lTN0NZb2k2bFdrNk1TcTVJTGkyRWtjV2xtU1dKU1RtNGpkV1cwaXduVnJVQUl3QSIsImlkIjoiZmNfd0xTV2F2SFFEYmJMa1BJUHdJS0hnQVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZrSlliRkpmYkdsQlYxTkpTa3RuY1haSFdYWkRRVXN4YTFadVVXbFBTRWRQYTJoaVdGZGlWMUZJYjFkaWVqZHpkMVp2WjJkNFIySkNTMGhWUVhoaVkwazNhMlJPVUZKelpWcHlOazlHZGw5dFdFRklXVU5GV25OVlp4SVhkMHhUVjJGMlNGRkVZbUpNYTFCSlVIZEpTMGhuUVZFYUlrRkVjM0k1WmxGM05qVlBURjlUYUhkTmFHcFRZbDgxVVd4elpqWjVOVjlCUVVFIiwiZmN2IjoiMyIsImVpIjoid0xTV2F2SFFEYmJMa1BJUHdJS0hnQVEiLCJxYyI6IkNoWmlZV0o1SUhOb2IzZGxjaUJuYVdaMElHbHVaR2xoRUFCOW9Yb29QdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHN1aXRhYmxlIGdpZnQgZm9yIGEgYmFieSBzaG93ZXI%2FIiwibGsiOiJHaWwzYUdGMElHbHpJR0VnYzNWcGRHRmliR1VnWjJsbWRDQm1iM0lnWVNCaVlXSjVJSE5vYjNkbGNnIiwiYnMiOiJjLU9LNTlJTHowZ3NVVWpQVEN0UnlDd0cwbVdwZVFwcC1VVUtpUXBKaVVtVkNzVVotZVdwUlFxWmVRcWVlU21aaWZaR3VsTGE1ZGgxb0tuUEJLbm44dWN5QkZ1UVdKU3FVSklCeFBrRkNvWUdDa21weFJBamlqRXRzemVTa3BLQXFVTXlFNnljSzVCTERXd2cwT3BFaGJ6TTVGU0lTN0NZb2k2bFdrNk1TcTVJTGkyRWtjV2xtU1dKU1RtNGpkV1cwaXduVnJVQUl3QSIsImlkIjoiZmNfd0xTV2F2SFFEYmJMa1BJUHdJS0hnQVFfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best gifts for an Indian baby shower (Godh Bharai or Seemantham) are practical newborn essentials or thoughtful pampering items for the mother-to-be.",
+        "snippet_highlighted_words": [
+          "practical newborn essentials or thoughtful pampering items for the mother-to-be"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Practical Newborn Essentials (For Close Family)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Muslin Clothing & Swaddle Sets: Breathable, 100% natural cotton muslin wraps, jablas, and caps are gentle on newborn skin and ideal for the Indian climate."
+          },
+          {
+            "snippet": "Hospital Starter Kits: Pre-packed bundles containing mittens, booties, nappies, and receiving blankets save parents time."
+          },
+          {
+            "snippet": "Diaper Caddy Organizer: A portable storage caddy with compartments for diapers, wipes, and creams."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Pampering the Mother-to-Be (For Friends & Colleagues)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Postpartum Care Basket: A comfort kit with a soft nursing-friendly nightwear set, herbal teas, and stretch mark care."
+          },
+          {
+            "snippet": "Keepsake & Memory Boxes: Elegant boxes to store the baby’s first ultrasound scan, hospital tags, and milestone notes."
+          },
+          {
+            "snippet": "Cultural & Devotional Keepsakes: Soft plush toys or musical items featuring gentle traditional lullabies."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Popular Return Gift Ideas (For Guests)"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Traditional Potli or Jute Bags: Eco-friendly bags featuring traditional prints paired with Meenakari boxes or bangles."
+          },
+          {
+            "snippet": "Auspicious Favors: Miniature Haldi-Kumkum bottles, Pichwai-themed jars, or brass decor items. You can find traditional options at Wedtree or local handicraft stores."
+          }
+        ],
+        "reference_indexes": [
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you tell me your budget and your relationship to the mother-to-be (close family vs. friend/colleague), I can recommend a more specific gift or price range."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.google.com/goto?url=CAESfQHrOzAVV5PSH7Ro2X--sTM_LLuUBKB7-NQ67QBDKI3HsBfMbgkVSR7rssftx8w6j_3Nqdl9r3P2Vzk-pdSbYNL773KTGyB1v4Es3daxWpoJl4rzJkAcbOLMKRrGXnloT_33ZdHJxyt_Avy3lKqdWHnplJ_L6Wokn4sYAbOb",
+        "source": "zizuka.in",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESjwEB6zswFaqDWqjzj4gd6vrc8_qLYMgJvkzRrYURM6CSJxlOUKl46movSsNWvJQUfaBH3V3gzPdtdbLuPySTfwrrPRSbPBwNDirT8pTND1XFHgi9aOsKvIWWDqwbGIXsphkrPbLXBmXwSgcCAt6kD7HQ9oQeeBBvq-smYROYymH2mZilKsoU7si06BpHg784_Q",
+        "source": "amazon.in",
+        "index": 1
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESegHrOzAVv7-dMEWocGh6RmXVXjzzlj5zNBv5MovlbQ3URao9sL4_oJjsggGBmEFAYnhP1FF6QkI7o_VocoLcBqHdjeGtae9T3GSITGe5cs2ul_ZDgYfdqiy_JH9UhiT8WGLmEh-j_OieQZXHwz20ooz9UfpqvPaB5euD",
+        "source": "pandasbox.in",
+        "index": 2
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESwwEB6zswFSTypREQdUonncr2Ij2v162oKJfBefpEltPA6zdIOh64N9Ik3H2ZsBLao0BXCZiAbhES2i7vYmiVSyU2sL4Opaokl2pCYIEDWiRTZHZBoj6ROu6LEtRNgzNO4QIjgnRNItMr3W2zrCtNhZ0rre7vD9va4Hp8scWJW9dP5qx6fyW_hx5XTedS7C1JiVkzF_HCv7LNezI2WmmXH14zoqoVAPr6RLB1IjR3z3iTddrrRMqFDwNsG8QTHoHvPdPjLkE",
+        "source": "facebook.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 4
+      },
+      {
+        "title": "Godh Bharai & Baby Shower Gift Ideas India 2026 | Zizuka",
+        "link": "https://www.google.com/goto?url=CAESfQHrOzAVvPhQOjruILKJOVcXl5V-2QQdamm0TjiBSBqh3yI31DOJRdQvcG76pfbsc-HAk756VRDvAxrW5u1r8jKKXUj7z1oSI6QtbnqgyC-MWdxdEmKFaF9JPRJZAztaw8Ck_SNEH1oIzsPEHdiKjI5jdDpjA2L8lA0vRr4q",
+        "snippet": "Godh Bharai & Baby Shower Gift Ideas for Indian Moms-to-Be. Link. Close Copy link. ... Quick answer: The best godh bharai or baby shower gifts in India are prac...",
+        "source": "zizuka",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjWdqAaIScsBTZSOsVdsEBGZSpaIeebBPEeHrvLYWdqxKiF99Mw9KhnjcBhK9n_wsi-9I4Bs1IuIriavNU-GNCI_qS2NYGngzbbPlB",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zizuka.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Gifts For Baby Shower Function - Amazon.in",
+        "link": "https://www.google.com/goto?url=CAESjwEB6zswFT7ypP1mXNikLw65xPGpdiSFLkbqxjgNNzmt5Wd95ZK92WZdLMVUXrjw0tZB9KMUAqj511TNOimkiRILNzOVPWqJEp54lOoOn6O6BbNVWbbCyWzAjxkIS6gyS9xXQ8IpFv9cMbtUOeScSuTrHvK8nLey3o6JJ2KBxsYiZOx7UJ1NR3zqdWPEa4t5Qg",
+        "snippet": "MOM CARE Diaper Caddy | Baby Diaper Bag with Removable Dividers & 11 Pockets | Portable Baby Storage Organiser for Diapers, Bottles & Wipes | Brown · Non woven",
+        "source": "Amazon.in",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa2j4uWyQ-iZs79hKKHP53BsGq74Gpo40ywDM28-x9AKQLqGv_lwOj4JR_eQECJE_lIk9dbG0oyXkU2qm6FD3NbOL7mgla-q9OlM_X",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Thoughtful Baby Shower Gift Ideas for Indian Families - Panda's Box",
+        "link": "https://www.google.com/goto?url=CAESegHrOzAVpNrlyTpdqRNBO1vEQ65BaOq_KAZpsZorTqv0MZhx71PeulIkTzaUd9su2Y0bAFd_kFyHnJka5nmkQkGRPPxoabseMep7Fk_Q-GaHv5n1IYLLd4YoabbGV8wNO4IXVxRprv3TyrsuS63Mr6hqi2cfNuSRGbjo",
+        "snippet": "Below are some gifting ideas that balance emotional value, practicality, and uniqueness for modern Indian families in 2026. * 1. Musical Devotional Plush",
+        "source": "Panda's Box",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wSfUs7IEv9UBXCRW7EeBuqnt-pfRq0zcOhnevL2KlgVDnfNfVQt1Q2338KDhGA3HN8A873vw-ZBAxqbyJG2ZGAvHlLuYEYEBuxUU",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pandasbox.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Finding the Perfect Baby Shower Return Gifts at Wedtree!",
+        "link": "https://www.google.com/goto?url=CAESwwEB6zswFcfQSqEBTnpMysm9RngRQydyCl3FWkw8QgZYXcrbDj1AzJANg6eEChBEfAsAzQcFdx_X4DTjb9lmuoMJQCHD-EdPxwlkEMpTRlMdon__zWEaSVcFPr_0gobItfctZ91RuT8jbVuHlrYuW6Ov6_quzszgmPmaHVSBj6pdQIEzof1PVfryXhSCB_q-eq8ureEDCDw1co1G4S2RyheYD2_UddrBrljEvU_cV1JmvSK5hsfd9Zhi7pfWQW-zj6unslI",
+        "snippet": "hello everyone i visited Wetry today to shop for baby shower return gifts. and their collection is amazing and endless i was looking for tin jars to pack sweets",
+        "source": "Facebook",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9ncmrfkpJQLTMHqmUticFG90NNnf3MozP142EJ42sFB5z2H5xRack1e1zWTs_IUgDTwjmUXTOE0Pc8B2G7jVo4jl-u_bSHyzh7EYfYA",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Baby Shower Return Gifts Combo – Jute Bag",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5017652795610204305,catalogid:10012625298846280101,gpcid:9901563930107968609&ibp=oshop",
+        "snippet": "Celebrate the joy of motherhood with this beautifully curated Baby Shower Return Gift Combo, thoughtfully designed to add charm and elegance to your special occ",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfXqtJBnSbRBzItDfmfpRmdo9xCVz1azz4h0Auqqr8MDWTBENCKPRkd3sEv-Krz_famynaO-zcE74VzWQ",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Traditional Indian Baby Shower Return Gifts - Pregnant Lady Wooden Keychain with Kumkum & Turmoil/Haldi Bottles for Seemantham, Godh Bharai, ",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:13559771049024346444&ibp=oshop",
+        "snippet": "Celebrate the beautiful journey of motherhood and delight your guests with these elegantly crafted traditional Indian baby shower return gifts. Perfect for ausp",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr3ksPTlG3u-iAfnJmWPOhFx9WWzseYRE8SOX88m2XoZMeqiLtUPp3s0iYWor01ffW3CO4bBePnpsTpy4",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Baby Shower Return Gift Set – Assorted Pichwai Jar with Pink Jute Bag & Haldi Kumkum Bottles",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:11865917338534897743,catalogid:2373787421194395471,gpcid:6434890430635437223&ibp=oshop",
+        "snippet": "Make your special celebration memorable with this elegant baby shower return gift set. The set features an assorted Pichwai jar, a beautiful pink jute return gi",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxqXcnQoY6B_HdB59vZ40LK8DV8I6YcskGEwHBhofcykW8iJzD7bHbyhHd4bQ5E0plWCJbSh9rbV-UvrU",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Baby Shower Gifts Online Delivery in India",
+      "link": "https://www.fnp.com/gifts/baby-shower-lp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVf-6bofgTNeeDaAH4gWbf7oFLxiJjrREm-vEAwiBsyUzcbVI9lwUYX7kDIazbjB3B8UIbYHp3s2QbL2V--qqDT1rr-1hk5EKlEOPmwCG6P-U2nlO3Dh2xYr-4Ig&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.fnp.com › gifts › baby-shower-lp",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEX____-_v3____39_Pf4NB3eyVvcwbo6dzw8Ona2siDhkC_wKKjpnZ9gTGbnWjLy6_R1MGxs42Nj1LLxIzMuF_ovj7Q0rvothvlrQDkrgDirADuyFrirQB-9FAkAAAAAnRSTlNa_mzCp_0AAADDSURBVHgBxdNFAsMgEEDRzsdJiEP1_tesu22DrB7OzGIh_Cjyx07KnzI3ipKfqI11H-g9OgCxUnxgbVxqgKQB_Hm2cuqM0ppkOvHGmBRSH-1A7FO07QnH6VhyQaWitK3wJgyDIlh9xDJO4zgWSAGdgKaNAaj7I7bL1Xqz7V5QA319xt16k8MzDj1IbE-4zTmfZpojmgvGuh0GOaIvXdcVD63Ht0BxMVR1JS8vJAKcOjGA_Hp4c0R-oZI_CDOi_Db5mw4HIH4MxvIcVVoAAAAASUVORK5CYII.png",
+      "snippet": "Customised photo lamps, name plates, or memory frames make for gifts that outlast the. Flowers & Bouquets: Soft toys, milestone clothing sets, and welcome baby ...",
+      "snippet_highlighted_words": [
+        "Customised photo lamps, name plates, or memory frames"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "store_rating": 89
+          },
+          "extensions": [
+            "4.7",
+            "store rating (89)",
+            "Free delivery"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Customised photo lamps, name plates, or memory frames make for gifts that outlast the. Flowers & Bouquets: Soft toys, milestone clothing sets, and welcome baby ...",
+          "source_info_link": "https://www.fnp.com/gifts/baby-shower-lp",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEX____-_v3____39_Pf4NB3eyVvcwbo6dzw8Ona2siDhkC_wKKjpnZ9gTGbnWjLy6_R1MGxs42Nj1LLxIzMuF_ovj7Q0rvothvlrQDkrgDirADuyFrirQB-9FAkAAAAAnRSTlNa_mzCp_0AAADDSURBVHgBxdNFAsMgEEDRzsdJiEP1_tesu22DrB7OzGIh_Cjyx07KnzI3ipKfqI11H-g9OgCxUnxgbVxqgKQB_Hm2cuqM0ppkOvHGmBRSH-1A7FO07QnH6VhyQaWitK3wJgyDIlh9xDJO4zgWSAGdgKaNAaj7I7bL1Xqz7V5QA319xt16k8MzDj1IbE-4zTmfZpojmgvGuh0GOaIvXdcVD63Ht0BxMVR1JS8vJAKcOjGA_Hp4c0R-oZI_CDOi_Db5mw4HIH4MxvIcVVoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.fnp.com/gifts/baby-shower-lp&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.fnp.com%2Fgifts%2Fbaby-shower-lp",
+      "source": "FNP"
+    },
+    {
+      "position": 2,
+      "title": "Baby Shower Gifts Online India | Gift Sets",
+      "link": "https://www.thealmirah.com/collections/baby-shower-gifts?srsltid\\u003dAfmBOoo5QOfpyU67M4NBM6M2lpdMbyS5dTNJSAFDEBbpntGxDy5lmfNt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFfD2ZZEYqR3Jrk0CQhA66kbOuUeUfwPqJycZi0MmEyhB0bEEfKGPUcNyYyzVk1XMNNgQ-7LvIFH7ov8YK9JxLKxoENnW2Xk76x9wKLRfcFSnZfzPbIwfBarb2pQW-TtBWLzpUhOXqVu_s4KF2ySbXDMDfNEbkCihdFA0gbtMkREBD2gb_MZS0s1oS2xAs14WM3gi87N-hdfaw5SL5cj-VOC9ovUzI1zWb0flYNU&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://www.thealmirah.com › collections › baby-shower...",
+      "favicon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv33mpt25GM3At51Y_bY4FQjA.png",
+      "snippet": "Shop baby shower gift sets, hampers & soft toys in 100% cotton — ready-to-gift sets for mom-to-be and baby. Unique baby gifts - Pan-India delivery ...",
+      "snippet_highlighted_words": [
+        "baby shower gift sets, hampers & soft toys in 100% cotton"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shop baby shower gift sets, hampers & soft toys in 100% cotton — ready-to-gift sets for mom-to-be and baby. Unique baby gifts - Pan-India delivery ...",
+          "source_info_link": "https://www.thealmirah.com/collections/baby-shower-gifts?srsltid=AfmBOoo5QOfpyU67M4NBM6M2lpdMbyS5dTNJSAFDEBbpntGxDy5lmfNt",
+          "icon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv30qmdFut4CkzuE3nosxfrfu2LWt6E0wURIGIO9I191FF.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.thealmirah.com/collections/baby-shower-gifts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thealmirah.com%2Fcollections%2Fbaby-shower-gifts",
+      "source": "The Almirah Store"
+    },
+    {
+      "position": 3,
+      "title": "Baby Shower Gifts",
+      "link": "https://masilo.in/collections/baby-shower-gifts?srsltid\\u003dAfmBOoowg8cAQGzaJhWq6ZeTxb2u62G669Yc3CU7yAa5q2NOtQjsWOmr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFeZeZVj7OaD8RvOmgdeY1TaBQPhPTGjcrTpfJUfoq3b7YbMP5YEN92rJrUYTsYmQfhWuYedXqmp5mpAXBXjQiSfNmvaXhII73VpsPISKiLcH8q57XdTicOR8rrI9uU0L8ckJuzla0lCQhRgtYBMEeoMd-LoZHhPrcMM6_G56eocLs0G5upHA1wZtGie75g8Prs8LGyHG7YYFcW_otL1c5bfK-Lc&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://masilo.in › collections › baby-shower-gifts",
+      "snippet": "Baby Shower Gifts ; Newborn Baby Gift Set – Neutrals. 7,850 INR ; First Year Bundle - Sleepy Star (Metallic). 11,950 INR ; Indoor/Outdoor Quilted Playmat – Polar ...",
+      "snippet_highlighted_words": [
+        "Baby Shower Gifts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Baby Shower Gifts ; Newborn Baby Gift Set – Neutrals. 7,850 INR ; First Year Bundle - Sleepy Star (Metallic). 11,950 INR ; Indoor/Outdoor Quilted Playmat – Polar ...",
+          "source_info_link": "https://masilo.in/collections/baby-shower-gifts?srsltid=AfmBOoowg8cAQGzaJhWq6ZeTxb2u62G669Yc3CU7yAa5q2NOtQjsWOmr"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://masilo.in/collections/baby-shower-gifts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fmasilo.in%2Fcollections%2Fbaby-shower-gifts",
+      "source": "Masilo",
+      "read_more_link": "https://www.google.com/goto?url=CAESqwMB6zswFSPQNSAgyQOg0azTTGTjefky7C_Kr3eR0KbSHpA_MNwfZSlmdYYUuB8rkcCrIocjLxGyrYXRqsgdDP_mBL8LFPRpihPQcvBau2MvVd2DaZlJSbOSZIrVp6tRBpevMl9Mkj6scsbBzrUxdkbWWFhe9HmzOYrzw1YkYCQf1qfhXfmqkP7CtPFRowqjsB8itUKmmA4axctEt-kiot4__LMGPnJssgPhZHPma7VUxuwhio39rqMApM0ssOfobw01vL_ka9jmrH-qgNiNTcVoztoxePYK0x2_QlrddZAwxiNHoILHSjWXgpU7UQTHfI_-WthRw50XsEx6Z3dzRzhOBm-Jm0b9u06BXvRcwZYdSzpioIrZoFcCu2-WvXSQRoNxd0iokaHQCuduhK3RkdxxTtXdx1Bsx3Y0tzUiGO1W-AHroLhPCJ9yeiY4C1Gvd8i4WUbtYzyyzkzPs36AKY4LceEuJJN-M_fCy9WJU3quoGgqGBP0k6UaXBxt8PU1XGGAI8Kp9-C1o0i4gUlsoZW8Uaf90I2xrGGI31QiH16X6wcXp1SIwhjo2V9j"
+    },
+    {
+      "position": 4,
+      "title": "Baby Shower Gifts India",
+      "link": "https://in.pinterest.com/wantthatmomma/baby-shower-gifts-india/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVDMNUKvQ0EJJxblS0r2gFaK8piGB4FNqrWbhiodeM4TRN3IsQgE9nn9pvQcDZQuVSsku_1ngPIfdQbTkt93ureNFKEKa0hsMbiL3drPw_jkNFhNQSxuVPPyaYkYN8cNgOl1K73upEB2JqfCzfq8F7fVUW&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://in.pinterest.com › wantthatmomma › baby-show...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Discover 26 Baby Shower Gifts India and pack of baby diapers ideas gifts, practical gifts, snail baby clothes and more",
+      "snippet_highlighted_words": [
+        "Baby Shower Gifts India",
+        "baby",
+        "gifts",
+        "gifts",
+        "baby"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover 26 Baby Shower Gifts India and pack of baby diapers ideas gifts, practical gifts, snail baby clothes and more",
+          "source_info_link": "https://in.pinterest.com/wantthatmomma/baby-shower-gifts-india/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://in.pinterest.com/wantthatmomma/baby-shower-gifts-india/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fin.pinterest.com%2Fwantthatmomma%2Fbaby-shower-gifts-india%2F",
+      "source": "Pinterest"
+    },
+    {
+      "position": 5,
+      "title": "The Best Baby Shower Gifts in India That Parents Actually ...",
+      "link": "https://woodwaley.in/blogs/news/baby-shower-gift-india-personalised?srsltid\\u003dAfmBOor4-j8g9Q8VaN1TY0z4mfpILgjajlPykGQTgv8ynaQJrLQv2SYJ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFa5OaqnffiKksU4-d2KgzX5qgrgmBMH4d2jqlye90THxc4RmBy3qn_bS-mu6VPp--DnUfNc-O3-2RhWh8JzxqmR8RueYPReALRksc8oeW91oEr-S--ZvHkAlOssaY9D7N2Lzgex1N6gy5E3dMvshoHQzn_GSJN68Wj5pDDQZPE5mNrD8kXCBrjG7H_q4gex_Mg5-UPFi58yg-Ud01Nrw22OV51SGwqpZvWPE7Di7HqTXERwNwFc8Um4&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://woodwaley.in › blogs › news › baby-shower-gift-...",
+      "favicon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv34BxzjSNSBrS2KsWiNaY5uI.png",
+      "date": "21 Jul 2026",
+      "snippet": "Discover the best baby shower gifts in India parents actually keep, from personalized wooden keepsakes to godh bharai favorites, ...",
+      "snippet_highlighted_words": [
+        "baby shower gifts",
+        "India"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover the best baby shower gifts in India parents actually keep, from personalized wooden keepsakes to godh bharai favorites, ...",
+          "source_info_link": "https://woodwaley.in/blogs/news/baby-shower-gift-india-personalised?srsltid=AfmBOor4-j8g9Q8VaN1TY0z4mfpILgjajlPykGQTgv8ynaQJrLQv2SYJ",
+          "icon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv37KrMdos1Syic2zFzyUUzzK2GJvICzFU4fMtgxq3TuRe.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://woodwaley.in/blogs/news/baby-shower-gift-india-personalised&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwoodwaley.in%2Fblogs%2Fnews%2Fbaby-shower-gift-india-personalised",
+      "source": "WoodWaley"
+    },
+    {
+      "position": 6,
+      "title": "7 Unique Gift For Baby Shower Ceremony",
+      "link": "https://newcomers.in/blog/gift-for-baby-shower/?srsltid\\u003dAfmBOopbnezSEjj-OaL73yJQ5p3aRuIU5eBzzXukrZlK_B9s4m7UDW7x",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFYL4fv3HTjhJ7kr5S32tfPO1CNYzFwxEgdGv5NlhLKyDmVzbgp4O9AxfUxmmr1S3PkonUNPA7d1JetButhjt3KgS6mwjSWEljhCC78n5HfKaG5j5L2-k_ZNmLobotbGxdowKqD27vUX6eLlmK8cssgsWvvhAJZXotwHDVj9M-KNxRtFfnqJoVlP4txcx28aq9PZ7n6njZVDlkQLqn1LzZ9_YBtk&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECFUQAQ&uoh=1",
+      "displayed_link": "https://newcomers.in › Blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEw2OkQ3OkQ5PUfq6us8QElBREw-QUpFSE86PUc7P0lYWmK4ubzt6-f____8_f3_____NT0zN0L___8xNUAsMT0nLDjz9PUfJDLY2duIio8SGSpXWmJAQ03Gx8mtr7JucHeWl5y2t7piZWwAARd5e4Cho6Zspt3wAAAAEXRSTlMA7M2f9XY7WR-Lrw9EFKeaoIby_gsAAAGYSURBVDiNlVPbdoJADBQFEdS2ZzfZG3dR__8TmwRYobYPzYOXTJhMJmG3-0ec8qwosuOZfxZv6LlI1Bz7nP7KEyv8QADAVEBfuSSPL3J-GmoFCwmU2-aSdH4wM473Nl0XJDMz0ochFqy91quKQsXeUHkH0KSa4mPReFavQK89AlQPrW2f_SAQErSi1A06OEXDnaICxQq4DfC0YFqnIDupchmBcoE1IqJpHFIFpRJ24nRc6AOCM309Wm1rnFLsZ55HgcZ1eg5i4oHZ0CKbGhhT9XbBdaceGBrglZVSAE3oUr2OWuubYcP3Uwv3aDf48279UzaSSAE-nluCodLo4BAZxP113EbvlGIvC7mE2m5x3d06coIP4qj2zODG_rYuCHYkL2QVyxJMsynQDtR0NdlilOlXHVKWMJ9cLBhsnKTTdF37ed3Ra1O5gcWmrCYY2US8aNHxrKq7aWpR27r8dXPlVFB527bUxYonF4GuKw4M1oZ-bOikIx4jl_emDY7WjDTv5-4tCl45ytH5r-s7ziwH9jQpL7-if8Y3EE01p0iM9-MAAAAASUVORK5CYII.png",
+      "date": "16 Oct 2024",
+      "snippet": "1. Baby Milestone Blanket. Rs 800 – Rs 1500 ; 2. Baby Blanket. Rs 700 – Rs 1500 ; 3. Soft Pillows. Rs 150 – Rs 300 ; 4. Mustard Seeds Pillows. Rs ...",
+      "snippet_highlighted_words": [
+        "Baby Milestone Blanket. Rs 800 – Rs 1500"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Baby Milestone Blanket. Rs 800 – Rs 1500 ; 2. Baby Blanket. Rs 700 – Rs 1500 ; 3. Soft Pillows. Rs 150 – Rs 300 ; 4. Mustard Seeds Pillows. Rs ...",
+          "source_info_link": "https://newcomers.in/blog/gift-for-baby-shower/?srsltid=AfmBOopbnezSEjj-OaL73yJQ5p3aRuIU5eBzzXukrZlK_B9s4m7UDW7x",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEVHcEw2OkQ3OkQ5PUfq6us8QElBREw-QUpFSE86PUc7P0lYWmK4ubzt6-f____8_f3_____NT0zN0L___8xNUAsMT0nLDjz9PUfJDLY2duIio8SGSpXWmJAQ03Gx8mtr7JucHeWl5y2t7piZWwAARd5e4Cho6Zspt3wAAAAEXRSTlMA7M2f9XY7WR-Lrw9EFKeaoIby_gsAAAGYSURBVDiNlVPbdoJADBQFEdS2ZzfZG3dR__8TmwRYobYPzYOXTJhMJmG3-0ec8qwosuOZfxZv6LlI1Bz7nP7KEyv8QADAVEBfuSSPL3J-GmoFCwmU2-aSdH4wM473Nl0XJDMz0ochFqy91quKQsXeUHkH0KSa4mPReFavQK89AlQPrW2f_SAQErSi1A06OEXDnaICxQq4DfC0YFqnIDupchmBcoE1IqJpHFIFpRJ24nRc6AOCM309Wm1rnFLsZ55HgcZ1eg5i4oHZ0CKbGhhT9XbBdaceGBrglZVSAE3oUr2OWuubYcP3Uwv3aDf48279UzaSSAE-nluCodLo4BAZxP113EbvlGIvC7mE2m5x3d06coIP4qj2zODG_rYuCHYkL2QVyxJMsynQDtR0NdlilOlXHVKWMJ9cLBhsnKTTdF37ed3Ra1O5gcWmrCYY2US8aNHxrKq7aWpR27r8dXPlVFB527bUxYonF4GuKw4M1oZ-bOikIx4jl_emDY7WjDTv5-4tCl45ytH5r-s7ziwH9jQpL7-if8Y3EE01p0iM9-MAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://newcomers.in/blog/gift-for-baby-shower/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnewcomers.in%2Fblog%2Fgift-for-baby-shower%2F",
+      "source": "newcomers.in",
+      "read_more_link": "https://www.google.com/goto?url=CAESygIB6zswFf4QpRpaxPziHV0adR6JaYdPqUO1IAMq-hPO0Zrzw7vw-GfXZ4G5So8GIOSEn09sBf2FgAFMBD5_6VGXkojMMOMKEIaVwl8Bld7FAFYI-YfYb01snHeuq2zy27zrAu3P4OTAmfXk5pj4MhHtVOUfcbwIRk3i1nQVjKg7eTC1hPEi23auVO9ByEyPCnPAPWU7nQ1EUNzFlyQgwrVX1p72dKKRZlliOnG8U2eXh-VmTL_kwOyID-YA4Ec_ls25OWkU03HFJ975WVPudK9ED73_3t9hUdu15n4bXzM4J26qOV6FNhoEN2YL-WFCT6_xKn99P5OZ2nOKz5EQ8nTcyIDHE8hnmmHDZxFXxtrr_B0p3ALFdEC8jhN0AefsaeWjUcFhPKPFwNVAoCriI4MmCSCyApAqkvNWxrkUYAUuW6uZW2K_1Nx5cK8"
+    },
+    {
+      "position": 7,
+      "title": "Baby Shower Gifts Online",
+      "link": "https://www.boontoon.com/baby-shower-gifts?srsltid\\u003dAfmBOoqFdf9MuSfgfNIKhW9d940WE2K8IyxqG4QQEX7PYdYGTGBHotgd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFQIRyxbZuJcc9y9iMoNqxqzDp1xDYnAj44d5kZQeysbReu2Iyr8_umswTSbuJzCWo5B_uw_Fq7Dr_wakAdC_E3Lo8JpYkSkYl_bZjQ-G4wn9njwUdXMCRGyKvs8NkyH_8SHI9xDe59yZR10OT3jhWKVhuzLYqVOfYgmsArXC-vAv8n-xQkuhEzqP230x8pVhbiude6yz2hNslgZAwNTb&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECC8QAQ&uoh=1",
+      "displayed_link": "https://www.boontoon.com › baby-shower-gifts",
+      "favicon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv33s1V9JRCkMHmRxvveOgvc0.png",
+      "snippet": "Whether you're in India or abroad, Our collection includes personalized keepsakes, decorative items, eco-friendly gifts, and practical hampers.",
+      "snippet_highlighted_words": [
+        "personalized keepsakes, decorative items, eco-friendly gifts, and practical hampers"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 200,
+            "currency": "₹ delivery",
+            "day_returns": 25
+          },
+          "extensions": [
+            "₹200 delivery",
+            "25-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Whether you're in India or abroad, Our collection includes personalized keepsakes, decorative items, eco-friendly gifts, and practical hampers.",
+          "source_info_link": "https://www.boontoon.com/baby-shower-gifts?srsltid=AfmBOoqFdf9MuSfgfNIKhW9d940WE2K8IyxqG4QQEX7PYdYGTGBHotgd",
+          "icon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv32G4pRwUFvJki-pofgMyplm9q7kwHWRqJPNinIe3C1em.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.boontoon.com/baby-shower-gifts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.boontoon.com%2Fbaby-shower-gifts",
+      "source": "BoonToon"
+    },
+    {
+      "position": 8,
+      "title": "Baby Shower Gifts Bangalore Online",
+      "link": "https://thedottedi.in/collections/baby-shower-gifts?srsltid\\u003dAfmBOorydk3jLssbV6XC6YEbXkIkyoi64odx9UJCcvhCTt80t5QOgHOe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFauohc9tYO0QVvgTiOiAK0OGD0SWKhHa4ZRE7j3JMe19D0ecemsbjEstpjl3-MnJTkz32UR_Xj4v8i41ez3mzbUMgCDCj-OT_W0GJHBvGaFNJEdiJoSNeZcH9turWx3P-owEwIixfGlqLdKkPYUWa4_NvubROFUAdExjYHqGVDhMBo1e07kyPcWibN_I_0mBRdjkTlZ-PHJlSaROridzmFVh3-r8VpWr&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://thedottedi.in › collections › baby-shower-gifts",
+      "favicon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv325jcNM7bIm2rZ1_w8xYaD4.png",
+      "snippet": "Baby Shower Gifts ; New Mom Gift Hamper · ₹4,500 ; Pregger's Celebration Gift Combo · ₹2,200 ; Pamper Me Gift Combo · From ₹2,400 ; Pamper Me Gift Hamper - Female ...",
+      "snippet_highlighted_words": [
+        "Baby Shower Gifts"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Baby Shower Gifts ; New Mom Gift Hamper · ₹4,500 ; Pregger's Celebration Gift Combo · ₹2,200 ; Pamper Me Gift Combo · From ₹2,400 ; Pamper Me Gift Hamper - Female ...",
+          "source_info_link": "https://thedottedi.in/collections/baby-shower-gifts?srsltid=AfmBOorydk3jLssbV6XC6YEbXkIkyoi64odx9UJCcvhCTt80t5QOgHOe",
+          "icon": "https://serpapi.com/searches/6a96b4bdcbcccf3f8c477297/images/7co_7zMZCVAJuuExenOv35JqUHbmv0afde2kVNnRnGTAF22ygjOypabix7RcLsue.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://thedottedi.in/collections/baby-shower-gifts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fthedottedi.in%2Fcollections%2Fbaby-shower-gifts",
+      "source": "Dottedi",
+      "read_more_link": "https://www.google.com/goto?url=CAESpgMB6zswFbGXdSPam6tqi4ClT0Utr20dmxM32uaFv1R4h_zxgpcZPxJQTw2tpjJ4dkx3yXpzot4-6-3N_RkjNAQ2anpardEyyaA2wX_95aToThHLoMsHZK_MI8YDm7OHwqkshQVlqq2W5gzLbLOv4xQVJd7kQzScXGklQlHnB1pTjX-XiqDQt-Pv1_TIo3b9gUJf_Zb5msByXCNILcpkE76PZ3Kb1E0RbqZaYJ_ihtOikS4m51JZi9lPv3oHPRxHA_0sGkKIktdistUnOB0OrA65Ehq02S9H7thmKCQSY8jgqIT9xh3UXViZEMn8WSTruMMfa-_0g2QVOXwc_ACCvNwcPD-qiAUBnHiU4QrgZpu82-o3c2iWX9MjbqW6YqdaRbGJLFEzWfZiOWYeOeuwnHkHMyGLQKOTiyQOJeEJ3ibbZEaoDXzZh5UJtCNCvyjL7KmxcCy8-YYbP6Zi6IVlqHdN9n6WjIVBIsRaYgdUo2WriABvGzgZqLH4-5TeQMjUeih0Jdy7v7tjzGyvQds5TZSYTGJiRPG3hPCwVvp2BznThsAczkdwgw"
+    },
+    {
+      "position": 9,
+      "title": "Traditional Indian Baby Shower Gifts",
+      "link": "https://www.google.com/goto?url=CAESigEB6zswFS-GVc0rKuLQEDrFx6VrQ18yNs7N9iVXmYndaFs-E_9AMPefrUDrbpZEmlj6gGVn2Wy8UULrqzFYaCfltvYGkTT_RBcqZjBuCbbZUtkitV7Txdm-SAhKE4a8xLSMLHkw-0OprXvRQpoPJKH8iTJDtDGGbZ2JGUrbVT8_X325rQ_0a5OYkaI",
+      "displayed_link": "https://www.pinterest.com › ideas › traditional-indian-b...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq41fmKHjf8IxPEB0Nf-xBt2NMGgi1QdnaKI2A2v0raTvUGUedDe32w&s",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png",
+      "snippet": "Traditional indian baby shower gifts ; Luxury Hampers · Baby Hamper · Inspirational Gifts ; Traditional Indian Gift Ideas · Traditional Indian Baby Gift Ideas.",
+      "about_this_result": {
+        "source": {
+          "description": "Traditional indian baby shower gifts ; Luxury Hampers · Baby Hamper · Inspirational Gifts ; Traditional Indian Gift Ideas · Traditional Indian Baby Gift Ideas.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEzmACPmACPmACPmACLmACPmACPmACPmACPmACPlACPmACPmACPmACNXoEKOAAAADXRSTlMAeg3EBduLpk9lJS7p902OrQAAALtJREFUKJG9UksWxCAIQ0XwU-9_3QHss1rH3bxhpYTEAAL8Ibw_AOhik4gOd8y1Ee6NhTZF-IYxEe-oaeZ-Ti9l1HuRPFESy3rDhZihmmJE4z5U7UHpHPp7l9QMUL0InSzdPKirMRc5k2RK16j2jJ9AFrCahtTQBFpKbGTIdrKuF0MMLRmFTOkxdM8VwUd1FZZWsHcI3lqndQidyvJkTvnaFqNKCfi8lgoHTJVLOi1bRoHh-E16wemD_TQ-ta8LyZ7XxUgAAAAASUVORK5CYII.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESigEB6zswFS-GVc0rKuLQEDrFx6VrQ18yNs7N9iVXmYndaFs-E_9AMPefrUDrbpZEmlj6gGVn2Wy8UULrqzFYaCfltvYGkTT_RBcqZjBuCbbZUtkitV7Txdm-SAhKE4a8xLSMLHkw-0OprXvRQpoPJKH8iTJDtDGGbZ2JGUrbVT8_X325rQ_0a5OYkaI&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESigEB6zswFS-GVc0rKuLQEDrFx6VrQ18yNs7N9iVXmYndaFs-E_9AMPefrUDrbpZEmlj6gGVn2Wy8UULrqzFYaCfltvYGkTT_RBcqZjBuCbbZUtkitV7Txdm-SAhKE4a8xLSMLHkw-0OprXvRQpoPJKH8iTJDtDGGbZ2JGUrbVT8_X325rQ_0a5OYkaI",
+      "source": "Pinterest"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Unique baby shower gifts for mom to be",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Unique+baby+shower+gifts+for+mom+to+be&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Unique+baby+shower+gifts+for+mom+to+be"
+    },
+    {
+      "block_position": 1,
+      "query": "Unique baby shower gifts for mom to be in India",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Unique+baby+shower+gifts+for+mom+to+be+in+India&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Unique+baby+shower+gifts+for+mom+to+be+in+India"
+    },
+    {
+      "block_position": 1,
+      "query": "Useful gifts for baby shower",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Useful+gifts+for+baby+shower&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Useful+gifts+for+baby+shower"
+    },
+    {
+      "block_position": 1,
+      "query": "Best gift for baby shower function",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Best+gift+for+baby+shower+function&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+gift+for+baby+shower+function"
+    },
+    {
+      "block_position": 1,
+      "query": "Mom to be baby shower gifts",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Mom+to+be+baby+shower+gifts&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Mom+to+be+baby+shower+gifts"
+    },
+    {
+      "block_position": 1,
+      "query": "Baby shower gift hampers India",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Baby+shower+gift+hampers+India&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Baby+shower+gift+hampers+India"
+    },
+    {
+      "block_position": 1,
+      "query": "Baby Shower Gift blinkit",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Baby+Shower+Gift+blinkit&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Baby+Shower+Gift+blinkit"
+    },
+    {
+      "block_position": 1,
+      "query": "Baby shower return gift ideas",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Baby+shower+return+gift+ideas&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Baby+shower+return+gift+ideas"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Girl",
+      "link": "https://www.google.com/search?q=girl+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIICBISBEdpcmxgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAF6BAgWEDU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=girl+baby+shower+gift+india"
+    },
+    {
+      "query": "Under ₹800",
+      "link": "https://www.google.com/search?q=baby+shower+gift+india+under+800&gl=in&hl=en&shoprs=CAESDRILEQAAAACE18dBGAEYBSoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIlCAUSDFVuZGVyIOKCuTgwMBgCIg0SCxEAAAAAhNfHQRgBKgIYAViLqSBgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAJ6BAgWEDY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india+under+800"
+    },
+    {
+      "query": "Boy",
+      "link": "https://www.google.com/search?q=boy+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIHCBISA0JveWAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAN6BAgWEDc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=boy+baby+shower+gift+india"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?q=online+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAR6BAgWEDg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=online+baby+shower+gift+india"
+    },
+    {
+      "query": "Gift Basket",
+      "link": "https://www.google.com/search?q=gift+basket+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYASoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIdCAESC0dpZnQgQmFza2V0OgwI6_ygARDs_KABMAJYi6kgYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAV6BAgWEDk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=gift+basket+baby+shower+gift+india"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAZ6BAgWEDo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=price+baby+shower+gift+india"
+    },
+    {
+      "query": "Luxury",
+      "link": "https://www.google.com/search?q=luxury+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIKCBISBkx1eHVyeWAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAd6BAgWEDs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=luxury+baby+shower+gift+india"
+    },
+    {
+      "query": "Pink",
+      "link": "https://www.google.com/search?q=pink+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYASoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1iLqSBgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAh6BAgWEDw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=pink+baby+shower+gift+india"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=baby+shower+gift+india+nearby&gl=in&hl=en&shoprs=CAEYAyoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIMCAMSBk5lYXJieRgCWIupIGAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAl6BAgWED0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india+nearby"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAp6BAgWED4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=buy+baby+shower+gift+india"
+    },
+    {
+      "query": "Gift Box",
+      "link": "https://www.google.com/search?q=gift+box+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYASoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIaCAESCEdpZnQgQm94OgwI6_ygARDt_KABMAJYi6kgYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAt6BAgWED8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=gift+box+baby+shower+gift+india"
+    },
+    {
+      "query": "Woman",
+      "link": "https://www.google.com/search?q=woman+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIJCBISBVdvbWFuYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKAx6BAgWEEA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=woman+baby+shower+gift+india"
+    },
+    {
+      "query": "Man",
+      "link": "https://www.google.com/search?q=man+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIHCBISA01hbmAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKA16BAgWEEE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=man+baby+shower+gift+india"
+    },
+    {
+      "query": "Myntra",
+      "link": "https://www.google.com/search?q=myntra+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIKCAISBk15bnRyYViLqSBgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKA56BAgWEEI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=myntra+baby+shower+gift+india"
+    },
+    {
+      "query": "FirstCry India",
+      "link": "https://www.google.com/search?q=firstcry+india+baby+shower+gift&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTISCAISDkZpcnN0Q3J5IEluZGlhWIupIGAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKA96BAgWEEM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=firstcry+india+baby+shower+gift"
+    },
+    {
+      "query": "Books",
+      "link": "https://www.google.com/search?q=books+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYCSoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIJCAkSBUJvb2tzYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBB6BAgWEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=books+baby+shower+gift+india"
+    },
+    {
+      "query": "Male",
+      "link": "https://www.google.com/search?q=male+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYEioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIICBISBE1hbGVgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBF6BAgWEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=male+baby+shower+gift+india"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYASoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYi6kgYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBJ6BAgWEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=white+baby+shower+gift+india"
+    },
+    {
+      "query": "Etsy",
+      "link": "https://www.google.com/search?q=etsy+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIICAISBEV0c3lYi6kgYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBN6BAgWEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=etsy+baby+shower+gift+india"
+    },
+    {
+      "query": "Amazon.in",
+      "link": "https://www.google.com/search?q=amazon.in+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTINCAISCUFtYXpvbi5pbliLqSBgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBR6BAgWEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=amazon.in+baby+shower+gift+india"
+    },
+    {
+      "query": "Free delivery",
+      "link": "https://www.google.com/search?q=baby+shower+gift+india+free+delivery&gl=in&hl=en&shoprs=CAESBFICEAEYGSoWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIXCBkSDUZyZWUgZGVsaXZlcnkiBFICEAFgAQ&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBV6BAgWEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india+free+delivery"
+    },
+    {
+      "query": "Flipkart",
+      "link": "https://www.google.com/search?q=flipkart+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIMCAISCEZsaXBrYXJ0WIupIGAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBZ6BAgWEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=flipkart+baby+shower+gift+india"
+    },
+    {
+      "query": "Snooplay",
+      "link": "https://www.google.com/search?q=snooplay+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIMCAISCFNub29wbGF5WIupIGAB&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBd6BAgWEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=snooplay+baby+shower+gift+india"
+    },
+    {
+      "query": "ubuy.co.in",
+      "link": "https://www.google.com/search?q=ubuy.co.in+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIOCAISCnVidXkuY28uaW5Yi6kgYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBh6BAgWEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ubuy.co.in+baby+shower+gift+india"
+    },
+    {
+      "query": "GiftstoIndia24x7",
+      "link": "https://www.google.com/search?q=giftstoindia24x7+baby+shower+gift+india&gl=in&hl=en&shoprs=CAEYAioWYmFieSBzaG93ZXIgZ2lmdCBpbmRpYTIUCAISEEdpZnRzdG9JbmRpYTI0eDdYi6kgYAE&sa=X&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQip4GKBl6BAgWEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=giftstoindia24x7+baby+shower+gift+india"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=10&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8NMDegQIWhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=10&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAE",
+      "3": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=20&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAG",
+      "4": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=30&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAI",
+      "5": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=40&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAK",
+      "6": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=50&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAM",
+      "7": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=60&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAO",
+      "8": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=70&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAQ",
+      "9": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=80&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAS",
+      "10": "https://www.google.com/search?q=baby+shower+gift+india&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=wLSWavHQDbbLkPIPwIKHgAQ&start=90&sa=N&sstk=AS6-VmKZHD217mrLXLzHM57GQabUy0XatV80O9STD24-kS2ii6RgLpJiv3mQHRm-fLBD0JcXgHSV560lRCxL2jnTSe3O398sL-V6oA&ved=2ahUKEwjxsKi8oc2WAxW2JUQIHUDBAUAQ8tMDegQIWhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=baby+shower+gift+india&start=90"
+    }
+  }
+}

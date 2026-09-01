@@ -1,0 +1,683 @@
+{
+  "search_metadata": {
+    "id": "6a96b4e102706a76d9752a22",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UuDzIGkLTDRfjF_UUS6PYI_Fqfbu34EfqbRgi7rIHV0/6a96b4e102706a76d9752a22.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UuDzIGkLTDRfjF_UUS6PYI_Fqfbu34EfqbRgi7rIHV0/6a96b4e102706a76d9752a22.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UuDzIGkLTDRfjF_UUS6PYI_Fqfbu34EfqbRgi7rIHV0/6a96b4e102706a76d9752a22.json_with_pixel_position",
+    "created_at": "2026-09-01 11:20:01 UTC",
+    "processed_at": "2026-09-01 11:20:01 UTC",
+    "google_url": "https://www.google.com/search?q=nazar+utarna&oq=nazar+utarna&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UuDzIGkLTDRfjF_UUS6PYI_Fqfbu34EfqbRgi7rIHV0/6a96b4e102706a76d9752a22.html",
+    "total_time_taken": 4.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "nazar utarna",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "nazar utarna",
+    "total_results": 99,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.google.com/goto?url=CAESXwHrOzAVFdUbNYldSIrblC8RCjhNt74EzBb_qxWpSbsaUliOp2kEzvLil9LSUG1zY9_-WjoXQK7GQ7hplkXPhBlwaPR87getigMVoyND_Sm9W42wwfeRg8recOFXcdjx",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRswJAlwLuOn8vyHfBGqzeS2DkFRN5IfxziyOrU-x-tDsdt8FZNi2ZB9Ns&s",
+      "original": "https://www.sanatan.org/en/wp-content/uploads/sites/6/2018/08/3_Eng_640.jpg",
+      "title": "Casting off the Evil-eye – Nazar Utarna (Evil-eye Protection ...",
+      "source_name": "Sanatan.org"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYAHrOzAVKDin0we5z7mtSfDjsZjMJWjPBZGJ2P7avkeIQ_5PMyYItxB8xfFuQT2sChB3XAEPVQcbWkHRs2IyCVRk4FX9JcYXg1CAH72oeF6WLqLya1jQ1ED6pKSFo9qQ3Q",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOGUp3ADdxh24r3CrqnZuqsRBpWDiJOuX4hGPekEGH3Ug58yYbfV59N4&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3584953698881163575",
+      "title": "A bua's love is endless, her pride immeasurable. Dressed in ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESawHrOzAVUDhUygKh9K4V4CP2iH-WaS37nAR337lWSKP-ShGO665oINpc4p71jlY0RYs0H7h9KizIQcYPUGHkZcN5Xxbj3lLrSYGM1Gtx9opttQjzBE6rxJ2n9B_Tzflr5Gf6X43kRMNLppN-",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56iWo3e3vy1nl2sqqmFa0M0zPEUKWOr_c-9oqy5hdON7vD-JpnfMjCxg&s",
+      "original": "https://c8.alamy.com/comp/W48R0X/man-smiling-with-his-son-W48R0X.jpg",
+      "title": "Nazar utarna hi-res stock photography and images - Alamy",
+      "source_name": "Alamy"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESXwHrOzAVFdUbNYldSIrblC8RCjhNt74EzBb_qxWpSbsaUliOp2kEzvLil9LSUG1zY9_-WjoXQK7GQ7hplkXPhBlwaPR87getigMVoyND_Sm9W42wwfeRg8recOFXcdjx",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_XFx3ahed7i6EaG7RRPtZTWBXVpl4WRmnQgPcJXLWZ31ZwuUD_9ntvI&s",
+      "original": "https://www.sanatan.org/en/wp-content/uploads/sites/6/2018/08/nazar315.jpg",
+      "title": "Casting off the Evil-eye – Nazar Utarna (Evil-eye Protection ...",
+      "source_name": "Sanatan.org"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESYwHrOzAVnS4ARTR0qjaNQA_LczAB92rqLvs9B1yMGPv_WT8rPiJ79lZ8JGkuEA3k1m-_s5Zh_LSuPWIbG_vAogKd3tSGs5qGb_5OFBWfNUsKYtLgJ8tTrMfuMK8ue1S7WFPifA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3jr3io-g12vuqHRApHHT6r6TPmfgZe89s9Pg7NvQyNcfxr2pivu2tf0&s",
+      "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3538797031391288277",
+      "title": "all problems, one solution - nazar utarna , ., ., ., ., ., ., ., [nazar,  Indian ethics, Indian tradition, relatable, desi household, indian  household, lifestyle, mom daughter ], #relatable ...",
+      "source_name": "Instagram"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESuQEB6zswFcHyJXTdTnMIFFXGYfClHKYH8cZXPvhENFB7E-zNyXohN-DVIDuS8OKG0f-XeM0uRRE_XwLmmXwFkHKPBqqFv7VSLUltbcDgTUFD-osQtMG1Z7pC_xi4LvJOz47KWcQNRAeCm-SJAB5lAl-qylvALB20DY7zKat8hDsSZV1YviOZ6QYV7RgxRUQYtWIRyd3gFmXyLDLgrZAsfbz_mVVzG61F3TiydnGSANvXViwdE2QBwJDLYg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWaouB7XE75mHYHv-5d4aP81ANv3bauF3BOl4NvVURE0n4J2DtV4UEnlI&s",
+      "original": "https://i.timesnowhindi.com/story/1565158567-nazar.jpg?tr=w-1200,h-900",
+      "title": "Astro tips to get rid of evil eye Buri Nazar Nivarak Sujhav ...",
+      "source_name": "Times Now Navbharat"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESrgEB6zswFb8v42ynghTDeW6ZRRmQUEIKZVtwdEQcScffn-3yzmOwd-bm7Wq3YhuA3P21dDRjiyXxeV06hP1yVV-LcojdEdjwkM5af0HyBjTRsRX7O0n3m46g-xAniJw-EMUZd9Xf0sZPSHKlC2P8K-6KzzkGgWnrqgF20AexjlG32HMrcN8SUeYEib4KwGIRuXzqEeHEKLp0miTRHQs_-QLw3dzlAkWFVESZGlsm868",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_eDbtkpSclOgK2T-QTyHgzvCQNXQAP844UlWDWmYUiEVxG8JwecP8AJk&s",
+      "original": "https://images.news18.com/ibnlive/uploads/2024/10/img-2-2024-10-05t111127.858-2024-10-6742f786817857f754a8dde2388dc4fb-16x9.jpg",
+      "title": "Watch: Groom's Loving Act Of Warding Off Evil Eye Is Setting ...",
+      "source_name": "News18"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESfAHrOzAVAnFIz02R-WNrbi7UwerIoqOZncc-p5Y-x3mLlhjm3mYuPMm9eH9zpyjdWnFiB0U7apYf8FC_w6TCeJmVgAQXjz4ALYvrvWC64oQSZ2l9Q1ArsvDdNe14-8K8lhJbvicjnj6MyY3oE0C8UYFHE07XAfaRXzT838I",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTac6OIxdyCFw747NQYfwsZ0AiIoUxQN1j6ayQq_NWJQxhXOOK-mE-uUqQ&s",
+      "original": "https://www.hindujagruti.org/wp-content/uploads/2015/07/5_art_img.jpg",
+      "title": "Casting off the Evil-eye – Nazar Utarna - Hindu Janajagruti ...",
+      "source_name": "Hindu Janajagruti Samiti"
+    },
+    {
+      "source": "https://www.google.com/goto?url=CAESiQEB6zswFdF8f36xupZJImx800pNqngKupUPVSlDAmyE91Sw8WEOp_p0p6o-AQjJll4tErMVQQNTPN7k-nm8Yz82e83OEXr1TyGKw9JTfyLfW0cCedp7_M1MBocFFqO8TPNleUJ-sYkWSEe-lB-WfXBPR1hmn9t8OSFZ4vQLCg9U8jFjzYJKVC5jAw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyK2oQa7zCtJ_3prBm_OfbW-3H2sjsDHe140ui3GUf4KyuZDJQQnkx2o&s",
+      "original": "https://m.media-amazon.com/images/I/71vgv29VXDL._AC_UF894,1000_QL80_.jpg",
+      "title": "Chamtkari Nazar Utarna Batti, Nazar Utarne ki Batti Nazar ...",
+      "source_name": "Amazon.in"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Nazar, Evil Eye Removal: Instant Home Remedies That ...",
+      "link": "https://www.youtube.com/watch?v=VVI_99cgZe4",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0hOB5Fmq5dt7dIslOVtwzQha_E6L5wTAs1WFAAUIx1v5mof1lQ7Eyw&s",
+      "channel": "Vidya Warrier",
+      "duration": "14:37",
+      "platform": "YouTube",
+      "date": "27 Nov 2025",
+      "snippet": "Protect yourself from the evil eye (Nazar/Dishi) with traditional methods like washing hands/feet, using materials like salt/lemon, tilak, and kajal.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ-sY_Tw2BrQAf4yF5IlIZUNDXOfsbDmlIsyg"
+    },
+    {
+      "position": 2,
+      "title": "HOW TO REMOVE NAZAR \\ EVIL EYE | Chhavi Mittal",
+      "link": "https://www.facebook.com/chhavimittalofficial/videos/how-to-remove-nazar-evil-eye/534960959552264/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJZTENJkrDCzJ6akj4dpKe3JjXDUlE4lk0rGWMg60M8QE30JT5iZyFA&s",
+      "channel": "Chhavi Mittal",
+      "duration": "6:34",
+      "platform": "Facebook",
+      "date": "10 Jan 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRwc83DZKs1g9WB3N9PITneYNQvEbDsXRkOSw"
+    },
+    {
+      "position": 3,
+      "title": "नज़र उतारने के 3 असरदार तरीके | बुरी नज़र से तुरंत राहत ...",
+      "link": "https://www.facebook.com/vinayhariworld/videos/%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0-%E0%A4%89%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%87-3-%E0%A4%85%E0%A4%B8%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%B0-%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A4%82%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%A4-nazarutaarna-burinazar-naz/1576160693523830/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjFqSJ4fTTnL1Jp0OnoIhVivebVT5DGvhP1SgqLx9L3CKj8cRt7m2gg&s",
+      "channel": "Vinay Kumar Hari",
+      "duration": "1:01",
+      "platform": "Facebook",
+      "date": "13 Dec 2025"
+    }
+  ],
+  "short_videos": [
+    {
+      "position": 1,
+      "title": "Evil Eye or Nazar Utarna (Removing the Evil Eye) is a popular ... by Manasi on Instagram. Play on Instagram. 0:28",
+      "source": "Instagram",
+      "profile_name": "Manasi",
+      "extensions": [
+        "Manasi"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/zzeuEzYQihm2_yoyiUQT2HvYZ4su0slQ9PGuv_uJwyk.png",
+      "duration": "0:28",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/ajQZp7iko9iAosFu7oHXMQtqH2QLJxi-08tYfQai5Bs.jpeg",
+      "link": "https://www.instagram.com/reel/DQMXMyLkkBD/?hl=en"
+    },
+    {
+      "position": 2,
+      "title": "Everyone knows about the same nazar removal remedies ... by Dr. Sneha Jain on Instagram. Play on Instagram. 0:40",
+      "source": "Instagram",
+      "profile_name": "Dr. Sneha Jain",
+      "extensions": [
+        "Dr. Sneha Jain"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/beuqPJ38AHJ5ugWm3Y8m-a1BJypRloNG_O2xlp2XTvw.png",
+      "duration": "0:40",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/MAtsKRnpgAMcI_oerbLhIKAZgV7VVcMYqw34FYKgpa4.jpeg",
+      "link": "https://www.instagram.com/reel/DWBWu8LkaxX/?hl=en"
+    },
+    {
+      "position": 3,
+      "title": "नज़र उतारने के 3 असरदार तरीके | बुरी नज़र से तुरंत राहत ... by Vinay Kumar Hari on Facebook. Play on Facebook. 1:01",
+      "source": "Facebook",
+      "profile_name": "Vinay Kumar Hari",
+      "extensions": [
+        "Vinay Kumar Hari"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "duration": "1:01",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/bruBRQQGa8mRFZF4mJyzQ7Kmjimpm1e79DvsEAkEAeY.jpeg",
+      "link": "https://www.facebook.com/vinayhariworld/videos/%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0-%E0%A4%89%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%87-3-%E0%A4%85%E0%A4%B8%E0%A4%B0%E0%A4%A6%E0%A4%BE%E0%A4%B0-%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A5%81%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A4%9C%E0%A4%BC%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A4%82%E0%A4%A4-%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A4%A4-nazarutaarna-burinazar-naz/1576160693523830/"
+    },
+    {
+      "position": 4,
+      "title": "When to do nazar utara on which days ... by Ayyatri-TheSoulConnection by Neha Sethi on Instagram. Play on Instagram. 0:28",
+      "source": "Instagram",
+      "profile_name": "Ayyatri-TheSoulConnection by Neha Sethi",
+      "extensions": [
+        "Ayyatri-TheSoulConnection by Neha Sethi"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/ML9K6vc7AEdgmiJXI9RUrIXUcciqME2ByBPMo6RCDfc.png",
+      "duration": "0:28",
+      "thumbnail": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/1ZgDLExN8v6C0G7dUGlYZQovmVXDP9My3nCvqIXCB_U.jpeg",
+      "link": "https://www.instagram.com/reel/DV_t6e2DWny/"
+    },
+    {
+      "position": 5,
+      "title": "Here's your remedy written in a clear step-by-step format ... by 91 Astrology on Facebook. Play on Facebook. 0:25",
+      "source": "Facebook",
+      "profile_name": "91 Astrology",
+      "extensions": [
+        "91 Astrology"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "duration": "0:25",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd1O_S60tUNv8Tuo5y2UnBD2GpQ22uzKZmslEcuU0gj9tan75wsDEOUKg&s=10",
+      "link": "https://www.facebook.com/91Astrology/videos/heres-your-remedy-written-in-a-clear-step-by-step-format-nazar-removal-remedyyou/927424039787667/"
+    },
+    {
+      "position": 6,
+      "title": "91Astrology on Instagram: \"Simple remedies to remove nazar ... by 91Astrology on Instagram. Play on Instagram. 0:19",
+      "source": "Instagram",
+      "profile_name": "91Astrology",
+      "extensions": [
+        "91Astrology"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/mmom5RTAC9ES7fjUS7-NAA4Rb6gzlJTAc4hHb4NxclI.png",
+      "duration": "0:19",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhgXLdUQgsQhmPf7hVtjlYEa5DEAFMXvpeQ5VYnXv-O7C6KEoxVsOpX8&s=10",
+      "link": "https://www.instagram.com/reel/DTvC01Kj86y/?hl=en"
+    },
+    {
+      "position": 7,
+      "title": "My go-to rituals! . . . #tarotwithpaarul #evileye #nazar [2 easy ... by Paarul Sharma • Tarot Reader • Numerologist(MA) • Healer on Instagram. Play on Instagram. 0:56",
+      "source": "Instagram",
+      "profile_name": "Paarul Sharma • Tarot Reader • Numerologist(MA) • Healer",
+      "extensions": [
+        "Paarul Sharma • Tarot Reader • Numerologist(MA) • Healer"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/PAxkNBBMoOO6Lh82o-XQU767pvaxJA5qGt3Zt9X7GOo.png",
+      "duration": "0:56",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKVEZQPfvPcJr1B_JRZbfawon2o7HTB6_bmFed_Xm4Z2lIpklKvXysx0&s=10",
+      "link": "https://www.instagram.com/reel/DP8urI9EWmf/?hl=en"
+    },
+    {
+      "position": 8,
+      "title": "If you live alone or don't have anyone to help you with ... by 91 Astrology on Facebook. Play on Facebook. 0:21",
+      "source": "Facebook",
+      "profile_name": "91 Astrology",
+      "extensions": [
+        "91 Astrology"
+      ],
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "duration": "0:21",
+      "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTBuoiKmnnVLXvrFFNxITXV70BzTltyip3afA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V981aI5MTY7lQyX0-df_h1S7sBUyKDbTTAd2EqZ_JN-y6OgVGnBBTBE&s=10",
+      "link": "https://www.facebook.com/91Astrology/videos/if-you-live-alone-or-dont-have-anyone-to-help-you-with-removing-the-evil-eye-naz/3376973775937000/"
+    },
+    {
+      "position": 9,
+      "title": "Nazar Utarna — Evil Eye Removal Ritual After success, fame ... by Abhivrudhi Lifestyle on Instagram. Play on Instagram. 2:00",
+      "source": "Instagram",
+      "profile_name": "Abhivrudhi Lifestyle",
+      "extensions": [
+        "Abhivrudhi Lifestyle"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/qUvuYADID48Fi2ST13VNWq9HV3NqkY5Q5zPc4wjUTQ0.png",
+      "duration": "2:00",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4AxxKrzNKguZtfj55kib0DpeGM_jV1ZpxChfW6JtJ5w1vFMOd70P-SNA&s=10",
+      "link": "https://www.instagram.com/reel/DX3nvhWT62K/?hl=en"
+    },
+    {
+      "position": 10,
+      "title": "Dr .Shilpa Oza on Instagram: \"Instant nazar removing remedy ... by Dr .Shilpa Oza on Instagram. Play on Instagram. 0:28",
+      "source": "Instagram",
+      "profile_name": "Dr .Shilpa Oza",
+      "extensions": [
+        "Dr .Shilpa Oza"
+      ],
+      "source_logo": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/umrljBxntZx3FpyyrZXMKTiTKY9xDHKteBi7F9YDhoI.png",
+      "duration": "0:28",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6nXa4rt8Ikj5QZJLYJIgrRgXr-rXiQWsvfLhzVEP8CEjVsva59KWGMc&s=10",
+      "link": "https://www.instagram.com/reel/DLSevqtzxKF/"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do I remove my nazar?",
+      "type": "ai_overview",
+      "page_token": "W0VZYHicHdDbboIwGADg7GW8HAeniyZmSZGKJkAo7U_pzQJFLVAOUyaDu73LnmpPs2TfI3zfP7ps698nroahv28NYxzH52vXXfX5WXaNkd2nVhoy0zrPZL1dv66tt4vcufcROd2IItb3sCdmXLGvuDma0hw-cq5U3uBDjqORWeREWjVSRhyf4iTmuo5bpaUOWm4KJZbSjlsSp_rkCtB-wvVn6EGQ1SueuScra8RL6G4e4iBmbuuJ2mBDGw10Jo3PITxjOcUzYqxCS7A2Q65RnZpkJbRyEiBHmXRz1gyTcKEMMCrTSriFFn3K_RjP4DOrULkVjVEF-6xCEQHUBVC4BeDboTwh4gVTmAgmAAV-JZyCAg9dTagnUlKLiMxAqYdxag9ocZGP3XLxP7Z7vzTDtr911z_L6Xp6",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=W0VZYHicHdDbboIwGADg7GW8HAeniyZmSZGKJkAo7U_pzQJFLVAOUyaDu73LnmpPs2TfI3zfP7ps698nroahv28NYxzH52vXXfX5WXaNkd2nVhoy0zrPZL1dv66tt4vcufcROd2IItb3sCdmXLGvuDma0hw-cq5U3uBDjqORWeREWjVSRhyf4iTmuo5bpaUOWm4KJZbSjlsSp_rkCtB-wvVn6EGQ1SueuScra8RL6G4e4iBmbuuJ2mBDGw10Jo3PITxjOcUzYqxCS7A2Q65RnZpkJbRyEiBHmXRz1gyTcKEMMCrTSriFFn3K_RjP4DOrULkVjVEF-6xCEQHUBVC4BeDboTwh4gVTmAgmAAV-JZyCAg9dTagnUlKLiMxAqYdxag9ocZGP3XLxP7Z7vzTDtr911z_L6Xp6",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHJlbW92ZSBteSBuYXphcj8iLCJsayI6IkdoWm9iM2NnZEc4Z2NtVnRiM1psSUcxNUlHNWhlbUZ5IiwiYnMiOiJjLU15NVpMMHlDOVhTTWxYOEZRb1NzM05MMHRWeUsxVXlFdXNTaXl5TjVLUUVzc0FTcGJrbzB0eDJYREotdWNwbEdka0ptY29wQ1JXS21RV1F5UVVRa3NTaV9JUzdZMmtwU1R6a1JWQVpFdkJzbHptRUV1QjVpYm41NllxNUplV0tPU253U3lWa3BMSXdDSEo1Y3lsQ0hWdFpYNnBRa2xxVG81Q1pocVluWjVmQWpOQVRrb0dhZ0JXQlFLTUFBIiwiaWQiOiJmY181TFNXYW9UMEI1Q2owUEVQaDVXRHVRa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHJlbW92ZSBteSBuYXphcj8iLCJsayI6IkdoWm9iM2NnZEc4Z2NtVnRiM1psSUcxNUlHNWhlbUZ5IiwiYnMiOiJjLU15NVpMMHlDOVhTTWxYOEZRb1NzM05MMHRWeUsxVXlFdXNTaXl5TjVLUUVzc0FTcGJrbzB0eDJYREotdWNwbEdka0ptY29wQ1JXS21RV1F5UVVRa3NTaV9JUzdZMmtwU1R6a1JWQVpFdkJzbHptRUV1QjVpYm41NllxNUplV0tPU253U3lWa3BMSXdDSEo1Y3lsQ0hWdFpYNnBRa2xxVG81Q1pocVluWjVmQWpOQVRrb0dhZ0JXQlFLTUFBIiwiaWQiOiJmY181TFNXYW9UMEI1Q2owUEVQaDVXRHVRa181In0%3D"
+    },
+    {
+      "question": "On which day is nazar Utarna?",
+      "type": "ai_overview",
+      "page_token": "guLxYnicHdDbboIwAADQ7Gd8FOpt08QscbSKhs4Wyu1lqQWstAhO5Pa2f9lX7Wu27AtOcr6-9eWqfp4aWdfVfWUYbduOz2V51ulYlIXB7_1VGIJrfeJCrRbPC_CaiTV82Ju3m70hrKp8i5quqRfuTmZJaM-phVuSyyMPEEoUcJgnsQOr3jNrdQr3XhzsSxHSvbuVD1_je5xTwHLSChaZVM0P9AJyP0gaFu51VKADV8Ak7DwVVzVzYSV9Tc3E00cOMaI7vwsn8wvf1hWFUZsWmMZmkqUMoTSAZsxUF7GyjyFuyIAzvNOdUGr2HhAgAjFgVNWuXoJEizocnIFul5jlcgqlAB7CYRQsmQNtQCZly6BPuOWHfyblXXkhjA4i1wVjfk-teEYmL3VQSJsipxdbe5Lkm0ekkoEjeiNklIlmPR39f64_sqJeVZ_l-RcBv4Sr",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=guLxYnicHdDbboIwAADQ7Gd8FOpt08QscbSKhs4Wyu1lqQWstAhO5Pa2f9lX7Wu27AtOcr6-9eWqfp4aWdfVfWUYbduOz2V51ulYlIXB7_1VGIJrfeJCrRbPC_CaiTV82Ju3m70hrKp8i5quqRfuTmZJaM-phVuSyyMPEEoUcJgnsQOr3jNrdQr3XhzsSxHSvbuVD1_je5xTwHLSChaZVM0P9AJyP0gaFu51VKADV8Ak7DwVVzVzYSV9Tc3E00cOMaI7vwsn8wvf1hWFUZsWmMZmkqUMoTSAZsxUF7GyjyFuyIAzvNOdUGr2HhAgAjFgVNWuXoJEizocnIFul5jlcgqlAB7CYRQsmQNtQCZly6BPuOWHfyblXXkhjA4i1wVjfk-teEYmL3VQSJsipxdbe5Lkm0ekkoEjeiNklIlmPR39f64_sqJeVZ_l-RcBv4Sr",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6Ik9uIHdoaWNoIGRheSBpcyBuYXphciBVdGFybmE/IiwibGsiOiJHaGx2YmlCM2FHbGphQ0JrWVhrZ2JtRjZZWElnZFhSaGNtNWgiLCJicyI6ImMtTXk1WkwweUM5WFNNbFg4RlFvU3MzTkwwdFZ5SzFVeUV1c1NpeXlONUtRRXNzQVNwYmtvMHR4MlhESi11Y3BsR2RrSm1jb3BDUldLbVFXUXlRVVFrc1NpX0lTN1kya3BTVHprUlZBWkV2QnNsem1FRXVCNWlibjU2WXE1SmVXS09TbndTeVZrcExJd0NISjVjeWxDSFZ0Wlg2cFFrbHFUbzVDWmhxWW5aNWZBak5BVGtvR2FnQldCUUtNQUEiLCJpZCI6ImZjXzVMU1dhb1QwQjVDajBQRVBoNVdEdVFrXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6Ik9uIHdoaWNoIGRheSBpcyBuYXphciBVdGFybmE%2FIiwibGsiOiJHaGx2YmlCM2FHbGphQ0JrWVhrZ2JtRjZZWElnZFhSaGNtNWgiLCJicyI6ImMtTXk1WkwweUM5WFNNbFg4RlFvU3MzTkwwdFZ5SzFVeUV1c1NpeXlONUtRRXNzQVNwYmtvMHR4MlhESi11Y3BsR2RrSm1jb3BDUldLbVFXUXlRVVFrc1NpX0lTN1kya3BTVHprUlZBWkV2QnNsem1FRXVCNWlibjU2WXE1SmVXS09TbndTeVZrcExJd0NISjVjeWxDSFZ0Wlg2cFFrbHFUbzVDWmhxWW5aNWZBak5BVGtvR2FnQldCUUtNQUEiLCJpZCI6ImZjXzVMU1dhb1QwQjVDajBQRVBoNVdEdVFrXzUifQ%3D%3D"
+    },
+    {
+      "question": "How to come out of nazar?",
+      "type": "ai_overview",
+      "page_token": "rVx5t3icHdBJbsIwFABQ9TIswWZqQUKVApgogKmT_J9hUyU2EBJnEENN2PUuPVVPU9QTPOl9_-hTVfy-hNn12lymvZ4xpnus66Ped2Vd9pJLW8meTLROE1lMx69j-n6Qs-XFWPPaWAKaBhcu8fIMNoAnj2RU9RkPiesDMEj7kz5oSRONmdR4w6UGEQoiBhFJNXckcyJv4ay9wNnIYEm8gtrAGu6TNxJSHYhSbfYBRYk6xsr5SEskMGhi5RdGlDSMynvrMbTTkrGokHeo4rkMePP0Rj6MVlGodKKhjbBhYCv0cxe3T3cHQ489cAtUZSkVRuS4SHJLuGjVHNVSITuvTo7l2rzdBbHHC2MUndz4Q41im4d-S88RdTishnfUzjoqlds5yK_ZoPM_Nvs8lNdpc66Pf7dTeIM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rVx5t3icHdBJbsIwFABQ9TIswWZqQUKVApgogKmT_J9hUyU2EBJnEENN2PUuPVVPU9QTPOl9_-hTVfy-hNn12lymvZ4xpnus66Ped2Vd9pJLW8meTLROE1lMx69j-n6Qs-XFWPPaWAKaBhcu8fIMNoAnj2RU9RkPiesDMEj7kz5oSRONmdR4w6UGEQoiBhFJNXckcyJv4ay9wNnIYEm8gtrAGu6TNxJSHYhSbfYBRYk6xsr5SEskMGhi5RdGlDSMynvrMbTTkrGokHeo4rkMePP0Rj6MVlGodKKhjbBhYCv0cxe3T3cHQ489cAtUZSkVRuS4SHJLuGjVHNVSITuvTo7l2rzdBbHHC2MUndz4Q41im4d-S88RdTishnfUzjoqlds5yK_ZoPM_Nvs8lNdpc66Pf7dTeIM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6IkhvdyB0byBjb21lIG91dCBvZiBuYXphcj8iLCJsayI6IkdoaG9iM2NnZEc4Z1kyOXRaU0J2ZFhRZ2IyWWdibUY2WVhJIiwiYnMiOiJjLU15NVpMMHlDOVhTTWxYOEZRb1NzM05MMHRWeUsxVXlFdXNTaXl5TjVLUUVzc0FTcGJrbzB0eDJYREotdWNwbEdka0ptY29wQ1JXS21RV1F5UVVRa3NTaV9JUzdZMmtwU1R6a1JWQVpFdkJzbHptRUV1QjVpYm41NllxNUplV0tPU253U3lWa3BMSXdDSEo1Y3lsQ0hWdFpYNnBRa2xxVG81Q1pocVluWjVmQWpOQVRrb0dhZ0JXQlFLTUFBIiwiaWQiOiJmY181TFNXYW9UMEI1Q2owUEVQaDVXRHVRa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6IkhvdyB0byBjb21lIG91dCBvZiBuYXphcj8iLCJsayI6IkdoaG9iM2NnZEc4Z1kyOXRaU0J2ZFhRZ2IyWWdibUY2WVhJIiwiYnMiOiJjLU15NVpMMHlDOVhTTWxYOEZRb1NzM05MMHRWeUsxVXlFdXNTaXl5TjVLUUVzc0FTcGJrbzB0eDJYREotdWNwbEdka0ptY29wQ1JXS21RV1F5UVVRa3NTaV9JUzdZMmtwU1R6a1JWQVpFdkJzbHptRUV1QjVpYm41NllxNUplV0tPU253U3lWa3BMSXdDSEo1Y3lsQ0hWdFpYNnBRa2xxVG81Q1pocVluWjVmQWpOQVRrb0dhZ0JXQlFLTUFBIiwiaWQiOiJmY181TFNXYW9UMEI1Q2owUEVQaDVXRHVRa181In0%3D"
+    },
+    {
+      "question": "How do you tell if you got nazar?",
+      "type": "ai_overview",
+      "page_token": "0p2xkXicHdDdTsIwGADQ-DJeyjYEHQkxQVpGA0360X6D3pjSDcbW_YiDDe58F5_KpzHxPML5_nGnqvh9uGZt23xNBoOu656OdX106ZOty4H5ulV2YI1ze2OLyfhl7L8d7JRclrP3z-VMqKbBOXiSiMB6zSXFut2TV18H2UnlLDKLkU7unGuKLN3qkS1okW6zeULgsM5nYyVBJ0iBFyOtI9dr0i947iSn4TtfkE5IYIaGt_2w8ZGyFXdhDBVfI6U1RNktxfC6Q71M4jY3XhuvA5CxzIyWx1aUYSSGcF6pHoRkuEIgIqaXlAJsSj8w0kHi9VIrPubUMevRG6B73hS6Ipn1JeXbXRyqNVn6Iqg7RVCYOW4hQjB9fRIK7jZ3pbrrHHynodKZCXZ-ImfnBHd3jBjbK4ZactTd48Fep8PH_8_px6FsJ825Pv4Bm6mCvA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0p2xkXicHdDdTsIwGADQ-DJeyjYEHQkxQVpGA0360X6D3pjSDcbW_YiDDe58F5_KpzHxPML5_nGnqvh9uGZt23xNBoOu656OdX106ZOty4H5ulV2YI1ze2OLyfhl7L8d7JRclrP3z-VMqKbBOXiSiMB6zSXFut2TV18H2UnlLDKLkU7unGuKLN3qkS1okW6zeULgsM5nYyVBJ0iBFyOtI9dr0i947iSn4TtfkE5IYIaGt_2w8ZGyFXdhDBVfI6U1RNktxfC6Q71M4jY3XhuvA5CxzIyWx1aUYSSGcF6pHoRkuEIgIqaXlAJsSj8w0kHi9VIrPubUMevRG6B73hS6Ipn1JeXbXRyqNVn6Iqg7RVCYOW4hQjB9fRIK7jZ3pbrrHHynodKZCXZ-ImfnBHd3jBjbK4ZactTd48Fep8PH_8_px6FsJ825Pv4Bm6mCvA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgdGVsbCBpZiB5b3UgZ290IG5hemFyPyIsImxrIjoiR2h4b2IzY2dkRzhnZEdWc2JDQnBaaUI1YjNVZ1oyOTBJRzVoZW1GeSIsImJzIjoiYy1NeTVaTDB5QzlYU01sWDhGUW9TczNOTDB0VnlLMVV5RXVzU2l5eU41S1FFc3NBU3Bia28wdHgyWERKLXVjcGxHZGtKbWNvcENSV0ttUVdReVFVUWtzU2lfSVM3WTJrcFNUemtSVkFaRXZCc2x6bUVFdUI1aWJuNTZZcTVKZVdLT1Nud1N5VmtwTEl3Q0hKNWN5bENIVnRaWDZwUWtscVRvNUNaaHFZblo1ZkFqTkFUa29HYWdCV0JRS01BQSIsImlkIjoiZmNfNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4wWkdkVVl4ZGtoTWVWcG1XVE14ZDIxeWVubHlXazlFUVhOWVRVWkNPRmszZEhOU2IyYzVNbXQwZWsxblpuTXpZbU5WYkhvMk5qVklOR2hLVjJKaVIySlVZVnBoVjAxTk1YRTJhMmx2U25KVVRtMUdZbTVmY0dJNVVSSVhOVXhUVjJGdlZEQkNOVU5xTUZCRlVHZzFWMFIxVVdzYUlrRkVjM0k1WmxGcWJrbHBUVUp3YlMxaE56UnBZVGczVmtKUFRWTlhlSFowT0djIiwiZmN2IjoiMyIsImVpIjoiNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWsiLCJxYyI6IkNneHVZWHBoY2lCMWRHRnlibUVRQUgxT29QSS0iLCJxdWVzdGlvbiI6IkhvdyBkbyB5b3UgdGVsbCBpZiB5b3UgZ290IG5hemFyPyIsImxrIjoiR2h4b2IzY2dkRzhnZEdWc2JDQnBaaUI1YjNVZ1oyOTBJRzVoZW1GeSIsImJzIjoiYy1NeTVaTDB5QzlYU01sWDhGUW9TczNOTDB0VnlLMVV5RXVzU2l5eU41S1FFc3NBU3Bia28wdHgyWERKLXVjcGxHZGtKbWNvcENSV0ttUVdReVFVUWtzU2lfSVM3WTJrcFNUemtSVkFaRXZCc2x6bUVFdUI1aWJuNTZZcTVKZVdLT1Nud1N5VmtwTEl3Q0hKNWN5bENIVnRaWDZwUWtscVRvNUNaaHFZblo1ZkFqTkFUa29HYWdCV0JRS01BQSIsImlkIjoiZmNfNUxTV2FvVDBCNUNqMFBFUGg1V0R1UWtfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Nazar utarna is a traditional ritual used across South Asian and other cultures to remove the negative energy of the evil eye (buri nazar) from a person or home.",
+        "snippet_highlighted_words": [
+          "a traditional ritual used across South Asian and other cultures to remove the negative energy of the evil eye (buri nazar) from a person or home"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Signs of Nazar"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Sudden, unexplained tiredness or lethargy"
+          },
+          {
+            "snippet": "Fussiness in babies or children without a clear cause"
+          },
+          {
+            "snippet": "A sudden streak of bad luck or frequent obstacles in tasks"
+          },
+          {
+            "snippet": "Loss of appetite or feeling sick despite normal health"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Popular Home Remedies to Remove Nazar"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Salt and Mustard Seeds: Hold a small handful of coarse salt, small mustard seeds (rai), and dried red chilies in a closed fist. Circle it anti-clockwise around the affected person's head seven times, then burn the items in a fire or discard them safely."
+          },
+          {
+            "snippet": "Camphor and Loban: Burn camphor, guggul, and loban resin together. Move the smoke around the rooms of the house to clear stagnant or negative energy."
+          },
+          {
+            "snippet": "Fitkari (Alum): Rotate a piece of alum anti-clockwise around the person several times and throw it into a fire to absorb and neutralize heavy negativity."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Is this for an adult, child, or your home?"
+          },
+          {
+            "snippet": "Are you looking for a specific ritual method using household ingredients?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can give you step-by-step instructions."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.google.com/goto?url=CAESdQHrOzAV_sF9OSTpJuurfZTMsoRZDRygJ9Z2ShkpOCkPbx97uRJfaoMMTyq-mrtq0wU6jANy4gH3JkmjNLyiOOwfwbBf10bZLFdqgfFg8_9pDYYbdG3dYL4wYASvhKI3D8pBijEinzn2YqffrYB2ybYn6dlo_A",
+        "source": "realitytoursandtravel.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESXwHrOzAVFdUbNYldSIrblC8RCjhNt74EzBb_qxWpSbsaUliOp2kEzvLil9LSUG1zY9_-WjoXQK7GQ7hplkXPhBlwaPR87getigMVoyND_Sm9W42wwfeRg8recOFXcdjx",
+        "source": "sanatan.org",
+        "index": 1
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESfwHrOzAVkPX5zdf_v6lbd2myxIBo1P4C4uKOnYZGI_PN3Rg3As6bQq7aCz_Rm8Rd5pSq6O1Hu6HUpxf3hhnx231X8T2T5fUMkCQPdJ6MpcLCu_spmp5pJhP6JQjpAe7wUKmDBN3d8f5Y6Xqbf1OThPx5Ej5VTCx3jHtWW5TIaec",
+        "source": "reddit.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.google.com/goto?url=CAESegHrOzAVhSGAwUmx5LNJ_OTYY5_EdS1hVHkBXvrsSr_QfJO-2CXCZdtY88INGVtGWUPd_y2Ctgw4b78ccIM8s0Gf-1ywrU-l1Vcl-AHsk2RXy_A-mlxvKihvvTvv2MOX7amtSWjFzKg7gLVMZ_JF6XamG4NRj56_CW0n",
+        "source": "nobroker.in",
+        "index": 3
+      },
+      {
+        "title": "7 Best Evil Eye Remedies in India | How Indians Remove Nazar",
+        "link": "https://www.google.com/goto?url=CAESdQHrOzAV6kvqR4N8OzG3iQ-UCy0uaYx3Qbd2JoEc-u-XdXAao-y2KWqR6VwhDOtsraQRlMaDGFG_R2Vw-L9LWJHeaNxBdfeLTinduKjVuWidK78213d3GfZStK7q-bF41vLZ_Wjnw4do59bUWyNv801s2TjFfQ",
+        "snippet": "Nazar Utaarna (Salt Circling). An elderly grandmother lovingly performs the traditional salt and mustard ritual around her grandchild. This. Salt isn't just for...",
+        "source": "Reality Tours & Travel",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrzwndvwbFC1cLmfw-HQ0yJW2BTFUqdsainNmMMDpAkIv4KMVtQ40bT5eyVyGk9nrfk5K3zd2ulbdb4H1ULVXOoRmntPqbFjpX-TuC",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://realitytoursandtravel.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Casting off the Evil-eye – Nazar Utarna (Evil-eye Protection)",
+        "link": "https://www.google.com/goto?url=CAESXwHrOzAVjGtbKjIacLw4lH2X-D7LabiyJ0ISL9N2A1mIXj6OKiyB1WxjsGlnThTsioUMTNet9N9s2aWvA4jEuIyyiP_rAmglccUmFTun8u0kOvwU3Qspv01koZT3DUGC",
+        "snippet": "2. Benefits of casting off the evil-eye ( Nazar Utarna ). A. Casting off the evil-eye empowers and activates manaha-shakti within the body, as a result, the tas...",
+        "source": "Sanatan.org",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIPusEASFPwZkg5wKNax1UKSqFRzVKKsJgiddU8Y9meqKZLulA9AMLmsNB-gCTsMd1PVP18kxUtdsTD2Gz2KF61RTszHNsxsUWSExT",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sanatan.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "How to remove Nazar : r/hinduism - Reddit",
+        "link": "https://www.google.com/goto?url=CAESfwHrOzAVVBlUi6ZeMYruqiH-6tXd9X_fZx73hPS0gcDZbqdp2WTqUyyV4eEBZ2ainJnSDRnj6c-G2GjNYu1EoDp8OwFnM29kEOCj7g17wZh8cUCvG6ODac8XocYOLj-SXNPGDgOWRrPKV7xs4hsO9EyEDTPEA4B7iFwpyZm82E8",
+        "snippet": "Nazar Removal Ritual: To remove Nazar, a family member, typically a woman, takes salt, dried red chilies, and mustard seeds. These ingredients are held in a clo...",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "How to Remove Nazar Dosh From House: Tips 2023 - NoBroker",
+        "link": "https://www.google.com/goto?url=CAESegHrOzAVsxh_sgbHHI_s0oyfNx6VlWFJzNB2e-FQKozp-RLst_CwxtIYXYOoMzd0w_JFUsyRrN_oHed6x-_1gfpVFBi-q6ViT352IV8nc5ZnYSW8ebJzstVmYXimDIpLE3txj5zQuDn6NLu70U-jytcrxbXMyGoz7Im-",
+        "snippet": "How to remove nazar at home? Daily recitation of the Gayatri mantra and the Hanuman Chalisa protects one from bad spirits and the evil eye. To shield themselves...",
+        "source": "NoBroker",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpmjsXXp3hgulk6RQVbq61nhgdin_C73hwPRIwucDb4b72ypMCtT_ffRcY3ArkevPYf7bFj0OsqGEJhD-7s2fVBj3_",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nobroker.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "7 Best Evil Eye Remedies in India | How Indians Remove ...",
+      "link": "https://realitytoursandtravel.com/evil-eye-remedies-in-india/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV_sF9OSTpJuurfZTMsoRZDRygJ9Z2ShkpOCkPbx97uRJfaoMMTyq-mrtq0wU6jANy4gH3JkmjNLyiOOwfwbBf10bZLFdqgfFg8_9pDYYbdG3dYL4wYASvhKI3D8pBijEinzn2YqffrYB2ybYn6dlo_A&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://realitytoursandtravel.com › evil-eye-remedies-in-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEVHcExRUVEwMDAlJSUdHR0YGBgVExIzMzN7enoAAAANDQwDFiALbJgKiMIgICA-Pj4rKysGJDMCl9gAmdwGneALj8o4ODgmJSYLS2jDQ5R_AAAAGHRSTlMAJ2-n0eT2WhD______71Afv______UJOsWZZZAAAAoUlEQVR4Ae3NNQKEQBQD0IwywR3uf1HcpdvteN3X4Pc-QiptrDVaeQ530vBAe9exT18ZBmEUhWQckybBzmn6KRJmeVEUZUQfTpFqD_cZA4gZFfmgDJkOTUOzzyUGNijzSTXtQy0bzmeNkc3KfDYvoKHGIKbERLNaIxpM4jELqcJMsi2HjaLMKDDTNY4M26oso4wKz5whg4BUeCW1tXGCf_j0K3wINJMP-QcAAAAASUVORK5CYII.png",
+      "date": "18 Aug 2025",
+      "snippet": "Nazar Utaarna (Salt Circling). An elderly grandmother lovingly performs the traditional salt and mustard ritual around her grandchild. This.",
+      "snippet_highlighted_words": [
+        "Nazar"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Key Takeaways",
+            "link": "https://www.google.com/goto?url=CAESlQEB6zswFZ3Pv36PAiVDDz7Y_sZnTOH70Q1X6Zgw5QVshH3boGhN4NtXe3nSKlsVQLfvn8FXBb63VrWIWH6-LQNTVh3PABPntL1pi2Tvp39kZMUi2cvWvUgqpzHXnLkNM8OPdMCWg1dXhDjm7aLC9zDL9-maeVY504p3BNfFSkYeO98yURlfPGMhSmD4ogVuXELFVgOp1g"
+          },
+          {
+            "title": "Kaala Teeka (The Black Dot)",
+            "link": "https://www.google.com/goto?url=CAESlQEB6zswFZygy-Yjms0LXOB53F3xquIPyvFStu8oqTrz1Xt0FR4mt0-G8v5xJ5xw4uldy5vSTQOOHbVbYVSRq3PiSX8fxnXfMTAnhPYTmERuZ4HVGCifrjyVmQW6fzK8GzCnHIGjIb65eGoZ4I21X9ZLPTgDhqTxF_JfHbpt2A9X0MMBRgXBgJigGNeI9tYM5kZIn8diEA"
+          },
+          {
+            "title": "Nazar Utaarna (Salt Circling)",
+            "link": "https://www.google.com/goto?url=CAESlQEB6zswFVBOm7av-t0qeoQFLtFF2igNaZXd_RwCqNOPFE-gRJNkKc-UOV6D2F51rkF5pAee3Xm24luiKVp8EVPwf--z9ITfGksdNY9uxMDKBLQFej7xUEXD_FRoWc-J3w5Wq5ArslRbMvkEFEMGwqMhHegt125ag2225SEcxTNqJZmauJ3I5C9mDQNJ0WDEVGv2sXnAcw"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Nazar Utaarna (Salt Circling). An elderly grandmother lovingly performs the traditional salt and mustard ritual around her grandchild. This.",
+          "source_info_link": "https://realitytoursandtravel.com/evil-eye-remedies-in-india/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEVHcExRUVEwMDAlJSUdHR0YGBgVExIzMzN7enoAAAANDQwDFiALbJgKiMIgICA-Pj4rKysGJDMCl9gAmdwGneALj8o4ODgmJSYLS2jDQ5R_AAAAGHRSTlMAJ2-n0eT2WhD______71Afv______UJOsWZZZAAAAoUlEQVR4Ae3NNQKEQBQD0IwywR3uf1HcpdvteN3X4Pc-QiptrDVaeQ530vBAe9exT18ZBmEUhWQckybBzmn6KRJmeVEUZUQfTpFqD_cZA4gZFfmgDJkOTUOzzyUGNijzSTXtQy0bzmeNkc3KfDYvoKHGIKbERLNaIxpM4jELqcJMsi2HjaLMKDDTNY4M26oso4wKz5whg4BUeCW1tXGCf_j0K3wINJMP-QcAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://realitytoursandtravel.com/evil-eye-remedies-in-india/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Frealitytoursandtravel.com%2Fevil-eye-remedies-in-india%2F",
+      "source": "Reality Tours & Travel",
+      "read_more_link": "https://www.google.com/goto?url=CAESoQEB6zswFcmDufDeXeutDPUxcz5rTIb8fIA_BB7d2Aq5MY56e3MWDlAFYPlLSEoxEeLql59m_t4LVflAjFWx9UIrLavgQNq68YU6rOlztxXbdEk8QeXkK91num2yt7efuc2FQXZnaQdZgMBLbse9L8nE_H8G8yqCagLkWTx1xBi7Fw2smED3N_89jnTABMLHvP5sgkrEp9WgUSzN_ZKAizRcXw"
+    },
+    {
+      "position": 2,
+      "title": "Casting off the Evil-eye – Nazar Utarna (Evil-eye Protection)",
+      "link": "https://www.sanatan.org/en/a/94989.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVFdUbNYldSIrblC8RCjhNt74EzBb_qxWpSbsaUliOp2kEzvLil9LSUG1zY9_-WjoXQK7GQ7hplkXPhBlwaPR87getigMVoyND_Sm9W42wwfeRg8recOFXcdjx&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.sanatan.org › Home › Latest Articles",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAllBMVEVHcEyYzu4AAJ97vedEottps-KHxOoGidEAADCMx-sAX8EvodtzueUpltbH6vzL7f3M7_7H7f_F3-rI8v_ppbi44vfKlYbQo5O9t7jqiAXhexXC5fXJysnJ1tv7r77twqT8usSi1PHqtZHLeVn-rR7fazDfnWifusTQt7JcRznPVRI_KRzNcV_zlgbsg6HnhSbmkiVhfomVQ6XLAAAADnRSTlMA_RHWjLPiWwXtMl_Bd0sxl70AAAEsSURBVCiRrZLXksIwDEUT0ggByT2VdDosu___c2sy4ITysjN7xm9nJNlXtqx_YB54fugvo_kHt7KRoAYa963MQb7bIWgQndmz8wnfnQ4MBkj41NpDnpwOMYW7XU5ckNOirQ4PB5AHo_SRn7dVQozE0LiFpOvjplIcxtLFQ7qEx8dNG49tAc17lsi742a7nkpnHElZes3iiR2Hhggs7S9Jsafv0hlkVlDt7hp9EwGBPLumBQXKCjZo9EwGCPS7T_XIfVmWQ4a4Msk2wLd9yqiohT630mbM3iN0f8l4UtdfQgmeAzFdLWtmI8uqn1Mt4lIlqiXNdGmBZG2lOlUm565TsZzkrllJzJkQgq0ZcPn6FwKbIL2BxA6sV-auLfU1pe1--mF6dVEULT6av_ILZIMcjKIAH4wAAAAASUVORK5CYII.png",
+      "date": "10 Jul 2018",
+      "snippet": "Casting off the evil-eye ( Nazar Utarna ) removes from time to time the Raja–Tama-predominant covering on the body of the person. This empowers ...",
+      "snippet_highlighted_words": [
+        "removes from time to time the Raja–Tama-predominant covering on the body of the person"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Casting off the evil-eye ( Nazar Utarna ) removes from time to time the Raja–Tama-predominant covering on the body of the person. This empowers ...",
+          "source_info_link": "https://www.sanatan.org/en/a/94989.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAllBMVEVHcEyYzu4AAJ97vedEottps-KHxOoGidEAADCMx-sAX8EvodtzueUpltbH6vzL7f3M7_7H7f_F3-rI8v_ppbi44vfKlYbQo5O9t7jqiAXhexXC5fXJysnJ1tv7r77twqT8usSi1PHqtZHLeVn-rR7fazDfnWifusTQt7JcRznPVRI_KRzNcV_zlgbsg6HnhSbmkiVhfomVQ6XLAAAADnRSTlMA_RHWjLPiWwXtMl_Bd0sxl70AAAEsSURBVCiRrZLXksIwDEUT0ggByT2VdDosu___c2sy4ITysjN7xm9nJNlXtqx_YB54fugvo_kHt7KRoAYa963MQb7bIWgQndmz8wnfnQ4MBkj41NpDnpwOMYW7XU5ckNOirQ4PB5AHo_SRn7dVQozE0LiFpOvjplIcxtLFQ7qEx8dNG49tAc17lsi742a7nkpnHElZes3iiR2Hhggs7S9Jsafv0hlkVlDt7hp9EwGBPLumBQXKCjZo9EwGCPS7T_XIfVmWQ4a4Msk2wLd9yqiohT630mbM3iN0f8l4UtdfQgmeAzFdLWtmI8uqn1Mt4lIlqiXNdGmBZG2lOlUm565TsZzkrllJzJkQgq0ZcPn6FwKbIL2BxA6sV-auLfU1pe1--mF6dVEULT6av_ILZIMcjKIAH4wAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sanatan.org/en/a/94989.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sanatan.org%2Fen%2Fa%2F94989.html",
+      "source": "Sanatan.org",
+      "read_more_link": "https://www.google.com/goto?url=CAESwQEB6zswFeHVSGww-bVHuQz0mTBlKAFm-FR6u4c9QAnVZkDqjN1TjQDAUW7_cq6hbntDOtSvQhCRlkiDmUIcjJFcv6eM4GDjnbwO-QvGssHwRVaVrFkXLkny0zd6yppVwKqF-zj6u0zLloKU0nTmZaaUXJqNPXECfujAroRbHFuIXxO5uIJ3iQy3Jmekd94mhQubM-8Z5wmFJEi9jMqx5MAajTglg9yjOV3hwhiuug2yq1b10bKVL4_KfE9u9ZXipjRq"
+    },
+    {
+      "position": 3,
+      "title": "How to remove Nazar : r/hinduism",
+      "link": "https://www.reddit.com/r/hinduism/comments/1exqe5t/how_to_remove_nazar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVkPX5zdf_v6lbd2myxIBo1P4C4uKOnYZGI_PN3Rg3As6bQq7aCz_Rm8Rd5pSq6O1Hu6HUpxf3hhnx231X8T2T5fUMkCQPdJ6MpcLCu_spmp5pJhP6JQjpAe7wUKmDBN3d8f5Y6Xqbf1OThPx5Ej5VTCx3jHtWW5TIaec&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQFnoECCoQAQ&uoh=1",
+      "displayed_link": "30+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+      "snippet": "Hi I always get fever and get hurt or have problems when my sister posts us on Facebook and she just won’t stop. So I just wanted to ask how to remove Nazar",
+      "about_this_result": {
+        "source": {
+          "description": "Performing Havan and chanting mantras: You can perform special Havan and worship Goddess Kali or any other Shakti to ward off the evil eye.",
+          "source_info_link": "https://www.reddit.com/r/hinduism/comments/1exqe5t/how_to_remove_nazar/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/hinduism/comments/1exqe5t/how_to_remove_nazar/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Fhinduism%2Fcomments%2F1exqe5t%2Fhow_to_remove_nazar%2F",
+      "source": "Reddit · r/hinduism"
+    },
+    {
+      "position": 4,
+      "title": "Everyone knows about the same nazar removal remedies ...",
+      "link": "https://www.google.com/goto?url=CAESaQHrOzAVSpOjDw18-8LVwtwjaDu2Jz37WpxhTpgCQ--VXrChGdmKccMfPppkFEyi9PYHhpow0c2InlPzPqJb4KBxO9P-fPDEceppiYjMrM9HuhQi94eWm-2WzWgnX9liySm__3b5C4iqMw",
+      "displayed_link": "2.2K+ likes · 5 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO2s70Es5xAW-1m3yygZe_9ZBdbiwx21BCA7nwJuAO3wNehSJTEy47BQ&s",
+      "favicon": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/PZ9WJaErC7BJQiSUEft_Enjq8uIT3G9RgyM1NUCuUSs.png",
+      "snippet": "✨ Mulank 2 – Take salt, rotate it anti-clockwise around your head by your mother or sister, then throw it away. ✨ Mulank 3 – Rotate turmeric ( ...",
+      "duration": "0:40",
+      "about_this_result": {
+        "source": {
+          "description": "✨ Mulank 2 – Take salt, rotate it anti-clockwise around your head by your mother or sister, then throw it away. ✨ Mulank 3 – Rotate turmeric ( ...",
+          "icon": "https://serpapi.com/searches/6a96b4e102706a76d9752a22/images/PZ9WJaErC7BJQiSUEft_EtXw9BYlk1K0dxaVe0uSYRJMW5M3qFqHQyZINGamDpk1.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVSpOjDw18-8LVwtwjaDu2Jz37WpxhTpgCQ--VXrChGdmKccMfPppkFEyi9PYHhpow0c2InlPzPqJb4KBxO9P-fPDEceppiYjMrM9HuhQi94eWm-2WzWgnX9liySm__3b5C4iqMw&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVSpOjDw18-8LVwtwjaDu2Jz37WpxhTpgCQ--VXrChGdmKccMfPppkFEyi9PYHhpow0c2InlPzPqJb4KBxO9P-fPDEceppiYjMrM9HuhQi94eWm-2WzWgnX9liySm__3b5C4iqMw",
+      "source": "Instagram · thehopetarot"
+    },
+    {
+      "position": 5,
+      "title": "Nazar Utarna: What Is Evil Eye, Symptoms and How to ...",
+      "link": "https://bookmypoojaonline.com/blogs/nazar-utarna-evil-eye-removal-symptoms-remedies-puja",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFZYCACRheQIPWIS9F0CXpkRMUDbfoDuxq3_6tceg_S55pDFfFMoalHOoa4NJZjezQsrv5hIpQvKE-hyye29dhwCb6lb79HIqCAwVB9oZmf9MxrU1zL9VRLbsb6rulXrufS_5_rri9YHQ35Kqf2-ClkYmXQLwmh6_Sei5KjpaCEKB6GaVl_d4CdL3k3k&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://bookmypoojaonline.com › blogs › nazar-utarna-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcExaLC96Ki-FICWBJyuJKCt8NDmFHiR7LTGHJCd6NjuFJCp-JyxnTk-BLDF3JSuEMTZUlJv2rJfwb0z_4NXpcVD5yby8gXKTGyOJGSCTISSNGyCRHiOiKiaqLyiFHSOYJCO4NyrCPS3lVDDLRSwhrO0CAAAAGHRSTlMAIl3wpMpC-07hNLp9EI5vnAT55xtcjDbfwuilAAABSUlEQVQoka2S2W6DMBBFzWpM2ELSNuPxeIP__8aOKwEhad96JSTMmfUaIf5BzaVwTlbj9R3VBaBmGXTdK-uc0QZYHIHqlTEia8mSQQ0n2oIx2mpD5JEINJRPsEBtLIRAZKP3TF17DMOxFqIPy7I-oiet4bLDErX3ltYlPTpyoHY7VMYQRFrStHG1niFkG5QaCUOMvAj4hWvwwPUGnUkwrOAU0MLrwDNEQxg5pxFyCUGnss0OIa1oQyVEvvrAZcwJgsVgc3EXnofllgeU8EN99jkLheyUAdx7quQ3EGXzfFc2mQvHKiUfjIfHeLt9IbA_Dg4TmrQ9aKk-biPfWDoc9nFTOQzTdClrVU7TUAEcxovGVY7dcWUuARGq50Tu6uqmy_t0Q93YVlKIMx2316wo-jPkym5o-z7LK1eKd_Fnlhpe0zZdf_ln_9I3TUgkk3XwWs4AAAAASUVORK5CYII.png",
+      "snippet": "Fitkari (Alum): Take a piece of alum and circle it anticlockwise around the affected person's head seven times. Then heat it on a tawa (griddle). The shape the ...",
+      "snippet_highlighted_words": [
+        "Take a piece of alum and circle it anticlockwise around the affected person's head seven times"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fitkari (Alum): Take a piece of alum and circle it anticlockwise around the affected person's head seven times. Then heat it on a tawa (griddle). The shape the ...",
+          "source_info_link": "https://bookmypoojaonline.com/blogs/nazar-utarna-evil-eye-removal-symptoms-remedies-puja",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcExaLC96Ki-FICWBJyuJKCt8NDmFHiR7LTGHJCd6NjuFJCp-JyxnTk-BLDF3JSuEMTZUlJv2rJfwb0z_4NXpcVD5yby8gXKTGyOJGSCTISSNGyCRHiOiKiaqLyiFHSOYJCO4NyrCPS3lVDDLRSwhrO0CAAAAGHRSTlMAIl3wpMpC-07hNLp9EI5vnAT55xtcjDbfwuilAAABSUlEQVQoka2S2W6DMBBFzWpM2ELSNuPxeIP__8aOKwEhad96JSTMmfUaIf5BzaVwTlbj9R3VBaBmGXTdK-uc0QZYHIHqlTEia8mSQQ0n2oIx2mpD5JEINJRPsEBtLIRAZKP3TF17DMOxFqIPy7I-oiet4bLDErX3ltYlPTpyoHY7VMYQRFrStHG1niFkG5QaCUOMvAj4hWvwwPUGnUkwrOAU0MLrwDNEQxg5pxFyCUGnss0OIa1oQyVEvvrAZcwJgsVgc3EXnofllgeU8EN99jkLheyUAdx7quQ3EGXzfFc2mQvHKiUfjIfHeLt9IbA_Dg4TmrQ9aKk-biPfWDoc9nFTOQzTdClrVU7TUAEcxovGVY7dcWUuARGq50Tu6uqmy_t0Q93YVlKIMx2316wo-jPkym5o-z7LK1eKd_Fnlhpe0zZdf_ln_9I3TUgkk3XwWs4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://bookmypoojaonline.com/blogs/nazar-utarna-evil-eye-removal-symptoms-remedies-puja&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbookmypoojaonline.com%2Fblogs%2Fnazar-utarna-evil-eye-removal-symptoms-remedies-puja",
+      "source": "Book My Pooja",
+      "read_more_link": "https://www.google.com/goto?url=CAES4wEB6zswFWHhoGzkCO0H0v_CKrS5udDELCvJ6s9jrMmHQ_oTL4LV7hdXtEnYLcEAhWu-rexeN-1gxqmTbi4GKit_Agqte0RUAfdRY6xJOMdawMkH5hA7UzLBwcomkXwEV5bfaobPaDsgcJRFn2MhjAVBeGXJmowfFD-oqVV0WyDyXs1SIstgtvhxBJ4jKR_Zr_N-EVzarTP9YFEB6qAV5bbq2PUg6WXenk4mHhUWxgan9e_kTScpn9VzSN19i9hMdF1ydAG09hBSvfJdELW1D4PHdc3I-oP6AxwKw-knLnoHSgM5cg"
+    },
+    {
+      "position": 6,
+      "title": "Ward off the evil eye: Nazar Utarna rituals based on your ...",
+      "link": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/ward-off-the-evil-eye-nazar-utarna-rituals-based-on-your-date-of-birth/photostory/117352444.cms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1wEB6zswFSIuJfj9yHOkcgPCszggm9Bv2X7sJ_NDY9VHOwr28H4-rJSSYMX4O-s0beHqI7hGCbZQSmd4pNzAFV_KfEmkjQXvqENuNBKZ1Mf-_lV7ddJFQAQKSn0_Ey4TNVO9NQo7tZEPg2eoTm28juouoKwHv9RNXDUYHqX-y2LXUME7mbRYzyt-7kONWKEx9JJn4DIF3eN2pN0DMBmW3ag0r_ogg6Xm6T5dwC01jDA1W0KxxW8JostOFyCHkbY5edfP5UloKJnXauMg5hb-S5IwcwupWLLFPA&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://timesofindia.indiatimes.com › photostory",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXMAQDMAADNCQjLAADTMjLYX17VTk7bV1bVTU3TOzvbWlnYQ0LQJibKAADrpKP_-vrhfHzwtbX____jhIT0z8_olpXkiYn21tbvuLj98fHecXHHAAD32dnXSkrcXFvRFxbxwcHaaGfRISH66entqqrqn5_SLy_s5ssvAAAA_UlEQVR4Ac3SBYKEMBAEwOl0cGY5Zt0V_v_ES87dZRuJFJpEXg9cOGL5UhHw9XwPv_5O3ia2Y4nbihP6JEmzPEkKgiironQE6jItc4gOmovW2mHTKv1oXPjJNFfUM5svAo6K5cAGy2K19PPpklzObE3NbAqRYqMaUHWx3dlQRbi3lbIMSDk4XCGwtaYkhMXctnqNgFxh6LSmogjro21uUOQW_T1mt4hrBNBYQgirueHpnaInm4SCCxspbxF6CgjBdnqMvzKae2piKyAYqtFxVDkIXdtl6XjXE4fTcbWPyML3vggo0Gq9XpOCQxG7JGoM5PnAn98Cw6sJ6F7P9hLc_hC1BcMqjgAAAABJRU5ErkJggg.png",
+      "date": "18 Jan 2025",
+      "snippet": "​ Nazar Utarna Rituals for Life Path Numbers 1 to 3 · Light a camphor flame and circle it around yourself 11 times. · Discard the ashes in ...",
+      "snippet_highlighted_words": [
+        "Light a camphor flame and circle it around yourself 11 times"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "​ Nazar Utarna Rituals for Life Path Numbers 1 to 3 · Light a camphor flame and circle it around yourself 11 times. · Discard the ashes in ...",
+          "source_info_link": "https://timesofindia.indiatimes.com/astrology/numerology-tarot/ward-off-the-evil-eye-nazar-utarna-rituals-based-on-your-date-of-birth/photostory/117352444.cms",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEXMAQDMAADNCQjLAADTMjLYX17VTk7bV1bVTU3TOzvbWlnYQ0LQJibKAADrpKP_-vrhfHzwtbX____jhIT0z8_olpXkiYn21tbvuLj98fHecXHHAAD32dnXSkrcXFvRFxbxwcHaaGfRISH66entqqrqn5_SLy_s5ssvAAAA_UlEQVR4Ac3SBYKEMBAEwOl0cGY5Zt0V_v_ES87dZRuJFJpEXg9cOGL5UhHw9XwPv_5O3ia2Y4nbihP6JEmzPEkKgiironQE6jItc4gOmovW2mHTKv1oXPjJNFfUM5svAo6K5cAGy2K19PPpklzObE3NbAqRYqMaUHWx3dlQRbi3lbIMSDk4XCGwtaYkhMXctnqNgFxh6LSmogjro21uUOQW_T1mt4hrBNBYQgirueHpnaInm4SCCxspbxF6CgjBdnqMvzKae2piKyAYqtFxVDkIXdtl6XjXE4fTcbWPyML3vggo0Gq9XpOCQxG7JGoM5PnAn98Cw6sJ6F7P9hLc_hC1BcMqjgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://timesofindia.indiatimes.com/astrology/numerology-tarot/ward-off-the-evil-eye-nazar-utarna-rituals-based-on-your-date-of-birth/photostory/117352444.cms&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ftimesofindia.indiatimes.com%2Fastrology%2Fnumerology-tarot%2Fward-off-the-evil-eye-nazar-utarna-rituals-based-on-your-date-of-birth%2Fphotostory%2F117352444.cms",
+      "source": "The Times of India",
+      "read_more_link": "https://www.google.com/goto?url=CAESvAIB6zswFaW7Dxx3--Poh1sRJt49UUiWa6ABIlAQBtH2iA--bQyWe_3V7KE_Ypb-iatmabcAh4sWPcLcfWhjMs1Gln2bOsAUugn26pVjzLU9WUDGtsP1ZxNuRrZLY43sfZ0IbkG9qWsDzCdtyKmPGxjDHnMyJ_rI6N6s9bqjSaysWdVDuwHW_7qEj7xsKJ-71O3a0bM5aaP0mhR9QbHcv1z2ViL707NDZgvxvHX-ennn8ynwVkCJgyYa9scJfUSlIzXIzG9gbCzkPKG_eNrOtHrns2Y6Fw1hLK48F0ao4BF_PGuJbDzrhCunbOT3H_h5OZK6Zox4kG9_hmp4C_Va_miaKqaLU-459egavKLvB7Rl0f28_DOtbr3EQ-T6qnle5bF0C99t5OQF426vcZJOs09aS0aj-qZem_Den_Zx"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Nazar Utarna with salt clockwise or anti clockwise",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Nazar+Utarna+with+salt+clockwise+or+anti+clockwise&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Nazar+Utarna+with+salt+clockwise+or+anti+clockwise"
+    },
+    {
+      "block_position": 1,
+      "query": "Nazar utarna in English",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Nazar+utarna+in+English&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Nazar+utarna+in+English"
+    },
+    {
+      "block_position": 1,
+      "query": "Burning red chillies for nazar utarna",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Burning+red+chillies+for+nazar+utarna&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Burning+red+chillies+for+nazar+utarna"
+    },
+    {
+      "block_position": 1,
+      "query": "What to say while Nazar utarna",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=What+to+say+while+Nazar+utarna&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=What+to+say+while+Nazar+utarna"
+    },
+    {
+      "block_position": 1,
+      "query": "Nazar utarna with salt in which direction",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Nazar+utarna+with+salt+in+which+direction&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Nazar+utarna+with+salt+in+which+direction"
+    },
+    {
+      "block_position": 1,
+      "query": "Nazar utarna at home",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Nazar+utarna+at+home&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Nazar+utarna+at+home"
+    },
+    {
+      "block_position": 1,
+      "query": "Nazar utarna with water",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Nazar+utarna+with+water&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Nazar+utarna+with+water"
+    },
+    {
+      "block_position": 1,
+      "query": "Nazar utarna GIF",
+      "link": "https://www.google.com/search?sca_esv=c894b1b53fb75601&gl=in&hl=en&q=Nazar+utarna+GIF&sa=X&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Nazar+utarna+GIF"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=10&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8NMDegQISxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=10&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAE",
+      "3": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=20&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAG",
+      "4": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=30&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAI",
+      "5": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=40&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAK",
+      "6": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=50&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAM",
+      "7": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=60&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAO",
+      "8": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=70&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAQ",
+      "9": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=80&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAS",
+      "10": "https://www.google.com/search?q=nazar+utarna&sca_esv=c894b1b53fb75601&gl=in&hl=en&ei=5LSWaoT0B5Cj0PEPh5WDuQk&start=90&sa=N&sstk=AS6-VmJcEYRmT1IaH1zYLpaxs7IYAgA2ykgeEU8t7T5QPW3RnniEUY7TP444gr2GxwgE0pBSbO1fZl0qMDduYs76T_DanoggO9yTTw&ved=2ahUKEwiE9rfNoc2WAxWQETQIHYfKIJcQ8tMDegQISxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=nazar+utarna&start=90"
+    }
+  }
+}
