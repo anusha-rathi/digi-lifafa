@@ -442,6 +442,775 @@ export const POSTS: Post[] = [
     ],
   },
   {
+    slug: "annaprashan-first-birthday",
+    title:
+      "Annaprashan and the first birthday: the maternal uncle does the feeding, and the candles get lit",
+    date: "2026-09-01",
+    updated: "1 September 2026",
+    tag: "How it works",
+    excerpt:
+      "Girls in odd months, boys in even. The mama feeds the child, not the parents. And the traditional first birthday is a homam reckoned by star, where nobody blows anything out.",
+    body: [
+      {
+        p: "Two ceremonies get squashed together in most people's heads: the first solid food, and the first birthday. They are different events, months apart, and the second one is not originally a birthday party at all.",
+      },
+
+      { h: "Annaprashan" },
+      {
+        p: "The first mouthful of solid food, usually rice, given ceremonially. Annaprashana in Sanskrit. Mukhe bhaat in Bengal, which means rice in the mouth. Choroonu in Kerala.",
+      },
+      {
+        p: "The month is decided by whether the child is a boy or a girl, and this is one of the few rules in this whole area that is stated the same way by everybody.",
+      },
+      {
+        note: "Girls in odd months: the fifth, seventh, ninth or eleventh. Boys in even months: the sixth, eighth, tenth or twelfth.",
+      },
+      {
+        p: "The textual baseline is looser and more practical. Most of the Grihya Sutras put it in the sixth month, or whenever the first teeth appear.",
+      },
+      {
+        p: "One textual disagreement is worth knowing about because it is not the disagreement anybody expects. The Sankhyayana Grhyasutra recommends that fish, goat or partridge gravy be mixed into the baby's first solid food. The Manava Grhyasutra says nothing about meat at all. Two texts, same rite, and one of them is feeding the child partridge.",
+      },
+
+      { h: "Who does the feeding, and where" },
+      {
+        p: "In Bengal the annaprashan is held at the child's maternal home, and the mama or the maternal grandfather does the feeding, with the baby on his lap. The first food is payesh.",
+      },
+      {
+        p: "That is not a Bengali eccentricity. Follow the thread and the mother's brother turns up at the centre of these ceremonies across three separate language regions.",
+      },
+      {
+        ul: [
+          "Bengal, annaprashan: the mama feeds the child, at the maternal home.",
+          "Telugu, barasala: the mama puts a gold ring dipped in cow's milk and honey on the baby's tongue.",
+          "Tamil, karnavedha: the baby sits on the mama's lap for the ear piercing.",
+        ],
+      },
+      {
+        p: "Three ceremonies, three languages, and the same man doing the thing that matters. If you have wondered why the mama is such a load-bearing figure in Indian families, this is where it starts, years before the wedding where he pays for everything.",
+      },
+      {
+        p: "In Kerala the choroonu is very commonly done at Guruvayur, which runs it daily and has a dedicated hall for it on the first floor of the old ticket counter building. Rice, banana and payasam, off a plantain leaf, in front of the deity.",
+      },
+
+      { h: "The tray" },
+      {
+        p: "After the feeding the baby is put down in front of a plate or a banana leaf with objects on it, and whatever it grabs first is taken as a hint about what it will care about.",
+      },
+      {
+        table: {
+          head: ["What it picks up", "What that is taken to mean"],
+          rows: [
+            ["A book", "Learning"],
+            ["A pen", "Writing, wisdom"],
+            ["Money", "Wealth"],
+            ["Clay or soil", "Land, property, staying put"],
+            ["Food", "Appetite, or generosity"],
+          ],
+        },
+      },
+      {
+        p: "We could only attest this properly for Bengali mukhe bhaat, so we are not going to tell you it is done all over India. Worth knowing it has close relatives elsewhere: the Korean doljanchi and the Chinese zhuazhou do the same thing with the same objects on the child's first birthday.",
+      },
+
+      { h: "The first birthday, and what it originally was" },
+      {
+        p: "The traditional observance is not a party. It is the Ayush Homam, and ayush means lifespan.",
+      },
+      {
+        p: "It is reckoned by the nakshatra rather than the Gregorian date, which means it lands on a different day from the one on the birth certificate. The child is dressed in silk and sits on the father's lap through the homam, which asks for a long life and the removal of obstacles.",
+      },
+      {
+        p: "The reason it exists is unsentimental. A child surviving its first year was once genuinely uncertain, and this is the ceremony that marks the survival. The cake, if there is one, comes later in the day and nobody minds.",
+      },
+      {
+        p: "There is one detail here that we did not find stated this baldly anywhere else in this whole subject, and it is about money. In Tamil Brahmin practice, as described on a community forum: the homam must be held at the child's father's house; the maternal grandfather is told in advance and brings gifts with thamboolam, fruit and flowers; and all expenses are borne by the paternal grandfather.",
+      },
+      {
+        p: "One side brings the gift, the other side carries the cost, and both are named. No gift guide will ever tell you that, because it is not about what to buy.",
+      },
+
+      { h: "The candles" },
+      {
+        p: "The one objection to the imported birthday party that is an actual argument rather than nostalgia: the candles are meant to be lit, not blown out.",
+      },
+      {
+        p: "The reasoning is that putting out a flame is the wrong gesture to make over a life you are asking to be long. Lamps get lit at every other occasion in the house, and you do not extinguish them for luck.",
+      },
+      {
+        p: "Take it as a folk rationalisation rather than doctrine, because that is what it is. But it is a good one, and it costs nothing to light a diya alongside the cake if somebody in the family minds.",
+      },
+
+      { h: "What a real one looks like" },
+      {
+        p: "The most useful account of an Ayushya Homam we found is a mother writing about her own daughter's, and it is useful precisely because it is untidy.",
+      },
+      {
+        p: "They moved it to a Sunday, for convenience, rather than keeping the calendar date. Guests threw sanctified rice as a blessing. And a friend performed drishti parihara, windmilling fistfuls of salt around the child and then marking her forehead with soot from the flame, at which point the mother objected on the spot, on the grounds that it implied her own invited guests were envious of her baby.",
+      },
+      {
+        p: "A family doing the ceremony properly, moving it for the weekend, and arguing about one component of it while it is happening. That is what these look like from inside, and it is worth more than any page telling you the ritual is unchanged since the Grihya Sutras.",
+      },
+
+      { h: "What to give" },
+      {
+        p: "Silver is the traditional thing for both of these: a bowl and spoon set, anklets, a coin. For a first birthday, clothes a size up, because everything the child owns is about to stop fitting.",
+      },
+      {
+        p: "And money, which is the thing the shops selling silver will not suggest. ₹501, ₹1,100 or ₹2,100, in an envelope, addressed to the child. If the family is doing the choroonu at Guruvayur or a homam with a priest, the costs are real and the envelope is the useful gift.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "Which month is annaprashan done in?",
+            a: "Girls in odd months, so the fifth, seventh, ninth or eleventh. Boys in even months, so the sixth, eighth, tenth or twelfth. The older textual rule is simply the sixth month, or whenever the first teeth come through.",
+          },
+          {
+            q: "Who feeds the baby at annaprashan?",
+            a: "In Bengal the maternal uncle or maternal grandfather, with the baby on his lap, at the maternal home. Elsewhere the parents or a grandparent. The mother's brother turns up at the centre of these ceremonies in Bengali, Telugu and Tamil practice alike.",
+          },
+          {
+            q: "What is the tray with objects on it?",
+            a: "The baby is set in front of a book, a pen, money, clay and food, and whatever it reaches for first is read as an inclination. We could only confirm it for Bengali mukhe bhaat, so it may be more regional than it looks. Korea and China do near-identical versions at the first birthday.",
+          },
+          {
+            q: "Is the first birthday traditionally celebrated in India?",
+            a: "Yes, but as the Ayush Homam rather than a party, and on the nakshatra date rather than the calendar one. It marks surviving the first year, which was not always a given. The cake is a modern addition and coexists with it perfectly happily.",
+          },
+          {
+            q: "Why do some people light the candles instead of blowing them out?",
+            a: "Because blowing out a flame is considered the wrong gesture over a life you are asking to be long. It is a folk explanation rather than scripture, but if it matters to someone in the family, lighting a diya alongside the cake settles it.",
+          },
+          {
+            q: "What should I gift at a first birthday?",
+            a: "Silver, or clothes a size up, or ₹1,100 in an envelope. Everything the child currently owns is about to stop fitting, which makes the too-big option the sensible one.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "godh-bharai-baby-shower",
+    title:
+      "Godh bharai, seemantham, valaikappu: the names, the month, and what to give",
+    date: "2026-09-01",
+    updated: "1 September 2026",
+    tag: "How it works",
+    excerpt:
+      "One ceremony with seven names, a taboo about buying anything for the baby that it appears to break, and a gift rule that resolves both.",
+    body: [
+      {
+        p: "Somebody is seven months pregnant and there is a function. What it is called depends entirely on where the family is from, and using the wrong name is the fastest way to look like you looked it up.",
+      },
+      {
+        table: {
+          head: ["Name", "Where", "What it is"],
+          rows: [
+            ["Godh bharai", "North India, Hindi belt", "Filling the lap"],
+            [
+              "Seemantham",
+              "Tamil and Telugu",
+              "The religious samskara, with a priest",
+            ],
+            [
+              "Valaikappu",
+              "Tamil Nadu",
+              "The bangle ceremony. Valai bangle, kaappu protection.",
+            ],
+            ["Dohale Jevan", "Maharashtra", "Named after dohale, the cravings"],
+            ["Shaadh", "Bengal", "Can be three separate ceremonies"],
+            ["Shrimant, Khodo Bharvo", "Gujarat", "Also filling the lap"],
+            ["Agharni", "Parsi, Gujarat", "First pregnancy only"],
+          ],
+        },
+      },
+      {
+        p: "One correction worth making because it is in a lot of otherwise decent writing: Shrimant is not a Marathi word for this. Gujarati Hindus and Parsis both use it. The Marathi name is Dohale Jevan.",
+      },
+
+      { h: "Seemantham and valaikappu are two different things" },
+      {
+        p: "In Tamil Nadu these get used interchangeably and they are not the same event.",
+      },
+      {
+        p: "Seemantham is the samskara, one of the sixteen, with a priest and Vedic chanting, and it is women only. Valaikappu is the cultural celebration built around glass bangles, it is larger, and men attend it.",
+      },
+      {
+        p: "Beyond that the sources genuinely conflict, and rather than average them here are both. One account puts valaikappu in the fifth or seventh month at the girl's family home and seemantham in the sixth or eighth at her husband's. A firsthand account from Tiruvannamalai puts valaikappu in the seventh or ninth, organised by the paternal grandmother, at her house or a hired hall.",
+      },
+      {
+        p: "Maternal side and paternal side, in the same ceremony, in the same state. Ask the family.",
+      },
+      {
+        p: "The bangles have a stated purpose, and it is lovely: the sound is meant to reach the womb. In the version from Tiruvannamalai they are not taken off again until the delivery, and then they are given to the midwife.",
+      },
+
+      { h: "Which month" },
+      {
+        p: "Seventh is the common answer. It is not the only one.",
+      },
+      {
+        ul: [
+          "North, godh bharai: the seventh, on the reasoning that mother and baby are past the fragile stage.",
+          "Maharashtra: seventh, sometimes ninth.",
+          "Gujarat: seventh or eighth.",
+          "Parsi Agharni: seventh or ninth, preferably seventh, on a Thursday or a Sunday, and only for a first pregnancy.",
+          "Bengal: up to three of them. The fifth month, the seventh, and the main one in the ninth.",
+        ],
+      },
+      {
+        p: "Bengal having three where everyone else has one is the outlier, and it is the kind of thing worth knowing before you tell a Bengali family they are doing it late.",
+      },
+
+      { h: "Who is in the room" },
+      {
+        p: "Women only is the dominant pattern and it is not universal.",
+      },
+      {
+        p: "The Bengali Shaadh is described flatly as a ritual conducted by women in which the men have no role beyond arranging the materials. Godh bharai is traditionally women only, and most accounts then add that husbands and friends are now included. Seemantham is women only; valaikappu, in the same state, is not.",
+      },
+      {
+        p: "The sharpest exclusion we found is not about gender at all. In the Gujarati Shrimant the woman who does the coconut exchange with the mother-to-be has to be an older sister-in-law or a family member who has not had a miscarriage.",
+      },
+      {
+        p: "That one line tells you what the ceremony is actually anxious about, which no amount of pastel decor does.",
+      },
+
+      { h: "The taboo, and why the ceremony does not break it" },
+      {
+        p: "Somebody will tell you not to buy anything for the baby before it is born. Then somebody throws a baby shower in the seventh month. Both of these are real and the contradiction is only apparent.",
+      },
+      {
+        p: "First, the taboo people actually describe is often narrower than the version that gets repeated. A seventy-year-old woman from Rajasthan, recorded for a folklore archive, describes it as being about the weeks after birth rather than before it: for the first few weeks a newborn is dressed in old clothes that other children have worn, never new ones, and her word for what those clothes carry is the luck of the previous surviving baby. After a few weeks you dress the child however you like.",
+      },
+      {
+        p: "The broader version, do not buy anything at all in advance, is genuinely widespread but we could not attribute it to any particular region or community. The reason given for it is always the same and it is not superstition so much as memory: infant and maternal mortality were high, and a house full of unused things was a specific kind of unbearable.",
+      },
+      {
+        p: "So how does a seventh-month function square with that. Look at what is actually given.",
+      },
+      {
+        p: "Bangles. A saree. Jewellery. Her cravings, cooked and fed to her. A lap filled with rice, coconut, grains and fruit. Almost nothing on the list is for the baby.",
+      },
+      {
+        p: "The gifts are for the mother, and that is the escape hatch. Every account of these ceremonies says some version of this is one of the few occasions where the present is genuinely for the woman rather than the child, and it is usually written as a sentiment. It is a structure.",
+      },
+      {
+        p: "The workarounds people use for the things they do need are worth knowing too, because they are practical rather than mystical: keep the purchases at your mother's house or your sister's flat, leave them sealed so they are not in the house yet, or ask for them through the ceremony, where receiving them is licensed.",
+      },
+
+      { h: "What to give" },
+      {
+        p: "For the lap-filling itself, if you are close family, the contents are traditional and specific. The Parsi version is the most itemised we found: 250g each of green moong, wheat and rice, a whole coconut with a tilak on it, a pomegranate with a coin pushed inside, twin bananas if you can get them, seven cone-shaped boondi ladoos, plus sugar, flowers, paan, almonds, dates and betel nut.",
+      },
+      {
+        p: "For everyone else: something for her. Bangles, a saree, something in silver.",
+      },
+      {
+        p: "Cash is the weak spot, honestly. It is much less attested for this ceremony than for a wedding, and the clearest instance we found is Parsi, where a sagan envelope goes to the mother and the father, which is itself unusual. If you give money here, ₹1,100 or ₹2,100 is right, and give it to her rather than to the household.",
+      },
+      {
+        p: "And if you want a rule for the whole thing: buy for the woman, not for the baby. It is the correct gift, it is what the ceremony is for, and it is the one choice that cannot collide with anybody's belief about the timing.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "What is the difference between seemantham and valaikappu?",
+            a: "Seemantham is the religious samskara with a priest, women only. Valaikappu is the bangle celebration, larger, and men attend. Many families do both, sometimes on the same day, which is why the names get used interchangeably.",
+          },
+          {
+            q: "Which month is godh bharai done in?",
+            a: "The seventh, most often. Gujarat allows the eighth, Maharashtra sometimes the ninth, Parsi practice prefers the seventh with the ninth as an alternative, and Bengal can have three separate ceremonies in the fifth, seventh and ninth.",
+          },
+          {
+            q: "Is it bad luck to buy things for the baby before it is born?",
+            a: "It is a widely held belief and the reason behind it is infant mortality rather than magic. Note that the version people can actually attribute is narrower: a newborn wears hand-me-downs for the first few weeks rather than new clothes. If it worries you, keep the purchases sealed or at your mother's house.",
+          },
+          {
+            q: "Then how is a baby shower allowed?",
+            a: "Because the gifts are for the mother. Bangles, a saree, jewellery, her favourite food. Almost nothing at a godh bharai is for the baby, which is exactly why the taboo does not bite.",
+          },
+          {
+            q: "Do men attend?",
+            a: "At a valaikappu, yes. At a seemantham, a Bengali shaadh or a traditional godh bharai, no, though husbands and friends are now commonly included in the north. Ask, because it varies within a single state.",
+          },
+          {
+            q: "Who hosts it, the in-laws or her parents?",
+            a: "Both, and often both separately. Several communities hold two, one at each house. Bengali shaadh leans to the parental side; the Parsi Agharni is hosted by the mother-in-law, who provides everything new.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "namkaran-naming-ceremony",
+    title:
+      "Namkaran: the syllable your baby's name has to start with, and who gets to choose it",
+    date: "2026-09-01",
+    updated: "1 September 2026",
+    tag: "How it works",
+    excerpt:
+      "The nakshatra gives you a sound, not a spelling. Four communities give the naming authority to four different people. And the Sikh method solves the same problem without astronomy at all.",
+    body: [
+      {
+        p: "A baby is born and somebody says the name has to start with a particular sound, and produces a syllable that does not obviously correspond to any name you like.",
+      },
+      {
+        p: "There is a real system underneath that, it is more precise than most people explain, and the crucial thing about it is usually left out: it gives you a sound, not a spelling.",
+      },
+
+      { h: "How the syllable is worked out" },
+      {
+        p: "The moon's position at the moment of birth falls into one of twenty-seven nakshatras, each covering 13 degrees 20 minutes of the zodiac. Each nakshatra divides into four padas of 3 degrees 20 minutes.",
+      },
+      {
+        p: "Twenty-seven times four is 108, and each of those 108 padas has a syllable attached to it. The pada the moon was in gives you the sound the name should start with.",
+      },
+      {
+        p: "So the answer is not one syllable per star. It is one per quarter-star, and knowing the nakshatra without the pada gets you a choice of four.",
+      },
+      {
+        table: {
+          head: ["Nakshatra", "Pada 1", "Pada 2", "Pada 3", "Pada 4"],
+          rows: [
+            ["Ashwini", "Chu", "Che", "Cho", "Laa"],
+            ["Bharani", "Lee", "Loo", "Le", "Lo"],
+            ["Krittika", "A", "Ee", "U", "E"],
+            ["Rohini", "O", "Vaa", "Vee", "Vu"],
+            ["Mrigashira", "Ve", "Vo", "Kaa", "Kee"],
+            ["Ardra", "Ku", "Gha", "Ing", "Chha"],
+            ["Punarvasu", "Ke", "Ko", "Haa", "Hee"],
+            ["Pushya", "Hu", "He", "Ho", "Daa"],
+            ["Ashlesha", "Dee", "Doo", "De", "Do"],
+            ["Magha", "Maa", "Mee", "Moo", "Me"],
+            ["Purva Phalguni", "Mo", "Taa", "Tee", "Too"],
+            ["Uttara Phalguni", "Te", "To", "Paa", "Pee"],
+            ["Hasta", "Poo", "Sha", "Na", "Tha"],
+            ["Chitra", "Pe", "Po", "Raa", "Ree"],
+            ["Swati", "Roo", "Re", "Ro", "Taa"],
+            ["Vishakha", "Tee", "Too", "Te", "To"],
+            ["Anuradha", "Naa", "Nee", "Noo", "Ne"],
+            ["Jyeshtha", "No", "Yaa", "Yee", "Yoo"],
+            ["Mula", "Ye", "Yo", "Bhaa", "Bhee"],
+            ["Purva Ashadha", "Bhoo", "Dhaa", "Phaa", "Dha"],
+            ["Uttara Ashadha", "Bhe", "Bho", "Jaa", "Jee"],
+            ["Shravana", "Khee", "Khoo", "Khe", "Kho"],
+            ["Dhanishtha", "Gaa", "Gee", "Gu", "Ge"],
+            ["Shatabhisha", "Go", "Saa", "See", "Soo"],
+            ["Purva Bhadrapada", "Se", "So", "Daa", "Dee"],
+            ["Uttara Bhadrapada", "Doo", "Tha", "Jha", "Yna"],
+            ["Revati", "De", "Do", "Cha", "Chee"],
+          ],
+        },
+      },
+      {
+        p: "The part that saves people a great deal of anguish: these are phonetic sounds and not spellings. If a name reads with the right sound it works, however it is written. Nobody is checking your transliteration.",
+      },
+      {
+        p: "And there is frequently a second name. The nakshatra name gets kept for ritual use, said in sankalpams and temple archanas, while the child is called something else entirely at home. If the syllable produces nothing you can live with, that is the usual way out and it is completely normal.",
+      },
+
+      { h: "When it happens" },
+      {
+        p: "There is no single day, and the spread is much wider than any one page suggests.",
+      },
+      {
+        table: {
+          head: ["When", "Where", "Called"],
+          rows: [
+            [
+              "6th night",
+              "Bihar, Jharkhand, UP, Gujarat, and Parsi families",
+              "Chhathi",
+            ],
+            [
+              "11th or 12th day",
+              "Most north Indian Hindu families",
+              "Namkaran",
+            ],
+            ["12th day", "Maharashtra, from barah, twelve", "Barsa"],
+            [
+              "7th, 11th, 16th or 21st day, or the 3rd, 5th or 29th month",
+              "Andhra Pradesh, Telangana",
+              "Barasala",
+            ],
+            [
+              "When the mother can move about and bathe, whatever the day",
+              "Sikh",
+              "Naam Karan",
+            ],
+          ],
+        },
+      },
+      {
+        p: "The Telugu range, seven days to twenty-nine months, is the one that settles the argument. There is no correct day.",
+      },
+
+      { h: "Chhathi, and the pen left out for a goddess" },
+      {
+        p: "The sixth night deserves more attention than it gets, and the reason it gets none from the gift pages is that there is nothing to sell.",
+      },
+      {
+        p: "Chhathi belongs to Shashti Maiyya, also called Vidhata, and the belief is that around midnight on the sixth night she comes into the house to write the child's destiny.",
+      },
+      {
+        p: "So the mother leaves out what she will need. A lamp, a red pen, and paper, on a wooden plank.",
+      },
+      {
+        p: "That is the whole thing. A pen left out for somebody who is coming to write.",
+      },
+
+      { h: "Who actually names the child" },
+      {
+        p: "This turns out to vary more than the timing does, and it is the more interesting variation, because it is about authority rather than the calendar.",
+      },
+      {
+        ul: [
+          "Maharashtra: the father's sister whispers the name into the baby's ear, at the cradle, while women sing palna songs.",
+          "Telugu: the father says it into the ear three times, and it may be written on rice spread on a tray.",
+          "Gujarat: the foi, the paternal aunt, names the child.",
+          "Sikh: the Granthi does, and neither the family nor the astrologer chooses the letter.",
+        ],
+      },
+      {
+        p: "Two of those give it to the father's sister, which is a real pattern and one that people from families that do not do it find surprising.",
+      },
+
+      { h: "The Sikh method, which solves it completely differently" },
+      {
+        p: "The Rehat Maryada sets out a procedure that arrives at the same place, a letter and then a name, without any astronomy at all.",
+      },
+      {
+        p: "The family goes to the gurdwara. The Guru Granth Sahib is opened at random and the Hukam is read. The first letter of that Shabad is the letter. The Granthi proposes a name beginning with it, the congregation accepts it, and he announces it. Then Anand Sahib and Ardas. Boys take Singh, girls take Kaur.",
+      },
+      {
+        p: "Same problem, pick a letter and then pick a name, solved by opening a book rather than by consulting the sky.",
+      },
+      {
+        p: "And the timing rule follows from a rejection. The Maryada explicitly refuses the birth-pollution period, naming the ten, twenty-one and forty day counts it is refusing. Which is exactly the counting that produces the tenth, eleventh and twelfth day elsewhere. Take away the pollution and there is no day to wait for, so the instruction becomes: as soon as the mother can move about and bathe.",
+      },
+
+      { h: "What guests give" },
+      {
+        p: "Silver and gold for the child, small clothes, and money. Anklets, a bowl and spoon, a coin.",
+      },
+      {
+        p: "The same caveat as every ceremony in this cluster: the pages recommending these are shops, and no shop sells cash. ₹501, ₹1,100 or ₹2,100 in an envelope is completely normal and is the thing a family with a new baby can actually use.",
+      },
+      {
+        p: "One claim we came across and could not corroborate anywhere, so treat it as one shop's assertion rather than a fact: that north India favours silver anklets while South India favours gold coins engraved with the birth star. The engraving detail is at least internally consistent with the nakshatra system, which is more than most of these claims manage.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "Does the name have to start with the nakshatra syllable?",
+            a: "In families that follow it, yes, and the table above gives all 108. But it specifies a sound, not a spelling, and many families keep the nakshatra name only for rituals while calling the child something else entirely at home.",
+          },
+          {
+            q: "Which day is namkaran done on?",
+            a: "The sixth night in Bihar, UP, Gujarat and Parsi families; the eleventh or twelfth across most of north India; the twelfth in Maharashtra; and anywhere from the seventh day to the twenty-ninth month in Telugu practice. There is no single correct day.",
+          },
+          {
+            q: "Who chooses the name?",
+            a: "It depends who is asking. Maharashtra gives it to the father's sister, Gujarat to the foi, Telugu practice to the father, and Sikh practice to the Granthi via a random opening of the Guru Granth Sahib.",
+          },
+          {
+            q: "What do you gift at a namkaran?",
+            a: "Silver for the child, or ₹501 to ₹2,100 in an envelope. Both are normal, and money is what a household with a new baby actually needs. Anything you give is for the child rather than the parents.",
+          },
+          {
+            q: "What if we do not like any name with that syllable?",
+            a: "Use it as the rashi name, said in sankalpams and at the temple, and call the child what you want at home. That is not a compromise anybody invented for you; it is how a large number of families already do it.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "griha-pravesh-gift",
+    title:
+      "Griha pravesh: what to actually give, and why every list says a Ganesh idol",
+    date: "2026-09-01",
+    updated: "1 September 2026",
+    tag: "How it works",
+    excerpt:
+      "Search this and you get seven shops recommending the same six objects. Cash appears on two pages out of seven, for a reason worth knowing.",
+    body: [
+      {
+        p: "Somebody has bought a flat and you have been invited to the puja. So you search what to gift for griha pravesh and you are given, on every page, in a slightly different order: a Ganesh idol, something silver, a diya, a money plant.",
+      },
+      {
+        p: "That agreement is not a tradition. It is an inventory.",
+      },
+      {
+        p: "We took the seven top-ranking gift pages for this and checked whether they were copying each other. They are not: the phrase overlap between them is essentially zero, and the only strings they share are the WordPress comment-form boilerplate at the bottom. They are independently written.",
+      },
+      {
+        p: "They still converge. Six of seven say idol, six say silver, five say diya, four say a plant. And two of seven mention cash at all.",
+      },
+      {
+        p: "That last number is the whole thing. Every one of those pages sells objects, so every one of them is written backwards from a warehouse, and nobody stocks cash. The advice is not wrong, exactly. It is just what happens when the only people answering a question are the people with something to move.",
+      },
+      {
+        p: "So here is the version written forwards.",
+      },
+
+      { h: "What actually changes hands" },
+      {
+        p: "The best account we found of this is not an article. It is a forum post by a Tamil Brahmin ritual specialist who has been answering griha pravesam questions on the same board since 2011, and who laid out the whole thing: the muhurat rules, the samagri by weight, and the money.",
+      },
+      {
+        p: "What it describes is not guests bringing gifts. It is a two-way exchange in which the host gives back more than they receive.",
+      },
+      {
+        ul: [
+          "A week before, abhishekam and archanai at your kula deivam temple, with a cash donation to it.",
+          "The in-laws are invited in advance and arrive with a brass kudam, a kuthu vilakku, a saree and a dhoti, sweets, kai murukku, betel, turmeric, kumkum, flowers and fruit.",
+          "You give back to them: a saree and a dhoti with thamboolam, fruit, flowers, and, in his words, with some money.",
+          "Brothers and sisters bring thamboolam, fruit, flowers, saree and shirt lengths. You return the same.",
+          "Dakshinai to each priest, plus a nine by five cotton dhoti. Two to four of them are needed.",
+          "A thamboolam bag to every single guest: two betel leaves, a paakku pocket, a sweet, a kai murukku, and a small gift.",
+          "And dhotis or shirt lengths to the building contractor, the engineer, the mason, the painter, the electrician and the carpenter, plus a meal.",
+        ],
+      },
+      {
+        p: "The tradesmen are inside the circle. That is the part no gift guide has, and it is the part that tells you what the ceremony is actually about, which is the house rather than the housewarming.",
+      },
+      {
+        p: "He also repeats one caveat three times in a single post, and the third time he puts it plainly: this is a public forum, you can skip or add according to your financial position.",
+      },
+
+      { h: "So should you give money" },
+      {
+        p: "Yes, and it is normal, and the reason you have not read that anywhere is covered above.",
+      },
+      {
+        p: "In much of north and central India this runs on neota, which is the same reciprocal cash system that governs weddings, with registers kept across generations. In Tamil Nadu it is moi, and moi is explicitly practised at housewarmings and birthdays, not only at weddings. Somebody sits with a notebook and writes down your name and what you gave.",
+      },
+      {
+        p: "So if the family keeps that ledger, an object is harder for them to reciprocate later than an amount. ₹1,100 or ₹2,100 in an envelope, ₹5,100 if you are close. The total ends in a one, and the coin on the lifafa is what supplies it.",
+      },
+      {
+        p: "Bring something as well if you want to. The convention almost everyone follows is mithai plus an envelope, and mithai on its own is completely fine if money would be strange between you.",
+      },
+
+      { h: "When it can and cannot be done" },
+      {
+        p: "There are two entirely separate systems for this and they do not agree, which is worth knowing before somebody tells you your date is wrong.",
+      },
+      {
+        p: "In the north the period to avoid is Chaturmas, the four months Vishnu is said to sleep. Two panchang sites give 2026 as 16 July to 17 November and 25 July to 20 November. Nine days apart at one end, three at the other, for the same year.",
+      },
+      {
+        p: "The Tamil rule is not Chaturmas at all. It names five months to avoid, Aani, Aadi, Purattasi, Margazhi and Panguni, and the justification given is mythological: Ravana died in Aadi, the Mahabharata war was in Margazhi, Hiranya died in Purattasi.",
+      },
+      {
+        p: "Days disagree too. North: avoid Tuesday and Saturday. Tamil: Monday, Thursday and Friday are good. Those are compatible but they are not the same rule, and the specialist who supplied the Tamil list then cites the Kanchi Mutt panchangam to permit a Sunday his own rule had excluded.",
+      },
+      {
+        p: "One rule worth knowing because it inverts what people expect: the date is chosen against the birth star of the woman who is going to live in the house.",
+      },
+
+      { h: "The ceremony" },
+      {
+        p: "The one element that appears in every region under every name is boiling milk until it goes over the side of the pot. In Kerala the whole event is colloquially called paal kachal, the milk boiling. In Bengal it sits inside Bastu Puja as the kitchen puja. In Maharashtra it is inside Vastu Shanti. Everywhere, the overflow is the point: abundance that cannot be contained.",
+      },
+      {
+        p: "In South India a cow and calf go in first and walk through every room including the kitchen, and each person touches the cow face to tail three times.",
+      },
+      {
+        p: "Which produces the single best line in all of this research, from the same ritual specialist, on what to do if you live in a flat.",
+      },
+      {
+        note: "“For individual house in ground floor cow pooja can be done at the entrance of the house. For flats the cow and calf i think cannot go to upstairs. Better skip cow pooja for flat owners.”",
+      },
+      {
+        p: "A man who knows the rules writing the apartment exemption himself, and hedging it with i think. That is what a living tradition looks like from the inside, and it is more useful than any confident page telling you the ceremony is unchanged since the Puranas.",
+      },
+      {
+        p: "The rest, broadly: a poorna kumbham carried in, the lamp and the deity placed in the kitchen, punyahavachanam, a navagraha mandalam laid to the north and the homa kundam to the south, the homam, kalasha water sprinkled through the house and the remainder poured around the outside, aashirvadam, food, and the thamboolam bags. The owner sleeps in the house that night, and a kolam goes at the entrance the next morning.",
+      },
+
+      { h: "The Sikh answer, which is a different answer" },
+      {
+        p: "Search for Punjabi griha pravesh and you will get Etsy and invitation templates. The actual answer is in the Sikh Rehat Maryada and it contradicts almost everything above.",
+      },
+      {
+        p: "Article XX names moving into a new house explicitly, alongside starting a business and putting a child into school, and prescribes one thing: Ardas.",
+      },
+      {
+        p: "And the timing apparatus is rejected outright. Consulting horoscopes to find an auspicious day is called a sacrilege, and the instruction is that any day the parties find suitable by mutual consultation should be fixed.",
+      },
+      {
+        p: "In practice families mark a new house with a Sukhmani Sahib path or an Akhand Path, then kirtan, Ardas and langar. Worth saying plainly that the code is prescriptive rather than descriptive: plenty of Punjabi Sikh families do consult dates, and this is contested ground inside the community rather than a settled fact about it.",
+      },
+
+      { h: "What not to bring" },
+      {
+        p: "Three that have real Indian footing: sharp things, knives and scissors, on the reasoning that they cut the relationship. Black items, associated with Saturn. And leather, in vegetarian and Jain households.",
+      },
+      {
+        p: "Two that you will see everywhere and that we would not print as Indian. Clocks appear on three of seven pages and mirrors on one page out of fourteen, and that one cites no Vastu text, no scholar and no named expert, only Vastu experts as a floating plural. Both taboos are much better attested in Chinese gift etiquette, where a clock is a homophone for attending a funeral. They look like imports.",
+      },
+      {
+        p: "If somebody in the family believes it, that settles it for that house. But nobody should be told it is a rule.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "Is money an appropriate griha pravesh gift?",
+            a: "Yes, and it is normal. ₹1,100 or ₹2,100 for most people, ₹5,100 if you are close. The reason you rarely read this is that the pages ranking for the question are shops, and no shop sells cash. Mithai plus an envelope is the usual combination.",
+          },
+          {
+            q: "What is the best gift for griha pravesh under ₹500?",
+            a: "A good box of mithai, which is about ₹500, or ₹501 in an envelope. Both are complete gifts and neither needs apologising for. If you want an object at that price, a brass diya is the one thing on the standard list that is genuinely used rather than stored.",
+          },
+          {
+            q: "Which months should griha pravesh be avoided in?",
+            a: "It depends whose rule you are using. North Indian practice avoids Chaturmas, roughly mid-July to mid-November, and two panchangs put the 2026 dates nine days apart. Tamil practice avoids Aani, Aadi, Purattasi, Margazhi and Panguni instead. Ask the family which system they follow, because the two do not map onto each other.",
+          },
+          {
+            q: "Can we do the cow puja in an apartment?",
+            a: "No, and a ritual specialist says so himself: the cow and calf cannot go upstairs, so flat owners should skip it. The rest of the ceremony is unaffected.",
+          },
+          {
+            q: "Do Sikh families do griha pravesh?",
+            a: "A new house is marked, but differently. The Rehat Maryada names moving house explicitly and prescribes Ardas, and rejects choosing an auspicious date at all. In practice that means a Sukhmani Sahib path, kirtan, Ardas and langar, on whatever day suits.",
+          },
+          {
+            q: "Should I really not give a clock or a mirror?",
+            a: "The Indian evidence for that is very thin. Both taboos are much better attested in Chinese gift customs and appear to have leaked into Indian etiquette listicles. Knives and black items have a genuine basis. If the family believes it, respect it; do not repeat it as a rule.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "mundan-ceremony-guide",
+    title:
+      "Mundan: the age is a caste ladder, and the question about girls has an honest answer",
+    date: "2026-09-01",
+    updated: "1 September 2026",
+    tag: "How it works",
+    excerpt:
+      "Every page gives a different age because the underlying rule is graded by varna, not vague. And people keep asking whether girls have one, which turns out to have a real answer that nobody prints.",
+    body: [
+      {
+        p: "Look up the age for a mundan and you will be told the first year, or the third, or the fifth, or the seventh, or anywhere from six months to seven years, all with equal confidence.",
+      },
+      {
+        p: "The sources are not confused. The rule is: first or third year for a Brahmin child, fifth for a Kshatriya, seventh for a Vaishya. It is graded by varna, and what the listicles have done is average a ladder into a range.",
+      },
+      {
+        p: "Whether that ladder is a thing your family observes is a separate question and mostly the answer is no, people do it when it suits. But it is why the sources look like they disagree.",
+      },
+
+      { h: "What it is" },
+      {
+        p: "Chudakarana in Sanskrit, mundan across the Hindi belt, jawal in Marathi, choulam in Tamil, zarra-kaa-saai for Kashmiri Pandits. The child's first haircut, taken off completely, as one of the sixteen samskaras.",
+      },
+      {
+        p: "The reasoning given is that the hair a child is born with carries whatever it carried from before, and removing it starts the child clean. Practical explanations get offered too, about heat and about the hair growing back thicker, and the second one is not true, but the ceremony does not need it to be.",
+      },
+      {
+        p: "In Marathi practice the timing is given more usefully than anywhere else: nine to eighteen months, once the fontanelle has started to close. That is a real reason expressed as a rule.",
+      },
+
+      { h: "Where" },
+      {
+        p: "At home with a barber, at your kul devta temple, or at a pilgrimage site, and all three are normal.",
+      },
+      {
+        p: "Tirumala is the largest by a wide margin. There are separate kalyana-katta facilities for men, women and infants; you get a token with a room number and one fresh blade. The story behind it is Neela Devi, who covered a wound on Srinivasa's head with her own hair, and his promise that anyone offering theirs would be relieved of what they had accumulated.",
+      },
+      {
+        p: "A fact that sits oddly next to that, and is worth knowing anyway: Tirumala collected around 157 tonnes of hair in 2019 and sold it for about 1.6 million dollars. It is among the most valuable hair in the world for wigs, and Israeli rabbinical authorities have twice ruled it unusable for Jewish wigs precisely because of where it comes from.",
+      },
+      {
+        p: "Kashmiri Pandit practice, from one author writing his community's memory rather than a source we can generalise from: at Kheer Bhawani, Jwala Ji at Khrew or Hari Parbat, with a homa treated as essential and scissors rather than a razor for the first cut.",
+      },
+
+      { h: "Is mundan necessary for a baby girl" },
+      {
+        p: "This is the most asked question about the ceremony and the pages that rank for it do not answer it. The honest answer is in a comment thread on a parenting board, four women, opened in 2013 and still getting replies three years later.",
+      },
+      {
+        p: "The first one describes her own household. In some houses, she says, a boy's mundan is celebrated with huge pomp and show, and for a girl they do it at a nearby parlour.",
+      },
+      {
+        p: "A second woman says the same thing about her neighbours: they took a scissor and shaved her themselves at home, no puja, no proper ceremony, nothing.",
+      },
+      {
+        p: "A third replies that she is shocked, and that she has never heard of such a thing happening.",
+      },
+      {
+        p: "A fourth, a year later, tells the rest of them to stop complaining and just do it: if you have young female kids of age two and up, do their mundan with the same pomp, and others will follow.",
+      },
+      {
+        p: "So: the samskara is nominally for both, and in a lot of South Indian practice it plainly is for both, which is why Tirumala has infant facilities that both use. What is unequal is not the haircut. It is the ceremony and the money around it, in some households and not others, and there are women who have never seen it happen and women describing it in their own family.",
+      },
+      {
+        p: "All four of those are true at once and printing only one of them is how you lose a reader who lives in the other version.",
+      },
+
+      { h: "The hair" },
+      {
+        p: "Three disposals, all normal. Immersed in a river, Ganga most often, sometimes mixed with cow dung first. Buried, in earth or near a tree. Or offered at the kul devi's feet.",
+      },
+      {
+        p: "The Kashmiri version is the most specific we found: kept safely inside the house with walnuts, and immersed later at the right time, with some families carrying it to Gangabal.",
+      },
+
+      { h: "What to give" },
+      {
+        p: "Here is the finding, and we are printing it rather than hiding it. Every single result for mundan gift ideas is a shop. Jewellery storefronts, hamper sellers, Instagram sellers. There is no non-commercial source in the results at all.",
+      },
+      {
+        p: "Their convergent recommendation is silver: coins with a deity on them, bangles, anklets, a bowl and spoon set. Silver is genuinely traditional for an infant and that advice is not wrong. It is just the only advice available, from people selling silver.",
+      },
+      {
+        p: "What we can say from a non-commercial source runs the other way entirely. In Kashmiri Pandit practice the paternal aunt prepared the feast and received gifts, of rice and salt, rather than giving them. The direction of the giving is not universal.",
+      },
+      {
+        p: "Practically: ₹501 or ₹1,100 in an envelope for the child, or a small silver thing if you would rather give an object, and mithai either way. If the family is doing it at Tirumala or another temple, the travel is the expensive part and money is the more useful gift.",
+      },
+
+      { h: "Questions people ask" },
+      {
+        faq: [
+          {
+            q: "Is mundan necessary for a baby girl?",
+            a: "The samskara applies to both, and in much of South India it is straightforwardly done for both. What varies is the ceremony around it: women on parenting boards describe boys getting a full function and girls getting a parlour trip in the same household, while other women in the same thread say they have never seen that. Whether it happens depends on the family, not on the rule.",
+          },
+          {
+            q: "At what age should mundan be done?",
+            a: "The classical rule is graded: first or third year for Brahmins, fifth for Kshatriyas, seventh for Vaishyas, which is why every page gives a different number. In practice most families do it between one and three. Marathi practice gives the most useful version: nine to eighteen months, once the fontanelle has begun to close.",
+          },
+          {
+            q: "What do you give at a mundan?",
+            a: "₹501 or ₹1,100 in an envelope, or something small in silver. Worth knowing that every page recommending silver is a shop selling silver, and that there is no non-commercial guidance on this anywhere we could find.",
+          },
+          {
+            q: "What happens to the hair?",
+            a: "Immersed in a river, buried in earth or near a tree, or offered at the family deity's temple. Kashmiri Pandit families keep it in the house with walnuts and immerse it later. At Tirumala the temple keeps it, and sells it.",
+          },
+          {
+            q: "Does the hair really grow back thicker?",
+            a: "No. Shaving does not change the follicle, and regrowth looks thicker only because a blunt cut end is wider than a tapered tip. The ceremony does not need the claim to be true.",
+          },
+        ],
+      },
+    ],
+  },
+  {
     slug: "shagun-amounts-which-numbers",
     title:
       "Is ₹3,100 a shagun amount? The numbers people use, and the pattern underneath them",
