@@ -19,7 +19,10 @@ export const metadata: Metadata = {
   openGraph: {
     title: "A lifafa for you",
     description: "Someone has sent you a shagun ka lifafa. Tap to open it.",
+    type: "website",
   },
+  // Without this the card renders small and text-only in most clients.
+  twitter: { card: "summary_large_image" },
 };
 export const dynamic = "force-dynamic";
 

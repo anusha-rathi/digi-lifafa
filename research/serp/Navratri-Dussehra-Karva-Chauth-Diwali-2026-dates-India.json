@@ -1,0 +1,388 @@
+{
+  "search_metadata": {
+    "id": "6a9958410676dc22eebdf885",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fGrVNKUzUysHYkpSM1PsnAROkO0PKDJeQ3x9Goy0pzM/6a9958410676dc22eebdf885.json",
+    "markdown_endpoint": "https://serpapi.com/searches/fGrVNKUzUysHYkpSM1PsnAROkO0PKDJeQ3x9Goy0pzM/6a9958410676dc22eebdf885.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/fGrVNKUzUysHYkpSM1PsnAROkO0PKDJeQ3x9Goy0pzM/6a9958410676dc22eebdf885.json_with_pixel_position",
+    "created_at": "2026-09-03 11:21:37 UTC",
+    "processed_at": "2026-09-03 11:21:37 UTC",
+    "google_url": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&oq=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fGrVNKUzUysHYkpSM1PsnAROkO0PKDJeQ3x9Goy0pzM/6a9958410676dc22eebdf885.html",
+    "total_time_taken": 18.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Navratri Dussehra Karva Chauth Diwali 2026 dates India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Navratri Dussehra Karva Chauth Diwali 2026 dates India",
+    "total_results": 115,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the date of Dussehra and Diwali in 2026?",
+      "type": "ai_overview",
+      "page_token": "Z-B5l3icHdBJjptAAEBR5TK9bIOJHWHJikyboa2mLIoaoDZRDcbQFENM2Qy7XCFnyKn6NJ1k__UW_9cfXbX1x5ffpTH9sFutxnF8vnbdVV-eZdes-DC3ciW51oLLerf9trW_F3LvP6T3cpNegvueHKGFwo1BRB15AJt8YRQFBIhIV3w5fL00ow0p0OrFvotFHc-ZF6WNdrgPkzQ0ftxqc8nULBrXVuHUJRb414_IOazj9rSOA_chI1YpVP6kmTZ5SzZvuLZh0w951k9Cq5g5p7ugek6DgwG0XLPg5CDkFQxBJikpLlizv85wDg2P8cZiy-kdW68LqBmD1K0FAgS0cMCR7xDE6hSbGlhuKmwI2GzPsc28c6buMQY3v1QkpprnGdkC69W80X5SEUjUmiV88aCYuirBcJHvuiEBW3KH3UVYdjiDJg6HiVMdYsttcl3PlJYVTp4K-dg7T_9f738Ujdn1t-76Ca65jzo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z-B5l3icHdBJjptAAEBR5TK9bIOJHWHJikyboa2mLIoaoDZRDcbQFENM2Qy7XCFnyKn6NJ1k__UW_9cfXbX1x5ffpTH9sFutxnF8vnbdVV-eZdes-DC3ciW51oLLerf9trW_F3LvP6T3cpNegvueHKGFwo1BRB15AJt8YRQFBIhIV3w5fL00ow0p0OrFvotFHc-ZF6WNdrgPkzQ0ftxqc8nULBrXVuHUJRb414_IOazj9rSOA_chI1YpVP6kmTZ5SzZvuLZh0w951k9Cq5g5p7ugek6DgwG0XLPg5CDkFQxBJikpLlizv85wDg2P8cZiy-kdW68LqBmD1K0FAgS0cMCR7xDE6hSbGlhuKmwI2GzPsc28c6buMQY3v1QkpprnGdkC69W80X5SEUjUmiV88aCYuirBcJHvuiEBW3KH3UVYdjiDJg6HiVMdYsttcl3PlJYVTp4K-dg7T_9f738Ujdn1t-76Ca65jzo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGF0ZSBvZiBEdXNzZWhyYSBhbmQgRGl3YWxpIGluIDIwMjY/IiwibGsiOiJHaTkzYUdGMElHbHpJSFJvWlNCa1lYUmxJRzltSUdSMWMzTmxhSEpoSUdGdVpDQmthWGRoYkdrZ2FXNGdNakF5TmciLCJicyI6ImMyMlB2d3ZDTUJDRmNjM2tKa2FGV3dRM2F3ZlJ5Y0VxRnNGVjE4T2s1TENra0tRdF92ZTI4VWRiZFg3di0tNGRreXc0SzNSQUZweVNJTkJKeUJLSWNtdWxNZ2lvQlVSVVlrcEFHc0lnWEc3Q0JaLVhmeGpSWmtTSFlUczI4MmZRU00tc0stcHVhLXFFaFVGbld2b2hIelN4ZnNkZXMyZlQyQUk1T0tJcEViWUtjNmNnTXo4VEozeDA4NVhycF9KYTVEMFh0dXJNcVYtd2tGU3RBMm1SUXlLdG93SlRXeHRqTFFnYjlaaHo5VldxZzZlajMzc0EiLCJpZCI6ImZjX1UxaVphdXo3Qi0tanF0c1B3ZlBrMFFvXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGF0ZSBvZiBEdXNzZWhyYSBhbmQgRGl3YWxpIGluIDIwMjY%2FIiwibGsiOiJHaTkzYUdGMElHbHpJSFJvWlNCa1lYUmxJRzltSUdSMWMzTmxhSEpoSUdGdVpDQmthWGRoYkdrZ2FXNGdNakF5TmciLCJicyI6ImMyMlB2d3ZDTUJDRmNjM2tKa2FGV3dRM2F3ZlJ5Y0VxRnNGVjE4T2s1TENra0tRdF92ZTI4VWRiZFg3di0tNGRreXc0SzNSQUZweVNJTkJKeUJLSWNtdWxNZ2lvQlVSVVlrcEFHc0lnWEc3Q0JaLVhmeGpSWmtTSFlUczI4MmZRU00tc0stcHVhLXFFaFVGbld2b2hIelN4ZnNkZXMyZlQyQUk1T0tJcEViWUtjNmNnTXo4VEozeDA4NVhycF9KYTVEMFh0dXJNcVYtd2tGU3RBMm1SUXlLdG93SlRXeHRqTFFnYjlaaHo5VldxZzZlajMzc0EiLCJpZCI6ImZjX1UxaVphdXo3Qi0tanF0c1B3ZlBrMFFvXzUifQ%3D%3D"
+    },
+    {
+      "question": "What are the 9 days of Navratri in 2026?",
+      "type": "ai_overview",
+      "page_token": "-vBxOHicHdBLboJAAIDh9DIuKw-10cQ0QQEhMoZhHjibBmbAkRkeVSvgrnfpqXqami7-9Zf83z_63Kjfl7u83brrajrt-_711LYnXbzytp5m17HhU55pnWdcrRZvC_O95Gv3K3A2n4ET464jW2ggH1YohYtkFwKGSEoU8LkWqvDkISPLTa49K9KsA5Xn5oRsIsoG7JtJRtUQ1TMrVvOAVBDROpwJP5wdkHok1jIgSDRAqVG4cl942MTWrCdbDbgZkqgSEikm8a7t4Ta8sq1TQjukz8qj7aAEswNFcsRV0CNbz9nDSXNT3iPdeYU_zMkOxsj3msRwDdAQNzaXdqQYLhCBrhQkojo7pmQBjOC2p90gdiAWFouzhwPzoT3HGD54pWtsizpDeHhaKaUe3KdHg1utxXVsAM1H7MkL6yclv6_tyf_P9UdZ31bdpT39AYhdguE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-vBxOHicHdBLboJAAIDh9DIuKw-10cQ0QQEhMoZhHjibBmbAkRkeVSvgrnfpqXqami7-9Zf83z_63Kjfl7u83brrajrt-_711LYnXbzytp5m17HhU55pnWdcrRZvC_O95Gv3K3A2n4ET464jW2ggH1YohYtkFwKGSEoU8LkWqvDkISPLTa49K9KsA5Xn5oRsIsoG7JtJRtUQ1TMrVvOAVBDROpwJP5wdkHok1jIgSDRAqVG4cl942MTWrCdbDbgZkqgSEikm8a7t4Ta8sq1TQjukz8qj7aAEswNFcsRV0CNbz9nDSXNT3iPdeYU_zMkOxsj3msRwDdAQNzaXdqQYLhCBrhQkojo7pmQBjOC2p90gdiAWFouzhwPzoT3HGD54pWtsizpDeHhaKaUe3KdHg1utxXVsAM1H7MkL6yclv6_tyf_P9UdZ31bdpT39AYhdguE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDkgZGF5cyBvZiBOYXZyYXRyaSBpbiAyMDI2PyIsImxrIjoiR2hjNUlHUmhlWE1nYjJZZ2JtRjJjbUYwY21rZ01qQXlOZyIsImJzIjoiYzIyUHZ3dkNNQkNGY2Mza0prYUZXd1EzYXdmUnljRXFGc0ZWMThPazVMQ2trS1F0X3ZlMjhVZGJkWDd2LS00ZGt5dzRLM1JBRnB5U0lOQkp5QktJY211bE1naW9CVVJVWWtwQUdzSWdYRzdDQlotWGZ4alJaa1NIWVRzMjgyZlFTTS1zSy1wdWEtcUVoVUZuV3ZvaEh6U3hmc2RlczJmVDJBSTVPS0lwRWJZS2M2Y2dNejhUSjN4MDg1WHJwX0phNUQwWHR1ck1xVi13a0ZTdEEybVJReUt0b3dKVFd4dGpMUWdiOVpoejlWV3FnNmVqMzNzQSIsImlkIjoiZmNfVTFpWmF1ejdCLS1qcXRzUHdmUGswUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDkgZGF5cyBvZiBOYXZyYXRyaSBpbiAyMDI2PyIsImxrIjoiR2hjNUlHUmhlWE1nYjJZZ2JtRjJjbUYwY21rZ01qQXlOZyIsImJzIjoiYzIyUHZ3dkNNQkNGY2Mza0prYUZXd1EzYXdmUnljRXFGc0ZWMThPazVMQ2trS1F0X3ZlMjhVZGJkWDd2LS00ZGt5dzRLM1JBRnB5U0lOQkp5QktJY211bE1naW9CVVJVWWtwQUdzSWdYRzdDQlotWGZ4alJaa1NIWVRzMjgyZlFTTS1zSy1wdWEtcUVoVUZuV3ZvaEh6U3hmc2RlczJmVDJBSTVPS0lwRWJZS2M2Y2dNejhUSjN4MDg1WHJwX0phNUQwWHR1ck1xVi13a0ZTdEEybVJReUt0b3dKVFd4dGpMUWdiOVpoejlWV3FnNmVqMzNzQSIsImlkIjoiZmNfVTFpWmF1ejdCLS1qcXRzUHdmUGswUW9fNSJ9"
+    },
+    {
+      "question": "Is it Karwa Chauth or Diwali in 2026?",
+      "type": "ai_overview",
+      "page_token": "sNoc_HicHdBRboIwGADg7DI-SgF1mYlZVgWdGSWW_m3tywIFBanAhAjytrvsVDvNkn1H-L5_TFGVv08y77qmXVpW3_fTc12fTTbV9dWK20elLR0bk8S6XC6eF_brSa-8tsfruscHaBq-oShCB5tdaSGdlLMNDOm4F9THkl3oGPlmFvtvs2hHu4zzQTAyBo5tUyBhJBvQiO9hzCEQeZ4x9RX4FCcezBnKUbZt1pGgdQK1C9CF2fXoxF4ewqg4QVQx-T7AJvVS6LuE4TJkWFFJDLsoyZgiTCiHoqH_ALU-lt5cb00vROvA6EW-DUPMmzyVtXsoUBdXPtI2dpXBt8D379tij-mOPEKhIm0AKdQOqcRDIEgOVVMJ8yKOFxpGLie0Inhy0veVO_kfW32ert2yudXnP1U9eQY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sNoc_HicHdBRboIwGADg7DI-SgF1mYlZVgWdGSWW_m3tywIFBanAhAjytrvsVDvNkn1H-L5_TFGVv08y77qmXVpW3_fTc12fTTbV9dWK20elLR0bk8S6XC6eF_brSa-8tsfruscHaBq-oShCB5tdaSGdlLMNDOm4F9THkl3oGPlmFvtvs2hHu4zzQTAyBo5tUyBhJBvQiO9hzCEQeZ4x9RX4FCcezBnKUbZt1pGgdQK1C9CF2fXoxF4ewqg4QVQx-T7AJvVS6LuE4TJkWFFJDLsoyZgiTCiHoqH_ALU-lt5cb00vROvA6EW-DUPMmzyVtXsoUBdXPtI2dpXBt8D379tij-mOPEKhIm0AKdQOqcRDIEgOVVMJ8yKOFxpGLie0Inhy0veVO_kfW32ert2yudXnP1U9eQY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiSXMgaXQgS2Fyd2EgQ2hhdXRoIG9yIERpd2FsaSBpbiAyMDI2PyIsImxrIjoiR2h0cllYSjNZU0JqYUdGMWRHZ2diM0lnWkdsM1lXeHBJREl3TWpZIiwiYnMiOiJjMjJQdnd2Q01CQ0ZjYzNrSmthRld3UTNhd2ZSeWNFcUZzRlYxOE9rNUxDa2tLUXRfdmUyOFVkYmRYN3YtLTRka3l3NEszUkFGcHlTSU5CSnlCS0ljbXVsTWdpb0JVUlVZa3BBR3NJZ1hHN0NCWi1YZnhqUlprU0hZVHMyODJmUVNNLXNLLXB1YS1xRWhVRm5Xdm9oSHpTeGZzZGVzMmZUMkFJNU9LSXBFYllLYzZjZ016OFRKM3gwODVYcnBfSmE1RDBYdHVyTXFWLXdrRlN0QTJtUlF5S3Rvd0pUV3h0akxRZ2I5Wmh6OVZXcWc2ZWozM3NBIiwiaWQiOiJmY19VMWlaYXV6N0ItLWpxdHNQd2ZQazBRb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiSXMgaXQgS2Fyd2EgQ2hhdXRoIG9yIERpd2FsaSBpbiAyMDI2PyIsImxrIjoiR2h0cllYSjNZU0JqYUdGMWRHZ2diM0lnWkdsM1lXeHBJREl3TWpZIiwiYnMiOiJjMjJQdnd2Q01CQ0ZjYzNrSmthRld3UTNhd2ZSeWNFcUZzRlYxOE9rNUxDa2tLUXRfdmUyOFVkYmRYN3YtLTRka3l3NEszUkFGcHlTSU5CSnlCS0ljbXVsTWdpb0JVUlVZa3BBR3NJZ1hHN0NCWi1YZnhqUlprU0hZVHMyODJmUVNNLXNLLXB1YS1xRWhVRm5Xdm9oSHpTeGZzZGVzMmZUMkFJNU9LSXBFYllLYzZjZ016OFRKM3gwODVYcnBfSmE1RDBYdHVyTXFWLXdrRlN0QTJtUlF5S3Rvd0pUV3h0akxRZ2I5Wmh6OVZXcWc2ZWozM3NBIiwiaWQiOiJmY19VMWlaYXV6N0ItLWpxdHNQd2ZQazBRb181In0%3D"
+    },
+    {
+      "question": "What are the dates for Hindu festivals in India in 2026?",
+      "type": "ai_overview",
+      "page_token": "0Jua7XicHdDBboIwAIDh7GU8Kohx0cQs6aQKkxJKW7GXpRYQQylFmAi3vcueak8zs-N_-pL_-0dddfn7khRdZ9r1bNb3_fRS1xeVTWVdzUQ7aDmTQqmzkOV6-bq033K5cdsevNc9iKgxbIstsqU2ViqJ9zAM90Upttyku0LgkrvUbbtgB_vzHjchlQ7S6AMT1GSluQeE-8nIPURXI4WrgbiwJKM3YAigtHlMHMCZSmG88xdnipSgikWq7mKWsiApH4iBISg9i2r_IazCwy5cIAK-8NPCR7YMaHciOu2OVerElRwJNHPq-g2aRzG06UMwU6RJ7URXqxMaWtIGDlfgFkB43119gPdoCI885ho6nJnq2fkh4X0GQUP0qT9qeMioNWTK4Eku7xtn8n9s85lX3drc6ssfMi16OQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0Jua7XicHdDBboIwAIDh7GU8Kohx0cQs6aQKkxJKW7GXpRYQQylFmAi3vcueak8zs-N_-pL_-0dddfn7khRdZ9r1bNb3_fRS1xeVTWVdzUQ7aDmTQqmzkOV6-bq033K5cdsevNc9iKgxbIstsqU2ViqJ9zAM90Upttyku0LgkrvUbbtgB_vzHjchlQ7S6AMT1GSluQeE-8nIPURXI4WrgbiwJKM3YAigtHlMHMCZSmG88xdnipSgikWq7mKWsiApH4iBISg9i2r_IazCwy5cIAK-8NPCR7YMaHciOu2OVerElRwJNHPq-g2aRzG06UMwU6RJ7URXqxMaWtIGDlfgFkB43119gPdoCI885ho6nJnq2fkh4X0GQUP0qT9qeMioNWTK4Eku7xtn8n9s85lX3drc6ssfMi16OQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGRhdGVzIGZvciBIaW5kdSBmZXN0aXZhbHMgaW4gSW5kaWEgaW4gMjAyNj8iLCJsayI6IkdocG9hVzVrZFNCbVpYTjBhWFpoYkhNZ01qQXlOaUJrWVhSbGN3IiwiYnMiOiJjMjJQdnd2Q01CQ0ZjYzNrSmthRld3UTNhd2ZSeWNFcUZzRlYxOE9rNUxDa2tLUXRfdmUyOFVkYmRYN3YtLTRka3l3NEszUkFGcHlTSU5CSnlCS0ljbXVsTWdpb0JVUlVZa3BBR3NJZ1hHN0NCWi1YZnhqUlprU0hZVHMyODJmUVNNLXNLLXB1YS1xRWhVRm5Xdm9oSHpTeGZzZGVzMmZUMkFJNU9LSXBFYllLYzZjZ016OFRKM3gwODVYcnBfSmE1RDBYdHVyTXFWLXdrRlN0QTJtUlF5S3Rvd0pUV3h0akxRZ2I5Wmh6OVZXcWc2ZWozM3NBIiwiaWQiOiJmY19VMWlaYXV6N0ItLWpxdHNQd2ZQazBRb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2EzbHNRMTlUZDBKcFUzQjRPRzVGYVVwWGRXbFJlRU41YjBkaFEyWXpZMGRXVldKcE0yVTRkekZYWkRKQ0xWWlZXV0pNTjNCVk1tUTRTVTUyU0dVMU5XbzJWWFoxWmtOTFVsUlhSVVY1ZDBSVFJUTkpXSEUzVWxBelp4SVhWVEZwV21GMWVqZENMUzFxY1hSelVIZG1VR3N3VVc4YUlrRkVjM0k1WmxSZlpHWlpUa3QxYzFaaFNYWTVPRXQzUVRselVGbDNOSFJ4TldjIiwiZmN2IjoiMyIsImVpIjoiVTFpWmF1ejdCLS1qcXRzUHdmUGswUW8iLCJxYyI6IkNqWnVZWFp5WVhSeWFTQmtkWE56WldoeVlTQnJZWEoyWVNCamFHRjFkR2dnWkdsM1lXeHBJREl3TWpZZ1pHRjBaWE1nYVc1a2FXRVFBSDBDRXdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGRhdGVzIGZvciBIaW5kdSBmZXN0aXZhbHMgaW4gSW5kaWEgaW4gMjAyNj8iLCJsayI6IkdocG9hVzVrZFNCbVpYTjBhWFpoYkhNZ01qQXlOaUJrWVhSbGN3IiwiYnMiOiJjMjJQdnd2Q01CQ0ZjYzNrSmthRld3UTNhd2ZSeWNFcUZzRlYxOE9rNUxDa2tLUXRfdmUyOFVkYmRYN3YtLTRka3l3NEszUkFGcHlTSU5CSnlCS0ljbXVsTWdpb0JVUlVZa3BBR3NJZ1hHN0NCWi1YZnhqUlprU0hZVHMyODJmUVNNLXNLLXB1YS1xRWhVRm5Xdm9oSHpTeGZzZGVzMmZUMkFJNU9LSXBFYllLYzZjZ016OFRKM3gwODVYcnBfSmE1RDBYdHVyTXFWLXdrRlN0QTJtUlF5S3Rvd0pUV3h0akxRZ2I5Wmh6OVZXcWc2ZWozM3NBIiwiaWQiOiJmY19VMWlaYXV6N0ItLWpxdHNQd2ZQazBRb181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "B7Ia9XiczVbddqo4FH6AeY7Dja2C1apdi3VWEilFazVS29obVhowoPwoQam9mxeZq3mqeZoDKB5ssed0LmZNLkyys3-T_fH559-u4y_--eMvO4qW_KpWi-O4yoKAuVaVBl6N8K1Pa7PA5SG1v9uubPkCD9YhtRxTpnYYeJbAXNnxhe1GvhAol0XBcuSJ5DyT9VsLnp_PVxEfxbPRQsSBkLmTjRfCrXkS7XXOa0Yt-Vl8u-gmmyqvWr6hwup4WG8vRHH62qDVuih1qsMa8RId8N8NjICazj2Asr3yUQWVSj8OxlI9vSBRAN4fHURJMJzI4S4axKecKQho6ewkupmgPTA8NU4csNzl4GQmveJmsKtMU3cRtSRH-DvlHGpIB_pZAzute-qi9ibX-V4tnKETnrB2nGZyr6wNBsmV5gkU7k5hxbyU9ASyLJ0hG9Au1ZxPs4bJJb9pykI7nc5uaGDS0Be5Fe9ioNVMlnSsWHsJk0mqOdSm2SLkaSOj-44Y3PTt2NrQ-dtAbZDOnU67Y63pL3lEN6xGXxI9NyCmZRq2IX7P9lJdaoqdi1b7LAMR5QcU8SKKlthtq30HTPS4eluFUo4fBHbN8-GlEcyKLRn2XrWsNZyfUnx4Ypa95n6jHKxRF6brwnX3k1uK08U0v7cGACOgFVsf525O4KeolOEH9Pcak10yu-oKhSoAaXm8o2JuSgrE77U0rZtbxviodeD7Fh-DfmqeBzv6dmmZegCzdG0Yj3GeQtFnmvaxU5TaaQDnFefa2v60gJ9EJ21-BcxTo14aDKVhDyWN94o62EvzoZR-e_QkyDX-FC2nBvodK5wD5V3fF_FyTf0xO5_D1cWMk8fuPVqINo_GkbOag3J8BN7L12iG_q9AtCMhZU9CEKilIBLTxa9AxJjyKQll65yEdiCCk5MgQqichG5KSOg9iHpFEFH2KQl9GUTsMxDllFUKousyEOknQJSTUAFEdhsXSEgpJaEDiL5OQuq_JKEMU9ZuOmak9ZydZCb1KVz2pPZ2MH3u9SzozZdmaxn3NHS5Bb9kppkXXXnEdM8Mx7yC9V60Nc-MRBBcWaawku_IJiRR6FS6a84tOySVPgk3pIJsso7sSteJietU6mL9smKSyOIVzTcdInhuGMgiabG-YnjDKGojqwNJ3FeI9LKIwrvpeWSBzeCt4c4DKkJqtLYXMzGedZCOF0OFbBb3aGk6j-jyATsPS309Go0h1G_9tuFvZ9vXtz5H5s3ClLxht-WOnqWH2Oh7094qOm-2uKYO24Fu3I4n1kqP6F0g4mav_4TNjZ9lxuUJHc82fhs2nmLBC6mcvFWDgTsMHhmgAE2Tf5QMTEiQzDHA6iXAChQ4JYbFN3Kn0TGbYr3VMcXG5azZFDwWbZdyQxK4H8rSD4CpTLY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=B7Ia9XiczVbddqo4FH6AeY7Dja2C1apdi3VWEilFazVS29obVhowoPwoQam9mxeZq3mqeZoDKB5ssed0LmZNLkyys3-T_fH559-u4y_--eMvO4qW_KpWi-O4yoKAuVaVBl6N8K1Pa7PA5SG1v9uubPkCD9YhtRxTpnYYeJbAXNnxhe1GvhAol0XBcuSJ5DyT9VsLnp_PVxEfxbPRQsSBkLmTjRfCrXkS7XXOa0Yt-Vl8u-gmmyqvWr6hwup4WG8vRHH62qDVuih1qsMa8RId8N8NjICazj2Asr3yUQWVSj8OxlI9vSBRAN4fHURJMJzI4S4axKecKQho6ewkupmgPTA8NU4csNzl4GQmveJmsKtMU3cRtSRH-DvlHGpIB_pZAzute-qi9ibX-V4tnKETnrB2nGZyr6wNBsmV5gkU7k5hxbyU9ASyLJ0hG9Au1ZxPs4bJJb9pykI7nc5uaGDS0Be5Fe9ioNVMlnSsWHsJk0mqOdSm2SLkaSOj-44Y3PTt2NrQ-dtAbZDOnU67Y63pL3lEN6xGXxI9NyCmZRq2IX7P9lJdaoqdi1b7LAMR5QcU8SKKlthtq30HTPS4eluFUo4fBHbN8-GlEcyKLRn2XrWsNZyfUnx4Ypa95n6jHKxRF6brwnX3k1uK08U0v7cGACOgFVsf525O4KeolOEH9Pcak10yu-oKhSoAaXm8o2JuSgrE77U0rZtbxviodeD7Fh-DfmqeBzv6dmmZegCzdG0Yj3GeQtFnmvaxU5TaaQDnFefa2v60gJ9EJ21-BcxTo14aDKVhDyWN94o62EvzoZR-e_QkyDX-FC2nBvodK5wD5V3fF_FyTf0xO5_D1cWMk8fuPVqINo_GkbOag3J8BN7L12iG_q9AtCMhZU9CEKilIBLTxa9AxJjyKQll65yEdiCCk5MgQqichG5KSOg9iHpFEFH2KQl9GUTsMxDllFUKousyEOknQJSTUAFEdhsXSEgpJaEDiL5OQuq_JKEMU9ZuOmak9ZydZCb1KVz2pPZ2MH3u9SzozZdmaxn3NHS5Bb9kppkXXXnEdM8Mx7yC9V60Nc-MRBBcWaawku_IJiRR6FS6a84tOySVPgk3pIJsso7sSteJietU6mL9smKSyOIVzTcdInhuGMgiabG-YnjDKGojqwNJ3FeI9LKIwrvpeWSBzeCt4c4DKkJqtLYXMzGedZCOF0OFbBb3aGk6j-jyATsPS309Go0h1G_9tuFvZ9vXtz5H5s3ClLxht-WOnqWH2Oh7094qOm-2uKYO24Fu3I4n1kqP6F0g4mav_4TNjZ9lxuUJHc82fhs2nmLBC6mcvFWDgTsMHhmgAE2Tf5QMTEiQzDHA6iXAChQ4JYbFN3Kn0TGbYr3VMcXG5azZFDwWbZdyQxK4H8rSD4CpTLY"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Upcoming Festivals 2026 Check the complete list of major ...",
+      "link": "https://www.google.com/goto?url=CAESywEB6zswFS6M0dHDn35XnYXUQpr0re2vwfL0wPPuRs7yEfw4nTN9YyFJgCNHKNaiU0XhBcB5hHvZADB7C7HoIlyy8EiNfqzVKj00nxjdRuETlWoXhR_fRXjqQfg_OJy1-01GGIdKeByrFswaBqHorDjTBkNQipDqolAkaMyvK8LwEHpEnVOdqwUKo9778ZRLvVwsyLE288DMiTOQ0jolYn3_mxzHvoJJlpv213xhpQvmgw5gKphvj-roXBnOGYmHUjTx3lvEWDE3GF_lJw",
+      "displayed_link": "130+ reactions · 1 week ago",
+      "thumbnail": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkQIawQAlwpmm_32VcW6a3Nc.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+      "snippet": "Check the complete list of major festivals from August to November 2026, Navratri 2026, Dussehra 2026, Karwa Chauth 2026, Karwa Chauth 2025. ...",
+      "duration": "0:07",
+      "about_this_result": {
+        "source": {
+          "description": "Check the complete list of major festivals from August to November 2026, Navratri 2026, Dussehra 2026, Karwa Chauth 2026, Karwa Chauth 2025. ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESywEB6zswFS6M0dHDn35XnYXUQpr0re2vwfL0wPPuRs7yEfw4nTN9YyFJgCNHKNaiU0XhBcB5hHvZADB7C7HoIlyy8EiNfqzVKj00nxjdRuETlWoXhR_fRXjqQfg_OJy1-01GGIdKeByrFswaBqHorDjTBkNQipDqolAkaMyvK8LwEHpEnVOdqwUKo9778ZRLvVwsyLE288DMiTOQ0jolYn3_mxzHvoJJlpv213xhpQvmgw5gKphvj-roXBnOGYmHUjTx3lvEWDE3GF_lJw&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESywEB6zswFS6M0dHDn35XnYXUQpr0re2vwfL0wPPuRs7yEfw4nTN9YyFJgCNHKNaiU0XhBcB5hHvZADB7C7HoIlyy8EiNfqzVKj00nxjdRuETlWoXhR_fRXjqQfg_OJy1-01GGIdKeByrFswaBqHorDjTBkNQipDqolAkaMyvK8LwEHpEnVOdqwUKo9778ZRLvVwsyLE288DMiTOQ0jolYn3_mxzHvoJJlpv213xhpQvmgw5gKphvj-roXBnOGYmHUjTx3lvEWDE3GF_lJw",
+      "source": "Facebook · ManMohak Jaipur"
+    },
+    {
+      "position": 2,
+      "title": "Indian Festive Calendar 2026",
+      "link": "https://daanyaa.com/indian-festive-calendar-2026/?srsltid\\u003dAfmBOooglzNPHzfliEJMecvt_aWZd12AFZQmSgcRwxW7MvBmHhA1scvr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFXr9D71fqygiei91kmXnOW21YtfKzMz1paBApz9ziIJtx6Qa6Q0q0pjbyVJ4Q1mYoj3lTKUyeH2oFqsH5w0b8idMocc2FCfdXg2uqb76qniH6lEpk2Ns4XFk6LY8qgVln7IyOVh3bDf3beScTA0hH8efotpOkjoiXPTUh8rzrCSPdW0rLsuMUtDpLGz0foDmu8WyU4BFvtT4OMrM32XHs1JgTAoV0g&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://daanyaa.com › indian-festive-calendar-2026",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEwREAx6dVl0b1SNh2eTjWuSjGp6dVmGgWKTjWuOiGdpZEyNh2aTjWuOiGeTjWt3claOiGeHgWFzblSFgGGSjGqMhmZbV0InJRyPiWhzblSDfV-Ri2lva1GTjWtKRzWTjWuTjWsU3LBEAAAAInRSTlMABlVsFez3jSH_oCqr5tSyO8ZUSb3fmB4P51qweHdBOi9H_-6gawAAAMpJREFUeAHtkNUBwzAQQ822wsxJ0_2HLF0huEH1Y3g6ZEtxITk7kZLaWHXMnDWA8dwR8wMgjIDY37MkBaIsL4A02bI8AoqE4qMNTUog8F-VvS31U5iqpntTGaT1j3EP8JrPq3m8Kv6FWbvy1ina_GsNYDq2UGbg8U-nJfpmCZv019MACLZSBwxvX4_S0ZVzTpsMUTWfOQJFnciRGlExCupwKmHJdmkRUzKLaCYYYuRryEeU0-t21ZB7GP7hF85enBP0q3ggKOJqZuwOPVAS8gv8iv4AAAAASUVORK5CYII.png",
+      "snippet": "Tuesday, October 20, 2026 – Dussehra, Sharad Navratri. Thursday, October 29, 2026 – Karva Chauth: Married women fast from sunrise to moonrise. First day of ...",
+      "snippet_highlighted_words": [
+        "Tuesday, October 20, 2026 – Dussehra, Sharad Navratri"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Tuesday, October 20, 2026 – Dussehra, Sharad Navratri. Thursday, October 29, 2026 – Karva Chauth: Married women fast from sunrise to moonrise. First day of  ...",
+          "source_info_link": "https://daanyaa.com/indian-festive-calendar-2026/?srsltid=AfmBOooglzNPHzfliEJMecvt_aWZd12AFZQmSgcRwxW7MvBmHhA1scvr",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEwREAx6dVl0b1SNh2eTjWuSjGp6dVmGgWKTjWuOiGdpZEyNh2aTjWuOiGeTjWt3claOiGeHgWFzblSFgGGSjGqMhmZbV0InJRyPiWhzblSDfV-Ri2lva1GTjWtKRzWTjWuTjWsU3LBEAAAAInRSTlMABlVsFez3jSH_oCqr5tSyO8ZUSb3fmB4P51qweHdBOi9H_-6gawAAAMpJREFUeAHtkNUBwzAQQ822wsxJ0_2HLF0huEH1Y3g6ZEtxITk7kZLaWHXMnDWA8dwR8wMgjIDY37MkBaIsL4A02bI8AoqE4qMNTUog8F-VvS31U5iqpntTGaT1j3EP8JrPq3m8Kv6FWbvy1ina_GsNYDq2UGbg8U-nJfpmCZv019MACLZSBwxvX4_S0ZVzTpsMUTWfOQJFnciRGlExCupwKmHJdmkRUzKLaCYYYuRryEeU0-t21ZB7GP7hF85enBP0q3ggKOJqZuwOPVAS8gv8iv4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://daanyaa.com/indian-festive-calendar-2026/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdaanyaa.com%2Findian-festive-calendar-2026%2F",
+      "source": "daanyaa"
+    },
+    {
+      "position": 3,
+      "title": "आने वाले प्रमुख त्योहार 2026 | 2026 Festival Calendar ...",
+      "link": "https://www.google.com/goto?url=CAESaQHrOzAVFa9Enl5mRKRIk51SGOWp6idaOOyM9EgAe4PJOtpZhUs5JNN5qH5jNMuid69A5RzuJiSgid4gHVWUG6-PJuhhYjgknsZG1ppGjAITLwvWIIzTXXk-53yzSaSuvHZzzLFm6R5-lQ",
+      "displayed_link": "1.3K+ likes · 3 weeks ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxR9Wqjv0kENvtDTrD3QC0JNglnJo_SPN6K_o_1DujIu7aH_FVhDWmVA&s",
+      "favicon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkbFf0YktxNcf0KISTwhpARs.png",
+      "snippet": "Dussehra – October 20 (Victory of good over evil) Karwa Chauth – October 29 (Festival of love and devotion) Diwali – November 8 (Festival of ...",
+      "duration": "0:08",
+      "about_this_result": {
+        "source": {
+          "description": "Dussehra – October 20 (Victory of good over evil) Karwa Chauth – October 29 (Festival of love and devotion) Diwali – November 8 (Festival of ...",
+          "icon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkQBGV2x7frPNd6dn7EZ555q3Zz9I3Uxg-siSot4OfHCL.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAVFa9Enl5mRKRIk51SGOWp6idaOOyM9EgAe4PJOtpZhUs5JNN5qH5jNMuid69A5RzuJiSgid4gHVWUG6-PJuhhYjgknsZG1ppGjAITLwvWIIzTXXk-53yzSaSuvHZzzLFm6R5-lQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAVFa9Enl5mRKRIk51SGOWp6idaOOyM9EgAe4PJOtpZhUs5JNN5qH5jNMuid69A5RzuJiSgid4gHVWUG6-PJuhhYjgknsZG1ppGjAITLwvWIIzTXXk-53yzSaSuvHZzzLFm6R5-lQ",
+      "source": "Instagram · exploree_with_suraj"
+    },
+    {
+      "position": 4,
+      "title": "2026 Karwa Chauth Vrat date and Puja timings for New ...",
+      "link": "https://www.drikpanchang.com/festivals/karwa-chauth/karwa-chauth-date-time.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFeuJv-9V8JvnCZknhHmC0fwZeg09vN09eTaBr0taqDsfvQxfxawY-Hfx7GuIfbhQP_OSwm2htyAr2Sz7U2a7NIvlugNni7fbukdITb4KjdoDZwux5LNAVwcQHy3ml4w_n-vbfOU6iXA0FARhwhdoVl9v8zhSnfu3zdE_MycrVQM61c8&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.drikpanchang.com › ... › Hindu Calendar",
+      "favicon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkS5oYsLMrqp3pWaGEnTiZyo.png",
+      "snippet": "This page provides you the most shubh, auspicious time for Karwa Chauth or Karva Chauth puja activities in the year 2026 for New Delhi, NCT, India.",
+      "snippet_highlighted_words": [
+        "Karwa Chauth",
+        "Karva Chauth",
+        "2026",
+        "India"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This page provides you the most shubh, auspicious time for Karwa Chauth or Karva Chauth puja activities in the year 2026 for New Delhi, NCT, India.",
+          "source_info_link": "https://www.drikpanchang.com/festivals/karwa-chauth/karwa-chauth-date-time.html",
+          "icon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkfvJwx9N4JByexJjELp7TN5CQhNQhpqKKp5IazHoNQyO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.drikpanchang.com/festivals/karwa-chauth/karwa-chauth-date-time.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.drikpanchang.com%2Ffestivals%2Fkarwa-chauth%2Fkarwa-chauth-date-time.html",
+      "source": "Drik Panchang"
+    },
+    {
+      "position": 5,
+      "title": "Hindu Festival & Vrat Calendar 2026: Dates & Significance",
+      "link": "https://www.devaastha.com/blogs/festivals/hindu-festival-vrat-calendar-2026?srsltid\\u003dAfmBOopAbchnRrpYJK_lEP0Xxj1W3W5OrFD5XMEZI9U6jPDiuAW9lC-y",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFUcVibd1ZVhkVxuO2Y-Nc5TXkK0ceoltbSg_1s9FlZBa1bBktp0i9Y19twffRTD-Ihha4ja87xXAmdVPUFiwz-3DbPxqZPZXB7om5sa2GQZFC1qdMed_GNuk5eM2svQJj4Z1fFRGp3hXZ2AUGDe6I2hOJy7LGhCBvppAcDuPn57gxJ9KPK5nVG_w2a-F-9PhKiDVfS-CaYUVe7naS7Trryg0e2CppwBwnNlA0zdsDH1kGXLVkAKqyiNbidvsir06Hg&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.devaastha.com › Festivals",
+      "favicon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkSncdPO2DWCPtKMSNhEqf3s.png",
+      "date": "8 Jul 2026",
+      "snippet": "Diwali 2026 falls on Sunday, 8 November, The big festive run is late August to mid-November: Navratri (11 Oct), Dussehra (20 Oct) and Diwali (8 ...",
+      "snippet_highlighted_words": [
+        "Diwali 2026",
+        "Navratri",
+        "Dussehra",
+        "Diwali"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Diwali 2026 falls on Sunday, 8 November, The big festive run is late August to mid-November: Navratri (11 Oct), Dussehra (20 Oct) and Diwali (8 ...",
+          "source_info_link": "https://www.devaastha.com/blogs/festivals/hindu-festival-vrat-calendar-2026?srsltid=AfmBOopAbchnRrpYJK_lEP0Xxj1W3W5OrFD5XMEZI9U6jPDiuAW9lC-y",
+          "icon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkXADWTRZriIU2INB4dB2t0QClDHJzpKWU254YC0qkJsO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.devaastha.com/blogs/festivals/hindu-festival-vrat-calendar-2026&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.devaastha.com%2Fblogs%2Ffestivals%2Fhindu-festival-vrat-calendar-2026",
+      "source": "Dev Aastha"
+    },
+    {
+      "position": 6,
+      "title": "List of Hindu Festivals in India 2026",
+      "link": "https://www.bankbazaar.com/indian-holiday/hindu-festivals-list.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVGBHsumCDOGTad7ZSaMXSVcJC0ky8wp7gcPt3t0qFCX6uFeS6XOS4gPON5LSDWzoOX7gv8dAW_iSMr2G4xtek-l3sZsb7nPEps15T1TewrfHqYuG1gRSn1U_aIzrOCf1h5qkE-Bg1GbDgzSAN8qDWgehlfs9LjQ&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.bankbazaar.com › Indian Holidays",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcExScf9Scf9Scf9Scf9Pb_9Qcf9Jbf8sWv9xiP88bP90edaMnv_f5P____-Dlv-GfsO-jof_oQKnh6ChhqZceP_KkXVjff9AZP9Xcuz3-f_TlmLL0v_pnTq1wP_b5EB-AAAABHRSTlMApfb6c66kKAAAANNJREFUeAGt0wMChUAQANAw2BbZuv8xf9O31eTeGp7nB-HDCPzF4Gn4Xvgcw78REQ5BeIOsoghBAjUavEK2Lk54zZZmecFXSGgPiGmel9cIWB0QdH2PzedISLfYti2vqDvTabrCxPUuagVNnucD3-Yc40SQOV1UX6BlAOV6JQiiHV2hPGhF0FNu8Bqh7ZsDZo9Qn_C2TkK31FkIThlf4KgQ1SytzTut00nDCZN5dDaZbauHLpvqLBM7IDXQVtaCtBhZI_PlSiACQqTtFtjLRf1yO-wAxn4WmS2QQ08AAAAASUVORK5CYII.png",
+      "snippet": "Top Hindu Festivals in India ; Tuesday. 20 October 2026. Dussehra, Sharad Navratri Parana ; Thursday. 29 October 2026. Karva Chauth ; Sunday. 25 October 2026.",
+      "snippet_highlighted_words": [
+        "Tuesday. 20 October 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Top Hindu Festivals in India ; Tuesday. 20 October 2026. Dussehra, Sharad Navratri Parana ; Thursday. 29 October 2026. Karva Chauth ; Sunday. 25 October 2026.",
+          "source_info_link": "https://www.bankbazaar.com/indian-holiday/hindu-festivals-list.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcExScf9Scf9Scf9Scf9Pb_9Qcf9Jbf8sWv9xiP88bP90edaMnv_f5P____-Dlv-GfsO-jof_oQKnh6ChhqZceP_KkXVjff9AZP9Xcuz3-f_TlmLL0v_pnTq1wP_b5EB-AAAABHRSTlMApfb6c66kKAAAANNJREFUeAGt0wMChUAQANAw2BbZuv8xf9O31eTeGp7nB-HDCPzF4Gn4Xvgcw78REQ5BeIOsoghBAjUavEK2Lk54zZZmecFXSGgPiGmel9cIWB0QdH2PzedISLfYti2vqDvTabrCxPUuagVNnucD3-Yc40SQOV1UX6BlAOV6JQiiHV2hPGhF0FNu8Bqh7ZsDZo9Qn_C2TkK31FkIThlf4KgQ1SytzTut00nDCZN5dDaZbauHLpvqLBM7IDXQVtaCtBhZI_PlSiACQqTtFtjLRf1yO-wAxn4WmS2QQ08AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.bankbazaar.com/indian-holiday/hindu-festivals-list.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bankbazaar.com%2Findian-holiday%2Fhindu-festivals-list.html",
+      "source": "BankBazaar",
+      "read_more_link": "https://www.google.com/goto?url=CAESnAIB6zswFTlxiZVZhmLCtbTRnFZFdygeRaXMyWOA7oYrOrg3E4BQFWpbpnT7zvR8ivVIvwpl0Yyd-IWCCv1Xzr2EDL9p2B7FCttx-F2frvUXo8dsKs3Ql3N1Yks7OhT8aj4Obhxu7BX6xanBm-i2o_vc7RCUmm0YtdurL-hnr-kuln8LrnBFWoya-k_T2GWRfxYNO0_FW4h1uEZBWYklUbRqjrzv2X5SrJWK2scZADRph16UNMvNKeuHEMnXOSgZwl8B2POz_T_e1T7cgDueDY7IF1Fcg5lL24MogV9fkKCGBrBwwGYjnVvGcv_XlG4b7AzX9fhtsQstvGwqh4OlbLG-ObxSH68FwTjlBWuDs1cHlLCU4k4kPWoYZiVGow"
+    },
+    {
+      "position": 7,
+      "title": "Navratri 2026: Dates, Colors, Puja Vidhi & Fashion Guide",
+      "link": "https://www.andaazfashion.com/blog/navratri-dates-colors-puja-vidhi-fashion-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFaJd2bVt5wmPlmYnCjW87RMYdwcDo5uTpf0OZXtyjm30mel1pFd49N1icfL0hKuX2bDFlxUUJ6BSyEg-9sNkCBURghny8cN27_l0LIpIC0SNIMZgfOXk12rdnIPWfSmXInBPDwV_iUDdN22qY3FO_i-IcT3nxp4Xinx5QzewKqhEu-u_GxA&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.andaazfashion.com › blog › navratri-dates-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX___91dXX___-KioqQkJDX19e9vb1HcEzg4OD6-vqurq6Li4toaGhJSUmVlZWSkpJeXl52dnZycnKjo6PKysqoqKi9vb26urrX19enp6d8fHyWlpabm5vIyMjW1tahoaFzc3Onp6dlZWU4ODivr6-ampoAAAD___9AQEAvLy9eXl4ICAhJSUkYGBj8_Pxvb2_y8vLT09MQEBBRUVHAwMCrq6slJSWEhITb29vq6urj4-M5OTkfHx-0tLR7e3ujo6OdnZ3JyckzBrNhAAAAJnRSTlMBtgXX_jpgAA4VX7r-3zxk3-bSsjrSwTuDg1pa54M8-9zn5-PBwZ4xcSwAAAGFSURBVCiRZZPndsIwDIXFSJwwWzZ0QJflmEwSKKsE3v-l6sQWdOiHI-mT7vFQAEpjzBlPK69SvjanA4cxuJlC3Z7HOT8u1XLodd0bZtCpbHhh-an8eJUOGMqqs3aZ40G81c7y7qHKdN_sTad4PQyloe2Hspd1TB_nCWLGqXesIHMrxE67GPcHE6yaLgPW9Qhe8gjDNUWiwcDpUdTaSh5icq2tOTAgHb7OPJ5j_ElxasGUfD9RaT_Er4D29ARNgvWLr06a4U5S5h3ujedlefGJEOsEH6FlNOQ-LWsSTARpQWSO9YUhFqbW6AqNrNiZlNzjJSDZD-2ct_wqgb52R_CkndvxTjHqWwomYJVln_GSoNpSqG_MAqdWFO1IVVmGunXoAGuIVbRHPPu616vHas9ZyqWtXsVtHoUvRCoMTIUyX2z6bvGg4wX_b6vaczkJ0Lhb_WXBwtYjxqqNRfCbbWp2lcYPBv30J5P9Z7gNLnPtYetouqKh7f6deWsyepnPX0YT6_o7fAO9L2CToAVEpQAAAABJRU5ErkJggg.png",
+      "date": "10 Jul 2026",
+      "snippet": "A: Dussehra (Vijayadashami) 2026 falls on Tuesday, 20 October 2026 — the day after Maha Navami. It celebrates Lord Rama's victory over Ravana ...",
+      "snippet_highlighted_words": [
+        "Tuesday, 20 October 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A: Dussehra (Vijayadashami) 2026 falls on Tuesday, 20 October 2026 — the day after Maha Navami. It celebrates Lord Rama's victory over Ravana ...",
+          "source_info_link": "https://www.andaazfashion.com/blog/navratri-dates-colors-puja-vidhi-fashion-guide/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX___91dXX___-KioqQkJDX19e9vb1HcEzg4OD6-vqurq6Li4toaGhJSUmVlZWSkpJeXl52dnZycnKjo6PKysqoqKi9vb26urrX19enp6d8fHyWlpabm5vIyMjW1tahoaFzc3Onp6dlZWU4ODivr6-ampoAAAD___9AQEAvLy9eXl4ICAhJSUkYGBj8_Pxvb2_y8vLT09MQEBBRUVHAwMCrq6slJSWEhITb29vq6urj4-M5OTkfHx-0tLR7e3ujo6OdnZ3JyckzBrNhAAAAJnRSTlMBtgXX_jpgAA4VX7r-3zxk3-bSsjrSwTuDg1pa54M8-9zn5-PBwZ4xcSwAAAGFSURBVCiRZZPndsIwDIXFSJwwWzZ0QJflmEwSKKsE3v-l6sQWdOiHI-mT7vFQAEpjzBlPK69SvjanA4cxuJlC3Z7HOT8u1XLodd0bZtCpbHhh-an8eJUOGMqqs3aZ40G81c7y7qHKdN_sTad4PQyloe2Hspd1TB_nCWLGqXesIHMrxE67GPcHE6yaLgPW9Qhe8gjDNUWiwcDpUdTaSh5icq2tOTAgHb7OPJ5j_ElxasGUfD9RaT_Er4D29ARNgvWLr06a4U5S5h3ujedlefGJEOsEH6FlNOQ-LWsSTARpQWSO9YUhFqbW6AqNrNiZlNzjJSDZD-2ct_wqgb52R_CkndvxTjHqWwomYJVln_GSoNpSqG_MAqdWFO1IVVmGunXoAGuIVbRHPPu616vHas9ZyqWtXsVtHoUvRCoMTIUyX2z6bvGg4wX_b6vaczkJ0Lhb_WXBwtYjxqqNRfCbbWp2lcYPBv30J5P9Z7gNLnPtYetouqKh7f6deWsyepnPX0YT6_o7fAO9L2CToAVEpQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.andaazfashion.com/blog/navratri-dates-colors-puja-vidhi-fashion-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.andaazfashion.com%2Fblog%2Fnavratri-dates-colors-puja-vidhi-fashion-guide%2F",
+      "source": "Andaaz Fashion",
+      "read_more_link": "https://www.google.com/goto?url=CAES7wEB6zswFbMhlYt1Uqfv5Fsncxx5cAX-gYZxiR36OZKqIykoSP1p4GyIIIKamjnyKVLR1V7U46xFUInR69M39Yjb5PDcYbRsq0g1tQ5TPa_dYU8khRqDyVurRkzz5DPkQzykSFu3iAnlKeCJ38FrzBZBDt3Gv1ZkTKr67bs5exv9PSjJovJhB5Sg5fWFZLmnAbZJ9QeZSbL4s8Ks6Qeghuy_UzGKzN0L0tqpUL9ojvl_gq61YxKddYErm_dqJWxYabGb_vRG3zrJF_irzPDKee7MFPkahh3Oj2Xcz1ymV-MR7w5LD4FlsibU5oygo9Lw9g"
+    },
+    {
+      "position": 8,
+      "title": "Holiday Calendar",
+      "link": "https://www.india.gov.in/calendar?date\\u003d2026-11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV1uzxe-Ttv3LGDMrGc05V28GhnNPDo3tPZIx0OXxVBzazDDtB-uyUTDxmufQjwqJxAyI-CHlPMTmbyrhY28WDtKk0MxDOcW1b0WC-R8q9X-z5XlvHL9LSi_bhpQ0i-t49_Q&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.india.gov.in › calendar › date=2026-11",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAApElEQVR4AWP4lKFOUzQSLBi14GMosehrDMO3ODYgAjKI18Xwn2hw-OKNZdv2AtHVR8-J10WsBQtXbdx78MizZy8uX7m-YesuIJuaFgDNBRp6-MjJptYJQAS0Y_aS1d9__KCaBSfOXgSaDjRU0cLdNSgBaBkQvf_wkeY-GBpxgAAXLlzfsmUvED188IyEVMRQrkosqjeCIxJ0MbU60xSNAAtGLQAAJepv_htvrdIAAAAASUVORK5CYII.png",
+      "snippet": "Dussehra (Mahashtami)(R). 19Dussehra (Mahanavmi)(R). 19Dussehra(G). 25Maharishi Valmiki's Birthday(R). 28Karaka Chaturthi (Karwa Chouth)(R). These holidays ...",
+      "snippet_highlighted_words": [
+        "Dussehra",
+        "Dussehra",
+        "Dussehra",
+        "Karwa"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dussehra (Mahashtami)(R). 19Dussehra (Mahanavmi)(R). 19Dussehra(G). 25Maharishi Valmiki's Birthday(R). 28Karaka Chaturthi (Karwa Chouth)(R). These holidays ...",
+          "source_info_link": "https://www.india.gov.in/calendar?date=2026-11",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAVCAIAAACor3u9AAAApElEQVR4AWP4lKFOUzQSLBi14GMosehrDMO3ODYgAjKI18Xwn2hw-OKNZdv2AtHVR8-J10WsBQtXbdx78MizZy8uX7m-YesuIJuaFgDNBRp6-MjJptYJQAS0Y_aS1d9__KCaBSfOXgSaDjRU0cLdNSgBaBkQvf_wkeY-GBpxgAAXLlzfsmUvED188IyEVMRQrkosqjeCIxJ0MbU60xSNAAtGLQAAJepv_htvrdIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.india.gov.in/calendar?date=2026-11&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.india.gov.in%2Fcalendar%3Fdate%3D2026-11",
+      "source": "National Portal of India",
+      "read_more_link": "https://www.google.com/goto?url=CAESwQEB6zswFc9akL4Nd5UhKakefnxyL4-VaBIflMjx8sM16Y0iiNfnrViNYKzsPxGy0Roonm3_JaE5HvleXdcQKlTmMHC13dqv5rjXr8ihQCnGYjZzWBz4bJSg0YNpV_QLNJxwQQIIUDBp-Z0LuqjvV4HOOkw9giAk3B5uq26xgOGpUA7UO5YPmuxGaxtGZYS4HpAvs3OrdteFY2ZPO0Sm7wsWTpq6QitjwPNosWMq5_Jrv0TyJ4UbVhZ3Rc9E6PKt-3lA"
+    },
+    {
+      "position": 9,
+      "title": "List of Major Festivals in 2026 . Diwali 2026, Christmas ...",
+      "link": "https://www.google.com/goto?url=CAESaQHrOzAV1OW7nUeYqRCT8kJ98HqpIa3qVCYY3TwfYapU5xLTT-oOIp5KxffZqbvQf18dHcgmbzQR0Z91yplx4fp61WrywJ3rtpmAne49JZO2t47PV3M-wAcsQsf_0azybM93FC8xqSu5uQ",
+      "displayed_link": "2.9K+ likes · 2 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_DlIJnF3y5YMwQnpPXCloCix6i07DWdBQPyCF9_2DDxGRsJAIkb_Gw&s",
+      "favicon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkV6XmEBiSaNlNqS6gXblryM.png",
+      "snippet": "Janmashtami — 4 September Ganesh Chaturthi — 14 September Navratri Begins 11 October Dussehra - 20 October Diwali - 8 November Govardhan Puja 10 ...",
+      "duration": "0:11",
+      "about_this_result": {
+        "source": {
+          "description": "Janmashtami — 4 September Ganesh Chaturthi — 14 September Navratri Begins 11 October Dussehra - 20 October Diwali - 8 November Govardhan Puja 10 ...",
+          "icon": "https://serpapi.com/searches/6a9958410676dc22eebdf885/images/YXg9RImvAVvjj4kJCR2zkRW0nWb0b_BIekEd7T9WN8YkvREyUWqkE9wVk2u5h37w.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESaQHrOzAV1OW7nUeYqRCT8kJ98HqpIa3qVCYY3TwfYapU5xLTT-oOIp5KxffZqbvQf18dHcgmbzQR0Z91yplx4fp61WrywJ3rtpmAne49JZO2t47PV3M-wAcsQsf_0azybM93FC8xqSu5uQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESaQHrOzAV1OW7nUeYqRCT8kJ98HqpIa3qVCYY3TwfYapU5xLTT-oOIp5KxffZqbvQf18dHcgmbzQR0Z91yplx4fp61WrywJ3rtpmAne49JZO2t47PV3M-wAcsQsf_0azybM93FC8xqSu5uQ",
+      "source": "Instagram · jaipur.waley_"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Navratri dussehra karva chauth diwali 2026 dates india time",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Navratri+dussehra+karva+chauth+diwali+2026+dates+india+time&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+dussehra+karva+chauth+diwali+2026+dates+india+time"
+    },
+    {
+      "block_position": 1,
+      "query": "Navratri dussehra karva chauth diwali 2026 dates india holiday",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Navratri+dussehra+karva+chauth+diwali+2026+dates+india+holiday&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+dussehra+karva+chauth+diwali+2026+dates+india+holiday"
+    },
+    {
+      "block_position": 1,
+      "query": "Navratri dussehra karva chauth diwali 2026 dates india august",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Navratri+dussehra+karva+chauth+diwali+2026+dates+india+august&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+dussehra+karva+chauth+diwali+2026+dates+india+august"
+    },
+    {
+      "block_position": 1,
+      "query": "Navratri 2026 Date October",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Navratri+2026+Date+October&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+2026+Date+October"
+    },
+    {
+      "block_position": 1,
+      "query": "Hindu Calendar 2026 with tithi in Hindi PDF",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Hindu+Calendar+2026+with+tithi+in+Hindi+PDF&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Hindu+Calendar+2026+with+tithi+in+Hindi+PDF"
+    },
+    {
+      "block_position": 1,
+      "query": "Karwa Chauth 2026",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Karwa+Chauth+2026&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Karwa+Chauth+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Dussehra 2026",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Dussehra+2026&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Dussehra+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Ganesh Chaturthi 2026",
+      "link": "https://www.google.com/search?sca_esv=949d50279d046f55&hl=en&gl=in&q=Ganesh+Chaturthi+2026&sa=X&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Ganesh+Chaturthi+2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=10&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8NMDegQIOhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=10&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=20&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=30&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=40&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=50&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAM",
+      "7": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=60&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAO",
+      "8": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=70&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAQ",
+      "9": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=80&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAS",
+      "10": "https://www.google.com/search?q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&sca_esv=949d50279d046f55&hl=en&gl=in&ei=U1iZauz7B--jqtsPwfPk0Qo&start=90&sa=N&sstk=AS6-VmIc-zGD9pv2UMnAozqJQnrlCZyIfqL7p7DuyHgbR4c3DeSZQPQXjSrOrG7mAnS8EE89RX3iCFfA84dLKyK5Q4ykbm6YaZYVew&ved=2ahUKEwis8enfpdKWAxXvkWoFHcE5OaoQ8tMDegQIOhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Navratri+Dussehra+Karva+Chauth+Diwali+2026+dates+India&start=90"
+    }
+  }
+}
