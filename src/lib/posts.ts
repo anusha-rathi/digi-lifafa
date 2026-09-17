@@ -140,6 +140,42 @@ export const POSTS: Post[] = [
       {
         p: "Take something consumable, ask before treating it as an offering, and do not confuse a modern lifafa with a religious requirement.",
       },
+      {
+        faq: [
+          {
+            q: "When is Gauri Pujan in 2026?",
+            a: "Gauri Avahan is Thursday, 17 September 2026; the main Gauri Pujan is Friday, 18 September; and Gauri Visarjan is Saturday, 19 September. Times Now Marathi and Lokmat Times report the same three-day sequence. Exact ritual times depend on the local panchang and family practice.",
+          },
+          {
+            q: "What is Gauri Pujan in Maharashtra?",
+            a: "It is a household festival during Ganeshotsav in which Gauri is welcomed, worshipped and given a farewell over three days. Maharashtra Tourism describes Gauri as a form of Parvati associated with prosperity, harmony and family well-being. The form of the deity and the rites vary across Maharashtra.",
+          },
+          {
+            q: "Who keeps Gauri at home?",
+            a: "Families that inherit or choose to follow the household tradition keep Gauri. There is no single Maharashtra-wide setup: Lokmat Times records idols, masks, pots and other forms, while Jio Institute documents a single metal face mask in Versova Koliwada and notes paired Gauris in parts of interior Maharashtra. Follow the practice of the household teaching you.",
+          },
+          {
+            q: "Can unmarried women or girls take part in Gauri Pujan?",
+            a: "The reliable sources used for this guide describe women as central to the worship but do not state a Maharashtra-wide ban on unmarried women or girls taking part. Haldi-kumkum invitations may be specifically for married women in some homes; that is not evidence that girls cannot help, pray or attend. For leading a family ritual, ask the elder or priest whose tradition the household follows.",
+          },
+          {
+            q: "What should I wear to Gauri Pujan or haldi-kumkum?",
+            a: "Traditional clothing is common, but the sources do not establish a compulsory colour, saree or dress code. Wear clean festive clothes you can sit and eat in. If the host has planned a colour or expects a particular form of dress, the invitation should say so; otherwise ask rather than trusting a shopping-page rule.",
+          },
+          {
+            q: "What food is offered as Gauri naivedya?",
+            a: "Puran poli, rice, dal, vegetables, bhakri and sweets are widely reported. Some families prepare sixteen items or vegetables; Jio Institute records modak and kheer among sixteen offerings in Versova Koli practice. Lokmat Times says directly that the number and dishes differ by family and region, so an online list should not override the household menu.",
+          },
+          {
+            q: "Must Gauri naivedya be made without onion and garlic?",
+            a: "Jio Institute records a vegetarian naivedya without onion and garlic in the Versova practice it documents. That cannot be turned into a rule for every Maharashtrian household: other reporting shows regional menus differ sharply. If food is being offered rather than merely gifted to the family, check the household's rule before buying or cooking it.",
+          },
+          {
+            q: "What is the etiquette when invited for haldi-kumkum?",
+            a: "Confirm the visiting window and whether the invitation includes aarti or a meal. A small consumable gift is safer than assuming a cash amount or bringing another object for the host to store. The exchange of haldi and kumkum and any return gift follow the host's custom; there is no useful universal tariff.",
+          },
+        ],
+      },
       { h: "Sources" },
       {
         ul: [
