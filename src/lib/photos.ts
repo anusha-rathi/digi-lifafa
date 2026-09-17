@@ -39,6 +39,27 @@ const LICENCE_URL: Record<Photo["licence"], string> = {
 export const licenceUrl = (l: Photo["licence"]) => LICENCE_URL[l];
 
 export const PHOTOS: Record<string, Photo> = {
+  gauriPujan: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gauri_puja.jpg/1280px-Gauri_puja.jpg",
+    alt: "A close view of decorated Gauri masks dressed in Maharashtrian sarees",
+    by: "Rahulshelke717",
+    licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Gauri_puja.jpg",
+  },
+  gauriHaldiKumkum: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Applying_Haldi_Kumkum_to_each_other.jpg/1280px-Applying_Haldi_Kumkum_to_each_other.jpg",
+    alt: "Two women applying haldi and kumkum during a Maharashtrian ceremony",
+    by: "आर्या जोशी",
+    licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Applying_Haldi_Kumkum_to_each_other.jpg",
+  },
+  maharashtrianPuranPoli: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Maharashtrian_Puran_Poli.jpg/1280px-Maharashtrian_Puran_Poli.jpg",
+    alt: "Maharashtrian puran poli served with ghee",
+    by: "Usha Nagle",
+    licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Maharashtrian_Puran_Poli.jpg",
+  },
   pookkalam: {
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Onam_Pookkalam_2024.jpg/1280px-Onam_Pookkalam_2024.jpg",
     alt: "A pookkalam, the circular carpet of flowers laid at the doorway during Onam",
