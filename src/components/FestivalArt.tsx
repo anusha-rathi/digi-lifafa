@@ -457,7 +457,77 @@ export function BaraArt({ className }: Props) {
   );
 }
 
+/** Gauri: two decorated kalash beside the small footprints of arrival. */
+export function GauriArt({ className }: Props) {
+  const kalash = (x: number, sari: string) => (
+    <g transform={`translate(${x} 0)`}>
+      <path
+        d="M-38 164 Q-47 120 -31 82 H31 Q47 120 38 164 Q0 183 -38 164Z"
+        fill={sari}
+      />
+      <path
+        d="M-28 91 Q0 104 28 91"
+        fill="none"
+        stroke="#f4dc8c"
+        strokeWidth="3"
+      />
+      <ellipse cx="0" cy="82" rx="33" ry="10" fill="#c9a227" />
+      <path
+        d="M-28 76 Q-42 48 -12 36 Q-4 57 0 76 M28 76 Q42 48 12 36 Q4 57 0 76"
+        fill="#0f6e5c"
+      />
+      <path d="M0 77 Q-13 47 0 25 Q13 47 0 77Z" fill="#2f9880" />
+      <ellipse cx="0" cy="68" rx="19" ry="24" fill="#b56c3e" />
+      <path
+        d="M-17 66 Q0 56 17 66"
+        fill="none"
+        stroke="#8a4327"
+        strokeWidth="2"
+      />
+      <circle cx="0" cy="43" r="4" fill="#c42b1c" />
+      <path
+        d="M-19 119 Q0 131 19 119 M-25 142 Q0 156 25 142"
+        fill="none"
+        stroke="#f0d67a"
+        strokeWidth="3"
+      />
+    </g>
+  );
+  return (
+    <svg
+      viewBox="0 0 320 220"
+      className={`${wrap} ${className ?? ""}`}
+      role="img"
+      aria-label="Two decorated Gauri kalash and footprints of welcome"
+    >
+      <rect width="320" height="220" fill="#f3ebdd" />
+      <path
+        d="M45 191 Q160 154 275 191"
+        fill="none"
+        stroke="#e8a33d"
+        strokeWidth="2"
+        strokeDasharray="4 6"
+      />
+      {kalash(111, "#7b1e2b")}
+      {kalash(209, "#0f6e5c")}
+      {[55, 78, 242, 265].map((x, i) => (
+        <g
+          key={x}
+          transform={`translate(${x} ${176 + (i % 2) * 9}) rotate(${i < 2 ? -18 : 18})`}
+          fill="#c42b1c"
+        >
+          <ellipse rx="6" ry="10" />
+          <circle cx="0" cy="-12" r="3" />
+        </g>
+      ))}
+      <circle cx="160" cy="194" r="12" fill="#e8b23a" />
+      <circle cx="160" cy="194" r="6" fill="#7b1e2b" />
+    </svg>
+  );
+}
+
 export const FESTIVAL_ART = {
+  gauri: GauriArt,
   pookkalam: PookkalamArt,
   rakhi: RakhiArt,
   modak: ModakArt,
