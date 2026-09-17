@@ -189,15 +189,6 @@ export const POSTS: Post[] = [
           },
         ],
       },
-      { h: "Sources" },
-      {
-        ul: [
-          "Maharashtra Tourism, “Gauri Aagman”: https://maharashtratourism.gov.in/festivals/gauri-aagman/",
-          "Times Now Marathi, “Jyeshtha Gauri 2026”: https://marathi.timesnownews.com/spirituality/jyeshtha-gauri-2026-17-19-september-avahan-pujan-visarjan-dates-vidhi-and-katha-article-156125827",
-          "Lokmat Times, “Gauri Puja 2026: Dates, 3-Day Rituals, Puja Vidhi and Naivedya”: https://www.lokmattimes.com/lifestyle/gauri-puja-2026-dates-when-is-gauri-avahan-puja-and-visarjan-know-rituals-and-significance-a527/",
-          "Jio Institute Digital Library, “The Significance of Jyestha Gauri Pujan in Versova Koliwada”: https://exhibits.jioinstitute.edu.in/spotlight/the-significance-of-jyestha-gauri-pujan-in-versova-koliwada",
-        ],
-      },
     ],
   },
   {
