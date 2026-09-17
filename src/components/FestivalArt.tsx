@@ -526,7 +526,70 @@ export function GauriArt({ className }: Props) {
   );
 }
 
+/** Pujan day: a diya, puja thali and five representative naivedya bowls. */
+export function GauriPujanArt({ className }: Props) {
+  return (
+    <svg
+      viewBox="0 0 320 220"
+      className={`${wrap} ${className ?? ""}`}
+      role="img"
+      aria-label="A puja thali, diya and naivedya arranged for Gauri Pujan"
+    >
+      <rect width="320" height="220" fill="#f3ebdd" />
+      <circle cx="160" cy="118" r="78" fill="#c9a227" />
+      <circle
+        cx="160"
+        cy="118"
+        r="69"
+        fill="#f6e9d2"
+        stroke="#b8912f"
+        strokeWidth="3"
+      />
+      {[
+        [-36, -20, "#c42b1c"],
+        [0, -33, "#e8a33d"],
+        [36, -20, "#0f6e5c"],
+        [-28, 22, "#f0d67a"],
+        [28, 22, "#7b1e2b"],
+      ].map(([dx, dy, fill], i) => (
+        <g
+          key={i}
+          transform={`translate(${160 + Number(dx)} ${120 + Number(dy)})`}
+        >
+          <ellipse rx="18" ry="8" fill="#b8912f" />
+          <ellipse cy="-3" rx="15" ry="6" fill={String(fill)} />
+        </g>
+      ))}
+      <path
+        d="M139 141 Q160 128 181 141 Q174 160 160 163 Q146 160 139 141Z"
+        fill="#7b1e2b"
+      />
+      <ellipse cx="160" cy="140" rx="22" ry="7" fill="#e8a33d" />
+      <path d="M160 139 Q145 119 160 100 Q175 119 160 139Z" fill="#f3a712" />
+      <circle cx="160" cy="118" r="5" fill="#fff3bd" />
+      <path
+        d="M70 183 Q160 151 250 183"
+        fill="none"
+        stroke="#0f6e5c"
+        strokeWidth="4"
+        strokeLinecap="round"
+      />
+      {Array.from({ length: 9 }, (_, i) => (
+        <circle
+          key={i}
+          cx={88 + i * 18}
+          cy={179 - Math.abs(4 - i) * 3}
+          r="3"
+          fill="#c42b1c"
+        />
+      ))}
+    </svg>
+  );
+}
+
 export const FESTIVAL_ART = {
+  gauriPujan: GauriPujanArt,
+  gauriThali: GauriPujanArt,
   gauri: GauriArt,
   pookkalam: PookkalamArt,
   rakhi: RakhiArt,

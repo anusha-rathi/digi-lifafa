@@ -95,6 +95,32 @@ export default async function PostPage({
                   {b.note}
                 </p>
               );
+            if ("festivalArt" in b) {
+              const FigureArt = FESTIVAL_ART[b.festivalArt];
+              return (
+                <figure
+                  key={i}
+                  className="my-7 overflow-hidden rounded-xl border border-ivory-edge"
+                >
+                  <FigureArt />
+                  {b.caption ? (
+                    <figcaption className="border-t border-ivory-edge bg-ivory-deep/50 px-4 py-2 text-[13px] leading-relaxed text-ink-faint">
+                      {b.caption}
+                    </figcaption>
+                  ) : null}
+                </figure>
+              );
+            }
+            if ("related" in b)
+              return (
+                <Link
+                  key={i}
+                  href={b.related.href}
+                  className="my-7 block rounded-xl border border-marigold/40 bg-marigold/8 px-4 py-3 font-semibold text-maroon hover:border-marigold"
+                >
+                  {b.related.label} →
+                </Link>
+              );
             if ("photo" in b) {
               const ph = photo(b.photo);
               if (!ph) return null;
