@@ -70,6 +70,10 @@ export const POSTS: Post[] = [
       {
         p: "The dates are reported by Times Now Marathi and Lokmat Times. They link Avahan, Pujan and Visarjan with the Anuradha, Jyeshtha and Moola nakshatras respectively. Exact muhurats depend on the local panchang and family tradition, so there is no honest single time for all of Maharashtra.",
       },
+      {
+        photo: "gauriPujan",
+        caption: "Gauri masks dressed for the household celebration.",
+      },
       { h: "Why the festival has three days" },
       {
         p: "Maharashtra Tourism describes Gauri Aagman as part of Ganeshotsav in Maharashtra: Gauri, understood as a form of Parvati, is welcomed into homes and communities. In many households the visit has the feeling of receiving a revered woman of the family with food, decoration and attention.",
@@ -94,12 +98,21 @@ export const POSTS: Post[] = [
       {
         p: "So “sixteen” is a tradition, not a minimum order. Do not turn somebody else's abundant family menu into a test your own home has failed.",
       },
+      {
+        photo: "maharashtrianPuranPoli",
+        caption:
+          "Puran poli is widely associated with the maha naivedya, although the complete menu belongs to each household.",
+      },
       { h: "Haldi-kumkum is also a visit" },
       {
         p: "Many homes invite married women for haldi-kumkum on the pujan day. Guests receive haldi and kumkum, and there may be songs, jhimma, phugdi and small gifts. These gatherings make the festival social as well as devotional, but the guest list and customs vary.",
       },
       {
         p: "If you have been invited, ask for the time rather than assuming it runs all day. A useful invitation includes the date, the visiting window, the address and whether the host expects guests for aarti, haldi-kumkum or a meal.",
+      },
+      {
+        photo: "gauriHaldiKumkum",
+        caption: "Applying haldi and kumkum at a Maharashtrian gathering.",
       },
       { h: "Day three: Visarjan is the farewell" },
       {
