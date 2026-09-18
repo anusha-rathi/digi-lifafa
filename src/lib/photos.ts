@@ -39,6 +39,18 @@ const LICENCE_URL: Record<Photo["licence"], string> = {
 export const licenceUrl = (l: Photo["licence"]) => LICENCE_URL[l];
 
 export const PHOTOS: Record<string, Photo> = {
+  ganeshIdolShop: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colorful_Images_of_Lord_Ganesha_at_a_Ganesh_Chaturthi_special_shop.jpg",
+    alt: "A display of colourful Ganesh idols at a festival shop",
+    by: "VedSutra", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Colorful_Images_of_Lord_Ganesha_at_a_Ganesh_Chaturthi_special_shop.jpg",
+  },
+  chhatrapatiRajaramMandal: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/a/af/Chhatrapati_Rajaram_Mandal_in_2024_24.jpg",
+    alt: "A Ganesh Chaturthi community idol in a decorated mandal",
+    by: "DesiBoy101", licence: "CC BY 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Chhatrapati_Rajaram_Mandal_in_2024_24.jpg",
+  },
   gauriPujan: {
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gauri_puja.jpg/1280px-Gauri_puja.jpg",
     alt: "A close view of decorated Gauri masks dressed in Maharashtrian sarees",
