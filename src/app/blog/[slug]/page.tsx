@@ -122,7 +122,7 @@ export default async function PostPage({
                   </p>
                   <Link
                     href="/make"
-                    className="mt-4 inline-flex shrink-0 items-center rounded-full bg-maroon px-5 py-2.5 text-sm font-semibold !text-ivory no-underline transition hover:bg-maroon-deep sm:mt-0"
+                    className="mt-4 inline-flex shrink-0 items-center rounded-full bg-maroon px-5 py-2.5 text-sm font-semibold !text-ivory !no-underline transition hover:bg-maroon-deep sm:mt-0"
                   >
                     {b.lifafaCta.label} →
                   </Link>
