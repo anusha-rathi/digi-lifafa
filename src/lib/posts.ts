@@ -169,6 +169,42 @@ export const POSTS: Post[] = [
       ] },
       { p: "Use the translation as a quiet second line, not as a replacement shouted over the original. If posting someone else's procession, ask before showing faces, children or the inside of a private home." },
 
+      { h: "How these calls sound in a real procession" },
+      { p: "A good call has one clear leader, a response the group already knows, and enough space to hear instructions. 'Ganpati Bappa' works because the answer is one word: 'Morya'. 'Mangal Murti' works for the same reason. Longer lines such as 'Pudhchya Varshi Lavkar Ya' are best led slowly once, then repeated by everyone." },
+      { p: "Do not layer three slogans at once. When drums, speakers and different groups compete, carriers cannot hear the person guiding the idol. Stop the music at stairs, turns, ramps and the immersion queue. A chant can restart once everyone is stable. Devotion does not ask anyone to trade coordination for volume." },
+      { p: "If the group includes people who do not speak Marathi, teach two meanings before moving: Bappa is the beloved fatherly Ganpati, and the farewell asks him to return early next year. Once people know that, the call carries feeling rather than only sound." },
+
+      { h: "A simple call sheet for home or society" },
+      { h3: "At arrival" },
+      { p: "Leader: Ganpati Ale Ho. Group: Ganpati Ale. Leader: Ganpati Bappa. Group: Morya. Leader: Mangal Murti. Group: Morya." },
+      { p: "Meaning: Ganpati has arrived; beloved Bappa, we praise you; praise to the auspicious form. Keep the doorway clear while the calls happen. Finish the welcome before people crowd around for photographs." },
+      { h3: "After aarti" },
+      { p: "Leader: Vighnaharta Ganesh. Group: Ki Jai. Leader: Gajanan Maharaj. Group: Ki Jai. Then distribute prasad rather than continuing until the flame, plate and food are all being handled at once." },
+      { p: "Meaning: Glory to Ganesha who removes obstacles; glory to the elephant-faced Lord. These Hindi calls work for a mixed-language gathering without replacing the household's own aarti." },
+      { h3: "At farewell" },
+      { p: "Leader: Ganpati Bappa. Group: Morya. Leader: Pudhchya Varshi. Group: Lavkar Ya. Then the full group can say: Ganpati Bappa Morya, Pudhchya Varshi Lavkar Ya." },
+      { p: "Meaning: Beloved Bappa, come back soon next year. Leave a pause after it. A farewell does not need to become a continuous wall of noise." },
+
+      { h: "Slogans for children without turning them into a competition" },
+      { p: "Give children the response, not the job of inventing rhymes on the spot. Explain one new word at a time: mangal is auspicious, murti is form, vighna is obstacle, harta is remover. Let a child hold a printed call sheet while an adult manages the route and flame." },
+      { p: "Avoid prizes for who shouts loudest or longest. That rewards strain and makes quieter children feel less devotional. A better activity is matching each line to arrival, puja or farewell, then drawing what the line evokes. 'Ganpati Ale' becomes the decorated doorway; 'Lavkar Ya' becomes next year's welcome." },
+      { p: "If a school uses Sanskrit lines, teach them as prayers. Vakratunda Mahakaya has grammar and a complete request; it is not four decorative words. Om Gam Ganapataye Namah is a mantra, not a house-team cheer. Children can learn form as well as sound." },
+
+      { h: "Writing slogans on invitations and social posts" },
+      { p: "Use Devanagari when you can, then add Roman and meaning. Do not write a sacred line over a busy image where half the matras disappear. For the standard chant, write गणपती बाप्पा मोरया. For the farewell, add पुढच्या वर्षी लवकर या on its own line." },
+      { p: "A Roman caption should favour recognition: 'Ganpati Bappa Morya' and 'Pudhchya Varshi Lavkar Ya'. A scholarly transliteration is unnecessary on a family invitation. The meaning can follow in plain English: 'Come back soon next year.'" },
+      { p: "Do not use footage of strangers, children or a private home only because the procession is public outside. Ask before posting identifiable faces. Credit photographers and music. A chant belongs to a tradition; a particular recording and image still belong to their creators." },
+
+      { h: "The difference between a slogan, a mantra and an aarti line" },
+      { table: { head: ["Form", "Example", "How it is used"], rows: [
+        ["Call and response", "Ganpati Bappa / Morya", "Short, public and repeated by a group"],
+        ["Farewell call", "Pudhchya Varshi Lavkar Ya", "Used as Bappa leaves for Visarjan"],
+        ["Mantra", "Om Gam Ganapataye Namah", "Recited steadily in invocation or japa"],
+        ["Prayer verse", "Vakratunda Mahakaya", "A complete Sanskrit request before an undertaking"],
+        ["Aarti refrain", "Jai Dev Jai Dev Jai Mangalmurti", "Sung within a composition while offering light"],
+      ] } },
+      { p: "The forms can share one celebration, but their differences matter. Calling every line a slogan makes it harder to find complete lyrics and meaning. Calling every line a mantra invents ritual authority. Label the form, then use it where it fits." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Ganpati Bappa Morya mean?", a: "It is an affectionate acclamation to beloved Ganpati. Morya is strongly connected with the Ganesh devotee Morya Gosavi and the tradition around Morgaon and Chinchwad." },
