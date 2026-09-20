@@ -153,6 +153,11 @@ export const POSTS: Post[] = [
       { p: "Do not buy an ingredient only to display it and throw it away. Offer food the household can share as prasad, account for allergies, and keep packaging away from the altar flame. If the family is fasting, check which ingredients they accept before arriving with sweets. Bhog is received and shared; it is not dumped into Visarjan water." },
       { p: "The line 'sant karein seva' also widens service beyond the plate. Someone cleans the altar, cooks, teaches the words, carries water, watches a child and drives the family home. Those actions are part of making worship possible. The person singing loudest is not the only one doing seva." },
 
+      { h: "What to do when two people lead different words" },
+      { p: "This happens most often at the offering verse or closing. Keep singing the refrain together, then let one lead singer carry the next verse. Do not stop the lamp to adjudicate the booklet. After puja, compare the two versions and choose one for the next gathering. If both belong to the families present, alternate versions on different days rather than forcing one to disappear." },
+      { p: "A mixed group can also agree on a short core: refrain, Ekadant verse, offering verse and closing. Put optional text below a divider. This makes participation easier for guests and prevents the person holding the plate from waiting while everyone scrolls for a verse only one singer knows." },
+      { p: "The same courtesy applies to tempo. A 'superfast' YouTube version may be useful when time is short, but a family with children or elders needs enough space to form the words. Choose clarity over speed. The point of aarti is to offer light and praise together, not to finish before the track timer." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What is the meaning of Jai Ganesh Deva?", a: "It means glory or victory to Lord Ganesha. The refrain identifies Parvati as his mother and Mahadeva, Shiva, as his father." },
