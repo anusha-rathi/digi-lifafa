@@ -45,3 +45,5 @@ next-env.d.ts
 
 # local dev database
 /.data
+
+/src/lib/posts.generated.ts
