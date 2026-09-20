@@ -115,7 +115,7 @@ export const post: Post = {
       ] },
       { p: "The fix is not to abandon ritual. It is to be precise about scale and source. A temple can teach the mood without making its full ceremony compulsory at home. A panchang can establish the date without becoming a spiritual authority on every household custom. A family story can be loved without pretending every detail has one uncontested textual origin." },
 
-      { lifafaCta: { text: "Celebrating Radha Ashtami from another city? Send a little warmth before the puja begins.", label: "Make a lifafa for them" } },
+      { lifafaCta: { text: "Celebrating Radha Ashtami from another city? Send a little warmth before the puja begins.", label: "Make a Digi Lifafa for them" } },
 
       { h: "Planning the day without rushing" },
       { table: { head: ["Before the day", "On the day", "After puja"], rows: [
@@ -144,7 +144,7 @@ export const post: Post = {
       { h: "Source and photo credits" },
       { p: "The 2026 Delhi tithi and Madhyahna timings were checked against Drik Panchang on 20 September 2026. The independent 19 September date and temple-practice details were checked against ISKCON Bangalore's 2026 Sri Radhashtami page and the Banke Bihari Temple's Radha Ashtami account. Home-celebration details were compared with ISKCON Bengaluru's 30 August 2025 guide to celebrations at home, in temples and in Braj. The two photographs on this page are licensed Wikimedia Commons images; their photographer and licence links appear directly beneath each image." },
       { p: "If someone you love is keeping Radha Ashtami away from you, you can still send the warmth of a shagun ka lifafa. Make a digi lifafa here, add your own message, and let the gift arrive as a small part of their celebration." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
       { related: { href: "/blog/ganesh-chaturthi-gifting", label: "Read next: Ganesh Chaturthi gifting without the awkwardness" } },
     ],
   };

@@ -129,7 +129,7 @@ export const post: Post = {
       { p: "The prosperity line sits inside that movement. It follows surrender and precedes loving praise. Taken alone, it becomes a promise of descendants and wealth. Kept in context, it is one household hope within a larger relationship of refuge and attention." },
       { p: "That context matters when explaining the song to someone grieving, struggling with fertility or under financial pressure. Offer the line as inherited hope, not diagnosis. Practical support, medical care and financial help are not signs of weak faith." },
 
-      { lifafaCta: { text: "If another home is hosting the aarti, send a thank-you they can use after the cymbals stop.", label: "Make a thank-you lifafa" } },
+      { lifafaCta: { text: "If another home is hosting the aarti, send a thank-you they can use after the cymbals stop.", label: "Make a thank-you Digi Lifafa" } },
 
       { h: "A complete but manageable home sequence" },
       { ul: [
@@ -161,7 +161,7 @@ export const post: Post = {
       { h: "Source note" },
       { p: "The three-verse text and broad meaning were compared across Hindu Aarti and current lyric-and-meaning pages on 20 September 2026. Commercial puja pages were treated as text witnesses, not authorities on scripture or authorship." },
       { p: "If someone else is hosting aarti this year, send something that helps after the cymbals stop: prasad, flowers or dinner for the family. A digi lifafa carries your shagun with your own message, without adding another parcel to the puja room." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
       { related: { href: "/blog/sukhkarta-dukhharta-aarti-lyrics-meaning", label: "Also read: Sukhkarta Dukhharta lyrics and meaning" } },
     ],
   };

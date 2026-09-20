@@ -128,7 +128,7 @@ export const post: Post = {
       { p: "Turn those into four cards. A learner reads the Hindi on one side and sees the image or meaning on the other. Arrange them in order, then sing. This works better than memorising Roman syllables because a forgotten line can be recovered from its image." },
       { p: "When the words are stable, remove the Roman card first, not the meaning card. The goal is to move toward reading Devanagari while retaining understanding. Someone who can sing from memory but cannot explain a single line has learned a tune, not yet inherited the prayer." },
 
-      { lifafaCta: { text: "Aarti happening somewhere you cannot reach? Your own message can still sit beside the flowers and prasad.", label: "Send a digi lifafa" } },
+      { lifafaCta: { text: "Aarti happening somewhere you cannot reach? Your own message can still sit beside the flowers and prasad.", label: "Send a Digi Lifafa" } },
 
       { h: "A calm first-time hosting plan" },
       { ul: [
@@ -160,7 +160,7 @@ export const post: Post = {
       { h: "Source note" },
       { p: "The Hindi text and major circulating variants were compared across current Hindu Aarti and music-label lyric pages on 20 September 2026. Because a single critical edition and author are not reliably established, this page labels additional and closing verses rather than presenting one long version as uncontested." },
       { p: "If the family aarti is happening somewhere you cannot reach, send your shagun with a line of your own instead of a copied forward. A digi lifafa can help with flowers, prasad or the meal after Visarjan, and they can use it where the celebration needs it." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
       { related: { href: "/blog/sukhkarta-dukhharta-aarti-lyrics-meaning", label: "Also read: Sukhkarta Dukhharta lyrics and meaning" } },
     ],
   };

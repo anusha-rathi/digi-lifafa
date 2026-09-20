@@ -105,7 +105,7 @@ export const post: Post = {
       { p: "The label is often used loosely. A natural-looking brown idol may still contain chemical paint, glue, internal supports or synthetic finishing material. Ask the maker what the base is, how it is painted and whether it is intended to dissolve. If those answers are vague, use the authorised civic system rather than testing the claim in a household container." },
       { p: "Size matters too. Natural clay is heavy. A tall idol can be physically unsafe to immerse at home even if every material is biodegradable. Eco-friendly planning starts before purchase: choose a size the household can carry, decorate without thermocol or single-use plastic, reuse fabric and lights, and know where every material will go after the festival." },
       { p: "The CPCB framework also makes clear why post-immersion collection matters. Pollution is not solved merely by moving an idol from natural water to an artificial tank. Flowers, clay residue and other material must then be collected and treated. Use the system provided and do not remove barriers or enter tanks after the immersion." },
-      { lifafaCta: { text: "Someone else handling the long farewell day? Send something useful for prasad, the ride home or dinner.", label: "Make a thoughtful lifafa" } },
+      { lifafaCta: { text: "Someone else handling the long farewell day? Send something useful for prasad, the ride home or dinner.", label: "Make a thoughtful Digi Lifafa" } },
 
       { h: "The home after Bappa leaves" },
       { p: "Returning to an empty chowki can feel abrupt. Clear the space carefully rather than rushing to make the room look normal. Put reusable vessels, cloth and lights away only after they are dry. Compost or hand over flowers where a suitable system exists. Share the remaining safe prasad." },
@@ -113,6 +113,6 @@ export const post: Post = {
       { p: "Children may ask where Bappa went. A simple answer is that the festival form returns to nature and Bappa is welcomed again next year. The explanation does not require a frightening rule or a promise that grief should vanish. The farewell is meaningful because the household cared for the visit." },
       { p: "Before packing away the list of purchases, note what was actually used. Which decoration could be reused? Was the idol too heavy for the route? Did the family have enough help? Did the chosen immersion point work? Those notes make next year's welcome calmer and reduce waste more effectively than an inspirational poster." },
       { p: "If you could not join the final aarti in person, send the family something useful for the long day: prasad money, the ride home or dinner after visarjan. A digi lifafa with your own message can carry the shagun without adding one more thing for them to pack." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
     ],
   };
