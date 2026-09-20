@@ -142,6 +142,17 @@ export const POSTS: Post[] = [
       { p: "Use the offering verse before setting out bhog. Ask which items are actually present and which are only named in the song. That prevents a child from thinking aarti fails without paan or dry fruit. It also opens a conversation about why food offered with attention matters more than an expensive list." },
       { p: "Discuss the sensitive verse separately with older children. Explain that old texts show the hopes and assumptions of their time. Faith does not require insulting a living person. A child who learns that distinction can inherit devotion without inheriting every prejudice unexamined." },
 
+      { h: "How to choose a version for a printed family booklet" },
+      { p: "Start from the words people in the room already sing, not the longest webpage you can find. Ask two elders or the temple that leads your aarti. Write down the refrain and verses as actually sung, then compare spelling with a clean Hindi source. Preserve genuine household variation, but correct obvious copying errors that produce no Hindi meaning." },
+      { p: "Mark optional verses clearly. A small label such as 'our family also sings' is more honest than numbering every circulating verse as if one editor established the order. If the sensitive older verse is included, add a short note for adults rather than leaving a child to interpret it literally. If it is omitted, the booklet can still mention that longer traditional versions exist." },
+      { p: "Keep Jai Ganesh Deva separate from Sukhkarta Dukhharta, Ghalin Lotangan and Mantrapushpanjali. They can follow one another in worship without becoming one composition. Give each a heading and begin it on a clean block of the page, so a guest can see when the language or refrain changes." },
+      { p: "Print large enough to read at arm's length in warm, uneven lamp light. Devanagari should be primary; Roman text can sit below for guests. Avoid decorative fonts that make matras or conjunct letters ambiguous. Test one printed copy in the puja space before making twenty." },
+
+      { h: "Aarti, offerings and what the song does not require" },
+      { p: "The offering verse is memorable because it names paan, flowers, dry fruit and laddus in a neat rhythm. It does not say a puja without all four fails. A daily home aarti may offer one flower and a little fruit. A Ganeshotsav household may prepare modak or a full naivedya. A temple may have a prescribed plate. The song can hold all those scales." },
+      { p: "Do not buy an ingredient only to display it and throw it away. Offer food the household can share as prasad, account for allergies, and keep packaging away from the altar flame. If the family is fasting, check which ingredients they accept before arriving with sweets. Bhog is received and shared; it is not dumped into Visarjan water." },
+      { p: "The line 'sant karein seva' also widens service beyond the plate. Someone cleans the altar, cooks, teaches the words, carries water, watches a child and drives the family home. Those actions are part of making worship possible. The person singing loudest is not the only one doing seva." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What is the meaning of Jai Ganesh Deva?", a: "It means glory or victory to Lord Ganesha. The refrain identifies Parvati as his mother and Mahadeva, Shiva, as his father." },
