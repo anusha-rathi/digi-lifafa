@@ -68,7 +68,7 @@ export const POSTS: Post[] = [
 
       { h: "When is it sung during Ganpati puja?" },
       { p: "In many Maharashtrian homes, Sukhkarta Dukhharta is the first aarti in the sequence. During Ganeshotsav it may be sung morning and evening, after the daily puja, at sthapana and during Uttar Puja before visarjan. A household may then sing aarti for other deities, Ghalin Lotangan and Mantrapushpanjali." },
-      { p: "Other regions may lead with Jai Ganesh Deva. Neither choice needs a ranking. Use the sequence your family or temple follows. If guests do not know Marathi, print the Roman text or invite them to join the refrain instead of rushing through an unfamiliar full verse." },
+      { p: "Other regions may lead with Jai Ganesh Deva. Neither choice needs to compete with the other. Use the sequence your family or temple follows. If guests do not know Marathi, print the Roman text or invite them to join the refrain instead of rushing through an unfamiliar full verse." },
       { h3: "A safe, simple aarti setup" },
       { ul: [
         "Place the lyrics where the lead singer can see them without leaning over the flame.",
@@ -101,7 +101,7 @@ export const POSTS: Post[] = [
         "Calling Ghalin Lotangan the fourth verse. It is a separate closing prayer.",
         "Treating Mantrapushpanjali as part of the Marathi aarti text.",
         "Copying a Roman spelling that changes nuravi or other words, then translating the typo.",
-        "Assuming the longest YouTube medley is the most complete original text.",
+        "Assuming the longest online medley is the most complete original text.",
       ] },
 
       { h: "How to teach the aarti without reducing it to memorisation" },
@@ -112,7 +112,7 @@ export const POSTS: Post[] = [
 
       { h: "Why one Marathi aarti travels so widely" },
       { p: "The song is brief enough for daily worship and vivid enough to carry a full darshan. It does not spend three verses explaining doctrine. It shows shendur, pearls, sandalwood, saffron, crown, anklets, yellow cloth, serpent and trunk, then lets a devotee stand at the door and ask for help. Someone who understands only part of the Marathi can still follow the movement from praise to seeing to prayer." },
-      { p: "Recordings amplified that portability. The Mangeshkar sisters' Ganesh aarti collections became household soundtracks in the late twentieth century, and later music labels, films and YouTube carried the song beyond Marathi-speaking homes. The current search results include two-minute studio tracks, six-minute lyrical versions, film arrangements and full aarti sequences. The form changes around the text, but the three verses remain recognisable." },
+      { p: "Recordings amplified that portability. The Mangeshkar sisters' Ganesh aarti collections became household soundtracks in the late twentieth century, and later music labels, films and online video carried the song beyond Marathi-speaking homes. Available recordings include two-minute studio tracks, six-minute lyrical versions, film arrangements and full aarti sequences. The form changes around the text, but the three verses remain recognisable." },
       { p: "That popularity also creates errors. Captions copy one another. A film version may repeat or rearrange a line for music. Roman titles favour the spellings people type, such as Sukhkarta Dukhharta, while a stricter transliteration gives Sukhakarta Dukhaharta. A useful page should make both searchable without pretending spelling systems are rival prayers." },
 
       { h: "What comes after Sukhkarta Dukhharta" },
@@ -185,7 +185,7 @@ export const POSTS: Post[] = [
       ] },
 
       { h: "Source note" },
-      { p: "The authorship, three-verse structure, Mayureshwar connection and verse commentary were checked against published reference material summarised on the Sukhakarta Dukhaharta reference page, which cites Prarthana: A Book of Hindu Psalms and Sacred Songs of India. Lyrics and meaning were compared across that reference text and Eternal Raga on 20 September 2026. YouTube view counts are snapshots from the same date and are included only as search-demand evidence." },
+      { p: "The authorship, three-verse structure, Mayureshwar connection and verse commentary were checked against published reference material summarised on the Sukhakarta Dukhaharta reference page, which cites Prarthana: A Book of Hindu Psalms and Sacred Songs of India. Lyrics and meaning were compared across that reference text and Eternal Raga on 20 September 2026." },
       { p: "If you are singing aarti for someone you cannot celebrate with in person, send the shagun with the same care as the song. A digi lifafa lets you add your own message and gives them something useful for prasad, flowers or the family meal." },
       { related: { href: "/make", label: "Send a digi lifafa" } },
       { related: { href: "/blog/ganesh-visarjan-2026-dates-uttar-puja", label: "Read next: how to plan Ganesh Visarjan and Uttar Puja" } },
