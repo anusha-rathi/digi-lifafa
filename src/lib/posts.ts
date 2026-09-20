@@ -1,4 +1,4 @@
-/* Blog content. Plain data, no MDX, no CMS — each post is a title plus an
+/* Blog content. Plain data, no MDX, no CMS - each post is a title plus an
    array of blocks. Adding a post means adding an entry here. */
 
 import type { FestivalArtKey } from "@/components/FestivalArt";
@@ -116,6 +116,20 @@ export const POSTS: Post[] = [
       { h: "What to sing or read" },
       { p: "If your family already has a Radha-Krishna bhajan book, use it. Otherwise, choose one short piece and learn its meaning instead of leaving an autoplay queue running for two hours. Radhikastaka is associated with Rupa Goswami and is sung in ISKCON celebrations. Braj temples have their own pads and samaj gayan traditions. The Hare Krishna maha-mantra is familiar in Gaudiya Vaishnava homes. 'Radhe Radhe' naam-japa is common in Braj-oriented devotion." },
       { p: "Lyrics on the internet are frequently copied with spelling mistakes and no attribution. For a text you plan to recite, use a temple or established publisher's edition, or listen to a recording whose lineage you recognise. Translation matters: reading even a plain meaning of each verse can prevent a beautiful song from becoming only background audio." },
+
+      { h: "Five Radha Rani bhajans to sing or listen to" },
+      { p: "A bhajan list is useful only if it gets you to a real song, not another generic 'top 10' page. These five are recognisable across current YouTube search, and the links below point to specific performances checked on 20 September 2026. View count shows how widely a recording has travelled; it does not make one singer the owner or authority of a traditional bhajan." },
+      { h3: "Radhika Gori Se, Biraj Ki Chhori Se" },
+      { p: "Play: https://www.youtube.com/watch?v=s7i8BnQQOvQ - Bhakti Bhawana, about 27.9 million views when checked. The playful Braj-flavoured bhajan imagines a conversation around marrying Kanha to Radhika, the fair daughter of Braj. Its call-and-response shape works well when several people know the refrain. Another wedding-style performance by Dhruv Sharma and Swarna Shri has also crossed 28 million views, which shows how far the song travels beyond a formal temple setting." },
+      { h3: "Meethe Ras Se Bharyo Ri, Radha Rani Lage" },
+      { p: "Play: https://www.youtube.com/watch?v=I_QwbiPiZNA - Jaya Kishori on LakhDatar TeleFilms, about 133.8 million views when checked. The song praises the sweetness of Radha Rani and Barsana through a refrain that returns easily. Studio Sangeeta's version has more than 124 million views and Suprabha KV's more than 84 million, so this is not a one-recording trend; it is one of the dominant Radha bhajan searches." },
+      { h3: "Radhe Radhe" },
+      { p: "Play: https://www.youtube.com/watch?v=OXm4-3Er8po - Hansraj Raghuwanshi, about 501 million views when checked. This is a modern devotional song and music video rather than an old anonymous temple text. Its enormous reach makes it a practical inclusion for younger or mixed groups, but label it honestly: it is a contemporary recording built around Radha naam, not the prescribed Radha Ashtami aarti." },
+      { h3: "Radha Ramanam Hare Hare" },
+      { p: "Play: https://www.youtube.com/watch?v=_CWcBWSKItk - Shri Indresh Upadhyay on BhaktiPath, about 98.6 million views when checked. The long performance is better for sustained listening or kirtan than for a two-minute home-puja slot. Queue it before beginning so advertisements or search interruptions do not cut through the gathering." },
+      { h3: "Shri Radhe Radhe, Barsane Wali Radhe" },
+      { p: "Play: https://www.youtube.com/watch?v=NsJcWZuOijc - a widely shared performance with about 24.4 million views when checked. The repeated Radhe naam makes it easy for guests to join even if they do not know full verses. For a shorter, lineage-identified alternative, Jagadguru Shri Kripalu Ji Maharaj's 'Shri Radhe Radhe' on the official Sankirtan channel has more than 5.6 million views: https://www.youtube.com/watch?v=z2Rzqrew7c8." },
+      { p: "Choose one or two, not all five by default. For a small home puja, one bhajan followed by aarti leaves room for prayer and prasad. A longer playlist fits a family gathering after puja. Keep the volume below the people in the room, use an authorised YouTube stream, and do not download a singer's recording into your own page or video without permission." },
 
       { h: "Common mistakes in online Radha Ashtami guides" },
       { ul: [
