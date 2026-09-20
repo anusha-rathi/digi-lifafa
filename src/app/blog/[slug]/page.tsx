@@ -111,6 +111,23 @@ export default async function PostPage({
                 </figure>
               );
             }
+            if ("lifafaCta" in b)
+              return (
+                <aside
+                  key={i}
+                  className="my-9 rounded-2xl border border-marigold/45 bg-[linear-gradient(135deg,rgba(245,180,49,0.13),rgba(128,25,42,0.06))] px-5 py-5 not-prose sm:flex sm:items-center sm:justify-between sm:gap-5"
+                >
+                  <p className="font-display text-[21px] leading-snug text-maroon">
+                    {b.lifafaCta.text}
+                  </p>
+                  <Link
+                    href="/make"
+                    className="mt-4 inline-flex shrink-0 items-center rounded-full bg-maroon px-5 py-2.5 text-sm font-semibold text-ivory transition hover:bg-maroon-deep sm:mt-0"
+                  >
+                    {b.lifafaCta.label} →
+                  </Link>
+                </aside>
+              );
             if ("related" in b)
               return (
                 <Link

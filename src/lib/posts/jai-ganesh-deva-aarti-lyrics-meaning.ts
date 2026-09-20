@@ -128,6 +128,8 @@ export const post: Post = {
       { p: "Turn those into four cards. A learner reads the Hindi on one side and sees the image or meaning on the other. Arrange them in order, then sing. This works better than memorising Roman syllables because a forgotten line can be recovered from its image." },
       { p: "When the words are stable, remove the Roman card first, not the meaning card. The goal is to move toward reading Devanagari while retaining understanding. Someone who can sing from memory but cannot explain a single line has learned a tune, not yet inherited the prayer." },
 
+      { lifafaCta: { text: "Aarti happening somewhere you cannot reach? Your own message can still sit beside the flowers and prasad.", label: "Send a digi lifafa" } },
+
       { h: "A calm first-time hosting plan" },
       { ul: [
         "Choose the exact verses before guests arrive and print one shared version.",

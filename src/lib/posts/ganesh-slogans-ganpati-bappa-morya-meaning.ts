@@ -146,6 +146,8 @@ export const post: Post = {
       { p: "Do not layer three slogans at once. When drums, speakers and different groups compete, carriers cannot hear the person guiding the idol. Stop the music at stairs, turns, ramps and the immersion queue. A chant can restart once everyone is stable. Devotion does not ask anyone to trade coordination for volume." },
       { p: "If the group includes people who do not speak Marathi, teach two meanings before moving: Bappa is the beloved fatherly Ganpati, and the farewell asks him to return early next year. Once people know that, the call carries feeling rather than only sound." },
 
+      { lifafaCta: { text: "Thank the person who cooked, hosted or carried this Ganeshotsav with more than a forwarded greeting.", label: "Send your own message" } },
+
       { h: "A simple call sheet for home or society" },
       { h3: "At arrival" },
       { p: "Leader: Ganpati Ale Ho. Group: Ganpati Ale. Leader: Ganpati Bappa. Group: Morya. Leader: Mangal Murti. Group: Morya." },

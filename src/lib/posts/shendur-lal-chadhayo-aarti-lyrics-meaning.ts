@@ -129,6 +129,8 @@ export const post: Post = {
       { p: "The prosperity line sits inside that movement. It follows surrender and precedes loving praise. Taken alone, it becomes a promise of descendants and wealth. Kept in context, it is one household hope within a larger relationship of refuge and attention." },
       { p: "That context matters when explaining the song to someone grieving, struggling with fertility or under financial pressure. Offer the line as inherited hope, not diagnosis. Practical support, medical care and financial help are not signs of weak faith." },
 
+      { lifafaCta: { text: "If another home is hosting the aarti, send a thank-you they can use after the cymbals stop.", label: "Make a thank-you lifafa" } },
+
       { h: "A complete but manageable home sequence" },
       { ul: [
         "Set out the lyrics in the interleaved script, Roman and meaning format.",

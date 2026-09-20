@@ -115,6 +115,8 @@ export const post: Post = {
       ] },
       { p: "The fix is not to abandon ritual. It is to be precise about scale and source. A temple can teach the mood without making its full ceremony compulsory at home. A panchang can establish the date without becoming a spiritual authority on every household custom. A family story can be loved without pretending every detail has one uncontested textual origin." },
 
+      { lifafaCta: { text: "Celebrating Radha Ashtami from another city? Send a little warmth before the puja begins.", label: "Make a lifafa for them" } },
+
       { h: "Planning the day without rushing" },
       { table: { head: ["Before the day", "On the day", "After puja"], rows: [
         ["Check the local panchang and decide your fasting level", "Clean the altar, bathe and set out only the items you will use", "Share prasad and eat according to the fast you chose"],

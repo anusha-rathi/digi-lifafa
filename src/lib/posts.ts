@@ -14,7 +14,8 @@ export type Block =
   | { faq: { q: string; a: string }[] }
   | { photo: string; caption?: string }
   | { festivalArt: FestivalArtKey; caption?: string }
-  | { related: { href: string; label: string } };
+  | { related: { href: string; label: string } }
+  | { lifafaCta: { text: string; label: string } };
 
 export type Post = {
   slug: string;
