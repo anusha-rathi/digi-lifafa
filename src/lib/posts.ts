@@ -125,6 +125,45 @@ export const POSTS: Post[] = [
       { p: "Keep the volume below the people in the room. The recording should provide pitch and words, not turn the family into an audience. If someone knows the refrain, let them lead it over the track. Once the household becomes confident, lower the volume on later days and eventually sing without it." },
       { p: "Do not assume a video marked 'full' contains the standard three verses. Check the displayed lyrics first. Some uploads loop verse one, attach other prayers or use a film edit. A two-minute recording can contain all three verses at a brisk pace; a six-minute upload can still repeat only part of the text." },
 
+      { h: "How the aarti changes between home, temple and public mandal" },
+      { p: "In a home, Sukhkarta Dukhharta often begins with one person lighting the lamp and another leading the first line. Everyone enters at Jai Dev. The tune may be unaccompanied, carried by a small bell, or supported by taal. The scale allows the words to stay audible, and an elder can slow the group if a child is learning." },
+      { p: "A temple has an established service schedule, trained pujaris and a local musical habit. The same three verses may be faster because the congregation knows them, or slower because darshan and lamp offerings continue. Visitors should follow the temple lead rather than correcting a line from a family booklet. Temple performance shows one lineage and place, not a command for every household." },
+      { p: "A public mandal adds microphones, drums, a large mixed crowd and time pressure. Print the text near the front, choose a lead voice who pronounces Marathi clearly, and turn percussion down during the verse. Let it rise at the refrain if the group prefers. When every instrument plays at full volume through every line, newcomers learn only the tune and none of the words." },
+      { p: "Online recordings create a fourth setting: private listening led by a commercial performance. They help with melody and pronunciation, but a household should still know when the three-verse aarti ends. Autoplay can move directly into another composition and make the boundary invisible." },
+
+      { h: "Reading the deity through the song" },
+      { p: "The aarti can double as a guide to looking carefully. Before singing, find the shendur, necklace, crown, yellow garment, trunk and feet in the image or murti. Not every representation will contain every feature. A white marble Ganesha may not be covered in shendur; a framed print may show a different crown; many images have two eyes rather than the Trinayana named in the song." },
+      { p: "That mismatch is not a puja error. The composition evokes Mayureshwar and a particular poetic darshan. Hindu image traditions hold many Ganesha forms at once. Use the difference to ask what remains stable: elephant head, curved trunk, generous belly, auspicious presence and the relationship to Gauri." },
+      { p: "The sensory sequence also explains the role of the lamp. Pearls gleam, jewels shine, anklets sound and sandalwood or saffron carry fragrance. Aarti is not only a text recited toward an object. It gathers sight, sound, smell, movement and food into one act of attention." },
+
+      { h: "Translating devotional poetry without flattening it" },
+      { p: "A literal translation helps with nouns, but it can miss the movement of a line. 'Varta vighnachi' is not merely 'news of obstacles'; paired with nuravi, it imagines even their trace or report disappearing. 'Mera manakamana purti' is not a vending-machine promise; it places desire inside darshan, where the person asking may also be changed." },
+      { p: "Names should often remain names. Lambodar is richer than only 'fat-bellied'; Vakratunda carries an icon and a theology of overcoming crookedness; Mangalmurti is more intimate in Maharashtrian worship than the flat phrase 'auspicious idol'. Give the basic meaning, then keep the name available for the reader to learn." },
+      { p: "Where a compound is disputed, say so. Phanivaravandana and the precise object denoted by phara receive different explanations. A trustworthy page should not select the most dramatic translation because it reads well. Preserve the line, explain the secure part and mark what remains uncertain." },
+
+      { h: "A seven-day learning plan" },
+      { table: { head: ["Day", "What to do"], rows: [
+        ["1", "Read verse 1 in Marathi and understand shendur, pearls, obstacles and grace"],
+        ["2", "Speak verse 1 in rhythm, then add the refrain"],
+        ["3", "Learn verse 2 by tracing the adornment from forehead to feet"],
+        ["4", "Sing verses 1 and 2 without looking at Roman text"],
+        ["5", "Learn verse 3 and identify Ramdas's signature"],
+        ["6", "Sing all three slowly with the refrain after each"],
+        ["7", "Lead a short home aarti and note only the words that still need work"],
+      ] } },
+      { p: "Ten focused minutes is enough each day. Record your own spoken version before recording a performance. Listening back reveals swallowed consonants more clearly than singing louder. If Marathi is new, ask a speaker to correct two or three words at a time, not every accent feature in one sitting." },
+
+      { h: "Questions to ask an elder about your family's version" },
+      { ul: [
+        "Which aarti comes immediately before and after this one?",
+        "Does the family sing all three verses every day or only during Ganeshotsav?",
+        "Which tune and tempo came from the grandparents' home?",
+        "Are there words the family pronounces differently from printed text?",
+        "Who holds the lamp, who rings the bell and when does everyone receive aarti?",
+        "What offering is normally ready before the song begins?",
+      ] },
+      { p: "Write the answers beside the lyrics. Ritual knowledge often disappears not because nobody cared, but because everyone assumed the sequence was obvious. A one-page note can preserve more than a folder of generic festival downloads." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Sukhkarta Dukhharta mean?", a: "It means the maker of happiness and remover of sorrow. The opening addresses Ganesha as the one who removes obstacles through love and grace." },
