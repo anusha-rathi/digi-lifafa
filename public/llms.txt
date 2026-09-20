@@ -1,0 +1,39 @@
+# Digi Lifafa
+
+> Digi Lifafa is a free web app for making and sharing a digital Indian lifafa: choose a design, add a personal message and optional nek amount, then send a private link. If money is included, payment goes directly from the sender's UPI app to the recipient; Digi Lifafa does not process or take a cut of the payment.
+
+Digi Lifafa works without an account, password, phone number or app install. A recipient opens the shared link in a browser. The blog explains Indian gifting customs, shagun and nek etiquette, festival dates and practical puja guidance. Traditional practices vary by family and region; dated festival pages state the year they cover.
+
+## Make a lifafa
+
+- [Make your own digi lifafa](https://www.lifafa.cc/make): Choose the paper and decorations, add notes, a one-rupee coin and mithai, write a message, and create a shareable link.
+- [Ready-made lifafa templates](https://www.lifafa.cc/templates): Starting points for festivals and family occasions; every message can be changed.
+- [How Digi Lifafa works](https://www.lifafa.cc/blog/how-digi-lifafa-works): Product flow, privacy model and direct UPI payment explanation.
+- [Privacy](https://www.lifafa.cc/privacy): What the service stores and does not store.
+
+## Indian gifting guides
+
+- [What is nek and shagun?](https://www.lifafa.cc/blog/what-is-nek-shagun): The envelope, the extra rupee and practical amount guidance.
+- [Shagun amounts and which numbers to use](https://www.lifafa.cc/blog/shagun-amounts-which-numbers): How common Indian gifting amounts are chosen.
+- [Wedding shagun etiquette](https://www.lifafa.cc/blog/wedding-shagun-etiquette): Amounts, relationships and wedding-gifting context.
+- [Sending shagun from abroad](https://www.lifafa.cc/blog/sending-shagun-from-abroad): Practical guidance for families outside India.
+
+## Festival guides
+
+- [Radha Ashtami 2026](https://www.lifafa.cc/blog/radha-ashtami-2026-date-puja-vidhi-vrat-katha): Date, puja, vrat, katha and home practice.
+- [Anant Chaturdashi 2026](https://www.lifafa.cc/blog/anant-chaturdashi-2026-date-puja-anant-sutra): Date, Vishnu vrata, Anant Sutra and its relation to Ganesh Visarjan.
+- [Ganesh Visarjan 2026](https://www.lifafa.cc/blog/ganesh-visarjan-2026-dates-uttar-puja): Dates, Uttar Puja, bhog and practical home immersion guidance.
+- [Ganesh slogans and meanings](https://www.lifafa.cc/blog/ganesh-slogans-ganpati-bappa-morya-meaning): Fifteen chants with Devanagari, Roman reading, meaning and appropriate use.
+
+## Aarti and prayer guides
+
+- [Sukhkarta Dukhharta](https://www.lifafa.cc/blog/sukhkarta-dukhharta-aarti-lyrics-meaning): Marathi lyrics, Roman reading, verse-by-verse meaning and pronunciation.
+- [Jai Ganesh Deva](https://www.lifafa.cc/blog/jai-ganesh-deva-aarti-lyrics-meaning): Hindi lyrics, Roman reading, line-by-line meaning and household variants.
+- [Shendur Lal Chadhayo](https://www.lifafa.cc/blog/shendur-lal-chadhayo-aarti-lyrics-meaning): Devanagari, Roman reading, meaning, variants and ritual context.
+- [Ghalin Lotangan](https://www.lifafa.cc/blog/ghalin-lotangan-lyrics-meaning-closing-prayer): Text, meaning and why this composite Marathi-Sanskrit prayer closes aarti.
+
+## Optional
+
+- [All blog articles](https://www.lifafa.cc/blog): Full blog index.
+- [About Digi Lifafa](https://www.lifafa.cc/about): Why the service was made.
+- [Sitemap](https://www.lifafa.cc/sitemap.xml): Complete index of public pages.
