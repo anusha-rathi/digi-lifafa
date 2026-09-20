@@ -170,6 +170,11 @@ export const POSTS: Post[] = [
       { p: "If you are hosting for the first time, ask the oldest participating family member for the usual sequence before printing a booklet. Put each composition under its own heading. This prevents a common internet mistake in which Ghalin Lotangan is pasted under 'full Sukhkarta Dukhharta lyrics' as if it were verse four." },
       { p: "At Uttar Puja, keep the aarti sequence familiar. The day is already emotional and logistically busy. It is not the ideal moment to debut a long medley because it ranked online. Sing the pieces the household can carry together, leave enough time for the farewell prayer, and extinguish or secure the lamp before anyone lifts the idol." },
 
+      { h: "Using a recording without letting it replace the room" },
+      { p: "A recording is helpful when nobody present can lead all three verses. Choose one with a clear voice, complete text and a pace the group can follow. Put the speaker near the altar but away from the lamp and puja water. Download or queue it before aarti; advertisements and notifications in the middle of the refrain pull everyone out of the moment." },
+      { p: "Keep the volume below the people in the room. The recording should provide pitch and words, not turn the family into an audience. If someone knows the refrain, let them lead it over the track. Once the household becomes confident, lower the volume on later days and eventually sing without it." },
+      { p: "Do not assume a video marked 'full' contains the standard three verses. Check the displayed lyrics first. Some uploads loop verse one, attach other prayers or use a film edit. A two-minute recording can contain all three verses at a brisk pace; a six-minute upload can still repeat only part of the text." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Sukhkarta Dukhharta mean?", a: "It means the maker of happiness and remover of sorrow. The opening addresses Ganesha as the one who removes obstacles through love and grace." },
