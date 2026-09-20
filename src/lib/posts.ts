@@ -135,6 +135,38 @@ export const POSTS: Post[] = [
       { p: "Housing-society aarti sheets should credit recordings separately from traditional lyrics. If music will be played over speakers, use an authorised streaming source or licensed file. Keep volume within local rules and leave microphones away from the diya. Assign one adult to fire safety and another to leading; those should not be the same distracted person." },
       { p: "If the group speaks several Indian languages, do not translate the lyrics live over the melody. Print a short meaning beside the Hindi and invite everyone into the refrain. The next evening can centre the Marathi aarti or another community's established song. Inclusion is better served by taking turns seriously than by building one rushed medley in which no text is understood." },
 
+      { h: "How a Hindi aarti fits different regional Ganesh traditions" },
+      { p: "Jai Ganesh Deva travels easily because its Hindi refrain is understood across much of north and central India. In a Hindi-speaking home it may be the central Ganesh aarti. In Maharashtra it often sits beside Sukhkarta Dukhharta and Shendur Lal Chadhayo. In a mixed city society, it may be the one text everyone can enter before regional aartis continue." },
+      { p: "That reach should not erase local practice. A Telugu, Kannada, Tamil, Gujarati or Bengali household may have a Ganesh or Vinayaka song with a stronger inherited place. Adding Jai Ganesh Deva for guests is different from replacing the family's own composition. Ask what belongs first, and let the Hindi refrain build a bridge rather than declare a national default." },
+      { p: "Temple sheets sometimes Sanskritise the language: moose becomes mooshak, ladduan becomes laddoo, and older grammar is regularised. School versions often shorten the text to avoid the sensitive verse. Film and label recordings may repeat the refrain or change the offering line. These are transmission choices, not proof that everyone else forgot the original." },
+
+      { h: "An editorial method for handling variants" },
+      { p: "Start with at least three independent text witnesses: a family or temple booklet, a published devotional collection and a clear recording. Mark every word that differs. Separate spelling from substance. Paan versus haar changes the offering; moose versus mooshak mostly changes register; omitting an entire verse changes the structure." },
+      { p: "Choose a base text for display and state what it is. Place common variants in a note or table rather than combining them into a version nobody actually sings. Never use one page as the source for another page that copied it; ten identical websites can still be one typo travelling." },
+      { p: "For meaning, translate the selected text, not the phrase you expected to find. Preserve difficult social history. If an older verse asks specifically for a son, do not silently translate it as 'children' and claim fidelity. Explain the literal wording and then discuss how families respond today." },
+      { p: "For author attribution, absence is better than invention. A closing signature can be a lead, but it needs a dated book, manuscript tradition or credible scholarship. Music-label metadata identifies singer, composer or arranger of a recording; it does not automatically identify the writer of the traditional words." },
+
+      { h: "Making aarti accessible without making anyone a spectacle" },
+      { p: "A person with low vision may need large high-contrast Devanagari, not a decorative gold font. Someone who is blind can join through a clean audio file shared before the gathering. A Deaf participant may prefer lyrics on a screen and a clear view of the lead singer and lamp. Accessibility is part of hospitality, not a special performance announced to the room." },
+      { p: "For someone with limited mobility, bring the aarti plate to a safe reachable height rather than asking them to push through a crowd. For a person sensitive to smoke, use ventilation and reduce incense; the song does not require the room to become physically difficult. For children with sound sensitivity, keep bells and speakers lower and allow distance." },
+      { p: "The older healing verse deserves particular care when disabled people are present, but not only then. Do not point to someone while singing about sight or the body. Do not frame their participation as proof of a miracle request. The group can retain, explain, adapt or omit the verse through an honest prior decision." },
+
+      { h: "Learning through the images in each verse" },
+      { p: "The refrain gives the family tree: Parvati, Shiva and Ganesha. The first verse gives iconography: one tusk, four arms, tilak and mouse. The second gives offerings: leaf, flower, dry fruit and laddoo. The closing gives the devotee's movement: bringing a garland, coming to refuge and asking that service have purpose." },
+      { p: "Turn those into four cards. A learner reads the Hindi on one side and sees the image or meaning on the other. Arrange them in order, then sing. This works better than memorising Roman syllables because a forgotten line can be recovered from its image." },
+      { p: "When the words are stable, remove the Roman card first, not the meaning card. The goal is to move toward reading Devanagari while retaining understanding. Someone who can sing from memory but cannot explain a single line has learned a tune, not yet inherited the prayer." },
+
+      { h: "A calm first-time hosting plan" },
+      { ul: [
+        "Choose the exact verses before guests arrive and print one shared version.",
+        "Place the meaning beside the lyrics for anyone joining for the first time.",
+        "Prepare one fresh offering the household will actually eat as prasad.",
+        "Assign the lamp, bell and lead voice to different people if the group is large.",
+        "Tell guests the refrain is the easiest place to join.",
+        "Put the flame down before changing tracks, distributing prasad or lifting the idol.",
+      ] },
+      { p: "If two versions surface mid-aarti, finish with the lead version and compare later. A gathering can honour both family memories on different days. Correctness matters, but public embarrassment does not teach a text well." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What is the meaning of Jai Ganesh Deva?", a: "It means glory or victory to Lord Ganesha. The refrain identifies Parvati as his mother and Mahadeva, Shiva, as his father." },
