@@ -39,6 +39,12 @@ const LICENCE_URL: Record<Photo["licence"], string> = {
 export const licenceUrl = (l: Photo["licence"]) => LICENCE_URL[l];
 
 export const PHOTOS: Record<string, Photo> = {
+  ganeshChaturthi2021: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ganesh_Chaturthi_2021.jpg",
+    alt: "A Ganesh Chaturthi idol in a decorated setting",
+    by: "TheMacGuy2005", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Ganesh_Chaturthi_2021.jpg",
+  },
   ganeshAagman: {
     src: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ganesh_Agman.jpg",
     alt: "A Ganesh idol being carried during arrival celebrations",
