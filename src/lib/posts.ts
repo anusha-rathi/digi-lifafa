@@ -154,6 +154,22 @@ export const POSTS: Post[] = [
         "Assuming the longest YouTube medley is the most complete original text.",
       ] },
 
+      { h: "How to teach the aarti without reducing it to memorisation" },
+      { p: "Start with the refrain. It is short, returns after every verse, and gives a new singer a real place in the group immediately. Explain Mangalmurti and darshan before asking someone to remember the sounds. Once the refrain is comfortable, learn the first verse in two-line units. Speak each line once, then sing it. Add the second and third verses on later days." },
+      { p: "For children who read Devanagari, print the Marathi in a large type size and mark the refrain in another colour. For children who do not, place the Roman line directly beneath the Marathi rather than on a separate page. The goal is to help the eye connect the scripts over time. An English meaning can sit beside the stanza, but do not make someone read a paragraph while the group is already singing the next line." },
+      { p: "Ask one concrete question after each verse. What colour is visible in the first? Which sounds can you hear in the second? Who is waiting in the third? The answers, shendur, ringing anklets and Ramdas, turn a sequence of unfamiliar words into an image. The child then knows where they are in the song even if one syllable slips." },
+      { p: "Avoid correcting pronunciation in the middle of a family aarti unless the mistake makes the line unrecognisable. Record the word afterward, play it slowly and try again at the next puja. Public correction can make a new singer go silent. A living household tradition survives because people are welcomed into it, not because the most fluent person guards it." },
+
+      { h: "Why one Marathi aarti travels so widely" },
+      { p: "The song is brief enough for daily worship and vivid enough to carry a full darshan. It does not spend three verses explaining doctrine. It shows shendur, pearls, sandalwood, saffron, crown, anklets, yellow cloth, serpent and trunk, then lets a devotee stand at the door and ask for help. Someone who understands only part of the Marathi can still follow the movement from praise to seeing to prayer." },
+      { p: "Recordings amplified that portability. The Mangeshkar sisters' Ganesh aarti collections became household soundtracks in the late twentieth century, and later music labels, films and YouTube carried the song beyond Marathi-speaking homes. The current search results include two-minute studio tracks, six-minute lyrical versions, film arrangements and full aarti sequences. The form changes around the text, but the three verses remain recognisable." },
+      { p: "That popularity also creates errors. Captions copy one another. A film version may repeat or rearrange a line for music. Roman titles favour the spellings people type, such as Sukhkarta Dukhharta, while a stricter transliteration gives Sukhakarta Dukhaharta. A useful page should make both searchable without pretending spelling systems are rival prayers." },
+
+      { h: "What comes after Sukhkarta Dukhharta" },
+      { p: "There is no single all-India playlist. In a Maharashtrian Ganeshotsav home, the family may continue with Shendur Lal Chadhayo, aarti for Shiva or Devi, Ghalin Lotangan, Mantrapushpanjali and the Ganpati Bappa Morya chant. Another home sings only this aarti and a short prayer. A temple may have a longer established order." },
+      { p: "If you are hosting for the first time, ask the oldest participating family member for the usual sequence before printing a booklet. Put each composition under its own heading. This prevents a common internet mistake in which Ghalin Lotangan is pasted under 'full Sukhkarta Dukhharta lyrics' as if it were verse four." },
+      { p: "At Uttar Puja, keep the aarti sequence familiar. The day is already emotional and logistically busy. It is not the ideal moment to debut a long medley because it ranked online. Sing the pieces the household can carry together, leave enough time for the farewell prayer, and extinguish or secure the lamp before anyone lifts the idol." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Sukhkarta Dukhharta mean?", a: "It means the maker of happiness and remover of sorrow. The opening addresses Ganesha as the one who removes obstacles through love and grace." },
