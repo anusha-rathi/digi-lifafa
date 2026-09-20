@@ -205,6 +205,11 @@ export const POSTS: Post[] = [
       ] } },
       { p: "The forms can share one celebration, but their differences matter. Calling every line a slogan makes it harder to find complete lyrics and meaning. Calling every line a mantra invents ritual authority. Label the form, then use it where it fits." },
 
+      { h: "Three checks before repeating a line you found online" },
+      { p: "First, search the exact words in Devanagari, not only Roman script. A misspelled Roman caption can turn one Marathi word into another while still looking plausible. Second, identify the form: is it from an aarti, a Sanskrit verse, a film song or a crowd call? Third, look for the line in a temple, historical or established language source before calling it ancient." },
+      { p: "If the source is only a poster shop or a list of 100 captions, treat it as a lead. Do not add a fake translation because the graphic is widely shared. For this page, lines with uncertain origin were either labelled by their real composition or left out." },
+      { p: "The same check protects pronunciation. 'Gam' in Om Gam Ganapataye is a seed syllable written गं, not the English word game. 'Moose' in a Hindi aarti can refer to the mouse vehicle, not the animal spelled moose in English. Devanagari removes much of that ambiguity." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Ganpati Bappa Morya mean?", a: "It is an affectionate acclamation to beloved Ganpati. Morya is strongly connected with the Ganesh devotee Morya Gosavi and the tradition around Morgaon and Chinchwad." },
