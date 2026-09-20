@@ -39,6 +39,18 @@ const LICENCE_URL: Record<Photo["licence"], string> = {
 export const licenceUrl = (l: Photo["licence"]) => LICENCE_URL[l];
 
 export const PHOTOS: Record<string, Photo> = {
+  barsanaView: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Barsana_View_from_Shriji_Temple.jpg",
+    alt: "A view over Barsana from Shri Radha Rani Temple",
+    by: "Kridha20", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Barsana_View_from_Shriji_Temple.jpg",
+  },
+  kirtiMandirBarsana: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/6/60/Kirti_mandir_Barsana.jpg",
+    alt: "Kirti Mandir in Barsana beneath a cloudy sky",
+    by: "Namanxvi", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Kirti_mandir_Barsana.jpg",
+  },
   ganeshAagman: {
     src: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ganesh_Agman.jpg",
     alt: "A Ganesh idol being carried during arrival celebrations",
