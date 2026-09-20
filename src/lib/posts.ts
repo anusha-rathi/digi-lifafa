@@ -158,6 +158,11 @@ export const POSTS: Post[] = [
       { p: "A mixed group can also agree on a short core: refrain, Ekadant verse, offering verse and closing. Put optional text below a divider. This makes participation easier for guests and prevents the person holding the plate from waiting while everyone scrolls for a verse only one singer knows." },
       { p: "The same courtesy applies to tempo. A 'superfast' YouTube version may be useful when time is short, but a family with children or elders needs enough space to form the words. Choose clarity over speed. The point of aarti is to offer light and praise together, not to finish before the track timer." },
 
+      { h: "A note for temples, schools and housing societies" },
+      { p: "A public programme needs a declared text because participants do not share one family memory. Publish the selected verses in advance, name the language, and tell singers whether the older additional verse is included. A school should explain difficult words and the gendered assumptions in that verse rather than asking children to reproduce them without context." },
+      { p: "Housing-society aarti sheets should credit recordings separately from traditional lyrics. If music will be played over speakers, use an authorised streaming source or licensed file. Keep volume within local rules and leave microphones away from the diya. Assign one adult to fire safety and another to leading; those should not be the same distracted person." },
+      { p: "If the group speaks several Indian languages, do not translate the lyrics live over the melody. Print a short meaning beside the Hindi and invite everyone into the refrain. The next evening can centre the Marathi aarti or another community's established song. Inclusion is better served by taking turns seriously than by building one rushed medley in which no text is understood." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What is the meaning of Jai Ganesh Deva?", a: "It means glory or victory to Lord Ganesha. The refrain identifies Parvati as his mother and Mahadeva, Shiva, as his father." },
