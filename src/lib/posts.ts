@@ -156,6 +156,26 @@ export const POSTS: Post[] = [
       { p: "Offer a fresh sweet the household can share safely as prasad. If using bought laddus, check allergens and fasting ingredients. One carefully offered piece is enough. Do not immerse leftover sweets or packaging with the idol." },
       { p: "The eight siddhis and millions of suns are poetic images, not products to purchase or promised powers from repeating the aarti a set number of times. Beware videos and commercial pages that turn every line into a guaranteed remedy." },
 
+      { h: "How to learn the aarti from a film tune without losing the words" },
+      { p: "Begin by separating text from arrangement. Read the first verse aloud without music, then speak the refrain. In the film-associated tune, percussion and chorus can hide consonants, especially in dondil, survar and Gandasthal. Once the words are clear, sing over a low-volume recording. Do not try to learn text, tune and cymbal pattern at the same time." },
+      { p: "Mark the refrain in a different colour. Most mistakes happen when a singer reaches the end of a verse and follows the recording into an instrumental passage rather than returning to 'Jai Jai Shri Ganraj'. If a household uses a shorter recording, decide whether to stop with it or continue unaccompanied. Both are better than searching for another track while the diya burns." },
+      { p: "A school or society performance should credit the exact recording and label any shortened text. If dancers use the Vaastav arrangement, that is a film performance built around aarti, not the same thing as leading worship. Keep the puja version available separately in a tempo people can sing." },
+
+      { h: "The aarti's images as one complete darshan" },
+      { p: "Read the verses as a camera moving closer. The first sees colour, face, belly, parentage, hand and sweet. The second widens into power: siddhis, obstacles, auspiciousness and solar radiance. The third turns from looking to relationship: a person arrives with devotion, seeks shelter, hopes for a flourishing household and sings continuously." },
+      { p: "That movement explains why a literal glossary is not enough. Shendur is not only red powder; it tells you the deity has been prepared for worship. Gud-laddu is not only food; it tells you the offered sweetness is already in his hand. 'Mera man ramta' is not only pleasure; it tells you the moving mind has found somewhere to stay." },
+      { p: "When teaching children, ask them to draw the first verse, circle the action words in the second, and identify who speaks in the third. They will remember the order because each stanza has a job. This is more durable than replaying a lyric video until the syllables become sound without meaning." },
+
+      { h: "Building a Ganpati aarti sequence around it" },
+      { p: "For a short Hindi-led sequence, a family might sing Jai Ganesh Deva and then Shendur Lal Chadhayo before a closing prayer. A Marathi-led home may begin with Sukhkarta Dukhharta, continue with Shendur Lal, sing the household's other deity aartis, then close with Ghalin Lotangan and Mantrapushpanjali. Neither order is universal." },
+      { p: "Write the order on one page so the person leading does not swipe between six videos. Put each composition under its own title. Ghalin Lotangan is not verse four of Shendur Lal; Mantrapushpanjali is not an aarti verse; Ganpati Bappa Morya is a chant. They can belong to one gathering while remaining distinct forms." },
+      { p: "At the final Visarjan puja, choose familiarity over length. People still need to distribute prasad, extinguish lamps, remove non-immersible decoration and carry the idol safely. A complete three-verse aarti sung attentively is better than a twenty-minute medley rushed because the procession vehicle is waiting." },
+
+      { h: "How to handle the prosperity line with care" },
+      { p: "'Santati sampatti sabhi bharpur paave' carries an old household hope for descendants and resources. It can be sung as inherited poetry without turning it into a judgment on anyone's family. Santati need not become a demand for sons; sampatti need not become proof that rich devotees are more blessed." },
+      { p: "Explain the line as a prayer that those who seek refuge have enough support, continuity and well-being. If someone in the group is dealing with infertility, loss or financial strain, do not point the verse at them or promise the aarti will fix a medical or economic problem. Devotional hope and responsible care can stand together." },
+      { p: "Commercial pages often translate every benefit line as a guarantee. That makes content easy to sell and hard to trust. The aarti itself asks, praises and takes refuge. It does not give a refund policy for prayer, and a blog should not create one." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Shendur Lal Chadhayo mean?", a: "The opening says red shendur has been offered to the beautiful elephant-faced Ganesha. The aarti praises his form, wisdom, protection and welcome to devotees." },
