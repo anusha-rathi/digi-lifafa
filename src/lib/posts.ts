@@ -132,6 +132,42 @@ export const POSTS: Post[] = [
       { p: "Explain the line as a prayer that those who seek refuge have enough support, continuity and well-being. If someone in the group is dealing with infertility, loss or financial strain, do not point the verse at them or promise the aarti will fix a medical or economic problem. Devotional hope and responsible care can stand together." },
       { p: "Commercial pages often translate every benefit line as a guarantee. That makes content easy to sell and hard to trust. The aarti itself asks, praises and takes refuge. It does not give a refund policy for prayer, and a blog should not create one." },
 
+      { h: "Why the language feels familiar and difficult at once" },
+      { p: "A Hindi speaker recognises gajmukh, haath, laddoo, mahima, darshan and Maharaj. A Marathi singer recognises shendur, Ganraj and the place the song holds in a Ganpati sequence. Older western-Hindi or Braj forms such as moko and bhagat sit beside Sanskrit-derived compounds such as vighna-vinashan. The result is singable across regions but hard to parse with one modern dictionary." },
+      { p: "Do not 'correct' moko to mujhe inside the displayed lyric or replace bhagat with bhakti because it sounds more standard. Those forms are evidence of the song's route. Explain them in plain language, then preserve them. A devotional text can be understood without being rewritten into school Hindi." },
+      { p: "Roman captions make the difficulty worse because one spelling hides several possible originals. Sai, sain, sang and soi can all appear under the same recording. Return to Devanagari, compare a second source and listen. If uncertainty remains, mark it rather than building a detailed theology on one unstable syllable." },
+
+      { h: "Shendur in worship: colour, material and care" },
+      { p: "Shendur is central to the first image, but the material used in a temple should not be copied onto every household object. A stone deity prepared for traditional anointing is different from painted plaster, resin, paper, a printed image or a clay idol intended for immersion. Loose powder and oil can stain or damage surfaces." },
+      { p: "Ask the murti maker or family priest what is safe. Where direct application is unsuitable, the aarti can be sung before the form without recreating every action named in it. Place a flower or offer the colour symbolically according to household practice. Poetry describes darshan; it is not a material-care manual." },
+      { p: "Keep powders away from children's eyes, pets and food. Use a small dedicated container, clean spills before people walk through them, and do not add packets, foil or synthetic red decoration to immersion water. Ritual care includes what happens to the material afterward." },
+
+      { h: "From household song to film-associated festival sound" },
+      { p: "Before a mass film audience knew the arrangement, the aarti already belonged to worship. Vaastav placed it in a dramatic public Ganesh setting, with percussion, chorus and images that many viewers now hear internally when reading the first line. That association is culturally real even though the film is not the source of the underlying prayer." },
+      { p: "A recording fixes tempo, orchestration and voice in a way oral household singing does not. Once it becomes famous, people can mistake the studio pause for part of the text or assume a repeated refrain is another verse. Print separates those layers: three verses, one refrain, and an arrangement around them." },
+      { p: "Rights remain separate too. Traditional words can coexist with a copyrighted soundtrack, master recording and film scene. A society can stream an authorised source under platform rules; it cannot assume the audio is free to download, edit into promotional reels or host on its own site." },
+
+      { h: "A pronunciation workshop for the unstable lines" },
+      { p: "Speak the secure words first: Shendur lal chadhayo, achchha gajmukh ko. Clap after each phrase. Add dondil lal biraje, sut Gauri-Har ko. Keep Gauri-Har as two divine names joined in relation to the son. Do not race into the line that varies until the surrounding grammar is clear." },
+      { p: "For Ashtau siddhi, keep Ashtau together; it means the eight. In vighna-vinashan, let both v sounds remain audible. Gandasthal begins with the anatomical word for the elephant's temple or cheek area. Nishidin is night and day, a compact pair useful for remembering the final line." },
+      { p: "Record spoken text without melody, then compare it with a clear singer. Heavy percussion can make a mistaken consonant feel right because rhythm carries it. Once speech is accurate, restore the tune. This method is slower for one evening and faster for every future Ganeshotsav." },
+
+      { h: "What the three verses ask of a devotee" },
+      { p: "Verse one asks the singer to look and bow. Verse two asks the singer to understand power as service to auspiciousness rather than spectacle. Verse three asks the singer to come with bhava and bhakti, seek refuge and continue praise night and day. The sequence is not merely a catalogue of benefits." },
+      { p: "The prosperity line sits inside that movement. It follows surrender and precedes loving praise. Taken alone, it becomes a promise of descendants and wealth. Kept in context, it is one household hope within a larger relationship of refuge and attention." },
+      { p: "That context matters when explaining the song to someone grieving, struggling with fertility or under financial pressure. Offer the line as inherited hope, not diagnosis. Practical support, medical care and financial help are not signs of weak faith." },
+
+      { h: "A complete but manageable home sequence" },
+      { ul: [
+        "Set out the lyrics in the interleaved script, Roman and meaning format.",
+        "Complete the household puja before beginning aarti.",
+        "Lead verse one and let everyone join Jai Jai Shri Ganraj.",
+        "Keep bells and percussion low enough for verse two's words to remain audible.",
+        "Finish verse three and the refrain, then continue to the next named composition.",
+        "Share the offered laddoo or other naivedya as prasad; do not treat food as immersion material.",
+      ] },
+      { p: "For Uttar Puja, use the same familiar sequence rather than a new film medley. Put the lamp down safely, remove non-immersible decoration and only then prepare to lift the idol." },
+
       { h: "Frequently asked questions" },
       { faq: [
         { q: "What does Shendur Lal Chadhayo mean?", a: "The opening says red shendur has been offered to the beautiful elephant-faced Ganesha. The aarti praises his form, wisdom, protection and welcome to devotees." },
