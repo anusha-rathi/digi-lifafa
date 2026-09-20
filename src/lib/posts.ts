@@ -128,7 +128,7 @@ export const POSTS: Post[] = [
       { h: "What to do when two people lead different words" },
       { p: "This happens most often at the offering verse or closing. Keep singing the refrain together, then let one lead singer carry the next verse. Do not stop the lamp to adjudicate the booklet. After puja, compare the two versions and choose one for the next gathering. If both belong to the families present, alternate versions on different days rather than forcing one to disappear." },
       { p: "A mixed group can also agree on a short core: refrain, Ekadant verse, offering verse and closing. Put optional text below a divider. This makes participation easier for guests and prevents the person holding the plate from waiting while everyone scrolls for a verse only one singer knows." },
-      { p: "The same courtesy applies to tempo. A 'superfast' YouTube version may be useful when time is short, but a family with children or elders needs enough space to form the words. Choose clarity over speed. The point of aarti is to offer light and praise together, not to finish before the track timer." },
+      { p: "The same courtesy applies to tempo. A 'superfast' recording may be useful when time is short, but a family with children or elders needs enough space to form the words. Choose clarity over speed. The point of aarti is to offer light and praise together, not to finish before the track timer." },
 
       { h: "A note for temples, schools and housing societies" },
       { p: "A public programme needs a declared text because participants do not share one family memory. Publish the selected verses in advance, name the language, and tell singers whether the older additional verse is included. A school should explain difficult words and the gendered assumptions in that verse rather than asking children to reproduce them without context." },
@@ -180,11 +180,11 @@ export const POSTS: Post[] = [
         { q: "When should Jai Ganesh Deva be sung?", a: "It is sung during Ganesh puja through the year and during Ganeshotsav, including daily aarti, sthapana and the final puja before Visarjan." },
         { q: "Can Jai Ganesh Deva and Sukhkarta Dukhharta both be sung?", a: "Yes. Mixed-language and Maharashtrian households often sing both, in the order their family or temple follows." },
         { q: "What is offered in the aarti lyrics?", a: "The common version names paan, flowers, dry fruit and laddus. These are poetic and ritual offerings, not a mandatory list for every home." },
-        { q: "Which YouTube version is best?", a: "Choose a clear full version that matches the verses your household plans to sing. Check the displayed lyrics first; high views do not guarantee a stable text." },
+        { q: "Which recording is best for learning?", a: "Choose a clear full version that matches the verses your household plans to sing. Check the displayed lyrics first; popularity does not guarantee a stable text." },
       ] },
 
       { h: "Source note" },
-      { p: "The Hindi text and major circulating variants were compared across current Hindu Aarti and music-label lyric pages on 20 September 2026. Because a single critical edition and author are not reliably established, this page labels additional and closing verses rather than presenting one long version as uncontested. YouTube view counts are snapshots from the same date and are used only to show search demand." },
+      { p: "The Hindi text and major circulating variants were compared across current Hindu Aarti and music-label lyric pages on 20 September 2026. Because a single critical edition and author are not reliably established, this page labels additional and closing verses rather than presenting one long version as uncontested." },
       { p: "If the family aarti is happening somewhere you cannot reach, send your shagun with a line of your own instead of a copied forward. A digi lifafa can help with flowers, prasad or the meal after Visarjan, and they can use it where the celebration needs it." },
       { related: { href: "/make", label: "Send a digi lifafa" } },
       { related: { href: "/blog/sukhkarta-dukhharta-aarti-lyrics-meaning", label: "Also read: Sukhkarta Dukhharta lyrics and meaning" } },
