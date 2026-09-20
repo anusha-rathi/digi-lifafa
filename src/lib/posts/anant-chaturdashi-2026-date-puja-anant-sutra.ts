@@ -98,6 +98,8 @@ export const post: Post = {
       { p: "Anant Chaturdashi practice differs enough that a guest should ask rather than arrive with a fixed internet sequence. Find out whether the household is keeping the Vishnu vrata, taking Ganpati for immersion, or doing both. Ask when the katha begins, whether the fast is still running, and whether they want food brought before or after puja. A box of ordinary sweets may contain ingredients their fast excludes." },
       { p: "If you are bringing an Anant Sutra, do so only after asking. The host may prepare threads at home, receive them from a priest, or use a colour and knotting method specific to the family. An unrequested thread creates pressure to use an object that may not fit their vrata. Flowers, fruit or help with post-puja food are safer unless you know the custom." },
       { p: "For a Ganesh Visarjan household, useful help is concrete: stay with an elder who cannot walk the procession, carry drinking water, manage the dry-waste bag, or arrange the ride home. Do not volunteer to carry the idol without knowing its weight and route. Do not livestream the puja or katha unless the host has agreed; a family vow is not automatically public content." },
+      { lifafaCta: { text: "If you cannot be there for the vrat or visarjan, your own words can still arrive with the family.", label: "Send a Digi Lifafa" } },
+
       { h3: "If you are away from family" },
       { p: "Join the reading or aarti by call if the family welcomes it, but ask for the actual time rather than relying on a forwarded muhurat card. If you want to send money, say what you hope it helps with: puja flowers, prasad, transport after visarjan or a meal for the people who did the carrying. Specific care feels warmer than a copied greeting." },
 
@@ -140,7 +142,7 @@ export const post: Post = {
       { h: "Source and photo credits" },
       { p: "The 2026 date, Mumbai and New Delhi tithi, city-specific puja windows, fourteen-knot explanation and Sushila-Kaundinya katha identification were checked against Drik Panchang on 20 September 2026. The structure of Yamuna, Shesha and thread worship was checked against Sanatan Sanstha's published Ananta Vrat guide. Padmanabha worship, fasting and thread conventions were compared with ISKCON Dwarka's 5 September 2025 article. The two photographs are CC BY-SA 4.0 images from Wikimedia Commons; photographer and licence links appear beneath them." },
       { p: "If someone in your family is keeping the vrat or managing a long visarjan day, a little shagun can become prasad, travel money or dinner after everyone gets home. Send a digi lifafa with your own message and let them use it where the day actually needs it." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
       { related: { href: "/blog/ganesh-visarjan-2026-dates-uttar-puja", label: "Plan the farewell: Ganesh Visarjan dates and Uttar Puja" } },
     ],
   };

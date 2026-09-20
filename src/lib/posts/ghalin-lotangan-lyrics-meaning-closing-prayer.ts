@@ -91,6 +91,8 @@ export const post: Post = {
       { p: "Kayena Vacha is the ethical hinge. It includes speech, senses, intellect and natural habit, the parts of life most likely to run on autopilot after puja ends. To offer action is to remember that conduct at work, at home and online also belongs to devotional life. The verse gives a practical question: would I still offer this word or action if I paused to name it?" },
       { p: "The divine-name section then prevents surrender from becoming abstract. Names carry stories and relationships: Krishna as Damodara, Rama as Janaki's Lord, Vishnu as Shridhara and Madhava. A singer need not unpack every name during aarti, but learning them later turns a rapid list into remembered forms." },
 
+      { lifafaCta: { text: "When the final prayer ends far from someone you love, let a personal blessing carry the warmth onward.", label: "Make a festival Digi Lifafa" } },
+
       { h: "Common mix-ups to avoid" },
       { ul: [
         "Calling the entire sequence a single poem by one author. Its Marathi and Sanskrit sections come from distinct traditions.",

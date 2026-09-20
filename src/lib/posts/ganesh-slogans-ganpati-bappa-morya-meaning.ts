@@ -146,6 +146,8 @@ export const post: Post = {
       { p: "Do not layer three slogans at once. When drums, speakers and different groups compete, carriers cannot hear the person guiding the idol. Stop the music at stairs, turns, ramps and the immersion queue. A chant can restart once everyone is stable. Devotion does not ask anyone to trade coordination for volume." },
       { p: "If the group includes people who do not speak Marathi, teach two meanings before moving: Bappa is the beloved fatherly Ganpati, and the farewell asks him to return early next year. Once people know that, the call carries feeling rather than only sound." },
 
+      { lifafaCta: { text: "Thank the person who cooked, hosted or carried this Ganeshotsav with more than a forwarded greeting.", label: "Make a Digi Lifafa" } },
+
       { h: "A simple call sheet for home or society" },
       { h3: "At arrival" },
       { p: "Leader: Ganpati Ale Ho. Group: Ganpati Ale. Leader: Ganpati Bappa. Group: Morya. Leader: Mangal Murti. Group: Morya." },
@@ -201,7 +203,7 @@ export const post: Post = {
       { h: "Source note" },
       { p: "The Morya Gosavi account was checked against Live History India and current Maharashtra festival explainers on 20 September 2026. Aarti-derived lines were checked against the complete compositions used in this blog cluster. Sanskrit verses are labelled as prayers or mantras rather than slogans. Where a popular origin claim lacked a linguistic or historical source, it was not presented as fact." },
       { p: "If someone else did the hosting, cooking or carrying this Ganeshotsav, send the thank-you after the slogans end. A digi lifafa with your own message can cover prasad, the ride home or dinner for the family." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
       { related: { href: "/blog/ganesh-visarjan-2026-dates-uttar-puja", label: "Plan the farewell: Ganesh Visarjan and Uttar Puja" } },
     ],
   };

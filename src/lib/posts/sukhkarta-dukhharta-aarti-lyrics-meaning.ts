@@ -136,6 +136,8 @@ export const post: Post = {
       ] },
       { p: "Write the answers beside the lyrics. Ritual knowledge often disappears not because nobody cared, but because everyone assumed the sequence was obvious. A one-page note can preserve more than a folder of generic festival downloads." },
 
+      { lifafaCta: { text: "Learning this aarti for someone you love? Add a personal blessing and send the shagun with the same care.", label: "Make their Digi Lifafa" } },
+
       { h: "If Marathi is not spoken at home" },
       { p: "Keep the Marathi text primary and let the meaning carry participation. One person can read the plain meaning before each verse for the first few days. Guests then know the image they are about to sing. Do not replace the aarti with an improvised English rhyme and call it a translation; prose meaning and original song can sit beside each other." },
       { p: "Ask a Marathi speaker to send one slow voice note of the spoken verses. Save it with the date and their name, not as an anonymous forward. A family archive that preserves the voice of an aunt, grandfather or friend can become more meaningful than a studio track." },
@@ -159,7 +161,7 @@ export const post: Post = {
       { h: "Source note" },
       { p: "The authorship, three-verse structure, Mayureshwar connection and verse commentary were checked against published reference material summarised on the Sukhakarta Dukhaharta reference page, which cites Prarthana: A Book of Hindu Psalms and Sacred Songs of India. Lyrics and meaning were compared across that reference text and Eternal Raga on 20 September 2026." },
       { p: "If you are singing aarti for someone you cannot celebrate with in person, send the shagun with the same care as the song. A digi lifafa lets you add your own message and gives them something useful for prasad, flowers or the family meal." },
-      { related: { href: "/make", label: "Send a digi lifafa" } },
+      { related: { href: "/make", label: "Send a Digi Lifafa" } },
       { related: { href: "/blog/ganesh-visarjan-2026-dates-uttar-puja", label: "Read next: how to plan Ganesh Visarjan and Uttar Puja" } },
     ],
   };

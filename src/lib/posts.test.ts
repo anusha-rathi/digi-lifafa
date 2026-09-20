@@ -31,3 +31,25 @@ test("a repeated heading is suffixed rather than clashing", () => {
     ["what-to-give", "what-to-give-2"],
   );
 });
+
+test("festival batch posts each have one in-context lifafa CTA", () => {
+  const slugs = [
+    "radha-ashtami-2026-date-puja-vidhi-vrat-katha",
+    "anant-chaturdashi-2026-date-puja-anant-sutra",
+    "ganesh-visarjan-2026-dates-uttar-puja",
+    "sukhkarta-dukhharta-aarti-lyrics-meaning",
+    "jai-ganesh-deva-aarti-lyrics-meaning",
+    "shendur-lal-chadhayo-aarti-lyrics-meaning",
+    "ganesh-slogans-ganpati-bappa-morya-meaning",
+    "ghalin-lotangan-lyrics-meaning-closing-prayer",
+  ];
+  for (const slug of slugs) {
+    const post = POSTS.find((candidate) => candidate.slug === slug);
+    assert.ok(post, `${slug} exists`);
+    assert.equal(
+      post.body.filter((block) => "lifafaCta" in block).length,
+      1,
+      `${slug} has exactly one in-context CTA`,
+    );
+  }
+});
