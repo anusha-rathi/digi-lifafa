@@ -39,6 +39,18 @@ const LICENCE_URL: Record<Photo["licence"], string> = {
 export const licenceUrl = (l: Photo["licence"]) => LICENCE_URL[l];
 
 export const PHOTOS: Record<string, Photo> = {
+  anantaPadmanabhaKarkala: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/6/64/God_during_Anantha_Chathurdashi_at_Anantha_Padmanabha_Temple%2C_Karkala.jpg",
+    alt: "Ananta Padmanabha at the temple in Karkala",
+    by: "Vikramkkl", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:God_during_Anantha_Chathurdashi_at_Anantha_Padmanabha_Temple,_Karkala.jpg",
+  },
+  anantChaturdashiVisarjan: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/6/69/Anant_Chaturdashi-Idol_Emersing.jpg",
+    alt: "A Ganesh idol being immersed on Anant Chaturdashi",
+    by: "Sumeet Rahane", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Anant_Chaturdashi-Idol_Emersing.jpg",
+  },
   ganeshAagman: {
     src: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ganesh_Agman.jpg",
     alt: "A Ganesh idol being carried during arrival celebrations",
