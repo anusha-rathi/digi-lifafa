@@ -185,7 +185,7 @@ export const POSTS: Post[] = [
       ] },
 
       { h: "Source note" },
-      { p: "The three-verse text and broad meaning were compared across Hindu Aarti and current lyric-and-meaning pages on 20 September 2026. Commercial puja pages were treated as text witnesses, not authorities on scripture or authorship. YouTube view counts were checked against official and high-ranking uploads and used only as demand evidence." },
+      { p: "The three-verse text and broad meaning were compared across Hindu Aarti and current lyric-and-meaning pages on 20 September 2026. Commercial puja pages were treated as text witnesses, not authorities on scripture or authorship." },
       { p: "If someone else is hosting aarti this year, send something that helps after the cymbals stop: prasad, flowers or dinner for the family. A digi lifafa carries your shagun with your own message, without adding another parcel to the puja room." },
       { related: { href: "/make", label: "Send a digi lifafa" } },
       { related: { href: "/blog/sukhkarta-dukhharta-aarti-lyrics-meaning", label: "Also read: Sukhkarta Dukhharta lyrics and meaning" } },
