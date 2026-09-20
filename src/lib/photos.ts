@@ -51,6 +51,18 @@ export const PHOTOS: Record<string, Photo> = {
     by: "Namanxvi", licence: "CC BY-SA 4.0",
     page: "https://commons.wikimedia.org/wiki/File:Kirti_mandir_Barsana.jpg",
   },
+  anantaPadmanabhaKarkala: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/6/64/God_during_Anantha_Chathurdashi_at_Anantha_Padmanabha_Temple%2C_Karkala.jpg",
+    alt: "Ananta Padmanabha at the temple in Karkala",
+    by: "Vikramkkl", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:God_during_Anantha_Chathurdashi_at_Anantha_Padmanabha_Temple,_Karkala.jpg",
+  },
+  anantChaturdashiVisarjan: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/6/69/Anant_Chaturdashi-Idol_Emersing.jpg",
+    alt: "A Ganesh idol being immersed on Anant Chaturdashi",
+    by: "Sumeet Rahane", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Anant_Chaturdashi-Idol_Emersing.jpg",
+  },
   ganeshIdolShop: {
     src: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colorful_Images_of_Lord_Ganesha_at_a_Ganesh_Chaturthi_special_shop.jpg",
     alt: "A display of colourful Ganesh idols at a festival shop",
