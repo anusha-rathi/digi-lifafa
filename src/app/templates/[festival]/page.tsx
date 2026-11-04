@@ -19,6 +19,7 @@ export async function generateMetadata({
   if (!occ) return {};
   return {
     title: `${occ.en} lifafa`,
+    alternates: { canonical: `/templates/${festival}` },
     description: `Ready-made shagun lifafas for ${occ.en}, with the paper, the mithai and the words already chosen. Free, no signup.`,
   };
 }

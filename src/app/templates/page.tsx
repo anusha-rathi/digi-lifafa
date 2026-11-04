@@ -7,6 +7,7 @@ import { TEMPLATES, TEMPLATE_FESTIVALS, templatesFor } from "@/lib/templates";
 
 export const metadata: Metadata = {
   title: "Ready-made lifafas",
+  alternates: { canonical: "/templates" },
   description:
     "Forty-odd lifafas already put together for Diwali, Rakhi, Ganesh Chaturthi, Onam, Teej, weddings and more. Pick one and change whatever you like.",
 };

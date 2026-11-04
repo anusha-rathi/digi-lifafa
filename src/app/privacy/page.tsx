@@ -4,6 +4,7 @@ import PageHead from "@/components/PageHead";
 
 export const metadata: Metadata = {
   title: "Privacy policy",
+  alternates: { canonical: "/privacy" },
   description:
     "What Digi Lifafa stores, what it doesn't, and how to get it deleted.",
 };

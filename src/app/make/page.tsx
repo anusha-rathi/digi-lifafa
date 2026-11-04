@@ -4,6 +4,7 @@ import Workbench from "@/components/Workbench";
 
 export const metadata: Metadata = {
   title: "Make a lifafa",
+  alternates: { canonical: "/make" },
   description:
     "Pick the paper, fill it with notes, tuck in a mithai and the one-rupee coin, and write what you'd say.",
 };
