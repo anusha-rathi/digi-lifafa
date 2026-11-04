@@ -4,6 +4,7 @@ import PageHead from "@/components/PageHead";
 
 export const metadata: Metadata = {
   title: "Contact",
+  alternates: { canonical: "/contact" },
   description:
     "How to reach Digi Lifafa: questions, ideas, partnerships, and reporting a lifafa.",
 };

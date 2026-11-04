@@ -5,6 +5,7 @@ import { POSTS, formatDate } from "@/lib/posts";
 
 export const metadata: Metadata = {
   title: "Blog",
+  alternates: { canonical: "/blog" },
   description: "Festival shagun guides, how Digi Lifafa works, and why we built it.",
 };
 

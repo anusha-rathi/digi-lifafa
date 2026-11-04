@@ -4,6 +4,7 @@ import PageHead from "@/components/PageHead";
 
 export const metadata: Metadata = {
   title: "About",
+  alternates: { canonical: "/about" },
   description:
     "Why Digi Lifafa exists: we are a generation living away from the people we grew up with, and UPI moved the money but not the lifafa.",
 };

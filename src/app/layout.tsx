@@ -36,7 +36,9 @@ export const metadata: Metadata = {
   // Without this, every relative OG and canonical URL is resolved against
   // whatever host served the request, including preview deployments.
   metadataBase: new URL(SITE),
-  alternates: { canonical: "/" },
+  // No canonical here. Metadata merges shallowly, so a value in the root layout
+  // is inherited by every page that does not set its own, and every page then
+  // tells Google it is a copy of the homepage. Each public page declares itself.
   openGraph: { siteName: "Digi Lifafa", type: "website", locale: "en_IN" },
   title: {
     default: "Digi Lifafa",

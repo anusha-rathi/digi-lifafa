@@ -4,6 +4,7 @@ import PageHead from "@/components/PageHead";
 
 export const metadata: Metadata = {
   title: "Terms & conditions",
+  alternates: { canonical: "/terms" },
   description:
     "The terms for using Digi Lifafa, including the plain fact that we never handle your money.",
 };

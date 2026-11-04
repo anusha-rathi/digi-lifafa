@@ -1,8 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import HeroDark from "@/components/HeroDark";
 import { OCCASION_LIST } from "@/lib/design";
 import { TEMPLATE_FESTIVALS } from "@/lib/templates";
 import { POSTS } from "@/lib/posts";
+
+export const metadata: Metadata = { alternates: { canonical: "/" } };
 
 const STEPS = [
   {
