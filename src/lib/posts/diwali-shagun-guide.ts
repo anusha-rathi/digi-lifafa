@@ -23,7 +23,7 @@ export const post: Post = {
         p: "This page covers both halves. What to give and why every figure ends in a one, which is the part the other pages do cover. Then the part they do not: when shagun is taxable, who the Act counts as family, what to do if you employ someone at home, and why ₹49,999 and ₹50,001 are not one rupee apart.",
       },
       {
-        note: "Diwali 2026 falls on Sunday 8 November. The five days run Dhanteras on Friday 6 November through Bhai Dooj on Tuesday 10 November.",
+        note: "Diwali 2026 falls on Sunday 8 November. The five days run Dhanteras on Friday 6 November through Bhai Dooj on Wednesday 11 November.",
       },
 
       { h: "Why every amount ends in one" },
@@ -163,12 +163,12 @@ export const post: Post = {
             ],
             [
               "Govardhan Puja",
-              "Monday 9 November",
+              "Tuesday 10 November",
               "Annakut in many households.",
             ],
             [
               "Bhai Dooj",
-              "Tuesday 10 November",
+              "Wednesday 11 November",
               "Between siblings. Nek is given here, not on Diwali.",
             ],
           ],

@@ -4,6 +4,46 @@ import { notFound } from "next/navigation";
 import { FESTIVAL_ART } from "@/components/FestivalArt";
 import { POSTS, formatDate, headings, postBySlug } from "@/lib/posts";
 import Contents from "./Contents";
+import type { ReactNode } from "react";
+
+/* Inline citations: [label](https://url) in post copy renders as a real link.
+   Bare URLs link too, with trailing punctuation left outside the anchor.
+   No dangerouslySetInnerHTML; strings are split into React nodes. */
+const LINK_RE = /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)|(https?:\/\/[^\s,)]+)/g;
+
+function rich(text: string): ReactNode[] {
+  const out: ReactNode[] = [];
+  let last = 0;
+  let k = 0;
+  LINK_RE.lastIndex = 0;
+  let m: RegExpExecArray | null;
+  while ((m = LINK_RE.exec(text))) {
+    if (m.index > last) out.push(text.slice(last, m.index));
+    if (m[2]) {
+      out.push(
+        <a key={k++} href={m[2]} target="_blank" rel="noopener noreferrer">
+          {m[1]}
+        </a>,
+      );
+    } else {
+      let url = m[3];
+      let tail = "";
+      while (/[.,;:!?'"]$/.test(url)) {
+        tail = url.slice(-1) + tail;
+        url = url.slice(0, -1);
+      }
+      out.push(
+        <a key={k++} href={url} target="_blank" rel="noopener noreferrer">
+          {url}
+        </a>,
+      );
+      if (tail) out.push(tail);
+    }
+    last = LINK_RE.lastIndex;
+  }
+  if (last < text.length) out.push(text.slice(last));
+  return out;
+}
 import { licenceUrl, photo } from "@/lib/photos";
 
 export function generateStaticParams() {
@@ -86,7 +126,7 @@ export default async function PostPage({
               return (
                 <ul key={i}>
                   {b.ul.map((li, j) => (
-                    <li key={j}>{li}</li>
+                    <li key={j}>{rich(li)}</li>
                   ))}
                 </ul>
               );
@@ -96,7 +136,7 @@ export default async function PostPage({
                   key={i}
                   className="rounded-xl border-l-2 border-marigold bg-marigold/8 px-4 py-3 text-[14px]"
                 >
-                  {b.note}
+                  {rich(b.note)}
                 </p>
               );
             if ("festivalArt" in b) {
@@ -191,7 +231,7 @@ export default async function PostPage({
                         </span>
                         {f.q}
                       </summary>
-                      <p className="mt-2 pl-6">{f.a}</p>
+                      <p className="mt-2 pl-6">{rich(f.a)}</p>
                     </details>
                   ))}
                 </div>
@@ -229,7 +269,7 @@ export default async function PostPage({
                   </table>
                 </div>
               );
-            return <p key={i}>{b.p}</p>;
+            return <p key={i}>{rich(b.p)}</p>;
           })}
         </div>
 

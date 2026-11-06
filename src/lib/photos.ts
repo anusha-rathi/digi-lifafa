@@ -157,6 +157,61 @@ export const PHOTOS: Record<string, Photo> = {
     licence: "CC BY 2.0",
     page: "https://commons.wikimedia.org/wiki/File:Giddha_dance_Teeyan_Punjab_Teej_India.jpg",
   },
+
+  dhanwantariPujan: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dhanwantari_Pujan.jpg",
+    alt: "Dhanvantari being worshipped in a home puja",
+    by: "Haripurkar", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Dhanwantari_Pujan.jpg",
+  },
+  wheatFlourDiya: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/5/56/Diya_made_out_of_wheat_flour_on_the_ocassion_of_%27Dhanteras%27_or_the_festival_of_money.jpg",
+    alt: "A diya made of wheat flour lit for Dhanteras",
+    by: "Akku09102004", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Diya_made_out_of_wheat_flour_on_the_ocassion_of_%27Dhanteras%27_or_the_festival_of_money.jpg",
+  },
+  diyaBalcony: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/5/53/Diya_on_a_balcony_ledge.jpg",
+    alt: "A lit diya on a balcony ledge at dusk",
+    by: "siddarth varanasi", licence: "CC BY 2.0",
+    page: "https://commons.wikimedia.org/wiki/File:Diya_on_a_balcony_ledge.jpg",
+  },
+  diwaliDiyas: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/5/59/Diwali_Diyas.jpg",
+    alt: "Lit painted diyas arranged in a circle with flower petals for Diwali",
+    by: "Praful Kharade", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Diwali_Diyas.jpg",
+  },
+  earthenGlow: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Earthen_Glow.jpg",
+    alt: "Baskets of unlit clay diyas for sale at a market stall",
+    by: "Anushka10patel", licence: "CC BY 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Earthen_Glow.jpg",
+  },
+  rangoliDiyas: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/7/72/Rangoli_and_Divas.jpg",
+    alt: "A bright rangoli on a doorstep with diyas placed around it",
+    by: "Ramesh lalwani", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Rangoli_and_Divas.jpg",
+  },
+  peacockRangoli: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/7/78/Peacock_Rangoli_with_leaves.jpg",
+    alt: "A white peacock rangoli on a red tiled floor",
+    by: "Peroli Udhayakumar", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Peacock_Rangoli_with_leaves.jpg",
+  },
+  simpleFlowerRangoli: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Simple_Rangoli_with_flower.jpg",
+    alt: "A white rangoli ringed with yellow flowers, red kumkum at its centre",
+    by: "Peroli Udhayakumar", licence: "CC BY-SA 4.0",
+    page: "https://commons.wikimedia.org/wiki/File:Simple_Rangoli_with_flower.jpg",
+  },
+  rangoliLights: {
+    src: "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Rangoli_of_Lights.jpg",
+    alt: "A rangoli with a conch motif, ringed with lit diyas and bowls of petals",
+    by: "Subharnab Majumdar", licence: "CC BY 2.0",
+    page: "https://commons.wikimedia.org/wiki/File:The_Rangoli_of_Lights.jpg",
+  },
 };
 
 export const photo = (key: string): Photo | null => PHOTOS[key] ?? null;
