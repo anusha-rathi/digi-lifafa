@@ -66,6 +66,7 @@ export const post: Post = {
       { related: { href: "/blog/diwali-2026-date-lakshmi-puja-muhurat", label: "Diwali 2026: date and Lakshmi Puja muhurat in your city" } },
       { related: { href: "/blog/dhanteras-what-to-buy-guide", label: "What to buy on Dhanteras, and what to skip" } },
       { faq: [
+        { q: "धनतेरस 2026 में कब है?", a: "6 नवंबर, शुक्रवार को। पूजा का शुभ मुहूर्त (नई दिल्ली) शाम 6:02 से 7:58 बजे तक। मुहूर्त शहर के अनुसार बदलता है, इसलिए अपने शहर के लिए पंचांग देखें।" },
         { q: "What is the Dhanteras 2026 puja muhurat?", a: "For New Delhi, 6:02pm to 7:58pm IST on Friday, 6 November, within the Pradosh Kaal of 5:32pm to 8:09pm. The muhurat is city-specific because it is calculated from local sunset, so check a panchang set to your own city." },
         { q: "Which god is worshipped on Dhanteras?", a: "Three observances share the day: Dhanvantari, the physician of the gods, for health; Lakshmi with Kubera for prosperity; and Yama, through the south-facing Yama Deepam, as a prayer against untimely death." },
         { q: "Which direction should the Yama Deepam face?", a: "South, the direction of Yama. The lamp is placed at the doorway or threshold at dusk, and many households light it on each evening through Diwali." },
