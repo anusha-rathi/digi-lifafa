@@ -3,12 +3,13 @@ export const postOrder = 41;
 
 export const post: Post = {
     slug: "rangoli-designs-diwali-simple",
-    title: "Rangoli designs for Diwali: from the beginner's dotted grid to the full doorway",
+    title: "Simple rangoli designs for Diwali: 5 designs from a 10-minute circle to a full doorway",
     date: "2026-11-06",
     updated: "6 November 2026",
     tag: "Festivals",
     excerpt: "Rangoli is geometry before it is art. The dotted grid that makes any design possible, five Diwali designs from easy to ambitious, colour combinations that always work, flower-petal and floating versions, how to make a rangoli survive five days of foot traffic, and what to do with it all when the festival ends.",
     body: [
+      { p: "The five designs on this page, easiest first: the diya-centre circle (ten minutes, no skill required), the swastik and four diyas (fifteen minutes), the lotus grid (half an hour), the bordered square (an hour), and the peacock (an evening). All five grow from the same dotted grid, which is the first section below." },
       { p: "Somewhere in the week before Diwali, in millions of homes, the same negotiation happens. One person wants the big rangoli this year, the kind with the peacock and the border and the shaded petals. Another points out that last year's big rangoli became a smudge by 9am and a trip hazard by noon. Both are right, and the difference between the rangoli that holds and the rangoli that smears is almost never artistic talent. It is whether the person drawing it knew the two or three structural tricks this page is about to tell you." },
       { p: "Because here is the secret the rangoli aunties all know and rarely say out loud: rangoli is not drawing. It is geometry. Every design that looks impossible is a grid of dots with lines connecting them, and anyone who can count to nine can lay the grid. Once you see the dots under the design, you cannot unsee them, and you will never again stand over a floor wondering where to begin." },
       { photo: "rangoliDiyas" },

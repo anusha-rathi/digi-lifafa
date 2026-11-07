@@ -30,7 +30,9 @@ export type Post = {
   body: Block[];
 };
 
-export const POSTS: Post[] = GENERATED_POSTS;
+// Newest first: the generator emits ascending postOrder; readers and the
+// index lead should see the latest posts.
+export const POSTS: Post[] = [...GENERATED_POSTS].reverse();
 
 export const postBySlug = (slug: string) =>
   POSTS.find((p) => p.slug === slug) ?? null;

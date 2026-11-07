@@ -15,6 +15,12 @@ export const post: Post = {
         p: "Somebody is standing at an ATM working out what to put in an envelope, and the number that comes out is ₹3,000. Add the customary one and it is ₹3,100, which is odd, ends in a one, and is somehow still wrong.",
       },
       {
+        related: {
+          href: "/blog/shagun-ka-lifafa-giving-guide",
+          label: "The envelope itself: choosing, writing, giving and receiving a shagun ka lifafa",
+        },
+      },
+      {
         p: "It is wrong. Ask anyone Indian and they will tell you instantly, and then they will not be able to tell you why. This is a real enough problem that Google records people asking is 3,100 a shagun amount, is 4,100, is 7,100, is 5,001, is 11,111, and the pages that come up do not answer any of them.",
       },
       {

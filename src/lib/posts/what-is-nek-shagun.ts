@@ -15,6 +15,12 @@ export const post: Post = {
         p: "You have been invited to an Indian wedding, or you have married into a family, or you are going back to a country you left when you were four. At some point somebody says the word shagun, or nek, or lifafa, and hands you a small envelope, and you realise you have no idea what number goes in it.",
       },
       {
+        related: {
+          href: "/blog/shagun-ka-lifafa-giving-guide",
+          label: "Shagun ka lifafa: how to choose it, write it, present it and receive it",
+        },
+      },
+      {
         p: "The internet is not much help here. Search what is a lifafa and you get Walmart, Etsy and a cluster of AI-generated pages about an invented phrase. Search what is nek and you get almost nothing at all. Everyone writing about this is selling envelopes, sarees or gift boxes.",
       },
       {

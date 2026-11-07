@@ -17,6 +17,12 @@ export const post: Post = {
         p: "For most people that changes nothing at all. For a few it changes something specific, because the Income Tax Act has a list of who counts as your relative, and your cousin is not on it.",
       },
       {
+        related: {
+          href: "/blog/shagun-ka-lifafa-giving-guide",
+          label: "Shagun ka lifafa: how to choose it, write it, present it and receive it",
+        },
+      },
+      {
         p: "Shagun used to be invisible by default. A note pressed into a hand left no record anywhere, so the question of whether it was income never came up. UPI did not change the custom. It changed the paperwork underneath the custom, and the custom has not caught up.",
       },
       {

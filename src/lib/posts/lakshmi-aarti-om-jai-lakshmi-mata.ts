@@ -3,12 +3,13 @@ export const postOrder = 42;
 
 export const post: Post = {
     slug: "lakshmi-aarti-om-jai-lakshmi-mata",
-    title: "Om Jai Lakshmi Mata: the Diwali aarti, verse by verse, with what each one means",
+    title: "Om Jai Lakshmi Mata aarti lyrics: Hindi text, roman reading, and the meaning of every verse",
     date: "2026-11-06",
     updated: "6 November 2026",
     tag: "Festivals",
     excerpt: "The full text of Om Jai Lakshmi Mata, the aarti sung at the close of the Diwali Lakshmi Puja, in Devanagari and transliteration, with a plain-language meaning for every verse, how the household aarti actually goes, and why this of all aartis owns the festival's central evening.",
     body: [
+      { p: "In a hurry: the full aarti text begins at The refrain just below. Every verse gives the Hindi line in Devanagari, the roman reading under it, and a plain-English meaning under that." },
       { p: "The puja is done. The offerings have been placed, the mantras said or read from the book, the silver coin and the new account book put before the goddess. Then somebody's mother says the two words that end every Diwali puja in the country: aarti ho jaye. The thali comes forward with its lamp, everyone stands, and the same eight verses rise in ten thousand living rooms at once, in ten thousand slightly different tunes. Om Jai Lakshmi Mata." },
       { p: "It is the most sung Lakshmi aarti in North India and the fixed close of the Diwali evening's worship, and yet most of the people singing it know the first verse and hum the rest. That is a shame, because the verses repay knowing. They are a complete little theology of the goddess: who she is, what she gives, and what a household becomes when she stays in it. Here is the whole aarti, verse by verse, with what each verse is actually saying. The text follows the standard version as published by the [Times of India's religion desk](https://timesofindia.indiatimes.com/religion/mantras-chants/goddess-lakshmi-aarti-om-jai-laxmi-mata-aarti-lyrics-in-hindi-and-english/articleshow/105009968.cms)." },
       { h: "The refrain" },
